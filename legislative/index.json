@@ -1,2 +1,244 @@
-{}
-
+[
+  {
+    "comment": "Senate of the Republic",
+    "house_item_id": "Q264113",
+    "position_item_id": "Q19971999",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Chamber of Deputies",
+    "house_item_id": "Q3014316",
+    "position_item_id": "Q18534310",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Congress of Nuevo León",
+    "house_item_id": "Q254534",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Legislative Assembly of the Federal District",
+    "house_item_id": "Q2867085",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Congress of Baja California",
+    "house_item_id": "Q5160856",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Congress of Campeche",
+    "house_item_id": "Q5160860",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Congress of Coahuila",
+    "house_item_id": "Q5160861",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Congress of Colima",
+    "house_item_id": "Q5160862",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Congress of Guanajuato",
+    "house_item_id": "Q5160871",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Congress of Jalisco",
+    "house_item_id": "Q5160874",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Congress of Michoacán",
+    "house_item_id": "Q5160879",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Congress of Puebla",
+    "house_item_id": "Q5160887",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Congress of Quintana Roo",
+    "house_item_id": "Q5160888",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Congress of Sonora",
+    "house_item_id": "Q5160894",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Congress of Tamaulipas",
+    "house_item_id": "Q5160897",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Congress of Zacatecas",
+    "house_item_id": "Q5160905",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Congress of Yucatán",
+    "house_item_id": "Q5160907",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Congress of the State of México",
+    "house_item_id": "Q5160913",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Congress of Chihuahua",
+    "house_item_id": "Q5783176",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Congress of Morelos",
+    "house_item_id": "Q5783178",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Congress of Sinaloa",
+    "house_item_id": "Q5783180",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Congress of Guerrero",
+    "house_item_id": "Q610045",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  }
+]
