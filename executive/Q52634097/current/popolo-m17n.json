@@ -1,0 +1,76 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:es": "Enrique Peña Nieto",
+        "lang:en": "Enrique Peña Nieto"
+      },
+      "id": "Q296741",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q296741"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/EnriquePN"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:es": "gobernador y gabinete de Estado de México",
+        "lang:en": "governor and cabinet of Estado de México"
+      },
+      "id": "Q52634097",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52634097"
+        }
+      ],
+      "area_id": "Q82112"
+    },
+    {
+      "name": {
+        "lang:es": "Partido Revolucionario Institucional",
+        "lang:en": "Institutional Revolutionary Party"
+      },
+      "id": "Q682969",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q682969"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/q296741-A66EF158-5BCE-4F50-91D5-A7B77717745B",
+      "person_id": "Q296741",
+      "on_behalf_of_id": "Q682969",
+      "organization_id": "Q52634097",
+      "area_id": "Q82112",
+      "role_superclass_code": "Q5589754",
+      "role_superclass": {
+        "lang:es": "Anexo:Gobernantes del Estado de México",
+        "lang:en": "Governor of the State of Mexico"
+      },
+      "role_code": "Q5589754",
+      "role": {
+        "lang:es": "Anexo:Gobernantes del Estado de México",
+        "lang:en": "Governor of the State of Mexico"
+      }
+    }
+  ]
+}

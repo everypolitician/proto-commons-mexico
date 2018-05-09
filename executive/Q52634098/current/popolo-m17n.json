@@ -1,0 +1,882 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:es": "Pablo Camarena",
+        "lang:en": "Pablo Camarena"
+      },
+      "id": "Q10996068",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10996068"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Juan Carlos Romero Hicks",
+        "lang:en": "Juan Carlos Romero Hicks"
+      },
+      "id": "Q11686406",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q11686406"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Federico Montes",
+        "lang:en": "Federico Montes"
+      },
+      "id": "Q1400512",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1400512"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Ignacio García Téllez",
+        "lang:en": "Ignacio García Téllez"
+      },
+      "id": "Q1657270",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1657270"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Luis I. Rodríguez",
+        "lang:en": "Luis I. Rodríguez"
+      },
+      "id": "Q17274798",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17274798"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Carlos Medina Plascencia",
+        "lang:en": "Carlos Medina Plascencia"
+      },
+      "id": "Q2538498",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2538498"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Juan Manuel Oliva Ramírez",
+        "lang:en": "Juan Manuel Oliva"
+      },
+      "id": "Q2780183",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2780183"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Manuel del Refugio González Flores",
+        "lang:en": "Manuel González Flores"
+      },
+      "id": "Q380975",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q380975"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "León Guzmán",
+        "lang:en": "León Guzmán"
+      },
+      "id": "Q5408767",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5408767"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "José Siurob",
+        "lang:en": "José Siurob"
+      },
+      "id": "Q5549068",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5549068"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Pedro Otero",
+        "lang:en": "Pedro Otero"
+      },
+      "id": "Q5645065",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5645065"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Abel B. Serratos",
+        "lang:en": "Abel B. Serratos"
+      },
+      "id": "Q5654869",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5654869"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Agustín Téllez Cruces",
+        "lang:en": "Agustín Téllez Cruces"
+      },
+      "id": "Q5660898",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5660898"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Enrique Hernández Álvarez",
+        "lang:en": "Enrique Hernández Álvarez"
+      },
+      "id": "Q5833418",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5833418"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Enrique Velasco Ibarra",
+        "lang:en": "Enrique Velasco Ibarra"
+      },
+      "id": "Q5833906",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5833906"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Fernando Dávila",
+        "lang:en": "Fernando Dávila"
+      },
+      "id": "Q5859470",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5859470"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Florencio Antillón",
+        "lang:en": "Florencio Antillón"
+      },
+      "id": "Q5863039",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5863039"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Héctor López Santillana",
+        "lang:en": "Héctor López Santillana"
+      },
+      "id": "Q5906263",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5906263"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "José Aguilar y Maya",
+        "lang:en": "José Aguilar y Maya"
+      },
+      "id": "Q5937342",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5937342"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Juan José Torres Landa",
+        "lang:en": "Juan José Torres Landa"
+      },
+      "id": "Q5950535",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5950535"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Miguel Peralta (militar)",
+        "lang:en": "Miguel Peralta"
+      },
+      "id": "Q6014933",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6014933"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Pablo de la Garza",
+        "lang:en": "Pablo de la Garza"
+      },
+      "id": "Q6056594",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6056594"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Rafael Corrales Ayala",
+        "lang:en": "Rafael Corrales Ayala"
+      },
+      "id": "Q6097193",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6097193"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Manuel Doblado",
+        "lang:en": "Manuel Doblado"
+      },
+      "id": "Q6752543",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6752543"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Ramón Martín Huerta",
+        "lang:en": "Ramón Martín Huerta"
+      },
+      "id": "Q920365",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q920365"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:es": "gobernador y gabinete de Guanajuato",
+        "lang:en": "governor and cabinet of Guanajuato"
+      },
+      "id": "Q52634098",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52634098"
+        }
+      ],
+      "area_id": "Q46475"
+    },
+    {
+      "name": {
+        "lang:es": "Partido Liberal",
+        "lang:en": "Liberal Party"
+      },
+      "id": "Q3366487",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3366487"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Partido Revolucionario Institucional",
+        "lang:en": "Institutional Revolutionary Party"
+      },
+      "id": "Q682969",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q682969"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Partido Acción Nacional",
+        "lang:en": "National Action Party"
+      },
+      "id": "Q851087",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q851087"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q10996068-2AF78D74-A46D-4205-8A48-79543FBC0A19",
+      "person_id": "Q10996068",
+      "organization_id": "Q52634098",
+      "area_id": "Q46475",
+      "role_superclass_code": "Q5589657",
+      "role_superclass": {
+        "lang:es": "Anexo:Gobernantes de Guanajuato",
+        "lang:en": "Governor of Guanajuato"
+      },
+      "role_code": "Q5589657",
+      "role": {
+        "lang:es": "Anexo:Gobernantes de Guanajuato",
+        "lang:en": "Governor of Guanajuato"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q11686406-279A0A31-377A-477C-A79B-4950C34ED05D",
+      "person_id": "Q11686406",
+      "on_behalf_of_id": "Q851087",
+      "organization_id": "Q52634098",
+      "area_id": "Q46475",
+      "role_superclass_code": "Q5589657",
+      "role_superclass": {
+        "lang:es": "Anexo:Gobernantes de Guanajuato",
+        "lang:en": "Governor of Guanajuato"
+      },
+      "role_code": "Q5589657",
+      "role": {
+        "lang:es": "Anexo:Gobernantes de Guanajuato",
+        "lang:en": "Governor of Guanajuato"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1400512-3E8F6459-81ED-4947-AED6-005C05BCD804",
+      "person_id": "Q1400512",
+      "organization_id": "Q52634098",
+      "area_id": "Q46475",
+      "role_superclass_code": "Q5589657",
+      "role_superclass": {
+        "lang:es": "Anexo:Gobernantes de Guanajuato",
+        "lang:en": "Governor of Guanajuato"
+      },
+      "role_code": "Q5589657",
+      "role": {
+        "lang:es": "Anexo:Gobernantes de Guanajuato",
+        "lang:en": "Governor of Guanajuato"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1657270-40D18F05-37CE-4FA9-BD49-4426FD46F9B2",
+      "person_id": "Q1657270",
+      "on_behalf_of_id": "Q682969",
+      "organization_id": "Q52634098",
+      "area_id": "Q46475",
+      "role_superclass_code": "Q5589657",
+      "role_superclass": {
+        "lang:es": "Anexo:Gobernantes de Guanajuato",
+        "lang:en": "Governor of Guanajuato"
+      },
+      "role_code": "Q5589657",
+      "role": {
+        "lang:es": "Anexo:Gobernantes de Guanajuato",
+        "lang:en": "Governor of Guanajuato"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q17274798-F386BF5B-DDE5-4528-8D6E-06C5D42CBFB3",
+      "person_id": "Q17274798",
+      "on_behalf_of_id": "Q682969",
+      "organization_id": "Q52634098",
+      "area_id": "Q46475",
+      "role_superclass_code": "Q5589657",
+      "role_superclass": {
+        "lang:es": "Anexo:Gobernantes de Guanajuato",
+        "lang:en": "Governor of Guanajuato"
+      },
+      "role_code": "Q5589657",
+      "role": {
+        "lang:es": "Anexo:Gobernantes de Guanajuato",
+        "lang:en": "Governor of Guanajuato"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2538498-AE935ACB-A715-4A6A-9A96-5E1B79C71A1D",
+      "person_id": "Q2538498",
+      "on_behalf_of_id": "Q851087",
+      "organization_id": "Q52634098",
+      "area_id": "Q46475",
+      "role_superclass_code": "Q5589657",
+      "role_superclass": {
+        "lang:es": "Anexo:Gobernantes de Guanajuato",
+        "lang:en": "Governor of Guanajuato"
+      },
+      "role_code": "Q5589657",
+      "role": {
+        "lang:es": "Anexo:Gobernantes de Guanajuato",
+        "lang:en": "Governor of Guanajuato"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2780183-E8E46BA1-AAAD-4D3C-8541-59553B56C9A0",
+      "person_id": "Q2780183",
+      "on_behalf_of_id": "Q851087",
+      "organization_id": "Q52634098",
+      "area_id": "Q46475",
+      "role_superclass_code": "Q5589657",
+      "role_superclass": {
+        "lang:es": "Anexo:Gobernantes de Guanajuato",
+        "lang:en": "Governor of Guanajuato"
+      },
+      "role_code": "Q5589657",
+      "role": {
+        "lang:es": "Anexo:Gobernantes de Guanajuato",
+        "lang:en": "Governor of Guanajuato"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q380975-3FFAF3D8-F8E8-4610-8F78-A60424678130",
+      "person_id": "Q380975",
+      "on_behalf_of_id": "Q3366487",
+      "organization_id": "Q52634098",
+      "area_id": "Q46475",
+      "role_superclass_code": "Q5589657",
+      "role_superclass": {
+        "lang:es": "Anexo:Gobernantes de Guanajuato",
+        "lang:en": "Governor of Guanajuato"
+      },
+      "role_code": "Q5589657",
+      "role": {
+        "lang:es": "Anexo:Gobernantes de Guanajuato",
+        "lang:en": "Governor of Guanajuato"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5408767-9F643959-E02F-42EB-A772-0F1372BDD351",
+      "person_id": "Q5408767",
+      "organization_id": "Q52634098",
+      "area_id": "Q46475",
+      "role_superclass_code": "Q5589657",
+      "role_superclass": {
+        "lang:es": "Anexo:Gobernantes de Guanajuato",
+        "lang:en": "Governor of Guanajuato"
+      },
+      "role_code": "Q5589657",
+      "role": {
+        "lang:es": "Anexo:Gobernantes de Guanajuato",
+        "lang:en": "Governor of Guanajuato"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5549068-D5FBD143-91E4-4A03-B43A-45AA4CA2F19D",
+      "person_id": "Q5549068",
+      "organization_id": "Q52634098",
+      "area_id": "Q46475",
+      "role_superclass_code": "Q5589657",
+      "role_superclass": {
+        "lang:es": "Anexo:Gobernantes de Guanajuato",
+        "lang:en": "Governor of Guanajuato"
+      },
+      "role_code": "Q5589657",
+      "role": {
+        "lang:es": "Anexo:Gobernantes de Guanajuato",
+        "lang:en": "Governor of Guanajuato"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5645065-9E51DA53-54A0-4EE2-B353-57138A7F4835",
+      "person_id": "Q5645065",
+      "organization_id": "Q52634098",
+      "area_id": "Q46475",
+      "role_superclass_code": "Q5589657",
+      "role_superclass": {
+        "lang:es": "Anexo:Gobernantes de Guanajuato",
+        "lang:en": "Governor of Guanajuato"
+      },
+      "role_code": "Q5589657",
+      "role": {
+        "lang:es": "Anexo:Gobernantes de Guanajuato",
+        "lang:en": "Governor of Guanajuato"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5654869-B2DF8AC3-FAB8-4AE2-AD40-115307D0F4ED",
+      "person_id": "Q5654869",
+      "organization_id": "Q52634098",
+      "area_id": "Q46475",
+      "role_superclass_code": "Q5589657",
+      "role_superclass": {
+        "lang:es": "Anexo:Gobernantes de Guanajuato",
+        "lang:en": "Governor of Guanajuato"
+      },
+      "role_code": "Q5589657",
+      "role": {
+        "lang:es": "Anexo:Gobernantes de Guanajuato",
+        "lang:en": "Governor of Guanajuato"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5660898-E6CDD640-C86D-4251-BBD7-5FC2099A99DD",
+      "person_id": "Q5660898",
+      "on_behalf_of_id": "Q682969",
+      "organization_id": "Q52634098",
+      "area_id": "Q46475",
+      "role_superclass_code": "Q5589657",
+      "role_superclass": {
+        "lang:es": "Anexo:Gobernantes de Guanajuato",
+        "lang:en": "Governor of Guanajuato"
+      },
+      "role_code": "Q5589657",
+      "role": {
+        "lang:es": "Anexo:Gobernantes de Guanajuato",
+        "lang:en": "Governor of Guanajuato"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5833418-E70EA014-1E92-4B7A-9273-3A1233A9D9A8",
+      "person_id": "Q5833418",
+      "on_behalf_of_id": "Q682969",
+      "organization_id": "Q52634098",
+      "area_id": "Q46475",
+      "role_superclass_code": "Q5589657",
+      "role_superclass": {
+        "lang:es": "Anexo:Gobernantes de Guanajuato",
+        "lang:en": "Governor of Guanajuato"
+      },
+      "role_code": "Q5589657",
+      "role": {
+        "lang:es": "Anexo:Gobernantes de Guanajuato",
+        "lang:en": "Governor of Guanajuato"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5833906-5B8904A2-ECDE-4EEB-A107-C3B1E33FFDA5",
+      "person_id": "Q5833906",
+      "on_behalf_of_id": "Q682969",
+      "organization_id": "Q52634098",
+      "area_id": "Q46475",
+      "role_superclass_code": "Q5589657",
+      "role_superclass": {
+        "lang:es": "Anexo:Gobernantes de Guanajuato",
+        "lang:en": "Governor of Guanajuato"
+      },
+      "role_code": "Q5589657",
+      "role": {
+        "lang:es": "Anexo:Gobernantes de Guanajuato",
+        "lang:en": "Governor of Guanajuato"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5859470-01D7B31B-6914-4FF2-9615-2A92FDD9A210",
+      "person_id": "Q5859470",
+      "organization_id": "Q52634098",
+      "area_id": "Q46475",
+      "role_superclass_code": "Q5589657",
+      "role_superclass": {
+        "lang:es": "Anexo:Gobernantes de Guanajuato",
+        "lang:en": "Governor of Guanajuato"
+      },
+      "role_code": "Q5589657",
+      "role": {
+        "lang:es": "Anexo:Gobernantes de Guanajuato",
+        "lang:en": "Governor of Guanajuato"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5863039-6F7B8263-0C3D-495D-A4E2-B6523A08633D",
+      "person_id": "Q5863039",
+      "organization_id": "Q52634098",
+      "area_id": "Q46475",
+      "role_superclass_code": "Q5589657",
+      "role_superclass": {
+        "lang:es": "Anexo:Gobernantes de Guanajuato",
+        "lang:en": "Governor of Guanajuato"
+      },
+      "role_code": "Q5589657",
+      "role": {
+        "lang:es": "Anexo:Gobernantes de Guanajuato",
+        "lang:en": "Governor of Guanajuato"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5906263-D8A9FAA5-EE11-418A-8F9D-D7ED21E8DA70",
+      "person_id": "Q5906263",
+      "on_behalf_of_id": "Q851087",
+      "organization_id": "Q52634098",
+      "area_id": "Q46475",
+      "role_superclass_code": "Q5589657",
+      "role_superclass": {
+        "lang:es": "Anexo:Gobernantes de Guanajuato",
+        "lang:en": "Governor of Guanajuato"
+      },
+      "role_code": "Q5589657",
+      "role": {
+        "lang:es": "Anexo:Gobernantes de Guanajuato",
+        "lang:en": "Governor of Guanajuato"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5937342-443C82B8-905D-423B-B1C3-3DFB8DACDA4C",
+      "person_id": "Q5937342",
+      "on_behalf_of_id": "Q682969",
+      "organization_id": "Q52634098",
+      "area_id": "Q46475",
+      "role_superclass_code": "Q5589657",
+      "role_superclass": {
+        "lang:es": "Anexo:Gobernantes de Guanajuato",
+        "lang:en": "Governor of Guanajuato"
+      },
+      "role_code": "Q5589657",
+      "role": {
+        "lang:es": "Anexo:Gobernantes de Guanajuato",
+        "lang:en": "Governor of Guanajuato"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5950535-9BA7D2EA-BCFA-4F15-8534-DE8529556AF1",
+      "person_id": "Q5950535",
+      "on_behalf_of_id": "Q682969",
+      "organization_id": "Q52634098",
+      "area_id": "Q46475",
+      "role_superclass_code": "Q5589657",
+      "role_superclass": {
+        "lang:es": "Anexo:Gobernantes de Guanajuato",
+        "lang:en": "Governor of Guanajuato"
+      },
+      "role_code": "Q5589657",
+      "role": {
+        "lang:es": "Anexo:Gobernantes de Guanajuato",
+        "lang:en": "Governor of Guanajuato"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6014933-898EF0EC-9E1E-473B-A807-4598A3335224",
+      "person_id": "Q6014933",
+      "organization_id": "Q52634098",
+      "area_id": "Q46475",
+      "role_superclass_code": "Q5589657",
+      "role_superclass": {
+        "lang:es": "Anexo:Gobernantes de Guanajuato",
+        "lang:en": "Governor of Guanajuato"
+      },
+      "role_code": "Q5589657",
+      "role": {
+        "lang:es": "Anexo:Gobernantes de Guanajuato",
+        "lang:en": "Governor of Guanajuato"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6056594-D102E0AE-C4F1-4943-9E14-AA9F262008F6",
+      "person_id": "Q6056594",
+      "organization_id": "Q52634098",
+      "area_id": "Q46475",
+      "role_superclass_code": "Q5589657",
+      "role_superclass": {
+        "lang:es": "Anexo:Gobernantes de Guanajuato",
+        "lang:en": "Governor of Guanajuato"
+      },
+      "role_code": "Q5589657",
+      "role": {
+        "lang:es": "Anexo:Gobernantes de Guanajuato",
+        "lang:en": "Governor of Guanajuato"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6097193-9D0768AC-8F9A-4E95-A8D9-1F643E6BFC4B",
+      "person_id": "Q6097193",
+      "on_behalf_of_id": "Q682969",
+      "organization_id": "Q52634098",
+      "area_id": "Q46475",
+      "role_superclass_code": "Q5589657",
+      "role_superclass": {
+        "lang:es": "Anexo:Gobernantes de Guanajuato",
+        "lang:en": "Governor of Guanajuato"
+      },
+      "role_code": "Q5589657",
+      "role": {
+        "lang:es": "Anexo:Gobernantes de Guanajuato",
+        "lang:en": "Governor of Guanajuato"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6752543-0F89EEA0-D09F-43AD-B900-EE82F7282926",
+      "person_id": "Q6752543",
+      "organization_id": "Q52634098",
+      "area_id": "Q46475",
+      "role_superclass_code": "Q5589657",
+      "role_superclass": {
+        "lang:es": "Anexo:Gobernantes de Guanajuato",
+        "lang:en": "Governor of Guanajuato"
+      },
+      "role_code": "Q5589657",
+      "role": {
+        "lang:es": "Anexo:Gobernantes de Guanajuato",
+        "lang:en": "Governor of Guanajuato"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q920365-4B997CBE-13B6-4F3F-B9E3-3D2DA927B1A7",
+      "person_id": "Q920365",
+      "on_behalf_of_id": "Q851087",
+      "organization_id": "Q52634098",
+      "area_id": "Q46475",
+      "role_superclass_code": "Q5589657",
+      "role_superclass": {
+        "lang:es": "Anexo:Gobernantes de Guanajuato",
+        "lang:en": "Governor of Guanajuato"
+      },
+      "role_code": "Q5589657",
+      "role": {
+        "lang:es": "Anexo:Gobernantes de Guanajuato",
+        "lang:en": "Governor of Guanajuato"
+      }
+    }
+  ]
+}

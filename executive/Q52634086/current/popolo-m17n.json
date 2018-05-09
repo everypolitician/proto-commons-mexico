@@ -1,0 +1,120 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:es": "Luis Armando Reynoso Femat",
+        "lang:en": "Luis Armando Reynoso"
+      },
+      "id": "Q1819111",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1819111"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "José Refugio Esparza Reyes",
+        "lang:en": "José Refugio Esparza Reyes"
+      },
+      "id": "Q5945041",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5945041"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:es": "gobernador y gabinete de Aguascalientes",
+        "lang:en": "governor and cabinet of Aguascalientes"
+      },
+      "id": "Q52634086",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52634086"
+        }
+      ],
+      "area_id": "Q79952"
+    },
+    {
+      "name": {
+        "lang:es": "Partido Revolucionario Institucional",
+        "lang:en": "Institutional Revolutionary Party"
+      },
+      "id": "Q682969",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q682969"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Partido Acción Nacional",
+        "lang:en": "National Action Party"
+      },
+      "id": "Q851087",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q851087"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1819111-E4C42A53-5573-4678-9CDA-2605928FEB6A",
+      "person_id": "Q1819111",
+      "on_behalf_of_id": "Q851087",
+      "organization_id": "Q52634086",
+      "area_id": "Q79952",
+      "role_superclass_code": "Q5589628",
+      "role_superclass": {
+        "lang:es": "Anexo:Gobernantes de Aguascalientes",
+        "lang:en": "Governor of Aguascalientes"
+      },
+      "role_code": "Q5589628",
+      "role": {
+        "lang:es": "Anexo:Gobernantes de Aguascalientes",
+        "lang:en": "Governor of Aguascalientes"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5945041-8b2baae8-43e3-c745-670e-e34d821eb229",
+      "person_id": "Q5945041",
+      "on_behalf_of_id": "Q682969",
+      "organization_id": "Q52634086",
+      "area_id": "Q79952",
+      "role_superclass_code": "Q5589628",
+      "role_superclass": {
+        "lang:es": "Anexo:Gobernantes de Aguascalientes",
+        "lang:en": "Governor of Aguascalientes"
+      },
+      "role_code": "Q5589628",
+      "role": {
+        "lang:es": "Anexo:Gobernantes de Aguascalientes",
+        "lang:en": "Governor of Aguascalientes"
+      }
+    }
+  ]
+}

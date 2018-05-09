@@ -1,0 +1,170 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:es": "Heriberto Jara",
+        "lang:en": "Heriberto Jara Corona"
+      },
+      "id": "Q1964682",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1964682"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Manuel Mestre Gorgoll",
+        "lang:en": "Manuel Mestre Gorgoll"
+      },
+      "id": "Q21129803",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21129803"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Roberto Madrazo",
+        "lang:en": "Roberto Madrazo"
+      },
+      "id": "Q713557",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q713557"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Pedro Ampudia",
+        "lang:en": "Pedro de Ampudia"
+      },
+      "id": "Q727321",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q727321"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:es": "gobernador y gabinete de Tabasco",
+        "lang:en": "governor and cabinet of Tabasco"
+      },
+      "id": "Q52634114",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52634114"
+        }
+      ],
+      "area_id": "Q80914"
+    },
+    {
+      "name": {
+        "lang:es": "Partido Revolucionario Institucional",
+        "lang:en": "Institutional Revolutionary Party"
+      },
+      "id": "Q682969",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q682969"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1964682-1243D532-300D-4910-A8A2-D2D5E4404CCC",
+      "person_id": "Q1964682",
+      "on_behalf_of_id": "Q682969",
+      "organization_id": "Q52634114",
+      "area_id": "Q80914",
+      "role_superclass_code": "Q5589723",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Tabasco",
+        "lang:en": "Governor of Tabasco"
+      },
+      "role_code": "Q5589723",
+      "role": {
+        "lang:es": "Gobernantes de Tabasco",
+        "lang:en": "Governor of Tabasco"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21129803-9bf7a8c8-460d-db3f-89b6-2c85a5096c1d",
+      "person_id": "Q21129803",
+      "organization_id": "Q52634114",
+      "area_id": "Q80914",
+      "role_superclass_code": "Q5589723",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Tabasco",
+        "lang:en": "Governor of Tabasco"
+      },
+      "role_code": "Q5589723",
+      "role": {
+        "lang:es": "Gobernantes de Tabasco",
+        "lang:en": "Governor of Tabasco"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q713557-0E96F57F-6DE6-4B3F-86B5-64F880845F2A",
+      "person_id": "Q713557",
+      "on_behalf_of_id": "Q682969",
+      "organization_id": "Q52634114",
+      "area_id": "Q80914",
+      "role_superclass_code": "Q5589723",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Tabasco",
+        "lang:en": "Governor of Tabasco"
+      },
+      "role_code": "Q5589723",
+      "role": {
+        "lang:es": "Gobernantes de Tabasco",
+        "lang:en": "Governor of Tabasco"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q727321-415344D1-4826-41DD-88BF-3CCF9339F066",
+      "person_id": "Q727321",
+      "organization_id": "Q52634114",
+      "area_id": "Q80914",
+      "role_superclass_code": "Q5589723",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Tabasco",
+        "lang:en": "Governor of Tabasco"
+      },
+      "role_code": "Q5589723",
+      "role": {
+        "lang:es": "Gobernantes de Tabasco",
+        "lang:en": "Governor of Tabasco"
+      }
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:es": "Ernesto Ruffo Appel",
+        "lang:en": "Ernesto Ruffo Appel"
+      },
+      "id": "Q3295300",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3295300"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Eugenio Elorduy Walther",
+        "lang:en": "Eugenio Elorduy Walther"
+      },
+      "id": "Q5408273",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5408273"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:es": "gobernador y gabinete de Baja California",
+        "lang:en": "governor and cabinet of Baja California"
+      },
+      "id": "Q52634087",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52634087"
+        }
+      ],
+      "area_id": "Q58731"
+    },
+    {
+      "name": {
+        "lang:es": "Partido Acción Nacional",
+        "lang:en": "National Action Party"
+      },
+      "id": "Q851087",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q851087"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3295300-1862E1EF-FBED-4B8C-8628-5DCAAEDDB228",
+      "person_id": "Q3295300",
+      "on_behalf_of_id": "Q851087",
+      "organization_id": "Q52634087",
+      "area_id": "Q58731",
+      "role_superclass_code": "Q5589632",
+      "role_superclass": {
+        "lang:es": "Anexo:Gobernantes de Baja California",
+        "lang:en": "Governor of Baja California"
+      },
+      "role_code": "Q5589632",
+      "role": {
+        "lang:es": "Anexo:Gobernantes de Baja California",
+        "lang:en": "Governor of Baja California"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5408273-E92B70BA-0E67-4184-B298-363FCABF65A1",
+      "person_id": "Q5408273",
+      "on_behalf_of_id": "Q851087",
+      "organization_id": "Q52634087",
+      "area_id": "Q58731",
+      "role_superclass_code": "Q5589632",
+      "role_superclass": {
+        "lang:es": "Anexo:Gobernantes de Baja California",
+        "lang:en": "Governor of Baja California"
+      },
+      "role_code": "Q5589632",
+      "role": {
+        "lang:es": "Anexo:Gobernantes de Baja California",
+        "lang:en": "Governor of Baja California"
+      }
+    }
+  ]
+}

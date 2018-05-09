@@ -1,0 +1,986 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:es": "José María Pino Suárez",
+        "lang:en": "José María Pino Suárez"
+      },
+      "id": "Q1826849",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1826849"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Carlos Loret de Mola Mediz",
+        "lang:en": "Carlos Loret de Mola Mediz"
+      },
+      "id": "Q1885587",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1885587"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Antonio de Padua María Severino López de Santa Anna y Pérez de Lebrón",
+        "lang:en": "Antonio de Padua María Severino López de Santa Anna y Pérez de Lebrón"
+      },
+      "id": "Q189145",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q189145"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Salvador Alvarado",
+        "lang:en": "Salvador Alvarado"
+      },
+      "id": "Q2150484",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2150484"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Víctor Cervera Pacheco",
+        "lang:en": "Víctor Cervera Pacheco"
+      },
+      "id": "Q2218688",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2218688"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Martín de Urzúa y Arizmendi",
+        "lang:en": "Martín de Ursúa"
+      },
+      "id": "Q2362335",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2362335"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Ivonne Ortega Pacheco",
+        "lang:en": "Ivonne Ortega Pacheco"
+      },
+      "id": "Q2665337",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2665337"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Francisco de Montejo",
+        "lang:en": "Francisco de Montejo"
+      },
+      "id": "Q2682937",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2682937"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Dulce María Sauri Riancho",
+        "lang:en": "Dulce María Sauri Riancho"
+      },
+      "id": "Q286996",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q286996"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Benito Pérez Brito",
+        "lang:en": "Benito Pérez Brito"
+      },
+      "id": "Q3638233",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3638233"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Tomás Garrido Canabal",
+        "lang:en": "Tomás Garrido Canabal"
+      },
+      "id": "Q366050",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q366050"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Santiago Méndez Ibarra",
+        "lang:en": "Santiago Méndez"
+      },
+      "id": "Q4641553",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4641553"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Alonso Fernández de Heredia",
+        "lang:en": "Alonso Fernández de Heredia"
+      },
+      "id": "Q4734472",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4734472"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Antonio Benavides Bazán y Molina",
+        "lang:en": "Antonio de Benavides"
+      },
+      "id": "Q4777053",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4777053"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Eligio Ancona",
+        "lang:en": "Eligio Ancona del Castillo"
+      },
+      "id": "Q5360817",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5360817"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Enrique Dávila Pacheco",
+        "lang:en": "Enrique Dávila Pacheco"
+      },
+      "id": "Q5379683",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5379683"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Francisco de Montejo (el sobrino)",
+        "lang:en": "Francisco de Montejo"
+      },
+      "id": "Q5484144",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5484144"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Domingo Barret",
+        "lang:en": "Domingo Barret"
+      },
+      "id": "Q5812711",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5812711"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Hugo O'Conor Cunco y Fali",
+        "lang:en": "Hugo Oconór"
+      },
+      "id": "Q5934304",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5934304"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "José Tiburcio López Constante",
+        "lang:en": "José Tiburcio López Constante"
+      },
+      "id": "Q5945769",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5945769"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Juan Pío Manzano",
+        "lang:en": "Juan Pío Manzano"
+      },
+      "id": "Q5952125",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5952125"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Rolando Zapata Bello",
+        "lang:en": "Rolando Zapata Bello"
+      },
+      "id": "Q6111256",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6111256"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Melchor de Navarrete",
+        "lang:en": "Melchor de Navarrete"
+      },
+      "id": "Q6812056",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6812056"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Nicolás Cámara Vales",
+        "lang:en": "Nicolás Camára Vales"
+      },
+      "id": "Q7030341",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7030341"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Felipe Carrillo Puerto",
+        "lang:en": "Felipe Carrillo Puerto"
+      },
+      "id": "Q724334",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q724334"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Pedro Ampudia",
+        "lang:en": "Pedro de Ampudia"
+      },
+      "id": "Q727321",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q727321"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Francisco Núñez Melián",
+        "lang:en": "Francisco Núñez Melián"
+      },
+      "id": "Q8962520",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8962520"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Miguel Barbachano",
+        "lang:en": "Miguel Barbachano"
+      },
+      "id": "Q963307",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q963307"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:es": "gobernador y gabinete de Yucatán",
+        "lang:en": "governor and cabinet of Yucatán"
+      },
+      "id": "Q52634119",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52634119"
+        }
+      ],
+      "area_id": "Q60176"
+    },
+    {
+      "name": {
+        "lang:es": "Partido Liberal",
+        "lang:en": "Liberal Party"
+      },
+      "id": "Q3366487",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3366487"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Partido Socialista del Sureste"
+      },
+      "id": "Q6064401",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6064401"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Partido Revolucionario Institucional",
+        "lang:en": "Institutional Revolutionary Party"
+      },
+      "id": "Q682969",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q682969"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Partido Acción Nacional",
+        "lang:en": "National Action Party"
+      },
+      "id": "Q851087",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q851087"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1826849-34605C42-3E70-41CB-9A00-E11C8E8E12B1",
+      "person_id": "Q1826849",
+      "on_behalf_of_id": "Q3366487",
+      "organization_id": "Q52634119",
+      "area_id": "Q60176",
+      "role_superclass_code": "Q5589736",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Yucatán",
+        "lang:en": "Governor of Yucatán"
+      },
+      "role_code": "Q5589736",
+      "role": {
+        "lang:es": "Gobernantes de Yucatán",
+        "lang:en": "Governor of Yucatán"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1885587-96023A2B-CEB4-4DBA-BC98-52757AC7BD6D",
+      "person_id": "Q1885587",
+      "on_behalf_of_id": "Q682969",
+      "organization_id": "Q52634119",
+      "area_id": "Q60176",
+      "role_superclass_code": "Q5589736",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Yucatán",
+        "lang:en": "Governor of Yucatán"
+      },
+      "role_code": "Q5589736",
+      "role": {
+        "lang:es": "Gobernantes de Yucatán",
+        "lang:en": "Governor of Yucatán"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q189145-F5007D68-F64D-4F23-B9E1-C9042613194C",
+      "person_id": "Q189145",
+      "on_behalf_of_id": "Q3366487",
+      "organization_id": "Q52634119",
+      "area_id": "Q60176",
+      "role_superclass_code": "Q5589736",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Yucatán",
+        "lang:en": "Governor of Yucatán"
+      },
+      "role_code": "Q5589736",
+      "role": {
+        "lang:es": "Gobernantes de Yucatán",
+        "lang:en": "Governor of Yucatán"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2150484-3234C33D-7BEE-4DAC-A9DA-36E16F70B727",
+      "person_id": "Q2150484",
+      "organization_id": "Q52634119",
+      "area_id": "Q60176",
+      "role_superclass_code": "Q5589736",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Yucatán",
+        "lang:en": "Governor of Yucatán"
+      },
+      "role_code": "Q5589736",
+      "role": {
+        "lang:es": "Gobernantes de Yucatán",
+        "lang:en": "Governor of Yucatán"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2218688-78C684A9-BDA7-4B22-9BF6-17C658414563",
+      "person_id": "Q2218688",
+      "on_behalf_of_id": "Q682969",
+      "organization_id": "Q52634119",
+      "area_id": "Q60176",
+      "role_superclass_code": "Q5589736",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Yucatán",
+        "lang:en": "Governor of Yucatán"
+      },
+      "role_code": "Q5589736",
+      "role": {
+        "lang:es": "Gobernantes de Yucatán",
+        "lang:en": "Governor of Yucatán"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2362335-25B04869-6A91-4229-9A57-8076FF0E3113",
+      "person_id": "Q2362335",
+      "organization_id": "Q52634119",
+      "area_id": "Q60176",
+      "role_superclass_code": "Q5589736",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Yucatán",
+        "lang:en": "Governor of Yucatán"
+      },
+      "role_code": "Q5589736",
+      "role": {
+        "lang:es": "Gobernantes de Yucatán",
+        "lang:en": "Governor of Yucatán"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2665337-27F5EA67-81C7-4345-ABD2-18348B541FDE",
+      "person_id": "Q2665337",
+      "on_behalf_of_id": "Q851087",
+      "organization_id": "Q52634119",
+      "area_id": "Q60176",
+      "role_superclass_code": "Q5589736",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Yucatán",
+        "lang:en": "Governor of Yucatán"
+      },
+      "role_code": "Q5589736",
+      "role": {
+        "lang:es": "Gobernantes de Yucatán",
+        "lang:en": "Governor of Yucatán"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2682937-62E08012-E253-4055-A14E-0A7DA3B56168",
+      "person_id": "Q2682937",
+      "organization_id": "Q52634119",
+      "area_id": "Q60176",
+      "role_superclass_code": "Q5589736",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Yucatán",
+        "lang:en": "Governor of Yucatán"
+      },
+      "role_code": "Q5589736",
+      "role": {
+        "lang:es": "Gobernantes de Yucatán",
+        "lang:en": "Governor of Yucatán"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q286996-C4C0A8B9-2958-4525-BB0B-ECA13B19E282",
+      "person_id": "Q286996",
+      "on_behalf_of_id": "Q682969",
+      "organization_id": "Q52634119",
+      "area_id": "Q60176",
+      "role_superclass_code": "Q5589736",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Yucatán",
+        "lang:en": "Governor of Yucatán"
+      },
+      "role_code": "Q5589736",
+      "role": {
+        "lang:es": "Gobernantes de Yucatán",
+        "lang:en": "Governor of Yucatán"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3638233-29994473-F1F4-4143-BFE4-F58C7964A78B",
+      "person_id": "Q3638233",
+      "organization_id": "Q52634119",
+      "area_id": "Q60176",
+      "role_superclass_code": "Q5589736",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Yucatán",
+        "lang:en": "Governor of Yucatán"
+      },
+      "role_code": "Q5589736",
+      "role": {
+        "lang:es": "Gobernantes de Yucatán",
+        "lang:en": "Governor of Yucatán"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q366050-45CDF785-1E78-4EB0-9102-F112A9EADE93",
+      "person_id": "Q366050",
+      "on_behalf_of_id": "Q682969",
+      "organization_id": "Q52634119",
+      "area_id": "Q60176",
+      "role_superclass_code": "Q5589736",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Yucatán",
+        "lang:en": "Governor of Yucatán"
+      },
+      "role_code": "Q5589736",
+      "role": {
+        "lang:es": "Gobernantes de Yucatán",
+        "lang:en": "Governor of Yucatán"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4641553-C97E8AA5-21E6-4806-8729-67A60B217731",
+      "person_id": "Q4641553",
+      "organization_id": "Q52634119",
+      "area_id": "Q60176",
+      "role_superclass_code": "Q5589736",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Yucatán",
+        "lang:en": "Governor of Yucatán"
+      },
+      "role_code": "Q5589736",
+      "role": {
+        "lang:es": "Gobernantes de Yucatán",
+        "lang:en": "Governor of Yucatán"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4734472-10F53BEF-EA3E-4002-8D79-C9A62F5B8064",
+      "person_id": "Q4734472",
+      "organization_id": "Q52634119",
+      "area_id": "Q60176",
+      "role_superclass_code": "Q5589736",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Yucatán",
+        "lang:en": "Governor of Yucatán"
+      },
+      "role_code": "Q5589736",
+      "role": {
+        "lang:es": "Gobernantes de Yucatán",
+        "lang:en": "Governor of Yucatán"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4777053-679A8207-9B5E-477A-A3BF-5A2F8668C241",
+      "person_id": "Q4777053",
+      "organization_id": "Q52634119",
+      "area_id": "Q60176",
+      "role_superclass_code": "Q5589736",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Yucatán",
+        "lang:en": "Governor of Yucatán"
+      },
+      "role_code": "Q5589736",
+      "role": {
+        "lang:es": "Gobernantes de Yucatán",
+        "lang:en": "Governor of Yucatán"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5360817-16CD669A-D1EA-47EF-AC88-7BCF7323F088",
+      "person_id": "Q5360817",
+      "organization_id": "Q52634119",
+      "area_id": "Q60176",
+      "role_superclass_code": "Q5589736",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Yucatán",
+        "lang:en": "Governor of Yucatán"
+      },
+      "role_code": "Q5589736",
+      "role": {
+        "lang:es": "Gobernantes de Yucatán",
+        "lang:en": "Governor of Yucatán"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5379683-9FC7C9BF-7428-4B59-A994-E5DDC508AF94",
+      "person_id": "Q5379683",
+      "organization_id": "Q52634119",
+      "area_id": "Q60176",
+      "role_superclass_code": "Q5589736",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Yucatán",
+        "lang:en": "Governor of Yucatán"
+      },
+      "role_code": "Q5589736",
+      "role": {
+        "lang:es": "Gobernantes de Yucatán",
+        "lang:en": "Governor of Yucatán"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5484144-94A36535-A5FB-41E3-BB26-66BF31B94353",
+      "person_id": "Q5484144",
+      "organization_id": "Q52634119",
+      "area_id": "Q60176",
+      "role_superclass_code": "Q5589736",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Yucatán",
+        "lang:en": "Governor of Yucatán"
+      },
+      "role_code": "Q5589736",
+      "role": {
+        "lang:es": "Gobernantes de Yucatán",
+        "lang:en": "Governor of Yucatán"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5812711-4D17AC0D-DC9F-47F3-8F46-915A1D626679",
+      "person_id": "Q5812711",
+      "organization_id": "Q52634119",
+      "area_id": "Q60176",
+      "role_superclass_code": "Q5589736",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Yucatán",
+        "lang:en": "Governor of Yucatán"
+      },
+      "role_code": "Q5589736",
+      "role": {
+        "lang:es": "Gobernantes de Yucatán",
+        "lang:en": "Governor of Yucatán"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5934304-3B9E2058-9367-4E26-9C4B-2A4E32D2BB21",
+      "person_id": "Q5934304",
+      "organization_id": "Q52634119",
+      "area_id": "Q60176",
+      "role_superclass_code": "Q5589736",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Yucatán",
+        "lang:en": "Governor of Yucatán"
+      },
+      "role_code": "Q5589736",
+      "role": {
+        "lang:es": "Gobernantes de Yucatán",
+        "lang:en": "Governor of Yucatán"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5945769-D7A98E34-5A67-4871-AF34-6890795D209C",
+      "person_id": "Q5945769",
+      "organization_id": "Q52634119",
+      "area_id": "Q60176",
+      "role_superclass_code": "Q5589736",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Yucatán",
+        "lang:en": "Governor of Yucatán"
+      },
+      "role_code": "Q5589736",
+      "role": {
+        "lang:es": "Gobernantes de Yucatán",
+        "lang:en": "Governor of Yucatán"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5952125-EC522315-D45C-4F42-AB36-2D94BB3ECC36",
+      "person_id": "Q5952125",
+      "organization_id": "Q52634119",
+      "area_id": "Q60176",
+      "role_superclass_code": "Q5589736",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Yucatán",
+        "lang:en": "Governor of Yucatán"
+      },
+      "role_code": "Q5589736",
+      "role": {
+        "lang:es": "Gobernantes de Yucatán",
+        "lang:en": "Governor of Yucatán"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6111256-EEB3CDAE-354A-4F2E-A296-919F6C32B1FF",
+      "person_id": "Q6111256",
+      "on_behalf_of_id": "Q682969",
+      "organization_id": "Q52634119",
+      "area_id": "Q60176",
+      "role_superclass_code": "Q5589736",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Yucatán",
+        "lang:en": "Governor of Yucatán"
+      },
+      "role_code": "Q5589736",
+      "role": {
+        "lang:es": "Gobernantes de Yucatán",
+        "lang:en": "Governor of Yucatán"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6812056-243BA4EF-52CB-4030-B8AD-40FC1ACBFA14",
+      "person_id": "Q6812056",
+      "organization_id": "Q52634119",
+      "area_id": "Q60176",
+      "role_superclass_code": "Q5589736",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Yucatán",
+        "lang:en": "Governor of Yucatán"
+      },
+      "role_code": "Q5589736",
+      "role": {
+        "lang:es": "Gobernantes de Yucatán",
+        "lang:en": "Governor of Yucatán"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7030341-176E9D21-E4DB-42A1-830F-6998D0FC1FDD",
+      "person_id": "Q7030341",
+      "organization_id": "Q52634119",
+      "area_id": "Q60176",
+      "role_superclass_code": "Q5589736",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Yucatán",
+        "lang:en": "Governor of Yucatán"
+      },
+      "role_code": "Q5589736",
+      "role": {
+        "lang:es": "Gobernantes de Yucatán",
+        "lang:en": "Governor of Yucatán"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q724334-D86BC881-E370-4734-BBF0-FE2246409F79",
+      "person_id": "Q724334",
+      "on_behalf_of_id": "Q6064401",
+      "organization_id": "Q52634119",
+      "area_id": "Q60176",
+      "role_superclass_code": "Q5589736",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Yucatán",
+        "lang:en": "Governor of Yucatán"
+      },
+      "role_code": "Q5589736",
+      "role": {
+        "lang:es": "Gobernantes de Yucatán",
+        "lang:en": "Governor of Yucatán"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q727321-21FE68A4-461F-4A33-95EF-2C71CDC1E6BD",
+      "person_id": "Q727321",
+      "organization_id": "Q52634119",
+      "area_id": "Q60176",
+      "role_superclass_code": "Q5589736",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Yucatán",
+        "lang:en": "Governor of Yucatán"
+      },
+      "role_code": "Q5589736",
+      "role": {
+        "lang:es": "Gobernantes de Yucatán",
+        "lang:en": "Governor of Yucatán"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8962520-D4616613-F43E-4FCE-ACE2-69644B381960",
+      "person_id": "Q8962520",
+      "organization_id": "Q52634119",
+      "area_id": "Q60176",
+      "role_superclass_code": "Q5589736",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Yucatán",
+        "lang:en": "Governor of Yucatán"
+      },
+      "role_code": "Q5589736",
+      "role": {
+        "lang:es": "Gobernantes de Yucatán",
+        "lang:en": "Governor of Yucatán"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q963307-E5FACB43-C935-4D72-9A0E-E790DF386BD3",
+      "person_id": "Q963307",
+      "organization_id": "Q52634119",
+      "area_id": "Q60176",
+      "role_superclass_code": "Q5589736",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Yucatán",
+        "lang:en": "Governor of Yucatán"
+      },
+      "role_code": "Q5589736",
+      "role": {
+        "lang:es": "Gobernantes de Yucatán",
+        "lang:en": "Governor of Yucatán"
+      }
+    }
+  ]
+}

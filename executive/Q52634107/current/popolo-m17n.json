@@ -1,0 +1,73 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:es": "Ulises Ruiz Ortiz",
+        "lang:en": "Ulises Ruiz Ortiz"
+      },
+      "id": "Q1374595",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1374595"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:es": "gobernador y gabinete de Oaxaca",
+        "lang:en": "governor and cabinet of Oaxaca"
+      },
+      "id": "Q52634107",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52634107"
+        }
+      ],
+      "area_id": "Q34110"
+    },
+    {
+      "name": {
+        "lang:es": "Partido Revolucionario Institucional",
+        "lang:en": "Institutional Revolutionary Party"
+      },
+      "id": "Q682969",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q682969"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1374595-5FB86657-FAC7-49AC-8DF6-4A760AA4A5E8",
+      "person_id": "Q1374595",
+      "on_behalf_of_id": "Q682969",
+      "organization_id": "Q52634107",
+      "area_id": "Q34110",
+      "role_superclass_code": "Q5589697",
+      "role_superclass": {
+        "lang:es": "Anexo:Gobernantes de Oaxaca",
+        "lang:en": "Governor of Oaxaca"
+      },
+      "role_code": "Q5589697",
+      "role": {
+        "lang:es": "Anexo:Gobernantes de Oaxaca",
+        "lang:en": "Governor of Oaxaca"
+      }
+    }
+  ]
+}

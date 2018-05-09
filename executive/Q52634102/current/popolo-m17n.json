@@ -1,0 +1,591 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:es": "Salvador Jara Guerrero",
+        "lang:en": "Salvador Jara Guerrero García"
+      },
+      "id": "Q17274633",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17274633"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Lázaro Cárdenas Batel",
+        "lang:en": "Lázaro Cárdenas Batel"
+      },
+      "id": "Q1938773",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1938773"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Melchor Ocampo",
+        "lang:en": "Melchor Ocampo"
+      },
+      "id": "Q2642570",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2642570"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Leonel Godoy Rangel",
+        "lang:en": "Leonel Godoy Rangel"
+      },
+      "id": "Q2702248",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2702248"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Fausto Vallejo Figueroa",
+        "lang:en": "Fausto Vallejo"
+      },
+      "id": "Q3070936",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3070936"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "José Santos Degollado",
+        "lang:en": "Santos Degollado"
+      },
+      "id": "Q3544312",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3544312"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Manuel del Refugio González Flores",
+        "lang:en": "Manuel González Flores"
+      },
+      "id": "Q380975",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q380975"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Pascual Ortiz Rubio",
+        "lang:en": "Pascual Ortiz Rubio"
+      },
+      "id": "Q455683",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q455683"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Agustín Arriaga Rivera",
+        "lang:en": "Agustín Arriaga Rivera"
+      },
+      "id": "Q4694652",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4694652"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Carlos Gálvez Betancourt",
+        "lang:en": "Carlos Gálvez Betancourt"
+      },
+      "id": "Q5042154",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5042154"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Gildardo Magaña Cerda",
+        "lang:en": "Gildardo Magaña"
+      },
+      "id": "Q515129",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q515129"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Felipe Berriozábal",
+        "lang:en": "Felipe Berriozábal"
+      },
+      "id": "Q5441951",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5441951"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Jesús Reyna García",
+        "lang:en": "Jesús Reyna García"
+      },
+      "id": "Q5930586",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5930586"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Luis Martínez Villicaña",
+        "lang:en": "Luis Martínez Villicaña"
+      },
+      "id": "Q5941171",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5941171"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Servando Chávez Hernández",
+        "lang:en": "Servando Chávez Hernández"
+      },
+      "id": "Q6125991",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6125991"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Víctor Manuel Tinoco Rubí",
+        "lang:en": "Víctor Manuel Tinoco Rubí"
+      },
+      "id": "Q9095324",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q9095324"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:es": "gobernador y gabinete de Michoacán",
+        "lang:en": "governor and cabinet of Michoacán"
+      },
+      "id": "Q52634102",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52634102"
+        }
+      ],
+      "area_id": "Q79861"
+    },
+    {
+      "name": {
+        "lang:es": "Partido Liberal",
+        "lang:en": "Liberal Party"
+      },
+      "id": "Q3366487",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3366487"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Partido Revolucionario Institucional",
+        "lang:en": "Institutional Revolutionary Party"
+      },
+      "id": "Q682969",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q682969"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Partido de la Revolución Democrática",
+        "lang:en": "Party of the Democratic Revolution"
+      },
+      "id": "Q767010",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q767010"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q17274633-70FF5953-A5C3-4AB5-8A47-131B8A636509",
+      "person_id": "Q17274633",
+      "organization_id": "Q52634102",
+      "area_id": "Q79861",
+      "role_superclass_code": "Q5589681",
+      "role_superclass": {
+        "lang:es": "Anexo:Gobernantes de Michoacán",
+        "lang:en": "Governor of Michoacán"
+      },
+      "role_code": "Q5589681",
+      "role": {
+        "lang:es": "Anexo:Gobernantes de Michoacán",
+        "lang:en": "Governor of Michoacán"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1938773-1E1ADA3E-7C7D-4861-A34A-ACAF42B477DD",
+      "person_id": "Q1938773",
+      "on_behalf_of_id": "Q767010",
+      "organization_id": "Q52634102",
+      "area_id": "Q79861",
+      "role_superclass_code": "Q5589681",
+      "role_superclass": {
+        "lang:es": "Anexo:Gobernantes de Michoacán",
+        "lang:en": "Governor of Michoacán"
+      },
+      "role_code": "Q5589681",
+      "role": {
+        "lang:es": "Anexo:Gobernantes de Michoacán",
+        "lang:en": "Governor of Michoacán"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2642570-81C5B53A-1733-4D52-9883-33B20CBE144C",
+      "person_id": "Q2642570",
+      "organization_id": "Q52634102",
+      "area_id": "Q79861",
+      "role_superclass_code": "Q5589681",
+      "role_superclass": {
+        "lang:es": "Anexo:Gobernantes de Michoacán",
+        "lang:en": "Governor of Michoacán"
+      },
+      "role_code": "Q5589681",
+      "role": {
+        "lang:es": "Anexo:Gobernantes de Michoacán",
+        "lang:en": "Governor of Michoacán"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2702248-95472EB9-86FB-424A-B2E0-199A8B0F634B",
+      "person_id": "Q2702248",
+      "on_behalf_of_id": "Q767010",
+      "organization_id": "Q52634102",
+      "area_id": "Q79861",
+      "role_superclass_code": "Q5589681",
+      "role_superclass": {
+        "lang:es": "Anexo:Gobernantes de Michoacán",
+        "lang:en": "Governor of Michoacán"
+      },
+      "role_code": "Q5589681",
+      "role": {
+        "lang:es": "Anexo:Gobernantes de Michoacán",
+        "lang:en": "Governor of Michoacán"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3070936-B23BDECB-1182-4D94-A03B-32F4B081F8D0",
+      "person_id": "Q3070936",
+      "on_behalf_of_id": "Q682969",
+      "organization_id": "Q52634102",
+      "area_id": "Q79861",
+      "role_superclass_code": "Q5589681",
+      "role_superclass": {
+        "lang:es": "Anexo:Gobernantes de Michoacán",
+        "lang:en": "Governor of Michoacán"
+      },
+      "role_code": "Q5589681",
+      "role": {
+        "lang:es": "Anexo:Gobernantes de Michoacán",
+        "lang:en": "Governor of Michoacán"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3544312-BF6853B9-333B-42E0-BC8D-E62E2067D558",
+      "person_id": "Q3544312",
+      "organization_id": "Q52634102",
+      "area_id": "Q79861",
+      "role_superclass_code": "Q5589681",
+      "role_superclass": {
+        "lang:es": "Anexo:Gobernantes de Michoacán",
+        "lang:en": "Governor of Michoacán"
+      },
+      "role_code": "Q5589681",
+      "role": {
+        "lang:es": "Anexo:Gobernantes de Michoacán",
+        "lang:en": "Governor of Michoacán"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q380975-7EADEEFE-855B-4836-8F9C-DC1E8B4530B4",
+      "person_id": "Q380975",
+      "on_behalf_of_id": "Q3366487",
+      "organization_id": "Q52634102",
+      "area_id": "Q79861",
+      "role_superclass_code": "Q5589681",
+      "role_superclass": {
+        "lang:es": "Anexo:Gobernantes de Michoacán",
+        "lang:en": "Governor of Michoacán"
+      },
+      "role_code": "Q5589681",
+      "role": {
+        "lang:es": "Anexo:Gobernantes de Michoacán",
+        "lang:en": "Governor of Michoacán"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q455683-91BA2604-A107-48A8-A339-CDDA55985669",
+      "person_id": "Q455683",
+      "on_behalf_of_id": "Q682969",
+      "organization_id": "Q52634102",
+      "area_id": "Q79861",
+      "role_superclass_code": "Q5589681",
+      "role_superclass": {
+        "lang:es": "Anexo:Gobernantes de Michoacán",
+        "lang:en": "Governor of Michoacán"
+      },
+      "role_code": "Q5589681",
+      "role": {
+        "lang:es": "Anexo:Gobernantes de Michoacán",
+        "lang:en": "Governor of Michoacán"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4694652-A3159092-3FAF-4743-828D-27250166CB83",
+      "person_id": "Q4694652",
+      "on_behalf_of_id": "Q682969",
+      "organization_id": "Q52634102",
+      "area_id": "Q79861",
+      "role_superclass_code": "Q5589681",
+      "role_superclass": {
+        "lang:es": "Anexo:Gobernantes de Michoacán",
+        "lang:en": "Governor of Michoacán"
+      },
+      "role_code": "Q5589681",
+      "role": {
+        "lang:es": "Anexo:Gobernantes de Michoacán",
+        "lang:en": "Governor of Michoacán"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5042154-E68A9B45-4015-4170-B787-F3F0A4855010",
+      "person_id": "Q5042154",
+      "on_behalf_of_id": "Q682969",
+      "organization_id": "Q52634102",
+      "area_id": "Q79861",
+      "role_superclass_code": "Q5589681",
+      "role_superclass": {
+        "lang:es": "Anexo:Gobernantes de Michoacán",
+        "lang:en": "Governor of Michoacán"
+      },
+      "role_code": "Q5589681",
+      "role": {
+        "lang:es": "Anexo:Gobernantes de Michoacán",
+        "lang:en": "Governor of Michoacán"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q515129-BA3B7B29-E214-4468-B6CC-79473342AFDE",
+      "person_id": "Q515129",
+      "organization_id": "Q52634102",
+      "area_id": "Q79861",
+      "role_superclass_code": "Q5589681",
+      "role_superclass": {
+        "lang:es": "Anexo:Gobernantes de Michoacán",
+        "lang:en": "Governor of Michoacán"
+      },
+      "role_code": "Q5589681",
+      "role": {
+        "lang:es": "Anexo:Gobernantes de Michoacán",
+        "lang:en": "Governor of Michoacán"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5441951-0017CF40-7A62-45B6-8397-7D28F12DE769",
+      "person_id": "Q5441951",
+      "organization_id": "Q52634102",
+      "area_id": "Q79861",
+      "role_superclass_code": "Q5589681",
+      "role_superclass": {
+        "lang:es": "Anexo:Gobernantes de Michoacán",
+        "lang:en": "Governor of Michoacán"
+      },
+      "role_code": "Q5589681",
+      "role": {
+        "lang:es": "Anexo:Gobernantes de Michoacán",
+        "lang:en": "Governor of Michoacán"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5930586-E1A2AB16-1D52-4EF3-B54F-EFE6D1FCE283",
+      "person_id": "Q5930586",
+      "on_behalf_of_id": "Q682969",
+      "organization_id": "Q52634102",
+      "area_id": "Q79861",
+      "role_superclass_code": "Q5589681",
+      "role_superclass": {
+        "lang:es": "Anexo:Gobernantes de Michoacán",
+        "lang:en": "Governor of Michoacán"
+      },
+      "role_code": "Q5589681",
+      "role": {
+        "lang:es": "Anexo:Gobernantes de Michoacán",
+        "lang:en": "Governor of Michoacán"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5941171-CEB06850-31D4-4483-B1AB-FFAACD64E33A",
+      "person_id": "Q5941171",
+      "on_behalf_of_id": "Q682969",
+      "organization_id": "Q52634102",
+      "area_id": "Q79861",
+      "role_superclass_code": "Q5589681",
+      "role_superclass": {
+        "lang:es": "Anexo:Gobernantes de Michoacán",
+        "lang:en": "Governor of Michoacán"
+      },
+      "role_code": "Q5589681",
+      "role": {
+        "lang:es": "Anexo:Gobernantes de Michoacán",
+        "lang:en": "Governor of Michoacán"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6125991-3BAA66D8-9DC3-452B-A9ED-5661FA859DBD",
+      "person_id": "Q6125991",
+      "on_behalf_of_id": "Q682969",
+      "organization_id": "Q52634102",
+      "area_id": "Q79861",
+      "role_superclass_code": "Q5589681",
+      "role_superclass": {
+        "lang:es": "Anexo:Gobernantes de Michoacán",
+        "lang:en": "Governor of Michoacán"
+      },
+      "role_code": "Q5589681",
+      "role": {
+        "lang:es": "Anexo:Gobernantes de Michoacán",
+        "lang:en": "Governor of Michoacán"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q9095324-BD33EB0C-4C64-417E-B9B1-7577CD00AD17",
+      "person_id": "Q9095324",
+      "on_behalf_of_id": "Q682969",
+      "organization_id": "Q52634102",
+      "area_id": "Q79861",
+      "role_superclass_code": "Q5589681",
+      "role_superclass": {
+        "lang:es": "Anexo:Gobernantes de Michoacán",
+        "lang:en": "Governor of Michoacán"
+      },
+      "role_code": "Q5589681",
+      "role": {
+        "lang:es": "Anexo:Gobernantes de Michoacán",
+        "lang:en": "Governor of Michoacán"
+      }
+    }
+  ]
+}

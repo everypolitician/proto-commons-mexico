@@ -1,0 +1,73 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:es": "Mario Marín Torres",
+        "lang:en": "Mario Putarco Marín Torres"
+      },
+      "id": "Q2300806",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2300806"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:es": "gobernador y gabinete de Puebla",
+        "lang:en": "governor and cabinet of Puebla"
+      },
+      "id": "Q52634108",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52634108"
+        }
+      ],
+      "area_id": "Q79923"
+    },
+    {
+      "name": {
+        "lang:es": "Partido Revolucionario Institucional",
+        "lang:en": "Institutional Revolutionary Party"
+      },
+      "id": "Q682969",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q682969"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2300806-5093D70A-D0A1-4390-8017-598F24CD8A7A",
+      "person_id": "Q2300806",
+      "on_behalf_of_id": "Q682969",
+      "organization_id": "Q52634108",
+      "area_id": "Q79923",
+      "role_superclass_code": "Q5589701",
+      "role_superclass": {
+        "lang:es": "Anexo:Gobernantes de Puebla",
+        "lang:en": "Governor of Puebla"
+      },
+      "role_code": "Q5589701",
+      "role": {
+        "lang:es": "Anexo:Gobernantes de Puebla",
+        "lang:en": "Governor of Puebla"
+      }
+    }
+  ]
+}

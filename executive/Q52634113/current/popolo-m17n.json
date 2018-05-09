@@ -1,0 +1,152 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:es": "Francisco Antonio Crespo",
+        "lang:en": "Francisco Antonio Crespo"
+      },
+      "id": "Q16493239",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16493239"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Guillermo Padrés Elías",
+        "lang:en": "Guillermo Padrés Elías"
+      },
+      "id": "Q1969922",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1969922"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Eduardo Bours",
+        "lang:en": "Eduardo Bours"
+      },
+      "id": "Q2362258",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2362258"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:es": "gobernador y gabinete de Sonora",
+        "lang:en": "governor and cabinet of Sonora"
+      },
+      "id": "Q52634113",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52634113"
+        }
+      ],
+      "area_id": "Q46422"
+    },
+    {
+      "name": {
+        "lang:es": "Partido Revolucionario Institucional",
+        "lang:en": "Institutional Revolutionary Party"
+      },
+      "id": "Q682969",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q682969"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Partido Acción Nacional",
+        "lang:en": "National Action Party"
+      },
+      "id": "Q851087",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q851087"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16493239-43afe07c-48b4-03ce-3508-0ff1b4f78fde",
+      "person_id": "Q16493239",
+      "organization_id": "Q52634113",
+      "area_id": "Q46422",
+      "role_superclass_code": "Q3249960",
+      "role_superclass": {
+        "lang:es": "Anexo:Gobernantes de Sonora",
+        "lang:en": "Governor of Sonora"
+      },
+      "role_code": "Q3249960",
+      "role": {
+        "lang:es": "Anexo:Gobernantes de Sonora",
+        "lang:en": "Governor of Sonora"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1969922-044ca785-428d-5495-adf9-0fce73483351",
+      "person_id": "Q1969922",
+      "on_behalf_of_id": "Q851087",
+      "organization_id": "Q52634113",
+      "area_id": "Q46422",
+      "role_superclass_code": "Q3249960",
+      "role_superclass": {
+        "lang:es": "Anexo:Gobernantes de Sonora",
+        "lang:en": "Governor of Sonora"
+      },
+      "role_code": "Q3249960",
+      "role": {
+        "lang:es": "Anexo:Gobernantes de Sonora",
+        "lang:en": "Governor of Sonora"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2362258-6E47BD15-F6FF-4132-9DCA-25D4229B0216",
+      "person_id": "Q2362258",
+      "on_behalf_of_id": "Q682969",
+      "organization_id": "Q52634113",
+      "area_id": "Q46422",
+      "role_superclass_code": "Q3249960",
+      "role_superclass": {
+        "lang:es": "Anexo:Gobernantes de Sonora",
+        "lang:en": "Governor of Sonora"
+      },
+      "role_code": "Q3249960",
+      "role": {
+        "lang:es": "Anexo:Gobernantes de Sonora",
+        "lang:en": "Governor of Sonora"
+      }
+    }
+  ]
+}

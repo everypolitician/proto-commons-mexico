@@ -1,0 +1,58 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:es": "Zeferino Torreblanca",
+        "lang:en": "Zeferino Torreblanca"
+      },
+      "id": "Q2136118",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2136118"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:es": "gobernador y gabinete de Guerrero",
+        "lang:en": "governor and cabinet of Guerrero"
+      },
+      "id": "Q52634099",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52634099"
+        }
+      ],
+      "area_id": "Q60158"
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2136118-64653211-554B-422F-92E7-82668037F0E0",
+      "person_id": "Q2136118",
+      "organization_id": "Q52634099",
+      "area_id": "Q60158",
+      "role_superclass_code": "Q5589659",
+      "role_superclass": {
+        "lang:es": "Anexo:Gobernantes de Guerrero",
+        "lang:en": "Governor of Guerrero"
+      },
+      "role_code": "Q5589659",
+      "role": {
+        "lang:es": "Anexo:Gobernantes de Guerrero",
+        "lang:en": "Governor of Guerrero"
+      }
+    }
+  ]
+}
