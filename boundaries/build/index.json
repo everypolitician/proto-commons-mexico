@@ -1,2 +1,16 @@
-{}
-
+[
+  {
+    "directory": "country",
+    "area_type_wikidata_item_id": "Q6256",
+    "associations": [
+      {
+        "comment": "President of Mexico",
+        "position_item_id": "Q628004"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "name_en",
+      "lang:es": "name_es"
+    }
+  }
+]
