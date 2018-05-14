@@ -1,0 +1,105 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:es": "Eugenio Hernández Flores",
+        "lang:en": "Eugenio Javier Hernández Flores"
+      },
+      "id": "Q3917572",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3917572"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Tomás Yarrington",
+        "lang:en": "Tomás Yarrington"
+      },
+      "id": "Q7820531",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7820531"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:es": "gobernador y gabinete de Tamaulipas",
+        "lang:en": "governor and cabinet of Tamaulipas"
+      },
+      "id": "Q52634116",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52634116"
+        }
+      ],
+      "area_id": "Q80007"
+    },
+    {
+      "name": {
+        "lang:es": "Partido Revolucionario Institucional",
+        "lang:en": "Institutional Revolutionary Party"
+      },
+      "id": "Q682969",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q682969"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3917572-4F88A38D-FFE7-4010-87C5-423387626A09",
+      "person_id": "Q3917572",
+      "on_behalf_of_id": "Q682969",
+      "organization_id": "Q52634116",
+      "area_id": "Q80007",
+      "role_superclass_code": "Q5589726",
+      "role_superclass": {
+        "lang:es": "Anexo:Gobernantes de Tamaulipas",
+        "lang:en": "Governor of Tamaulipas"
+      },
+      "role_code": "Q5589726",
+      "role": {
+        "lang:es": "Anexo:Gobernantes de Tamaulipas",
+        "lang:en": "Governor of Tamaulipas"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7820531-CB0D07B1-FC93-4663-B674-9C54DF20AB9C",
+      "person_id": "Q7820531",
+      "organization_id": "Q52634116",
+      "area_id": "Q80007",
+      "role_superclass_code": "Q5589726",
+      "role_superclass": {
+        "lang:es": "Anexo:Gobernantes de Tamaulipas",
+        "lang:en": "Governor of Tamaulipas"
+      },
+      "role_code": "Q5589726",
+      "role": {
+        "lang:es": "Anexo:Gobernantes de Tamaulipas",
+        "lang:en": "Governor of Tamaulipas"
+      }
+    }
+  ]
+}

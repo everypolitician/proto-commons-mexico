@@ -1,0 +1,73 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:es": "Narciso Agúndez Montaño",
+        "lang:en": "Narciso Agúndez Montaño"
+      },
+      "id": "Q2735282",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2735282"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:es": "gobernador y gabinete de Baja California Sur",
+        "lang:en": "governor and cabinet of Baja California Sur"
+      },
+      "id": "Q52634088",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52634088"
+        }
+      ],
+      "area_id": "Q46508"
+    },
+    {
+      "name": {
+        "lang:es": "Partido de la Revolución Democrática",
+        "lang:en": "Party of the Democratic Revolution"
+      },
+      "id": "Q767010",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q767010"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2735282-513CF8B4-DC27-46B0-A766-81E9D9571288",
+      "person_id": "Q2735282",
+      "on_behalf_of_id": "Q767010",
+      "organization_id": "Q52634088",
+      "area_id": "Q46508",
+      "role_superclass_code": "Q5589635",
+      "role_superclass": {
+        "lang:es": "Anexo:Gobernantes de Baja California Sur",
+        "lang:en": "Governor of Baja California Sur"
+      },
+      "role_code": "Q5589635",
+      "role": {
+        "lang:es": "Anexo:Gobernantes de Baja California Sur",
+        "lang:en": "Governor of Baja California Sur"
+      }
+    }
+  ]
+}

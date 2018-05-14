@@ -1,0 +1,90 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:es": "Juan Manuel Fernández de Jáuregui",
+        "lang:en": "Juan Manuel Fernández de Jaúregui"
+      },
+      "id": "Q21411082",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21411082"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Saturnino Osornio",
+        "lang:en": "Saturnino Osornio"
+      },
+      "id": "Q21664902",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21664902"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:es": "gobernador y gabinete de Querétaro",
+        "lang:en": "governor and cabinet of Querétaro"
+      },
+      "id": "Q52634109",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52634109"
+        }
+      ],
+      "area_id": "Q79754"
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21411082-ab45625c-4f38-44d9-5d4a-0ec0aabf171c",
+      "person_id": "Q21411082",
+      "organization_id": "Q52634109",
+      "area_id": "Q79754",
+      "role_superclass_code": "Q5589703",
+      "role_superclass": {
+        "lang:es": "Anexo:Gobernantes de Querétaro",
+        "lang:en": "Governor of Querétaro"
+      },
+      "role_code": "Q5589703",
+      "role": {
+        "lang:es": "Anexo:Gobernantes de Querétaro",
+        "lang:en": "Governor of Querétaro"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21664902-ebe38163-4d73-7a0d-17a3-86ebb712342c",
+      "person_id": "Q21664902",
+      "organization_id": "Q52634109",
+      "area_id": "Q79754",
+      "role_superclass_code": "Q5589703",
+      "role_superclass": {
+        "lang:es": "Anexo:Gobernantes de Querétaro",
+        "lang:en": "Governor of Querétaro"
+      },
+      "role_code": "Q5589703",
+      "role": {
+        "lang:es": "Anexo:Gobernantes de Querétaro",
+        "lang:en": "Governor of Querétaro"
+      }
+    }
+  ]
+}

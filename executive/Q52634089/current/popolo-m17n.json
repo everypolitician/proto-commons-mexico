@@ -1,0 +1,73 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:es": "Jorge Carlos Hurtado Valdez",
+        "lang:en": "Jorge Carlos Hurtado Valdez"
+      },
+      "id": "Q2265973",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2265973"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:es": "gobernador y gabinete de Campeche",
+        "lang:en": "governor and cabinet of Campeche"
+      },
+      "id": "Q52634089",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52634089"
+        }
+      ],
+      "area_id": "Q80908"
+    },
+    {
+      "name": {
+        "lang:es": "Partido Revolucionario Institucional",
+        "lang:en": "Institutional Revolutionary Party"
+      },
+      "id": "Q682969",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q682969"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2265973-E3406FDC-868E-41FF-981E-8BB054727233",
+      "person_id": "Q2265973",
+      "on_behalf_of_id": "Q682969",
+      "organization_id": "Q52634089",
+      "area_id": "Q80908",
+      "role_superclass_code": "Q5589643",
+      "role_superclass": {
+        "lang:es": "Anexo:Gobernantes de Campeche",
+        "lang:en": "Governor of Campeche"
+      },
+      "role_code": "Q5589643",
+      "role": {
+        "lang:es": "Anexo:Gobernantes de Campeche",
+        "lang:en": "Governor of Campeche"
+      }
+    }
+  ]
+}

@@ -1,0 +1,657 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:es": "José María Iglesias",
+        "lang:en": "José María Iglesias"
+      },
+      "id": "Q1196814",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1196814"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Porfirio Díaz",
+        "lang:en": "Porfirio Díaz"
+      },
+      "id": "Q150688",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q150688"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Rómulo Díaz de la Vega",
+        "lang:en": "Rómulo Díaz de la Vega"
+      },
+      "id": "Q2500617",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2500617"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Enrique Peña Nieto",
+        "lang:en": "Enrique Peña Nieto"
+      },
+      "id": "Q296741",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q296741"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/EnriquePN"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Venustiano Carranza",
+        "lang:en": "Venustiano Carranza"
+      },
+      "id": "Q313122",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q313122"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Pedro Lascuráin Paredes",
+        "lang:en": "Pedro Lascuráin"
+      },
+      "id": "Q315621",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q315621"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Anastasio Bustamante",
+        "lang:en": "Anastasio Bustamante"
+      },
+      "id": "Q354678",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q354678"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Francisco León de la Barra",
+        "lang:en": "Francisco León de la Barra"
+      },
+      "id": "Q365409",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q365409"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Francisco Carvajal",
+        "lang:en": "Francisco S. Carvajal"
+      },
+      "id": "Q372164",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q372164"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Manuel del Refugio González Flores",
+        "lang:en": "Manuel González Flores"
+      },
+      "id": "Q380975",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q380975"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Mariano Arista",
+        "lang:en": "Mariano Arista"
+      },
+      "id": "Q431576",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q431576"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Ignacio Comonfort",
+        "lang:en": "Ignacio Comonfort"
+      },
+      "id": "Q449399",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q449399"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Miguel Miramón",
+        "lang:en": "Miguel Miramón"
+      },
+      "id": "Q449439",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q449439"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Pascual Ortiz Rubio",
+        "lang:en": "Pascual Ortiz Rubio"
+      },
+      "id": "Q455683",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q455683"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Juan Álvarez Hurtado",
+        "lang:en": "Juan Álvarez Hurtado"
+      },
+      "id": "Q460776",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q460776"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Martín Carrera",
+        "lang:en": "Martín Carrera"
+      },
+      "id": "Q597027",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q597027"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Juan Bautista Ceballos",
+        "lang:en": "Juan Bautista Ceballos"
+      },
+      "id": "Q766298",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q766298"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:es": "gabinete de México",
+        "lang:en": "cabinet of Mexico"
+      },
+      "id": "Q2182191",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2182191"
+        }
+      ],
+      "area_id": "Q96"
+    },
+    {
+      "name": {
+        "lang:es": "Partido Conservador (México)",
+        "lang:en": "Conservative Party"
+      },
+      "id": "Q15984928",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15984928"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Liberal Constitutionalist Party"
+      },
+      "id": "Q2604894",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2604894"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Partido Liberal",
+        "lang:en": "Liberal Party"
+      },
+      "id": "Q3366487",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3366487"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Partido Revolucionario Institucional",
+        "lang:en": "Institutional Revolutionary Party"
+      },
+      "id": "Q682969",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q682969"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1196814-96F89684-A024-49E8-9C05-33E663A54791",
+      "person_id": "Q1196814",
+      "on_behalf_of_id": "Q3366487",
+      "organization_id": "Q2182191",
+      "area_id": "Q96",
+      "role_superclass_code": "Q628004",
+      "role_superclass": {
+        "lang:es": "Presidente de México",
+        "lang:en": "President of Mexico"
+      },
+      "role_code": "Q628004",
+      "role": {
+        "lang:es": "Presidente de México",
+        "lang:en": "President of Mexico"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q150688-FE62A19B-F5D0-4795-8E4E-AAACE9E89D35",
+      "person_id": "Q150688",
+      "on_behalf_of_id": "Q3366487",
+      "organization_id": "Q2182191",
+      "area_id": "Q96",
+      "role_superclass_code": "Q628004",
+      "role_superclass": {
+        "lang:es": "Presidente de México",
+        "lang:en": "President of Mexico"
+      },
+      "role_code": "Q628004",
+      "role": {
+        "lang:es": "Presidente de México",
+        "lang:en": "President of Mexico"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2500617-57D7D265-4D70-47B0-B4AE-044F62748085",
+      "person_id": "Q2500617",
+      "organization_id": "Q2182191",
+      "area_id": "Q96",
+      "role_superclass_code": "Q628004",
+      "role_superclass": {
+        "lang:es": "Presidente de México",
+        "lang:en": "President of Mexico"
+      },
+      "role_code": "Q628004",
+      "role": {
+        "lang:es": "Presidente de México",
+        "lang:en": "President of Mexico"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q313122-24C2A6DC-F796-408E-9DE9-B8601CAE1232",
+      "person_id": "Q313122",
+      "on_behalf_of_id": "Q2604894",
+      "organization_id": "Q2182191",
+      "area_id": "Q96",
+      "role_superclass_code": "Q628004",
+      "role_superclass": {
+        "lang:es": "Presidente de México",
+        "lang:en": "President of Mexico"
+      },
+      "role_code": "Q628004",
+      "role": {
+        "lang:es": "Presidente de México",
+        "lang:en": "President of Mexico"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q315621-E7B37712-40E6-4883-958F-B4DFCF14A7CD",
+      "person_id": "Q315621",
+      "organization_id": "Q2182191",
+      "area_id": "Q96",
+      "role_superclass_code": "Q628004",
+      "role_superclass": {
+        "lang:es": "Presidente de México",
+        "lang:en": "President of Mexico"
+      },
+      "role_code": "Q628004",
+      "role": {
+        "lang:es": "Presidente de México",
+        "lang:en": "President of Mexico"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q354678-1830bdeb-4681-cf48-5f0d-51ebc2c544e5",
+      "person_id": "Q354678",
+      "on_behalf_of_id": "Q15984928",
+      "organization_id": "Q2182191",
+      "area_id": "Q96",
+      "role_superclass_code": "Q628004",
+      "role_superclass": {
+        "lang:es": "Presidente de México",
+        "lang:en": "President of Mexico"
+      },
+      "role_code": "Q628004",
+      "role": {
+        "lang:es": "Presidente de México",
+        "lang:en": "President of Mexico"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q365409-D5B6DBB9-F987-4534-8035-83A8A2546E1B",
+      "person_id": "Q365409",
+      "organization_id": "Q2182191",
+      "area_id": "Q96",
+      "role_superclass_code": "Q628004",
+      "role_superclass": {
+        "lang:es": "Presidente de México",
+        "lang:en": "President of Mexico"
+      },
+      "role_code": "Q628004",
+      "role": {
+        "lang:es": "Presidente de México",
+        "lang:en": "President of Mexico"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q372164-EE2E1D35-FF00-4EC2-8793-ACE1F9677283",
+      "person_id": "Q372164",
+      "organization_id": "Q2182191",
+      "area_id": "Q96",
+      "role_superclass_code": "Q628004",
+      "role_superclass": {
+        "lang:es": "Presidente de México",
+        "lang:en": "President of Mexico"
+      },
+      "role_code": "Q628004",
+      "role": {
+        "lang:es": "Presidente de México",
+        "lang:en": "President of Mexico"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q380975-3E463B58-9EBE-4CBB-B8EE-98A4688C560C",
+      "person_id": "Q380975",
+      "on_behalf_of_id": "Q3366487",
+      "organization_id": "Q2182191",
+      "area_id": "Q96",
+      "role_superclass_code": "Q628004",
+      "role_superclass": {
+        "lang:es": "Presidente de México",
+        "lang:en": "President of Mexico"
+      },
+      "role_code": "Q628004",
+      "role": {
+        "lang:es": "Presidente de México",
+        "lang:en": "President of Mexico"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q431576-DCFB8713-4AE8-4764-B573-D5A56FB428B9",
+      "person_id": "Q431576",
+      "on_behalf_of_id": "Q3366487",
+      "organization_id": "Q2182191",
+      "area_id": "Q96",
+      "role_superclass_code": "Q628004",
+      "role_superclass": {
+        "lang:es": "Presidente de México",
+        "lang:en": "President of Mexico"
+      },
+      "role_code": "Q628004",
+      "role": {
+        "lang:es": "Presidente de México",
+        "lang:en": "President of Mexico"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q449399-989307EC-ABAC-4C96-B89A-BFC8F982C981",
+      "person_id": "Q449399",
+      "on_behalf_of_id": "Q3366487",
+      "organization_id": "Q2182191",
+      "area_id": "Q96",
+      "role_superclass_code": "Q628004",
+      "role_superclass": {
+        "lang:es": "Presidente de México",
+        "lang:en": "President of Mexico"
+      },
+      "role_code": "Q628004",
+      "role": {
+        "lang:es": "Presidente de México",
+        "lang:en": "President of Mexico"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q449439-A5BE8DA8-3F1B-441F-8FF0-41FA131FA07F",
+      "person_id": "Q449439",
+      "organization_id": "Q2182191",
+      "area_id": "Q96",
+      "role_superclass_code": "Q628004",
+      "role_superclass": {
+        "lang:es": "Presidente de México",
+        "lang:en": "President of Mexico"
+      },
+      "role_code": "Q628004",
+      "role": {
+        "lang:es": "Presidente de México",
+        "lang:en": "President of Mexico"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q449439-ECAEAE1C-5EBB-45D5-8811-6D408D2A534F",
+      "person_id": "Q449439",
+      "organization_id": "Q2182191",
+      "area_id": "Q96",
+      "role_superclass_code": "Q628004",
+      "role_superclass": {
+        "lang:es": "Presidente de México",
+        "lang:en": "President of Mexico"
+      },
+      "role_code": "Q628004",
+      "role": {
+        "lang:es": "Presidente de México",
+        "lang:en": "President of Mexico"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q455683-1B6681DA-D3C4-47E9-AC0C-57384138D685",
+      "person_id": "Q455683",
+      "on_behalf_of_id": "Q682969",
+      "organization_id": "Q2182191",
+      "area_id": "Q96",
+      "role_superclass_code": "Q628004",
+      "role_superclass": {
+        "lang:es": "Presidente de México",
+        "lang:en": "President of Mexico"
+      },
+      "role_code": "Q628004",
+      "role": {
+        "lang:es": "Presidente de México",
+        "lang:en": "President of Mexico"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q460776-9435DF3D-8BD2-4387-B973-51A752F7FB8C",
+      "person_id": "Q460776",
+      "on_behalf_of_id": "Q3366487",
+      "organization_id": "Q2182191",
+      "area_id": "Q96",
+      "role_superclass_code": "Q628004",
+      "role_superclass": {
+        "lang:es": "Presidente de México",
+        "lang:en": "President of Mexico"
+      },
+      "role_code": "Q628004",
+      "role": {
+        "lang:es": "Presidente de México",
+        "lang:en": "President of Mexico"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q597027-B5FF92C7-5C70-4646-9828-4800C07EBE84",
+      "person_id": "Q597027",
+      "on_behalf_of_id": "Q3366487",
+      "organization_id": "Q2182191",
+      "area_id": "Q96",
+      "role_superclass_code": "Q628004",
+      "role_superclass": {
+        "lang:es": "Presidente de México",
+        "lang:en": "President of Mexico"
+      },
+      "role_code": "Q628004",
+      "role": {
+        "lang:es": "Presidente de México",
+        "lang:en": "President of Mexico"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q766298-CB96638A-6D4F-408A-B417-E098AB298B41",
+      "person_id": "Q766298",
+      "on_behalf_of_id": "Q3366487",
+      "organization_id": "Q2182191",
+      "area_id": "Q96",
+      "role_superclass_code": "Q628004",
+      "role_superclass": {
+        "lang:es": "Presidente de México",
+        "lang:en": "President of Mexico"
+      },
+      "role_code": "Q628004",
+      "role": {
+        "lang:es": "Presidente de México",
+        "lang:en": "President of Mexico"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/q296741-3FD7407A-41F3-4450-99B0-F1855AA9EADC",
+      "person_id": "Q296741",
+      "on_behalf_of_id": "Q682969",
+      "organization_id": "Q2182191",
+      "area_id": "Q96",
+      "start_date": "2012-12-01",
+      "role_superclass_code": "Q628004",
+      "role_superclass": {
+        "lang:es": "Presidente de México",
+        "lang:en": "President of Mexico"
+      },
+      "role_code": "Q628004",
+      "role": {
+        "lang:es": "Presidente de México",
+        "lang:en": "President of Mexico"
+      }
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:es": "Emilio González Márquez",
+        "lang:en": "Emilio González Márquez"
+      },
+      "id": "Q2674250",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2674250"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:es": "gobernador y gabinete de Jalisco",
+        "lang:en": "governor and cabinet of Jalisco"
+      },
+      "id": "Q52634101",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52634101"
+        }
+      ],
+      "area_id": "Q13160"
+    },
+    {
+      "name": {
+        "lang:es": "Partido Acción Nacional",
+        "lang:en": "National Action Party"
+      },
+      "id": "Q851087",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q851087"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2674250-760EAEB2-020E-426B-91E3-455FF68B76F3",
+      "person_id": "Q2674250",
+      "on_behalf_of_id": "Q851087",
+      "organization_id": "Q52634101",
+      "area_id": "Q13160",
+      "role_superclass_code": "Q5589666",
+      "role_superclass": {
+        "lang:es": "Anexo:Gobernantes de Jalisco",
+        "lang:en": "Governor of Jalisco"
+      },
+      "role_code": "Q5589666",
+      "role": {
+        "lang:es": "Anexo:Gobernantes de Jalisco",
+        "lang:en": "Governor of Jalisco"
+      }
+    }
+  ]
+}

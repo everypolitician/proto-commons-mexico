@@ -1,0 +1,219 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:es": "Fernando Gutiérrez Barrios",
+        "lang:en": "Fernando Gutiérrez Barrios"
+      },
+      "id": "Q117384",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q117384"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Miguel Barragán",
+        "lang:en": "Miguel Barragán"
+      },
+      "id": "Q1208732",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1208732"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Heriberto Jara",
+        "lang:en": "Heriberto Jara Corona"
+      },
+      "id": "Q1964682",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1964682"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Fidel Herrera Beltrán",
+        "lang:en": "Fidel Herrera Beltrán"
+      },
+      "id": "Q2231856",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2231856"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Miguel Alemán Velasco",
+        "lang:en": "Miguel Alemán Velasco"
+      },
+      "id": "Q4473550",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4473550"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:es": "gobernador y gabinete de Veracruz",
+        "lang:en": "governor and cabinet of Veracruz"
+      },
+      "id": "Q52634118",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52634118"
+        }
+      ],
+      "area_id": "Q60130"
+    },
+    {
+      "name": {
+        "lang:es": "Partido Liberal",
+        "lang:en": "Liberal Party"
+      },
+      "id": "Q3366487",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3366487"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Partido Revolucionario Institucional",
+        "lang:en": "Institutional Revolutionary Party"
+      },
+      "id": "Q682969",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q682969"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q117384-79386F7F-449F-49DD-BE63-D655573504A2",
+      "person_id": "Q117384",
+      "on_behalf_of_id": "Q682969",
+      "organization_id": "Q52634118",
+      "area_id": "Q60130",
+      "role_superclass_code": "Q5589731",
+      "role_superclass": {
+        "lang:es": "Anexo:Gobernadores de Veracruz",
+        "lang:en": "Governor of Veracruz"
+      },
+      "role_code": "Q5589731",
+      "role": {
+        "lang:es": "Anexo:Gobernadores de Veracruz",
+        "lang:en": "Governor of Veracruz"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1208732-4FC91395-4FF0-4231-87CC-EE7B7B529187",
+      "person_id": "Q1208732",
+      "on_behalf_of_id": "Q3366487",
+      "organization_id": "Q52634118",
+      "area_id": "Q60130",
+      "role_superclass_code": "Q5589731",
+      "role_superclass": {
+        "lang:es": "Anexo:Gobernadores de Veracruz",
+        "lang:en": "Governor of Veracruz"
+      },
+      "role_code": "Q5589731",
+      "role": {
+        "lang:es": "Anexo:Gobernadores de Veracruz",
+        "lang:en": "Governor of Veracruz"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1964682-A78E403F-69BB-4F7B-9F67-AA130C7D9CD9",
+      "person_id": "Q1964682",
+      "on_behalf_of_id": "Q682969",
+      "organization_id": "Q52634118",
+      "area_id": "Q60130",
+      "role_superclass_code": "Q5589731",
+      "role_superclass": {
+        "lang:es": "Anexo:Gobernadores de Veracruz",
+        "lang:en": "Governor of Veracruz"
+      },
+      "role_code": "Q5589731",
+      "role": {
+        "lang:es": "Anexo:Gobernadores de Veracruz",
+        "lang:en": "Governor of Veracruz"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2231856-66B7A585-B81D-45AD-AE03-11DE98C92A83",
+      "person_id": "Q2231856",
+      "on_behalf_of_id": "Q682969",
+      "organization_id": "Q52634118",
+      "area_id": "Q60130",
+      "role_superclass_code": "Q5589731",
+      "role_superclass": {
+        "lang:es": "Anexo:Gobernadores de Veracruz",
+        "lang:en": "Governor of Veracruz"
+      },
+      "role_code": "Q5589731",
+      "role": {
+        "lang:es": "Anexo:Gobernadores de Veracruz",
+        "lang:en": "Governor of Veracruz"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4473550-ABC8D338-4445-48FC-A9CB-0826CABAF9A5",
+      "person_id": "Q4473550",
+      "on_behalf_of_id": "Q682969",
+      "organization_id": "Q52634118",
+      "area_id": "Q60130",
+      "role_superclass_code": "Q5589731",
+      "role_superclass": {
+        "lang:es": "Anexo:Gobernadores de Veracruz",
+        "lang:en": "Governor of Veracruz"
+      },
+      "role_code": "Q5589731",
+      "role": {
+        "lang:es": "Anexo:Gobernadores de Veracruz",
+        "lang:en": "Governor of Veracruz"
+      }
+    }
+  ]
+}
