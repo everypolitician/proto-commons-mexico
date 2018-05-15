@@ -1,2 +1,332 @@
-{}
-
+[
+  {
+    "comment": "cabinet of Mexico",
+    "executive_item_id": "Q2182191",
+    "positions": [
+      {
+        "comment": "President of Mexico",
+        "position_item_id": "Q628004"
+      }
+    ]
+  },
+  {
+    "comment": "governor and cabinet of Aguascalientes",
+    "executive_item_id": "Q52634086",
+    "positions": [
+      {
+        "comment": "Governor of Aguascalientes",
+        "position_item_id": "Q5589628"
+      }
+    ]
+  },
+  {
+    "comment": "governor and cabinet of Baja California",
+    "executive_item_id": "Q52634087",
+    "positions": [
+      {
+        "comment": "Governor of Baja California",
+        "position_item_id": "Q5589632"
+      }
+    ]
+  },
+  {
+    "comment": "governor and cabinet of Baja California Sur",
+    "executive_item_id": "Q52634088",
+    "positions": [
+      {
+        "comment": "Governor of Baja California Sur",
+        "position_item_id": "Q5589635"
+      }
+    ]
+  },
+  {
+    "comment": "governor and cabinet of Campeche",
+    "executive_item_id": "Q52634089",
+    "positions": [
+      {
+        "comment": "Governor of Campeche",
+        "position_item_id": "Q5589643"
+      }
+    ]
+  },
+  {
+    "comment": "governor and cabinet of Coahuila",
+    "executive_item_id": "Q52634090",
+    "positions": [
+      {
+        "comment": "Governor of Coahuila",
+        "position_item_id": "Q11812211"
+      }
+    ]
+  },
+  {
+    "comment": "governor and cabinet of Colima",
+    "executive_item_id": "Q52634091",
+    "positions": [
+      {
+        "comment": "Governor of Colima",
+        "position_item_id": "Q5589648"
+      }
+    ]
+  },
+  {
+    "comment": "governor and cabinet of Chiapas",
+    "executive_item_id": "Q52634092",
+    "positions": [
+      {
+        "comment": "Governor of Chiapas",
+        "position_item_id": "Q5589647"
+      }
+    ]
+  },
+  {
+    "comment": "governor and cabinet of Chihuahua",
+    "executive_item_id": "Q52634093",
+    "positions": [
+      {
+        "comment": "Governor of Chihuahua",
+        "position_item_id": "Q9282520"
+      }
+    ]
+  },
+  {
+    "comment": "governor and cabinet of Ciudad de México",
+    "executive_item_id": "Q52634094",
+    "positions": [
+      {
+        "comment": "Head of Mexico City government",
+        "position_item_id": "Q2962015"
+      }
+    ]
+  },
+  {
+    "comment": "governor and cabinet of Durango",
+    "executive_item_id": "Q52634096",
+    "positions": [
+      {
+        "comment": "Governor of Durango",
+        "position_item_id": "Q3112712"
+      }
+    ]
+  },
+  {
+    "comment": "governor and cabinet of Estado de México",
+    "executive_item_id": "Q52634097",
+    "positions": [
+      {
+        "comment": "Governor of the State of Mexico",
+        "position_item_id": "Q5589754"
+      }
+    ]
+  },
+  {
+    "comment": "governor and cabinet of Guanajuato",
+    "executive_item_id": "Q52634098",
+    "positions": [
+      {
+        "comment": "Governor of Guanajuato",
+        "position_item_id": "Q5589657"
+      }
+    ]
+  },
+  {
+    "comment": "governor and cabinet of Guerrero",
+    "executive_item_id": "Q52634099",
+    "positions": [
+      {
+        "comment": "Governor of Guerrero",
+        "position_item_id": "Q5589659"
+      }
+    ]
+  },
+  {
+    "comment": "governor and cabinet of Hidalgo",
+    "executive_item_id": "Q52634100",
+    "positions": [
+      {
+        "comment": "Governor of Hidalgo",
+        "position_item_id": "Q5589662"
+      }
+    ]
+  },
+  {
+    "comment": "governor and cabinet of Jalisco",
+    "executive_item_id": "Q52634101",
+    "positions": [
+      {
+        "comment": "Governor of Jalisco",
+        "position_item_id": "Q5589666"
+      }
+    ]
+  },
+  {
+    "comment": "governor and cabinet of Michoacán",
+    "executive_item_id": "Q52634102",
+    "positions": [
+      {
+        "comment": "Governor of Michoacán",
+        "position_item_id": "Q5589681"
+      }
+    ]
+  },
+  {
+    "comment": "governor and cabinet of Morelos",
+    "executive_item_id": "Q52634103",
+    "positions": [
+      {
+        "comment": "Governor of Morelos",
+        "position_item_id": "Q5589684"
+      }
+    ]
+  },
+  {
+    "comment": "governor and cabinet of Nayarit",
+    "executive_item_id": "Q52634104",
+    "positions": [
+      {
+        "comment": "Governor of Nayarit",
+        "position_item_id": "Q5589686"
+      }
+    ]
+  },
+  {
+    "comment": "governor and cabinet of Nuevo León",
+    "executive_item_id": "Q52634105",
+    "positions": [
+      {
+        "comment": "Governor of Nuevo León",
+        "position_item_id": "Q5589693"
+      }
+    ]
+  },
+  {
+    "comment": "governor and cabinet of Oaxaca",
+    "executive_item_id": "Q52634107",
+    "positions": [
+      {
+        "comment": "Governor of Oaxaca",
+        "position_item_id": "Q5589697"
+      }
+    ]
+  },
+  {
+    "comment": "governor and cabinet of Puebla",
+    "executive_item_id": "Q52634108",
+    "positions": [
+      {
+        "comment": "Governor of Puebla",
+        "position_item_id": "Q5589701"
+      }
+    ]
+  },
+  {
+    "comment": "governor and cabinet of Querétaro",
+    "executive_item_id": "Q52634109",
+    "positions": [
+      {
+        "comment": "Governor of Querétaro",
+        "position_item_id": "Q5589703"
+      }
+    ]
+  },
+  {
+    "comment": "governor and cabinet of Quintana Roo",
+    "executive_item_id": "Q52634110",
+    "positions": [
+      {
+        "comment": "Governor of Quintana Roo",
+        "position_item_id": "Q5589705"
+      }
+    ]
+  },
+  {
+    "comment": "governor and cabinet of San Luis Potosí",
+    "executive_item_id": "Q52634111",
+    "positions": [
+      {
+        "comment": "Governor of San Luis Potosí",
+        "position_item_id": "Q5589709"
+      }
+    ]
+  },
+  {
+    "comment": "governor and cabinet of Sinaloa",
+    "executive_item_id": "Q52634112",
+    "positions": [
+      {
+        "comment": "Governor of Sinaloa",
+        "position_item_id": "Q5589715"
+      }
+    ]
+  },
+  {
+    "comment": "governor and cabinet of Sonora",
+    "executive_item_id": "Q52634113",
+    "positions": [
+      {
+        "comment": "Governor of Sonora",
+        "position_item_id": "Q3249960"
+      }
+    ]
+  },
+  {
+    "comment": "governor and cabinet of Tabasco",
+    "executive_item_id": "Q52634114",
+    "positions": [
+      {
+        "comment": "Governor of Tabasco",
+        "position_item_id": "Q5589723"
+      }
+    ]
+  },
+  {
+    "comment": "governor and cabinet of Tamaulipas",
+    "executive_item_id": "Q52634116",
+    "positions": [
+      {
+        "comment": "Governor of Tamaulipas",
+        "position_item_id": "Q5589726"
+      }
+    ]
+  },
+  {
+    "comment": "governor and cabinet of Tlaxcala",
+    "executive_item_id": "Q52634117",
+    "positions": [
+      {
+        "comment": "Governor of Tlaxcala",
+        "position_item_id": "Q5589729"
+      }
+    ]
+  },
+  {
+    "comment": "governor and cabinet of Veracruz",
+    "executive_item_id": "Q52634118",
+    "positions": [
+      {
+        "comment": "Governor of Veracruz",
+        "position_item_id": "Q5589731"
+      }
+    ]
+  },
+  {
+    "comment": "governor and cabinet of Yucatán",
+    "executive_item_id": "Q52634119",
+    "positions": [
+      {
+        "comment": "Governor of Yucatán",
+        "position_item_id": "Q5589736"
+      }
+    ]
+  },
+  {
+    "comment": "governor and cabinet of Zacatecas",
+    "executive_item_id": "Q52634120",
+    "positions": [
+      {
+        "comment": "Governor of Zacatecas",
+        "position_item_id": "Q5589737"
+      }
+    ]
+  }
+]

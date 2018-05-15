@@ -1,0 +1,119 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:es": "Venustiano Carranza",
+        "lang:en": "Venustiano Carranza"
+      },
+      "id": "Q313122",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q313122"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Humberto Moreira",
+        "lang:en": "Humberto Moreira"
+      },
+      "id": "Q556470",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q556470"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:es": "gobernador y gabinete de Coahuila",
+        "lang:en": "governor and cabinet of Coahuila"
+      },
+      "id": "Q52634090",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52634090"
+        }
+      ],
+      "area_id": "Q53079"
+    },
+    {
+      "name": {
+        "lang:en": "Liberal Constitutionalist Party"
+      },
+      "id": "Q2604894",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2604894"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Partido Revolucionario Institucional",
+        "lang:en": "Institutional Revolutionary Party"
+      },
+      "id": "Q682969",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q682969"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q313122-4E584B93-8679-4C0C-97D4-662388A53418",
+      "person_id": "Q313122",
+      "on_behalf_of_id": "Q2604894",
+      "organization_id": "Q52634090",
+      "area_id": "Q53079",
+      "role_superclass_code": "Q11812211",
+      "role_superclass": {
+        "lang:es": "Anexo:Gobernantes de Coahuila",
+        "lang:en": "Governor of Coahuila"
+      },
+      "role_code": "Q11812211",
+      "role": {
+        "lang:es": "Anexo:Gobernantes de Coahuila",
+        "lang:en": "Governor of Coahuila"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q556470-E8369754-326E-40AB-AEA6-CBA190424B7C",
+      "person_id": "Q556470",
+      "on_behalf_of_id": "Q682969",
+      "organization_id": "Q52634090",
+      "area_id": "Q53079",
+      "role_superclass_code": "Q11812211",
+      "role_superclass": {
+        "lang:es": "Anexo:Gobernantes de Coahuila",
+        "lang:en": "Governor of Coahuila"
+      },
+      "role_code": "Q11812211",
+      "role": {
+        "lang:es": "Anexo:Gobernantes de Coahuila",
+        "lang:en": "Governor of Coahuila"
+      }
+    }
+  ]
+}

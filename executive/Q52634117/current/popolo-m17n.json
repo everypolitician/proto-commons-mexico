@@ -1,0 +1,137 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:es": "Héctor Ortiz Ortiz",
+        "lang:en": "Héctor Ortiz Ortiz"
+      },
+      "id": "Q2437970",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2437970"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Beatriz Paredes Rangel",
+        "lang:en": "Beatriz Paredes Rangel"
+      },
+      "id": "Q448642",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q448642"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:es": "gobernador y gabinete de Tlaxcala",
+        "lang:en": "governor and cabinet of Tlaxcala"
+      },
+      "id": "Q52634117",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52634117"
+        }
+      ],
+      "area_id": "Q82681"
+    },
+    {
+      "name": {
+        "lang:es": "Partido Revolucionario Institucional",
+        "lang:en": "Institutional Revolutionary Party"
+      },
+      "id": "Q682969",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q682969"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Partido Acción Nacional",
+        "lang:en": "National Action Party"
+      },
+      "id": "Q851087",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q851087"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2437970-C7DF5D8D-1D8E-4B39-A52F-7DF5A3509E71",
+      "person_id": "Q2437970",
+      "on_behalf_of_id": "Q682969",
+      "organization_id": "Q52634117",
+      "area_id": "Q82681",
+      "role_superclass_code": "Q5589729",
+      "role_superclass": {
+        "lang:es": "Anexo:Gobernantes de Tlaxcala",
+        "lang:en": "Governor of Tlaxcala"
+      },
+      "role_code": "Q5589729",
+      "role": {
+        "lang:es": "Anexo:Gobernantes de Tlaxcala",
+        "lang:en": "Governor of Tlaxcala"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2437970-C7DF5D8D-1D8E-4B39-A52F-7DF5A3509E71",
+      "person_id": "Q2437970",
+      "on_behalf_of_id": "Q851087",
+      "organization_id": "Q52634117",
+      "area_id": "Q82681",
+      "role_superclass_code": "Q5589729",
+      "role_superclass": {
+        "lang:es": "Anexo:Gobernantes de Tlaxcala",
+        "lang:en": "Governor of Tlaxcala"
+      },
+      "role_code": "Q5589729",
+      "role": {
+        "lang:es": "Anexo:Gobernantes de Tlaxcala",
+        "lang:en": "Governor of Tlaxcala"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q448642-B7B93983-B5B1-41A3-B867-AE54312A260C",
+      "person_id": "Q448642",
+      "on_behalf_of_id": "Q682969",
+      "organization_id": "Q52634117",
+      "area_id": "Q82681",
+      "role_superclass_code": "Q5589729",
+      "role_superclass": {
+        "lang:es": "Anexo:Gobernantes de Tlaxcala",
+        "lang:en": "Governor of Tlaxcala"
+      },
+      "role_code": "Q5589729",
+      "role": {
+        "lang:es": "Anexo:Gobernantes de Tlaxcala",
+        "lang:en": "Governor of Tlaxcala"
+      }
+    }
+  ]
+}
