@@ -25,5 +25,549 @@
     "name_columns": {
       "lang:es": "wikilabel"
     }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q15149663",
+    "associations": [
+      {
+        "comment": "Governor of Aguascalientes",
+        "position_item_id": "Q5589628"
+      }
+    ],
+    "name_columns": {
+      "lang:es": "wikilabel"
+    },
+    "filter": {
+      "column": "MS_FB",
+      "match": "country:mx/state:agu"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q15149663",
+    "associations": [
+      {
+        "comment": "Governor of Baja California",
+        "position_item_id": "Q5589632"
+      }
+    ],
+    "name_columns": {
+      "lang:es": "wikilabel"
+    },
+    "filter": {
+      "column": "MS_FB",
+      "match": "country:mx/state:bcn"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q15149663",
+    "associations": [
+      {
+        "comment": "Governor of Baja California Sur",
+        "position_item_id": "Q5589635"
+      }
+    ],
+    "name_columns": {
+      "lang:es": "wikilabel"
+    },
+    "filter": {
+      "column": "MS_FB",
+      "match": "country:mx/state:bcs"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q15149663",
+    "associations": [
+      {
+        "comment": "Governor of Campeche",
+        "position_item_id": "Q5589643"
+      }
+    ],
+    "name_columns": {
+      "lang:es": "wikilabel"
+    },
+    "filter": {
+      "column": "MS_FB",
+      "match": "country:mx/state:cam"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q15149663",
+    "associations": [
+      {
+        "comment": "Governor of Chiapas",
+        "position_item_id": "Q5589647"
+      }
+    ],
+    "name_columns": {
+      "lang:es": "wikilabel"
+    },
+    "filter": {
+      "column": "MS_FB",
+      "match": "country:mx/state:chp"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q15149663",
+    "associations": [
+      {
+        "comment": "Governor of Chihuahua",
+        "position_item_id": "Q9282520"
+      }
+    ],
+    "name_columns": {
+      "lang:es": "wikilabel"
+    },
+    "filter": {
+      "column": "MS_FB",
+      "match": "country:mx/state:chh"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q15149663",
+    "associations": [
+      {
+        "comment": "Governor of Coahuila",
+        "position_item_id": "Q11812211"
+      }
+    ],
+    "name_columns": {
+      "lang:es": "wikilabel"
+    },
+    "filter": {
+      "column": "MS_FB",
+      "match": "country:mx/state:coa"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q15149663",
+    "associations": [
+      {
+        "comment": "Governor of Colima",
+        "position_item_id": "Q5589648"
+      }
+    ],
+    "name_columns": {
+      "lang:es": "wikilabel"
+    },
+    "filter": {
+      "column": "MS_FB",
+      "match": "country:mx/state:col"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q15149663",
+    "associations": [
+      {
+        "comment": "Governor of Durango",
+        "position_item_id": "Q3112712"
+      }
+    ],
+    "name_columns": {
+      "lang:es": "wikilabel"
+    },
+    "filter": {
+      "column": "MS_FB",
+      "match": "country:mx/state:dur"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q15149663",
+    "associations": [
+      {
+        "comment": "Governor of Guanajuato",
+        "position_item_id": "Q5589657"
+      }
+    ],
+    "name_columns": {
+      "lang:es": "wikilabel"
+    },
+    "filter": {
+      "column": "MS_FB",
+      "match": "country:mx/state:gua"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q15149663",
+    "associations": [
+      {
+        "comment": "Governor of Guerrero",
+        "position_item_id": "Q5589659"
+      }
+    ],
+    "name_columns": {
+      "lang:es": "wikilabel"
+    },
+    "filter": {
+      "column": "MS_FB",
+      "match": "country:mx/state:gro"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q15149663",
+    "associations": [
+      {
+        "comment": "Governor of Hidalgo",
+        "position_item_id": "Q5589662"
+      }
+    ],
+    "name_columns": {
+      "lang:es": "wikilabel"
+    },
+    "filter": {
+      "column": "MS_FB",
+      "match": "country:mx/state:hid"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q15149663",
+    "associations": [
+      {
+        "comment": "Governor of Jalisco",
+        "position_item_id": "Q5589666"
+      }
+    ],
+    "name_columns": {
+      "lang:es": "wikilabel"
+    },
+    "filter": {
+      "column": "MS_FB",
+      "match": "country:mx/state:jal"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q15149663",
+    "associations": [
+      {
+        "comment": "Governor of the State of Mexico",
+        "position_item_id": "Q5589754"
+      }
+    ],
+    "name_columns": {
+      "lang:es": "wikilabel"
+    },
+    "filter": {
+      "column": "MS_FB",
+      "match": "country:mx/state:mex"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q5119",
+    "associations": [
+      {
+        "comment": "Head of Mexico City government",
+        "position_item_id": "Q2962015"
+      }
+    ],
+    "name_columns": {
+      "lang:es": "wikilabel"
+    },
+    "filter": {
+      "column": "MS_FB",
+      "match": "country:mx/federal-district:cmx"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q15149663",
+    "associations": [
+      {
+        "comment": "Governor of Michoacán",
+        "position_item_id": "Q5589681"
+      }
+    ],
+    "name_columns": {
+      "lang:es": "wikilabel"
+    },
+    "filter": {
+      "column": "MS_FB",
+      "match": "country:mx/state:mic"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q15149663",
+    "associations": [
+      {
+        "comment": "Governor of Morelos",
+        "position_item_id": "Q5589684"
+      }
+    ],
+    "name_columns": {
+      "lang:es": "wikilabel"
+    },
+    "filter": {
+      "column": "MS_FB",
+      "match": "country:mx/state:mor"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q15149663",
+    "associations": [
+      {
+        "comment": "Governor of Nayarit",
+        "position_item_id": "Q5589686"
+      }
+    ],
+    "name_columns": {
+      "lang:es": "wikilabel"
+    },
+    "filter": {
+      "column": "MS_FB",
+      "match": "country:mx/state:nay"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q15149663",
+    "associations": [
+      {
+        "comment": "Governor of Nuevo León",
+        "position_item_id": "Q5589693"
+      }
+    ],
+    "name_columns": {
+      "lang:es": "wikilabel"
+    },
+    "filter": {
+      "column": "MS_FB",
+      "match": "country:mx/state:nle"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q15149663",
+    "associations": [
+      {
+        "comment": "Governor of Oaxaca",
+        "position_item_id": "Q5589697"
+      }
+    ],
+    "name_columns": {
+      "lang:es": "wikilabel"
+    },
+    "filter": {
+      "column": "MS_FB",
+      "match": "country:mx/state:oax"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q15149663",
+    "associations": [
+      {
+        "comment": "Governor of Puebla",
+        "position_item_id": "Q5589701"
+      }
+    ],
+    "name_columns": {
+      "lang:es": "wikilabel"
+    },
+    "filter": {
+      "column": "MS_FB",
+      "match": "country:mx/state:pue"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q15149663",
+    "associations": [
+      {
+        "comment": "Governor of Querétaro",
+        "position_item_id": "Q5589703"
+      }
+    ],
+    "name_columns": {
+      "lang:es": "wikilabel"
+    },
+    "filter": {
+      "column": "MS_FB",
+      "match": "country:mx/state:que"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q15149663",
+    "associations": [
+      {
+        "comment": "Governor of Quintana Roo",
+        "position_item_id": "Q5589705"
+      }
+    ],
+    "name_columns": {
+      "lang:es": "wikilabel"
+    },
+    "filter": {
+      "column": "MS_FB",
+      "match": "country:mx/state:roo"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q15149663",
+    "associations": [
+      {
+        "comment": "Governor of San Luis Potosí",
+        "position_item_id": "Q5589709"
+      }
+    ],
+    "name_columns": {
+      "lang:es": "wikilabel"
+    },
+    "filter": {
+      "column": "MS_FB",
+      "match": "country:mx/state:slp"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q15149663",
+    "associations": [
+      {
+        "comment": "Governor of Sinaloa",
+        "position_item_id": "Q5589715"
+      }
+    ],
+    "name_columns": {
+      "lang:es": "wikilabel"
+    },
+    "filter": {
+      "column": "MS_FB",
+      "match": "country:mx/state:sin"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q15149663",
+    "associations": [
+      {
+        "comment": "Governor of Sonora",
+        "position_item_id": "Q3249960"
+      }
+    ],
+    "name_columns": {
+      "lang:es": "wikilabel"
+    },
+    "filter": {
+      "column": "MS_FB",
+      "match": "country:mx/state:son"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q15149663",
+    "associations": [
+      {
+        "comment": "Governor of Tabasco",
+        "position_item_id": "Q5589723"
+      }
+    ],
+    "name_columns": {
+      "lang:es": "wikilabel"
+    },
+    "filter": {
+      "column": "MS_FB",
+      "match": "country:mx/state:tab"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q15149663",
+    "associations": [
+      {
+        "comment": "Governor of Tamaulipas",
+        "position_item_id": "Q5589726"
+      }
+    ],
+    "name_columns": {
+      "lang:es": "wikilabel"
+    },
+    "filter": {
+      "column": "MS_FB",
+      "match": "country:mx/state:tam"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q15149663",
+    "associations": [
+      {
+        "comment": "Governor of Tlaxcala",
+        "position_item_id": "Q5589729"
+      }
+    ],
+    "name_columns": {
+      "lang:es": "wikilabel"
+    },
+    "filter": {
+      "column": "MS_FB",
+      "match": "country:mx/state:tla"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q15149663",
+    "associations": [
+      {
+        "comment": "Governor of Veracruz",
+        "position_item_id": "Q5589731"
+      }
+    ],
+    "name_columns": {
+      "lang:es": "wikilabel"
+    },
+    "filter": {
+      "column": "MS_FB",
+      "match": "country:mx/state:ver"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q15149663",
+    "associations": [
+      {
+        "comment": "Governor of Yucatán",
+        "position_item_id": "Q5589736"
+      }
+    ],
+    "name_columns": {
+      "lang:es": "wikilabel"
+    },
+    "filter": {
+      "column": "MS_FB",
+      "match": "country:mx/state:yuc"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q15149663",
+    "associations": [
+      {
+        "comment": "Governor of Zacatecas",
+        "position_item_id": "Q5589737"
+      }
+    ],
+    "name_columns": {
+      "lang:es": "wikilabel"
+    },
+    "filter": {
+      "column": "MS_FB",
+      "match": "country:mx/state:zac"
+    }
   }
 ]
