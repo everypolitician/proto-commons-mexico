@@ -12,5 +12,18 @@
       "lang:en": "name_en",
       "lang:es": "name_es"
     }
+  },
+  {
+    "directory": "senate",
+    "area_type_wikidata_item_id": "Q53537091",
+    "associations": [
+      {
+        "comment": "member of the Senate of Mexico",
+        "position_item_id": "Q19971999"
+      }
+    ],
+    "name_columns": {
+      "lang:es": "wikilabel"
+    }
   }
 ]
