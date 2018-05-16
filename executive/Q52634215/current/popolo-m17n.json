@@ -1,0 +1,58 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:es": "Luis Banck Serrato",
+        "lang:en": "Luis Banck Serrato"
+      },
+      "id": "Q22940140",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q22940140"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:es": "Gabinete de la Heroica Puebla de Zaragoza",
+        "lang:en": "Cabinet of the Heroic Puebla de Zaragoza"
+      },
+      "id": "Q52634215",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52634215"
+        }
+      ],
+      "area_id": "Q7258412"
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q22940140-B1923E3F-2BB6-4236-B59E-116E2E9F0C34",
+      "person_id": "Q22940140",
+      "organization_id": "Q52634215",
+      "area_id": "Q7258412",
+      "role_superclass_code": "Q6936360",
+      "role_superclass": {
+        "lang:es": "Presidentes Municipales de Puebla de Zaragoza",
+        "lang:en": "Municipal president of Puebla"
+      },
+      "role_code": "Q6936360",
+      "role": {
+        "lang:es": "Presidentes Municipales de Puebla de Zaragoza",
+        "lang:en": "Municipal president of Puebla"
+      }
+    }
+  ]
+}

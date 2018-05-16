@@ -1,0 +1,73 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:es": "Adalberto Madero",
+        "lang:en": "Adalberto Madero"
+      },
+      "id": "Q348049",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q348049"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:es": "Gabinete de Monterrey",
+        "lang:en": "Cabinet of Monterrey"
+      },
+      "id": "Q52634221",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52634221"
+        }
+      ],
+      "area_id": "Q6905368"
+    },
+    {
+      "name": {
+        "lang:es": "Partido Acción Nacional",
+        "lang:en": "National Action Party"
+      },
+      "id": "Q851087",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q851087"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q348049-DAE59ABF-B9E6-4FE2-87D0-6980A8504D7D",
+      "person_id": "Q348049",
+      "on_behalf_of_id": "Q851087",
+      "organization_id": "Q52634221",
+      "area_id": "Q6905368",
+      "role_superclass_code": "Q6936362",
+      "role_superclass": {
+        "lang:es": "Alcaldes de Monterrey",
+        "lang:en": "Municipal president of Monterrey"
+      },
+      "role_code": "Q6936362",
+      "role": {
+        "lang:es": "Alcaldes de Monterrey",
+        "lang:en": "Municipal president of Monterrey"
+      }
+    }
+  ]
+}

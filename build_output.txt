@@ -40,3 +40,27 @@ WARNING: Position diputado de la Honorable Congreso del Estado de Chihuahua (Q53
 WARNING: Position diputado de la Honorable Congreso del Estado de Morelos (Q53544376) not in boundary associated_wikidata_positions
 WARNING: Position diputado de la Honorable Congreso del Estado de Sinaloa (Q53544405) not in boundary associated_wikidata_positions
 WARNING: Position diputado de la Congreso del Estado Libre y Soberano de Guerrero (Q53544368) not in boundary associated_wikidata_positions
+WARNING: Position regidor de la Honorable Ayuntamiento de Ecatepec de Morelos (Q53547721) not in boundary associated_wikidata_positions
+WARNING: Position regidor de la Ayuntamiento de Tijuana Baja California (Q53547723) not in boundary associated_wikidata_positions
+WARNING: Position regidor de la Honorable Ayuntamiento de Puebla (Q53547725) not in boundary associated_wikidata_positions
+WARNING: Position regidor de la Honorable Ayuntamiento de Guadalajara (Q53547726) not in boundary associated_wikidata_positions
+WARNING: Position regidor de la Honorable Ayuntamiento de León (Q53547728) not in boundary associated_wikidata_positions
+WARNING: Position regidor de la Honorable Ayuntamiento de Ciudad Juárez (Q53547729) not in boundary associated_wikidata_positions
+WARNING: Position regidor de la Honorable Ayuntamiento de Zapopan (Q53547731) not in boundary associated_wikidata_positions
+WARNING: Position regidor de la Honorable Ayuntamiento de Nezahualcóyotl (Q53547733) not in boundary associated_wikidata_positions
+WARNING: Position regidor de la Honorable Ayuntamiento de Monterrey (Q53547735) not in boundary associated_wikidata_positions
+WARNING: Position Presidente municipal de Ecatepec de Morelos (Q52634194) not in boundary associated_wikidata_positions
+WARNING: the district Ecatepec de Morelos (Q15121208) wasn't found in the boundary data for position Presidente municipal de Ecatepec de Morelos (Q52634194)
+WARNING: Position Municipal President of Tijuana (Q16242755) not in boundary associated_wikidata_positions
+WARNING: the district Tijuana (Q2360428) wasn't found in the boundary data for position Municipal President of Tijuana (Q16242755)
+WARNING: Position Presidentes Municipales de Puebla de Zaragoza (Q6936360) not in boundary associated_wikidata_positions
+WARNING: the district Puebla (municipio) (Q7258412) wasn't found in the boundary data for position Presidentes Municipales de Puebla de Zaragoza (Q6936360)
+WARNING: Position Presidente Municipal de Guadalajara (Q52634195) not in boundary associated_wikidata_positions
+WARNING: the district Guadalajara Municipality (Q12348369) wasn't found in the boundary data for position Presidente Municipal de Guadalajara (Q52634195)
+WARNING: Position Presidente Municipal de León de los Aldama (Q52634196) not in boundary associated_wikidata_positions
+WARNING: the district León (Q9022143) wasn't found in the boundary data for position Presidente Municipal de León de los Aldama (Q52634196)
+WARNING: Position Presidentes Municipales de Ciudad Juárez (Q6936355) not in boundary associated_wikidata_positions
+WARNING: Position Presidente Municipal de Zapopan (Q52634197) not in boundary associated_wikidata_positions
+WARNING: Position Presidente Municipal de Nezahualcóyotl (Q52634198) not in boundary associated_wikidata_positions
+WARNING: Position Alcaldes de Monterrey (Q6936362) not in boundary associated_wikidata_positions
+WARNING: the district Monterrey Municipality (Q6905368) wasn't found in the boundary data for position Alcaldes de Monterrey (Q6936362)

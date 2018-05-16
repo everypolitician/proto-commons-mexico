@@ -17,7 +17,20 @@ SELECT DISTINCT ?executive ?executiveLabel ?adminArea ?adminAreaLabel ?adminArea
     # Make sure the city is not also a FLACS
     MINUS { ?adminArea wdt:P31/wdt:P279* wd:Q10864048 }
     VALUES (?primarySort ?adminAreaType) { (3 wd:Q515) }
+  } UNION {
+  VALUES (?adminArea ?primarySort ?adminAreaType) {
+    (wd:Q12348369 4 wd:Q24238356)
+    (wd:Q15121208 4 wd:Q24238356)
+    (wd:Q2143868 4 wd:Q24238356)
+    (wd:Q2360428 4 wd:Q24238356)
+    (wd:Q2557122 4 wd:Q24238356)
+    (wd:Q3313478 4 wd:Q24238356)
+    (wd:Q6905368 4 wd:Q24238356)
+    (wd:Q7258412 4 wd:Q24238356)
+    (wd:Q9022143 4 wd:Q24238356)
   }
+}
+
 } ORDER BY ?primarySort
 
   }
