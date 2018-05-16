@@ -6,7 +6,415 @@
 
   ],
   "areas": [
-
+    {
+      "id": "Q53003181",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:yuc/led:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003181"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544432"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Yucatan"
+      },
+      "name": {
+        "en": "I Local Electoral District of Yucatan",
+        "es": "I Distrito Electoral Local de Yucatan"
+      },
+      "parent_id": "Q60176"
+    },
+    {
+      "id": "Q53003185",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:yuc/led:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003185"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544432"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Yucatan"
+      },
+      "name": {
+        "en": "II Local Electoral District of Yucatan",
+        "es": "II Distrito Electoral Local de Yucatan"
+      },
+      "parent_id": "Q60176"
+    },
+    {
+      "id": "Q53003188",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:yuc/led:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003188"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544432"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Yucatan"
+      },
+      "name": {
+        "en": "III Local Electoral District of Yucatan",
+        "es": "III Distrito Electoral Local de Yucatan"
+      },
+      "parent_id": "Q60176"
+    },
+    {
+      "id": "Q53003190",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:yuc/led:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003190"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544432"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Yucatan"
+      },
+      "name": {
+        "en": "IV Local Electoral District of Yucatan",
+        "es": "IV Distrito Electoral Local de Yucatan"
+      },
+      "parent_id": "Q60176"
+    },
+    {
+      "id": "Q53003193",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:yuc/led:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003193"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544432"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Yucatan"
+      },
+      "name": {
+        "en": "V Local Electoral District of Yucatan",
+        "es": "V Distrito Electoral Local de Yucatan"
+      },
+      "parent_id": "Q60176"
+    },
+    {
+      "id": "Q53003201",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:yuc/led:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003201"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544432"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Yucatan"
+      },
+      "name": {
+        "en": "VI Local Electoral District of Yucatan",
+        "es": "VI Distrito Electoral Local de Yucatan"
+      },
+      "parent_id": "Q60176"
+    },
+    {
+      "id": "Q53003211",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:yuc/led:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003211"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544432"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Yucatan"
+      },
+      "name": {
+        "en": "VII Local Electoral District of Yucatan",
+        "es": "VII Distrito Electoral Local de Yucatan"
+      },
+      "parent_id": "Q60176"
+    },
+    {
+      "id": "Q53003213",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:yuc/led:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003213"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544432"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Yucatan"
+      },
+      "name": {
+        "en": "VIII Local Electoral District of Yucatan",
+        "es": "VIII Distrito Electoral Local de Yucatan"
+      },
+      "parent_id": "Q60176"
+    },
+    {
+      "id": "Q53003217",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:yuc/led:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003217"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544432"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Yucatan"
+      },
+      "name": {
+        "en": "IX Local Electoral District of Yucatan",
+        "es": "IX Distrito Electoral Local de Yucatan"
+      },
+      "parent_id": "Q60176"
+    },
+    {
+      "id": "Q53003219",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:yuc/led:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003219"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544432"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Yucatan"
+      },
+      "name": {
+        "en": "X Local Electoral District of Yucatan",
+        "es": "X Distrito Electoral Local de Yucatan"
+      },
+      "parent_id": "Q60176"
+    },
+    {
+      "id": "Q53003222",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:yuc/led:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003222"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544432"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Yucatan"
+      },
+      "name": {
+        "en": "XI Local Electoral District of Yucatan",
+        "es": "XI Distrito Electoral Local de Yucatan"
+      },
+      "parent_id": "Q60176"
+    },
+    {
+      "id": "Q53003224",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:yuc/led:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003224"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544432"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Yucatan"
+      },
+      "name": {
+        "en": "XII Local Electoral District of Yucatan",
+        "es": "XII Distrito Electoral Local de Yucatan"
+      },
+      "parent_id": "Q60176"
+    },
+    {
+      "id": "Q53003227",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:yuc/led:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003227"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544432"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Yucatan"
+      },
+      "name": {
+        "en": "XIII Local Electoral District of Yucatan",
+        "es": "XIII Distrito Electoral Local de Yucatan"
+      },
+      "parent_id": "Q60176"
+    },
+    {
+      "id": "Q53003228",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:yuc/led:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003228"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544432"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Yucatan"
+      },
+      "name": {
+        "en": "XIV Local Electoral District of Yucatan",
+        "es": "XIV Distrito Electoral Local de Yucatan"
+      },
+      "parent_id": "Q60176"
+    },
+    {
+      "id": "Q53003234",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:yuc/led:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003234"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544432"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Yucatan"
+      },
+      "name": {
+        "en": "XV Local Electoral District of Yucatan",
+        "es": "XV Distrito Electoral Local de Yucatan"
+      },
+      "parent_id": "Q60176"
+    },
+    {
+      "id": "Q60176",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:yuc"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q60176"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q5589736"
+      ],
+      "type": {
+        "lang:es": "estado de México",
+        "lang:en": "state of Mexico"
+      },
+      "name": {
+        "lang:es": "Yucatán"
+      },
+      "parent_id": "Q96"
+    },
+    {
+      "id": "Q96",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q96"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q628004"
+      ],
+      "type": {
+        "lang:es": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "United Mexican States",
+        "lang:es": "Estados Unidos Mexicanos"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 

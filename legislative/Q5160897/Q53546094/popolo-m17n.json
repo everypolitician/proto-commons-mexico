@@ -6,7 +6,583 @@
 
   ],
   "areas": [
-
+    {
+      "id": "Q53003033",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:tam/led:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003033"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544421"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Tamaulipas"
+      },
+      "name": {
+        "en": "I Local Electoral District of Tamaulipas",
+        "es": "I Distrito Electoral Local de Tamaulipas"
+      },
+      "parent_id": "Q80007"
+    },
+    {
+      "id": "Q53003036",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:tam/led:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003036"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544421"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Tamaulipas"
+      },
+      "name": {
+        "en": "II Local Electoral District of Tamaulipas",
+        "es": "II Distrito Electoral Local de Tamaulipas"
+      },
+      "parent_id": "Q80007"
+    },
+    {
+      "id": "Q53003039",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:tam/led:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003039"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544421"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Tamaulipas"
+      },
+      "name": {
+        "en": "III Local Electoral District of Tamaulipas",
+        "es": "III Distrito Electoral Local de Tamaulipas"
+      },
+      "parent_id": "Q80007"
+    },
+    {
+      "id": "Q53003042",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:tam/led:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003042"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544421"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Tamaulipas"
+      },
+      "name": {
+        "en": "IV Local Electoral District of Tamaulipas",
+        "es": "IV Distrito Electoral Local de Tamaulipas"
+      },
+      "parent_id": "Q80007"
+    },
+    {
+      "id": "Q53003044",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:tam/led:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003044"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544421"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Tamaulipas"
+      },
+      "name": {
+        "en": "V Local Electoral District of Tamaulipas",
+        "es": "V Distrito Electoral Local de Tamaulipas"
+      },
+      "parent_id": "Q80007"
+    },
+    {
+      "id": "Q53003048",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:tam/led:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003048"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544421"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Tamaulipas"
+      },
+      "name": {
+        "en": "VI Local Electoral District of Tamaulipas",
+        "es": "VI Distrito Electoral Local de Tamaulipas"
+      },
+      "parent_id": "Q80007"
+    },
+    {
+      "id": "Q53003053",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:tam/led:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003053"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544421"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Tamaulipas"
+      },
+      "name": {
+        "en": "VII Local Electoral District of Tamaulipas",
+        "es": "VII Distrito Electoral Local de Tamaulipas"
+      },
+      "parent_id": "Q80007"
+    },
+    {
+      "id": "Q53003062",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:tam/led:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003062"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544421"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Tamaulipas"
+      },
+      "name": {
+        "en": "VIII Local Electoral District of Tamaulipas",
+        "es": "VIII Distrito Electoral Local de Tamaulipas"
+      },
+      "parent_id": "Q80007"
+    },
+    {
+      "id": "Q53003064",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:tam/led:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003064"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544421"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Tamaulipas"
+      },
+      "name": {
+        "en": "IX Local Electoral District of Tamaulipas",
+        "es": "IX Distrito Electoral Local de Tamaulipas"
+      },
+      "parent_id": "Q80007"
+    },
+    {
+      "id": "Q53003066",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:tam/led:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003066"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544421"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Tamaulipas"
+      },
+      "name": {
+        "en": "X Local Electoral District of Tamaulipas",
+        "es": "X Distrito Electoral Local de Tamaulipas"
+      },
+      "parent_id": "Q80007"
+    },
+    {
+      "id": "Q53003070",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:tam/led:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003070"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544421"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Tamaulipas"
+      },
+      "name": {
+        "en": "XI Local Electoral District of Tamaulipas",
+        "es": "XI Distrito Electoral Local de Tamaulipas"
+      },
+      "parent_id": "Q80007"
+    },
+    {
+      "id": "Q53003073",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:tam/led:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003073"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544421"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Tamaulipas"
+      },
+      "name": {
+        "en": "XII Local Electoral District of Tamaulipas",
+        "es": "XII Distrito Electoral Local de Tamaulipas"
+      },
+      "parent_id": "Q80007"
+    },
+    {
+      "id": "Q53003075",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:tam/led:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003075"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544421"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Tamaulipas"
+      },
+      "name": {
+        "en": "XIII Local Electoral District of Tamaulipas",
+        "es": "XIII Distrito Electoral Local de Tamaulipas"
+      },
+      "parent_id": "Q80007"
+    },
+    {
+      "id": "Q53003077",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:tam/led:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003077"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544421"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Tamaulipas"
+      },
+      "name": {
+        "en": "XIV Local Electoral District of Tamaulipas",
+        "es": "XIV Distrito Electoral Local de Tamaulipas"
+      },
+      "parent_id": "Q80007"
+    },
+    {
+      "id": "Q53003078",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:tam/led:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003078"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544421"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Tamaulipas"
+      },
+      "name": {
+        "en": "XV Local Electoral District of Tamaulipas",
+        "es": "XV Distrito Electoral Local de Tamaulipas"
+      },
+      "parent_id": "Q80007"
+    },
+    {
+      "id": "Q53003085",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:tam/led:16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003085"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544421"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Tamaulipas"
+      },
+      "name": {
+        "en": "XVI Local Electoral District of Tamaulipas",
+        "es": "XVI Distrito Electoral Local de Tamaulipas"
+      },
+      "parent_id": "Q80007"
+    },
+    {
+      "id": "Q53003097",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:tam/led:17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003097"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544421"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Tamaulipas"
+      },
+      "name": {
+        "en": "XVII Local Electoral District of Tamaulipas",
+        "es": "XVII Distrito Electoral Local de Tamaulipas"
+      },
+      "parent_id": "Q80007"
+    },
+    {
+      "id": "Q53003100",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:tam/led:18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003100"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544421"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Tamaulipas"
+      },
+      "name": {
+        "en": "XVIII Local Electoral District of Tamaulipas",
+        "es": "XVIII Distrito Electoral Local de Tamaulipas"
+      },
+      "parent_id": "Q80007"
+    },
+    {
+      "id": "Q53003103",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:tam/led:19"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003103"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544421"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Tamaulipas"
+      },
+      "name": {
+        "en": "XIX Local Electoral District of Tamaulipas",
+        "es": "XIX Distrito Electoral Local de Tamaulipas"
+      },
+      "parent_id": "Q80007"
+    },
+    {
+      "id": "Q53003105",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:tam/led:20"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003105"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544421"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Tamaulipas"
+      },
+      "name": {
+        "en": "XX Local Electoral District of Tamaulipas",
+        "es": "XX Distrito Electoral Local de Tamaulipas"
+      },
+      "parent_id": "Q80007"
+    },
+    {
+      "id": "Q53003109",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:tam/led:21"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003109"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544421"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Tamaulipas"
+      },
+      "name": {
+        "en": "XXI Local Electoral District of Tamaulipas",
+        "es": "XXI Distrito Electoral Local de Tamaulipas"
+      },
+      "parent_id": "Q80007"
+    },
+    {
+      "id": "Q53003111",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:tam/led:22"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003111"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544421"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Tamaulipas"
+      },
+      "name": {
+        "en": "XXII Local Electoral District of Tamaulipas",
+        "es": "XXII Distrito Electoral Local de Tamaulipas"
+      },
+      "parent_id": "Q80007"
+    },
+    {
+      "id": "Q80007",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:tam"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q80007"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q5589726"
+      ],
+      "type": {
+        "lang:es": "estado de México",
+        "lang:en": "state of Mexico"
+      },
+      "name": {
+        "lang:es": "Tamaulipas"
+      },
+      "parent_id": "Q96"
+    },
+    {
+      "id": "Q96",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q96"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q628004"
+      ],
+      "type": {
+        "lang:es": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "United Mexican States",
+        "lang:es": "Estados Unidos Mexicanos"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 

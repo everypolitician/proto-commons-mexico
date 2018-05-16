@@ -6,7 +6,583 @@
 
   ],
   "areas": [
-
+    {
+      "id": "Q53000362",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:chh/led:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000362"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544338"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Chihuahua"
+      },
+      "name": {
+        "en": "I Local Electoral District of Chihuahua",
+        "es": "I Distrito Electoral Local de Chihuahua"
+      },
+      "parent_id": "Q655"
+    },
+    {
+      "id": "Q53000365",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:chh/led:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000365"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544338"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Chihuahua"
+      },
+      "name": {
+        "en": "II Local Electoral District of Chihuahua",
+        "es": "II Distrito Electoral Local de Chihuahua"
+      },
+      "parent_id": "Q655"
+    },
+    {
+      "id": "Q53000367",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:chh/led:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000367"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544338"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Chihuahua"
+      },
+      "name": {
+        "en": "III Local Electoral District of Chihuahua",
+        "es": "III Distrito Electoral Local de Chihuahua"
+      },
+      "parent_id": "Q655"
+    },
+    {
+      "id": "Q53000369",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:chh/led:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000369"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544338"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Chihuahua"
+      },
+      "name": {
+        "en": "IV Local Electoral District of Chihuahua",
+        "es": "IV Distrito Electoral Local de Chihuahua"
+      },
+      "parent_id": "Q655"
+    },
+    {
+      "id": "Q53000372",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:chh/led:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000372"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544338"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Chihuahua"
+      },
+      "name": {
+        "en": "V Local Electoral District of Chihuahua",
+        "es": "V Distrito Electoral Local de Chihuahua"
+      },
+      "parent_id": "Q655"
+    },
+    {
+      "id": "Q53000375",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:chh/led:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000375"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544338"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Chihuahua"
+      },
+      "name": {
+        "en": "VI Local Electoral District of Chihuahua",
+        "es": "VI Distrito Electoral Local de Chihuahua"
+      },
+      "parent_id": "Q655"
+    },
+    {
+      "id": "Q53000377",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:chh/led:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000377"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544338"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Chihuahua"
+      },
+      "name": {
+        "en": "VII Local Electoral District of Chihuahua",
+        "es": "VII Distrito Electoral Local de Chihuahua"
+      },
+      "parent_id": "Q655"
+    },
+    {
+      "id": "Q53000384",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:chh/led:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000384"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544338"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Chihuahua"
+      },
+      "name": {
+        "en": "VIII Local Electoral District of Chihuahua",
+        "es": "VIII Distrito Electoral Local de Chihuahua"
+      },
+      "parent_id": "Q655"
+    },
+    {
+      "id": "Q53000393",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:chh/led:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000393"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544338"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Chihuahua"
+      },
+      "name": {
+        "en": "IX Local Electoral District of Chihuahua",
+        "es": "IX Distrito Electoral Local de Chihuahua"
+      },
+      "parent_id": "Q655"
+    },
+    {
+      "id": "Q53000395",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:chh/led:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000395"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544338"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Chihuahua"
+      },
+      "name": {
+        "en": "X Local Electoral District of Chihuahua",
+        "es": "X Distrito Electoral Local de Chihuahua"
+      },
+      "parent_id": "Q655"
+    },
+    {
+      "id": "Q53000398",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:chh/led:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000398"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544338"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Chihuahua"
+      },
+      "name": {
+        "en": "XI Local Electoral District of Chihuahua",
+        "es": "XI Distrito Electoral Local de Chihuahua"
+      },
+      "parent_id": "Q655"
+    },
+    {
+      "id": "Q53000401",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:chh/led:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000401"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544338"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Chihuahua"
+      },
+      "name": {
+        "en": "XII Local Electoral District of Chihuahua",
+        "es": "XII Distrito Electoral Local de Chihuahua"
+      },
+      "parent_id": "Q655"
+    },
+    {
+      "id": "Q53000404",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:chh/led:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000404"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544338"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Chihuahua"
+      },
+      "name": {
+        "en": "XIII Local Electoral District of Chihuahua",
+        "es": "XIII Distrito Electoral Local de Chihuahua"
+      },
+      "parent_id": "Q655"
+    },
+    {
+      "id": "Q53000407",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:chh/led:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000407"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544338"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Chihuahua"
+      },
+      "name": {
+        "en": "XIV Local Electoral District of Chihuahua",
+        "es": "XIV Distrito Electoral Local de Chihuahua"
+      },
+      "parent_id": "Q655"
+    },
+    {
+      "id": "Q53000408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:chh/led:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544338"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Chihuahua"
+      },
+      "name": {
+        "en": "XV Local Electoral District of Chihuahua",
+        "es": "XV Distrito Electoral Local de Chihuahua"
+      },
+      "parent_id": "Q655"
+    },
+    {
+      "id": "Q53000412",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:chh/led:16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000412"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544338"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Chihuahua"
+      },
+      "name": {
+        "en": "XVI Local Electoral District of Chihuahua",
+        "es": "XVI Distrito Electoral Local de Chihuahua"
+      },
+      "parent_id": "Q655"
+    },
+    {
+      "id": "Q53000419",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:chh/led:17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000419"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544338"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Chihuahua"
+      },
+      "name": {
+        "en": "XVII Local Electoral District of Chihuahua",
+        "es": "XVII Distrito Electoral Local de Chihuahua"
+      },
+      "parent_id": "Q655"
+    },
+    {
+      "id": "Q53000429",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:chh/led:18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000429"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544338"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Chihuahua"
+      },
+      "name": {
+        "en": "XVIII Local Electoral District of Chihuahua",
+        "es": "XVIII Distrito Electoral Local de Chihuahua"
+      },
+      "parent_id": "Q655"
+    },
+    {
+      "id": "Q53000431",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:chh/led:19"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000431"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544338"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Chihuahua"
+      },
+      "name": {
+        "en": "XIX Local Electoral District of Chihuahua",
+        "es": "XIX Distrito Electoral Local de Chihuahua"
+      },
+      "parent_id": "Q655"
+    },
+    {
+      "id": "Q53000434",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:chh/led:20"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000434"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544338"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Chihuahua"
+      },
+      "name": {
+        "en": "XX Local Electoral District of Chihuahua",
+        "es": "XX Distrito Electoral Local de Chihuahua"
+      },
+      "parent_id": "Q655"
+    },
+    {
+      "id": "Q53000436",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:chh/led:21"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000436"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544338"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Chihuahua"
+      },
+      "name": {
+        "en": "XXI Local Electoral District of Chihuahua",
+        "es": "XXI Distrito Electoral Local de Chihuahua"
+      },
+      "parent_id": "Q655"
+    },
+    {
+      "id": "Q53000439",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:chh/led:22"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000439"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544338"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Chihuahua"
+      },
+      "name": {
+        "en": "XXII Local Electoral District of Chihuahua",
+        "es": "XXII Distrito Electoral Local de Chihuahua"
+      },
+      "parent_id": "Q655"
+    },
+    {
+      "id": "Q655",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:chh"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q655"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q9282520"
+      ],
+      "type": {
+        "lang:es": "estado de México",
+        "lang:en": "state of Mexico"
+      },
+      "name": {
+        "lang:es": "Chihuahua"
+      },
+      "parent_id": "Q96"
+    },
+    {
+      "id": "Q96",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q96"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q628004"
+      ],
+      "type": {
+        "lang:es": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "United Mexican States",
+        "lang:es": "Estados Unidos Mexicanos"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 

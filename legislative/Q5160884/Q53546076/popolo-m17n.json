@@ -6,7 +6,655 @@
 
   ],
   "areas": [
-
+    {
+      "id": "Q34110",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:oax"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q34110"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q5589697"
+      ],
+      "type": {
+        "lang:es": "estado de México",
+        "lang:en": "state of Mexico"
+      },
+      "name": {
+        "lang:es": "Oaxaca"
+      },
+      "parent_id": "Q96"
+    },
+    {
+      "id": "Q53002395",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:oax/led:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002395"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544396"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Oaxaca"
+      },
+      "name": {
+        "en": "I Local Electoral District of Oaxaca",
+        "es": "I Distrito Electoral Local de Oaxaca"
+      },
+      "parent_id": "Q34110"
+    },
+    {
+      "id": "Q53002397",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:oax/led:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002397"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544396"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Oaxaca"
+      },
+      "name": {
+        "en": "II Local Electoral District of Oaxaca",
+        "es": "II Distrito Electoral Local de Oaxaca"
+      },
+      "parent_id": "Q34110"
+    },
+    {
+      "id": "Q53002400",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:oax/led:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002400"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544396"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Oaxaca"
+      },
+      "name": {
+        "en": "III Local Electoral District of Oaxaca",
+        "es": "III Distrito Electoral Local de Oaxaca"
+      },
+      "parent_id": "Q34110"
+    },
+    {
+      "id": "Q53002413",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:oax/led:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002413"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544396"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Oaxaca"
+      },
+      "name": {
+        "en": "IV Local Electoral District of Oaxaca",
+        "es": "IV Distrito Electoral Local de Oaxaca"
+      },
+      "parent_id": "Q34110"
+    },
+    {
+      "id": "Q53002426",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:oax/led:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002426"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544396"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Oaxaca"
+      },
+      "name": {
+        "en": "V Local Electoral District of Oaxaca",
+        "es": "V Distrito Electoral Local de Oaxaca"
+      },
+      "parent_id": "Q34110"
+    },
+    {
+      "id": "Q53002431",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:oax/led:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002431"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544396"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Oaxaca"
+      },
+      "name": {
+        "en": "VI Local Electoral District of Oaxaca",
+        "es": "VI Distrito Electoral Local de Oaxaca"
+      },
+      "parent_id": "Q34110"
+    },
+    {
+      "id": "Q53002432",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:oax/led:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002432"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544396"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Oaxaca"
+      },
+      "name": {
+        "en": "VII Local Electoral District of Oaxaca",
+        "es": "VII Distrito Electoral Local de Oaxaca"
+      },
+      "parent_id": "Q34110"
+    },
+    {
+      "id": "Q53002437",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:oax/led:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002437"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544396"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Oaxaca"
+      },
+      "name": {
+        "en": "VIII Local Electoral District of Oaxaca",
+        "es": "VIII Distrito Electoral Local de Oaxaca"
+      },
+      "parent_id": "Q34110"
+    },
+    {
+      "id": "Q53002440",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:oax/led:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002440"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544396"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Oaxaca"
+      },
+      "name": {
+        "en": "IX Local Electoral District of Oaxaca",
+        "es": "IX Distrito Electoral Local de Oaxaca"
+      },
+      "parent_id": "Q34110"
+    },
+    {
+      "id": "Q53002443",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:oax/led:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002443"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544396"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Oaxaca"
+      },
+      "name": {
+        "en": "X Local Electoral District of Oaxaca",
+        "es": "X Distrito Electoral Local de Oaxaca"
+      },
+      "parent_id": "Q34110"
+    },
+    {
+      "id": "Q53002446",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:oax/led:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002446"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544396"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Oaxaca"
+      },
+      "name": {
+        "en": "XI Local Electoral District of Oaxaca",
+        "es": "XI Distrito Electoral Local de Oaxaca"
+      },
+      "parent_id": "Q34110"
+    },
+    {
+      "id": "Q53002451",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:oax/led:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002451"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544396"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Oaxaca"
+      },
+      "name": {
+        "en": "XII Local Electoral District of Oaxaca",
+        "es": "XII Distrito Electoral Local de Oaxaca"
+      },
+      "parent_id": "Q34110"
+    },
+    {
+      "id": "Q53002462",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:oax/led:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002462"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544396"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Oaxaca"
+      },
+      "name": {
+        "en": "XIII Local Electoral District of Oaxaca",
+        "es": "XIII Distrito Electoral Local de Oaxaca"
+      },
+      "parent_id": "Q34110"
+    },
+    {
+      "id": "Q53002474",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:oax/led:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002474"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544396"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Oaxaca"
+      },
+      "name": {
+        "en": "XIV Local Electoral District of Oaxaca",
+        "es": "XIV Distrito Electoral Local de Oaxaca"
+      },
+      "parent_id": "Q34110"
+    },
+    {
+      "id": "Q53002476",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:oax/led:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002476"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544396"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Oaxaca"
+      },
+      "name": {
+        "en": "XV Local Electoral District of Oaxaca",
+        "es": "XV Distrito Electoral Local de Oaxaca"
+      },
+      "parent_id": "Q34110"
+    },
+    {
+      "id": "Q53002478",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:oax/led:16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002478"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544396"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Oaxaca"
+      },
+      "name": {
+        "en": "XVI Local Electoral District of Oaxaca",
+        "es": "XVI Distrito Electoral Local de Oaxaca"
+      },
+      "parent_id": "Q34110"
+    },
+    {
+      "id": "Q53002482",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:oax/led:17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002482"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544396"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Oaxaca"
+      },
+      "name": {
+        "en": "XVII Local Electoral District of Oaxaca",
+        "es": "XVII Distrito Electoral Local de Oaxaca"
+      },
+      "parent_id": "Q34110"
+    },
+    {
+      "id": "Q53002483",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:oax/led:18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002483"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544396"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Oaxaca"
+      },
+      "name": {
+        "en": "XVIII Local Electoral District of Oaxaca",
+        "es": "XVIII Distrito Electoral Local de Oaxaca"
+      },
+      "parent_id": "Q34110"
+    },
+    {
+      "id": "Q53002485",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:oax/led:19"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002485"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544396"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Oaxaca"
+      },
+      "name": {
+        "en": "XIX Local Electoral District of Oaxaca",
+        "es": "XIX Distrito Electoral Local de Oaxaca"
+      },
+      "parent_id": "Q34110"
+    },
+    {
+      "id": "Q53002488",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:oax/led:20"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002488"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544396"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Oaxaca"
+      },
+      "name": {
+        "en": "XX Local Electoral District of Oaxaca",
+        "es": "XX Distrito Electoral Local de Oaxaca"
+      },
+      "parent_id": "Q34110"
+    },
+    {
+      "id": "Q53002491",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:oax/led:21"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002491"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544396"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Oaxaca"
+      },
+      "name": {
+        "en": "XXI Local Electoral District of Oaxaca",
+        "es": "XXI Distrito Electoral Local de Oaxaca"
+      },
+      "parent_id": "Q34110"
+    },
+    {
+      "id": "Q53002500",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:oax/led:22"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002500"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544396"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Oaxaca"
+      },
+      "name": {
+        "en": "XXII Local Electoral District of Oaxaca",
+        "es": "XXII Distrito Electoral Local de Oaxaca"
+      },
+      "parent_id": "Q34110"
+    },
+    {
+      "id": "Q53002512",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:oax/led:23"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002512"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544396"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Oaxaca"
+      },
+      "name": {
+        "en": "XXIII Local Electoral District of Oaxaca",
+        "es": "XXIII Distrito Electoral Local de Oaxaca"
+      },
+      "parent_id": "Q34110"
+    },
+    {
+      "id": "Q53002515",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:oax/led:24"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002515"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544396"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Oaxaca"
+      },
+      "name": {
+        "en": "XXIV Local Electoral District of Oaxaca",
+        "es": "XXIV Distrito Electoral Local de Oaxaca"
+      },
+      "parent_id": "Q34110"
+    },
+    {
+      "id": "Q53002517",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:oax/led:25"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002517"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544396"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Oaxaca"
+      },
+      "name": {
+        "en": "XXV Local Electoral District of Oaxaca",
+        "es": "XXV Distrito Electoral Local de Oaxaca"
+      },
+      "parent_id": "Q34110"
+    },
+    {
+      "id": "Q96",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q96"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q628004"
+      ],
+      "type": {
+        "lang:es": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "United Mexican States",
+        "lang:es": "Estados Unidos Mexicanos"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 

@@ -6,7 +6,415 @@
 
   ],
   "areas": [
-
+    {
+      "id": "Q53002768",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:slp/led:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002768"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544404"
+      ],
+      "type": {
+        "lang:en": "local electoral district of San Luis Potosi"
+      },
+      "name": {
+        "en": "I Local Electoral District of San Luis Potosi",
+        "es": "I Distrito Electoral Local de San Luis Potosi"
+      },
+      "parent_id": "Q78980"
+    },
+    {
+      "id": "Q53002770",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:slp/led:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002770"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544404"
+      ],
+      "type": {
+        "lang:en": "local electoral district of San Luis Potosi"
+      },
+      "name": {
+        "en": "II Local Electoral District of San Luis Potosi",
+        "es": "II Distrito Electoral Local de San Luis Potosi"
+      },
+      "parent_id": "Q78980"
+    },
+    {
+      "id": "Q53002773",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:slp/led:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002773"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544404"
+      ],
+      "type": {
+        "lang:en": "local electoral district of San Luis Potosi"
+      },
+      "name": {
+        "en": "III Local Electoral District of San Luis Potosi",
+        "es": "III Distrito Electoral Local de San Luis Potosi"
+      },
+      "parent_id": "Q78980"
+    },
+    {
+      "id": "Q53002777",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:slp/led:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002777"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544404"
+      ],
+      "type": {
+        "lang:en": "local electoral district of San Luis Potosi"
+      },
+      "name": {
+        "en": "IV Local Electoral District of San Luis Potosi",
+        "es": "IV Distrito Electoral Local de San Luis Potosi"
+      },
+      "parent_id": "Q78980"
+    },
+    {
+      "id": "Q53002788",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:slp/led:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002788"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544404"
+      ],
+      "type": {
+        "lang:en": "local electoral district of San Luis Potosi"
+      },
+      "name": {
+        "en": "V Local Electoral District of San Luis Potosi",
+        "es": "V Distrito Electoral Local de San Luis Potosi"
+      },
+      "parent_id": "Q78980"
+    },
+    {
+      "id": "Q53002790",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:slp/led:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002790"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544404"
+      ],
+      "type": {
+        "lang:en": "local electoral district of San Luis Potosi"
+      },
+      "name": {
+        "en": "VI Local Electoral District of San Luis Potosi",
+        "es": "VI Distrito Electoral Local de San Luis Potosi"
+      },
+      "parent_id": "Q78980"
+    },
+    {
+      "id": "Q53002793",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:slp/led:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002793"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544404"
+      ],
+      "type": {
+        "lang:en": "local electoral district of San Luis Potosi"
+      },
+      "name": {
+        "en": "VII Local Electoral District of San Luis Potosi",
+        "es": "VII Distrito Electoral Local de San Luis Potosi"
+      },
+      "parent_id": "Q78980"
+    },
+    {
+      "id": "Q53002797",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:slp/led:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002797"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544404"
+      ],
+      "type": {
+        "lang:en": "local electoral district of San Luis Potosi"
+      },
+      "name": {
+        "en": "VIII Local Electoral District of San Luis Potosi",
+        "es": "VIII Distrito Electoral Local de San Luis Potosi"
+      },
+      "parent_id": "Q78980"
+    },
+    {
+      "id": "Q53002801",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:slp/led:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002801"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544404"
+      ],
+      "type": {
+        "lang:en": "local electoral district of San Luis Potosi"
+      },
+      "name": {
+        "en": "IX Local Electoral District of San Luis Potosi",
+        "es": "IX Distrito Electoral Local de San Luis Potosi"
+      },
+      "parent_id": "Q78980"
+    },
+    {
+      "id": "Q53002805",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:slp/led:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002805"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544404"
+      ],
+      "type": {
+        "lang:en": "local electoral district of San Luis Potosi"
+      },
+      "name": {
+        "en": "X Local Electoral District of San Luis Potosi",
+        "es": "X Distrito Electoral Local de San Luis Potosi"
+      },
+      "parent_id": "Q78980"
+    },
+    {
+      "id": "Q53002808",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:slp/led:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002808"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544404"
+      ],
+      "type": {
+        "lang:en": "local electoral district of San Luis Potosi"
+      },
+      "name": {
+        "en": "XI Local Electoral District of San Luis Potosi",
+        "es": "XI Distrito Electoral Local de San Luis Potosi"
+      },
+      "parent_id": "Q78980"
+    },
+    {
+      "id": "Q53002810",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:slp/led:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002810"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544404"
+      ],
+      "type": {
+        "lang:en": "local electoral district of San Luis Potosi"
+      },
+      "name": {
+        "en": "XII Local Electoral District of San Luis Potosi",
+        "es": "XII Distrito Electoral Local de San Luis Potosi"
+      },
+      "parent_id": "Q78980"
+    },
+    {
+      "id": "Q53002817",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:slp/led:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002817"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544404"
+      ],
+      "type": {
+        "lang:en": "local electoral district of San Luis Potosi"
+      },
+      "name": {
+        "en": "XIII Local Electoral District of San Luis Potosi",
+        "es": "XIII Distrito Electoral Local de San Luis Potosi"
+      },
+      "parent_id": "Q78980"
+    },
+    {
+      "id": "Q53002828",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:slp/led:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002828"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544404"
+      ],
+      "type": {
+        "lang:en": "local electoral district of San Luis Potosi"
+      },
+      "name": {
+        "en": "XIV Local Electoral District of San Luis Potosi",
+        "es": "XIV Distrito Electoral Local de San Luis Potosi"
+      },
+      "parent_id": "Q78980"
+    },
+    {
+      "id": "Q53002830",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:slp/led:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002830"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544404"
+      ],
+      "type": {
+        "lang:en": "local electoral district of San Luis Potosi"
+      },
+      "name": {
+        "en": "XV Local Electoral District of San Luis Potosi",
+        "es": "XV Distrito Electoral Local de San Luis Potosi"
+      },
+      "parent_id": "Q78980"
+    },
+    {
+      "id": "Q78980",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:slp"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q78980"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q5589709"
+      ],
+      "type": {
+        "lang:es": "estado de México",
+        "lang:en": "state of Mexico"
+      },
+      "name": {
+        "lang:es": "San Luis Potosí"
+      },
+      "parent_id": "Q96"
+    },
+    {
+      "id": "Q96",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q96"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q628004"
+      ],
+      "type": {
+        "lang:es": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "United Mexican States",
+        "lang:es": "Estados Unidos Mexicanos"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 

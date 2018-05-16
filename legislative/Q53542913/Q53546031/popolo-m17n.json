@@ -6,7 +6,439 @@
 
   ],
   "areas": [
-
+    {
+      "id": "Q46508",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:bcs"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q46508"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q5589635"
+      ],
+      "type": {
+        "lang:es": "estado de México",
+        "lang:en": "state of Mexico"
+      },
+      "name": {
+        "lang:es": "Baja California Sur"
+      },
+      "parent_id": "Q96"
+    },
+    {
+      "id": "Q52991738",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:bcs/led:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991738"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544332"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Baja California Sur"
+      },
+      "name": {
+        "en": "I Local Electoral District of Baja California Sur",
+        "es": "I Distrito Electoral Local de Baja California Sur"
+      },
+      "parent_id": "Q46508"
+    },
+    {
+      "id": "Q52991740",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:bcs/led:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991740"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544332"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Baja California Sur"
+      },
+      "name": {
+        "en": "II Local Electoral District of Baja California Sur",
+        "es": "II Distrito Electoral Local de Baja California Sur"
+      },
+      "parent_id": "Q46508"
+    },
+    {
+      "id": "Q52991741",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:bcs/led:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991741"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544332"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Baja California Sur"
+      },
+      "name": {
+        "en": "III Local Electoral District of Baja California Sur",
+        "es": "III Distrito Electoral Local de Baja California Sur"
+      },
+      "parent_id": "Q46508"
+    },
+    {
+      "id": "Q52991742",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:bcs/led:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991742"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544332"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Baja California Sur"
+      },
+      "name": {
+        "en": "IV Local Electoral District of Baja California Sur",
+        "es": "IV Distrito Electoral Local de Baja California Sur"
+      },
+      "parent_id": "Q46508"
+    },
+    {
+      "id": "Q52991744",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:bcs/led:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991744"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544332"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Baja California Sur"
+      },
+      "name": {
+        "en": "V Local Electoral District of Baja California Sur",
+        "es": "V Distrito Electoral Local de Baja California Sur"
+      },
+      "parent_id": "Q46508"
+    },
+    {
+      "id": "Q52991745",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:bcs/led:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991745"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544332"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Baja California Sur"
+      },
+      "name": {
+        "en": "VI Local Electoral District of Baja California Sur",
+        "es": "VI Distrito Electoral Local de Baja California Sur"
+      },
+      "parent_id": "Q46508"
+    },
+    {
+      "id": "Q52991746",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:bcs/led:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991746"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544332"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Baja California Sur"
+      },
+      "name": {
+        "en": "VII Local Electoral District of Baja California Sur",
+        "es": "VII Distrito Electoral Local de Baja California Sur"
+      },
+      "parent_id": "Q46508"
+    },
+    {
+      "id": "Q52991748",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:bcs/led:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991748"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544332"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Baja California Sur"
+      },
+      "name": {
+        "en": "VIII Local Electoral District of Baja California Sur",
+        "es": "VIII Distrito Electoral Local de Baja California Sur"
+      },
+      "parent_id": "Q46508"
+    },
+    {
+      "id": "Q52991749",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:bcs/led:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991749"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544332"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Baja California Sur"
+      },
+      "name": {
+        "en": "IX Local Electoral District of Baja California Sur",
+        "es": "IX Distrito Electoral Local de Baja California Sur"
+      },
+      "parent_id": "Q46508"
+    },
+    {
+      "id": "Q52991755",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:bcs/led:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991755"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544332"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Baja California Sur"
+      },
+      "name": {
+        "en": "X Local Electoral District of Baja California Sur",
+        "es": "X Distrito Electoral Local de Baja California Sur"
+      },
+      "parent_id": "Q46508"
+    },
+    {
+      "id": "Q52991757",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:bcs/led:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991757"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544332"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Baja California Sur"
+      },
+      "name": {
+        "en": "XI Local Electoral District of Baja California Sur",
+        "es": "XI Distrito Electoral Local de Baja California Sur"
+      },
+      "parent_id": "Q46508"
+    },
+    {
+      "id": "Q52991758",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:bcs/led:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991758"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544332"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Baja California Sur"
+      },
+      "name": {
+        "en": "XII Local Electoral District of Baja California Sur",
+        "es": "XII Distrito Electoral Local de Baja California Sur"
+      },
+      "parent_id": "Q46508"
+    },
+    {
+      "id": "Q52991759",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:bcs/led:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991759"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544332"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Baja California Sur"
+      },
+      "name": {
+        "en": "XIII Local Electoral District of Baja California Sur",
+        "es": "XIII Distrito Electoral Local de Baja California Sur"
+      },
+      "parent_id": "Q46508"
+    },
+    {
+      "id": "Q52991760",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:bcs/led:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991760"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544332"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Baja California Sur"
+      },
+      "name": {
+        "en": "XIV Local Electoral District of Baja California Sur",
+        "es": "XIV Distrito Electoral Local de Baja California Sur"
+      },
+      "parent_id": "Q46508"
+    },
+    {
+      "id": "Q52991761",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:bcs/led:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991761"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544332"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Baja California Sur"
+      },
+      "name": {
+        "en": "XV Local Electoral District of Baja California Sur",
+        "es": "XV Distrito Electoral Local de Baja California Sur"
+      },
+      "parent_id": "Q46508"
+    },
+    {
+      "id": "Q52991763",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:bcs/led:16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991763"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544332"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Baja California Sur"
+      },
+      "name": {
+        "en": "XVI Local Electoral District of Baja California Sur",
+        "es": "XVI Distrito Electoral Local de Baja California Sur"
+      },
+      "parent_id": "Q46508"
+    },
+    {
+      "id": "Q96",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q96"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q628004"
+      ],
+      "type": {
+        "lang:es": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "United Mexican States",
+        "lang:es": "Estados Unidos Mexicanos"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 

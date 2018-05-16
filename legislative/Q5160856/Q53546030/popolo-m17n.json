@@ -6,7 +6,463 @@
 
   ],
   "areas": [
-
+    {
+      "id": "Q52991611",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:bcn/led:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991611"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544328"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Baja California"
+      },
+      "name": {
+        "en": "I Local Electoral District of Baja California",
+        "es": "I Distrito Electoral Local de Baja California"
+      },
+      "parent_id": "Q58731"
+    },
+    {
+      "id": "Q52991612",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:bcn/led:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991612"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544328"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Baja California"
+      },
+      "name": {
+        "en": "II Local Electoral District of Baja California",
+        "es": "II Distrito Electoral Local de Baja California"
+      },
+      "parent_id": "Q58731"
+    },
+    {
+      "id": "Q52991614",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:bcn/led:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991614"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544328"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Baja California"
+      },
+      "name": {
+        "en": "III Local Electoral District of Baja California",
+        "es": "III Distrito Electoral Local de Baja California"
+      },
+      "parent_id": "Q58731"
+    },
+    {
+      "id": "Q52991615",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:bcn/led:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991615"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544328"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Baja California"
+      },
+      "name": {
+        "en": "IV Local Electoral District of Baja California",
+        "es": "IV Distrito Electoral Local de Baja California"
+      },
+      "parent_id": "Q58731"
+    },
+    {
+      "id": "Q52991616",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:bcn/led:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991616"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544328"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Baja California"
+      },
+      "name": {
+        "en": "V Local Electoral District of Baja California",
+        "es": "V Distrito Electoral Local de Baja California"
+      },
+      "parent_id": "Q58731"
+    },
+    {
+      "id": "Q52991617",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:bcn/led:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991617"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544328"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Baja California"
+      },
+      "name": {
+        "en": "VI Local Electoral District of Baja California",
+        "es": "VI Distrito Electoral Local de Baja California"
+      },
+      "parent_id": "Q58731"
+    },
+    {
+      "id": "Q52991618",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:bcn/led:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991618"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544328"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Baja California"
+      },
+      "name": {
+        "en": "VII Local Electoral District of Baja California",
+        "es": "VII Distrito Electoral Local de Baja California"
+      },
+      "parent_id": "Q58731"
+    },
+    {
+      "id": "Q52991619",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:bcn/led:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991619"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544328"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Baja California"
+      },
+      "name": {
+        "en": "VIII Local Electoral District of Baja California",
+        "es": "VIII Distrito Electoral Local de Baja California"
+      },
+      "parent_id": "Q58731"
+    },
+    {
+      "id": "Q52991621",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:bcn/led:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991621"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544328"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Baja California"
+      },
+      "name": {
+        "en": "IX Local Electoral District of Baja California",
+        "es": "IX Distrito Electoral Local de Baja California"
+      },
+      "parent_id": "Q58731"
+    },
+    {
+      "id": "Q52991624",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:bcn/led:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991624"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544328"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Baja California"
+      },
+      "name": {
+        "en": "X Local Electoral District of Baja California",
+        "es": "X Distrito Electoral Local de Baja California"
+      },
+      "parent_id": "Q58731"
+    },
+    {
+      "id": "Q52991625",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:bcn/led:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991625"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544328"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Baja California"
+      },
+      "name": {
+        "en": "XI Local Electoral District of Baja California",
+        "es": "XI Distrito Electoral Local de Baja California"
+      },
+      "parent_id": "Q58731"
+    },
+    {
+      "id": "Q52991626",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:bcn/led:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991626"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544328"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Baja California"
+      },
+      "name": {
+        "en": "XII Local Electoral District of Baja California",
+        "es": "XII Distrito Electoral Local de Baja California"
+      },
+      "parent_id": "Q58731"
+    },
+    {
+      "id": "Q52991627",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:bcn/led:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991627"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544328"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Baja California"
+      },
+      "name": {
+        "en": "XIII Local Electoral District of Baja California",
+        "es": "XIII Distrito Electoral Local de Baja California"
+      },
+      "parent_id": "Q58731"
+    },
+    {
+      "id": "Q52991628",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:bcn/led:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991628"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544328"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Baja California"
+      },
+      "name": {
+        "en": "XIV Local Electoral District of Baja California",
+        "es": "XIV Distrito Electoral Local de Baja California"
+      },
+      "parent_id": "Q58731"
+    },
+    {
+      "id": "Q52991629",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:bcn/led:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991629"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544328"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Baja California"
+      },
+      "name": {
+        "en": "XV Local Electoral District of Baja California",
+        "es": "XV Distrito Electoral Local de Baja California"
+      },
+      "parent_id": "Q58731"
+    },
+    {
+      "id": "Q52991630",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:bcn/led:16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991630"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544328"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Baja California"
+      },
+      "name": {
+        "en": "XVI Local Electoral District of Baja California",
+        "es": "XVI Distrito Electoral Local de Baja California"
+      },
+      "parent_id": "Q58731"
+    },
+    {
+      "id": "Q52991631",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:bcn/led:17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991631"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544328"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Baja California"
+      },
+      "name": {
+        "en": "XVII Local Electoral District of Baja California",
+        "es": "XVII Distrito Electoral Local de Baja California"
+      },
+      "parent_id": "Q58731"
+    },
+    {
+      "id": "Q58731",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:bcn"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58731"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q5589632"
+      ],
+      "type": {
+        "lang:es": "estado de México",
+        "lang:en": "state of Mexico"
+      },
+      "name": {
+        "lang:es": "Baja California"
+      },
+      "parent_id": "Q96"
+    },
+    {
+      "id": "Q96",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q96"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q628004"
+      ],
+      "type": {
+        "lang:es": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "United Mexican States",
+        "lang:es": "Estados Unidos Mexicanos"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 

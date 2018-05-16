@@ -6,7 +6,415 @@
 
   ],
   "areas": [
-
+    {
+      "id": "Q53002700",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:roo/led:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002700"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544402"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Quintana Roo"
+      },
+      "name": {
+        "en": "I Local Electoral District of Quintana Roo",
+        "es": "I Distrito Electoral Local de Quintana Roo"
+      },
+      "parent_id": "Q80245"
+    },
+    {
+      "id": "Q53002714",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:roo/led:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002714"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544402"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Quintana Roo"
+      },
+      "name": {
+        "en": "II Local Electoral District of Quintana Roo",
+        "es": "II Distrito Electoral Local de Quintana Roo"
+      },
+      "parent_id": "Q80245"
+    },
+    {
+      "id": "Q53002717",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:roo/led:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002717"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544402"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Quintana Roo"
+      },
+      "name": {
+        "en": "III Local Electoral District of Quintana Roo",
+        "es": "III Distrito Electoral Local de Quintana Roo"
+      },
+      "parent_id": "Q80245"
+    },
+    {
+      "id": "Q53002722",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:roo/led:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002722"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544402"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Quintana Roo"
+      },
+      "name": {
+        "en": "IV Local Electoral District of Quintana Roo",
+        "es": "IV Distrito Electoral Local de Quintana Roo"
+      },
+      "parent_id": "Q80245"
+    },
+    {
+      "id": "Q53002724",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:roo/led:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002724"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544402"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Quintana Roo"
+      },
+      "name": {
+        "en": "V Local Electoral District of Quintana Roo",
+        "es": "V Distrito Electoral Local de Quintana Roo"
+      },
+      "parent_id": "Q80245"
+    },
+    {
+      "id": "Q53002729",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:roo/led:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002729"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544402"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Quintana Roo"
+      },
+      "name": {
+        "en": "VI Local Electoral District of Quintana Roo",
+        "es": "VI Distrito Electoral Local de Quintana Roo"
+      },
+      "parent_id": "Q80245"
+    },
+    {
+      "id": "Q53002733",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:roo/led:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002733"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544402"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Quintana Roo"
+      },
+      "name": {
+        "en": "VII Local Electoral District of Quintana Roo",
+        "es": "VII Distrito Electoral Local de Quintana Roo"
+      },
+      "parent_id": "Q80245"
+    },
+    {
+      "id": "Q53002735",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:roo/led:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002735"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544402"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Quintana Roo"
+      },
+      "name": {
+        "en": "VIII Local Electoral District of Quintana Roo",
+        "es": "VIII Distrito Electoral Local de Quintana Roo"
+      },
+      "parent_id": "Q80245"
+    },
+    {
+      "id": "Q53002738",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:roo/led:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002738"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544402"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Quintana Roo"
+      },
+      "name": {
+        "en": "IX Local Electoral District of Quintana Roo",
+        "es": "IX Distrito Electoral Local de Quintana Roo"
+      },
+      "parent_id": "Q80245"
+    },
+    {
+      "id": "Q53002745",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:roo/led:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002745"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544402"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Quintana Roo"
+      },
+      "name": {
+        "en": "X Local Electoral District of Quintana Roo",
+        "es": "X Distrito Electoral Local de Quintana Roo"
+      },
+      "parent_id": "Q80245"
+    },
+    {
+      "id": "Q53002755",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:roo/led:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002755"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544402"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Quintana Roo"
+      },
+      "name": {
+        "en": "XI Local Electoral District of Quintana Roo",
+        "es": "XI Distrito Electoral Local de Quintana Roo"
+      },
+      "parent_id": "Q80245"
+    },
+    {
+      "id": "Q53002758",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:roo/led:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002758"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544402"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Quintana Roo"
+      },
+      "name": {
+        "en": "XII Local Electoral District of Quintana Roo",
+        "es": "XII Distrito Electoral Local de Quintana Roo"
+      },
+      "parent_id": "Q80245"
+    },
+    {
+      "id": "Q53002762",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:roo/led:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002762"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544402"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Quintana Roo"
+      },
+      "name": {
+        "en": "XIII Local Electoral District of Quintana Roo",
+        "es": "XIII Distrito Electoral Local de Quintana Roo"
+      },
+      "parent_id": "Q80245"
+    },
+    {
+      "id": "Q53002763",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:roo/led:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002763"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544402"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Quintana Roo"
+      },
+      "name": {
+        "en": "XIV Local Electoral District of Quintana Roo",
+        "es": "XIV Distrito Electoral Local de Quintana Roo"
+      },
+      "parent_id": "Q80245"
+    },
+    {
+      "id": "Q53002766",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:roo/led:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002766"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544402"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Quintana Roo"
+      },
+      "name": {
+        "en": "XV Local Electoral District of Quintana Roo",
+        "es": "XV Distrito Electoral Local de Quintana Roo"
+      },
+      "parent_id": "Q80245"
+    },
+    {
+      "id": "Q80245",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:roo"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q80245"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q5589705"
+      ],
+      "type": {
+        "lang:es": "estado de México",
+        "lang:en": "state of Mexico"
+      },
+      "name": {
+        "lang:es": "Quintana Roo"
+      },
+      "parent_id": "Q96"
+    },
+    {
+      "id": "Q96",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q96"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q628004"
+      ],
+      "type": {
+        "lang:es": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "United Mexican States",
+        "lang:es": "Estados Unidos Mexicanos"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 

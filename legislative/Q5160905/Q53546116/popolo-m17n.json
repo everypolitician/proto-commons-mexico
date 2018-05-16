@@ -6,7 +6,487 @@
 
   ],
   "areas": [
-
+    {
+      "id": "Q53003241",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:zac/led:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003241"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544433"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Zacatecas"
+      },
+      "name": {
+        "en": "I Local Electoral District of Zacatecas",
+        "es": "I Distrito Electoral Local de Zacatecas"
+      },
+      "parent_id": "Q80269"
+    },
+    {
+      "id": "Q53003245",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:zac/led:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003245"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544433"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Zacatecas"
+      },
+      "name": {
+        "en": "II Local Electoral District of Zacatecas",
+        "es": "II Distrito Electoral Local de Zacatecas"
+      },
+      "parent_id": "Q80269"
+    },
+    {
+      "id": "Q53003249",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:zac/led:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003249"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544433"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Zacatecas"
+      },
+      "name": {
+        "en": "III Local Electoral District of Zacatecas",
+        "es": "III Distrito Electoral Local de Zacatecas"
+      },
+      "parent_id": "Q80269"
+    },
+    {
+      "id": "Q53003252",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:zac/led:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003252"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544433"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Zacatecas"
+      },
+      "name": {
+        "en": "IV Local Electoral District of Zacatecas",
+        "es": "IV Distrito Electoral Local de Zacatecas"
+      },
+      "parent_id": "Q80269"
+    },
+    {
+      "id": "Q53003256",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:zac/led:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003256"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544433"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Zacatecas"
+      },
+      "name": {
+        "en": "V Local Electoral District of Zacatecas",
+        "es": "V Distrito Electoral Local de Zacatecas"
+      },
+      "parent_id": "Q80269"
+    },
+    {
+      "id": "Q53003260",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:zac/led:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003260"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544433"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Zacatecas"
+      },
+      "name": {
+        "en": "VI Local Electoral District of Zacatecas",
+        "es": "VI Distrito Electoral Local de Zacatecas"
+      },
+      "parent_id": "Q80269"
+    },
+    {
+      "id": "Q53003262",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:zac/led:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003262"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544433"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Zacatecas"
+      },
+      "name": {
+        "en": "VII Local Electoral District of Zacatecas",
+        "es": "VII Distrito Electoral Local de Zacatecas"
+      },
+      "parent_id": "Q80269"
+    },
+    {
+      "id": "Q53003264",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:zac/led:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003264"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544433"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Zacatecas"
+      },
+      "name": {
+        "en": "VIII Local Electoral District of Zacatecas",
+        "es": "VIII Distrito Electoral Local de Zacatecas"
+      },
+      "parent_id": "Q80269"
+    },
+    {
+      "id": "Q53003269",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:zac/led:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003269"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544433"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Zacatecas"
+      },
+      "name": {
+        "en": "IX Local Electoral District of Zacatecas",
+        "es": "IX Distrito Electoral Local de Zacatecas"
+      },
+      "parent_id": "Q80269"
+    },
+    {
+      "id": "Q53003278",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:zac/led:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003278"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544433"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Zacatecas"
+      },
+      "name": {
+        "en": "X Local Electoral District of Zacatecas",
+        "es": "X Distrito Electoral Local de Zacatecas"
+      },
+      "parent_id": "Q80269"
+    },
+    {
+      "id": "Q53003281",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:zac/led:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003281"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544433"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Zacatecas"
+      },
+      "name": {
+        "en": "XI Local Electoral District of Zacatecas",
+        "es": "XI Distrito Electoral Local de Zacatecas"
+      },
+      "parent_id": "Q80269"
+    },
+    {
+      "id": "Q53003284",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:zac/led:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003284"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544433"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Zacatecas"
+      },
+      "name": {
+        "en": "XII Local Electoral District of Zacatecas",
+        "es": "XII Distrito Electoral Local de Zacatecas"
+      },
+      "parent_id": "Q80269"
+    },
+    {
+      "id": "Q53003287",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:zac/led:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003287"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544433"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Zacatecas"
+      },
+      "name": {
+        "en": "XIII Local Electoral District of Zacatecas",
+        "es": "XIII Distrito Electoral Local de Zacatecas"
+      },
+      "parent_id": "Q80269"
+    },
+    {
+      "id": "Q53003291",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:zac/led:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003291"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544433"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Zacatecas"
+      },
+      "name": {
+        "en": "XIV Local Electoral District of Zacatecas",
+        "es": "XIV Distrito Electoral Local de Zacatecas"
+      },
+      "parent_id": "Q80269"
+    },
+    {
+      "id": "Q53003295",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:zac/led:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003295"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544433"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Zacatecas"
+      },
+      "name": {
+        "en": "XV Local Electoral District of Zacatecas",
+        "es": "XV Distrito Electoral Local de Zacatecas"
+      },
+      "parent_id": "Q80269"
+    },
+    {
+      "id": "Q53003299",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:zac/led:16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003299"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544433"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Zacatecas"
+      },
+      "name": {
+        "en": "XVI Local Electoral District of Zacatecas",
+        "es": "XVI Distrito Electoral Local de Zacatecas"
+      },
+      "parent_id": "Q80269"
+    },
+    {
+      "id": "Q53003301",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:zac/led:17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003301"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544433"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Zacatecas"
+      },
+      "name": {
+        "en": "XVII Local Electoral District of Zacatecas",
+        "es": "XVII Distrito Electoral Local de Zacatecas"
+      },
+      "parent_id": "Q80269"
+    },
+    {
+      "id": "Q53003308",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:zac/led:18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003308"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544433"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Zacatecas"
+      },
+      "name": {
+        "en": "XVIII Local Electoral District of Zacatecas",
+        "es": "XVIII Distrito Electoral Local de Zacatecas"
+      },
+      "parent_id": "Q80269"
+    },
+    {
+      "id": "Q80269",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:zac"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q80269"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q5589737"
+      ],
+      "type": {
+        "lang:es": "estado de México",
+        "lang:en": "state of Mexico"
+      },
+      "name": {
+        "lang:es": "Zacatecas"
+      },
+      "parent_id": "Q96"
+    },
+    {
+      "id": "Q96",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q96"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q628004"
+      ],
+      "type": {
+        "lang:es": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "United Mexican States",
+        "lang:es": "Estados Unidos Mexicanos"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 

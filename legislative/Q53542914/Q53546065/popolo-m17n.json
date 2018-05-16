@@ -6,7 +6,487 @@
 
   ],
   "areas": [
-
+    {
+      "id": "Q53002328",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:nay/led:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002328"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544378"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Nayarit"
+      },
+      "name": {
+        "en": "I Local Electoral District of Nayarit",
+        "es": "I Distrito Electoral Local de Nayarit"
+      },
+      "parent_id": "Q79920"
+    },
+    {
+      "id": "Q53002332",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:nay/led:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002332"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544378"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Nayarit"
+      },
+      "name": {
+        "en": "II Local Electoral District of Nayarit",
+        "es": "II Distrito Electoral Local de Nayarit"
+      },
+      "parent_id": "Q79920"
+    },
+    {
+      "id": "Q53002333",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:nay/led:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002333"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544378"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Nayarit"
+      },
+      "name": {
+        "en": "III Local Electoral District of Nayarit",
+        "es": "III Distrito Electoral Local de Nayarit"
+      },
+      "parent_id": "Q79920"
+    },
+    {
+      "id": "Q53002340",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:nay/led:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002340"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544378"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Nayarit"
+      },
+      "name": {
+        "en": "IV Local Electoral District of Nayarit",
+        "es": "IV Distrito Electoral Local de Nayarit"
+      },
+      "parent_id": "Q79920"
+    },
+    {
+      "id": "Q53002350",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:nay/led:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002350"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544378"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Nayarit"
+      },
+      "name": {
+        "en": "V Local Electoral District of Nayarit",
+        "es": "V Distrito Electoral Local de Nayarit"
+      },
+      "parent_id": "Q79920"
+    },
+    {
+      "id": "Q53002352",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:nay/led:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002352"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544378"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Nayarit"
+      },
+      "name": {
+        "en": "VI Local Electoral District of Nayarit",
+        "es": "VI Distrito Electoral Local de Nayarit"
+      },
+      "parent_id": "Q79920"
+    },
+    {
+      "id": "Q53002355",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:nay/led:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002355"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544378"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Nayarit"
+      },
+      "name": {
+        "en": "VII Local Electoral District of Nayarit",
+        "es": "VII Distrito Electoral Local de Nayarit"
+      },
+      "parent_id": "Q79920"
+    },
+    {
+      "id": "Q53002358",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:nay/led:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002358"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544378"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Nayarit"
+      },
+      "name": {
+        "en": "VIII Local Electoral District of Nayarit",
+        "es": "VIII Distrito Electoral Local de Nayarit"
+      },
+      "parent_id": "Q79920"
+    },
+    {
+      "id": "Q53002360",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:nay/led:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002360"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544378"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Nayarit"
+      },
+      "name": {
+        "en": "IX Local Electoral District of Nayarit",
+        "es": "IX Distrito Electoral Local de Nayarit"
+      },
+      "parent_id": "Q79920"
+    },
+    {
+      "id": "Q53002361",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:nay/led:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002361"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544378"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Nayarit"
+      },
+      "name": {
+        "en": "X Local Electoral District of Nayarit",
+        "es": "X Distrito Electoral Local de Nayarit"
+      },
+      "parent_id": "Q79920"
+    },
+    {
+      "id": "Q53002365",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:nay/led:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002365"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544378"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Nayarit"
+      },
+      "name": {
+        "en": "XI Local Electoral District of Nayarit",
+        "es": "XI Distrito Electoral Local de Nayarit"
+      },
+      "parent_id": "Q79920"
+    },
+    {
+      "id": "Q53002367",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:nay/led:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002367"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544378"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Nayarit"
+      },
+      "name": {
+        "en": "XII Local Electoral District of Nayarit",
+        "es": "XII Distrito Electoral Local de Nayarit"
+      },
+      "parent_id": "Q79920"
+    },
+    {
+      "id": "Q53002377",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:nay/led:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002377"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544378"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Nayarit"
+      },
+      "name": {
+        "en": "XIII Local Electoral District of Nayarit",
+        "es": "XIII Distrito Electoral Local de Nayarit"
+      },
+      "parent_id": "Q79920"
+    },
+    {
+      "id": "Q53002384",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:nay/led:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002384"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544378"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Nayarit"
+      },
+      "name": {
+        "en": "XIV Local Electoral District of Nayarit",
+        "es": "XIV Distrito Electoral Local de Nayarit"
+      },
+      "parent_id": "Q79920"
+    },
+    {
+      "id": "Q53002386",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:nay/led:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002386"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544378"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Nayarit"
+      },
+      "name": {
+        "en": "XV Local Electoral District of Nayarit",
+        "es": "XV Distrito Electoral Local de Nayarit"
+      },
+      "parent_id": "Q79920"
+    },
+    {
+      "id": "Q53002387",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:nay/led:16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002387"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544378"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Nayarit"
+      },
+      "name": {
+        "en": "XVI Local Electoral District of Nayarit",
+        "es": "XVI Distrito Electoral Local de Nayarit"
+      },
+      "parent_id": "Q79920"
+    },
+    {
+      "id": "Q53002390",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:nay/led:17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002390"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544378"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Nayarit"
+      },
+      "name": {
+        "en": "XVII Local Electoral District of Nayarit",
+        "es": "XVII Distrito Electoral Local de Nayarit"
+      },
+      "parent_id": "Q79920"
+    },
+    {
+      "id": "Q53002393",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:nay/led:18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002393"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544378"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Nayarit"
+      },
+      "name": {
+        "en": "XVIII Local Electoral District of Nayarit",
+        "es": "XVIII Distrito Electoral Local de Nayarit"
+      },
+      "parent_id": "Q79920"
+    },
+    {
+      "id": "Q79920",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:nay"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q79920"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q5589686"
+      ],
+      "type": {
+        "lang:es": "estado de México",
+        "lang:en": "state of Mexico"
+      },
+      "name": {
+        "lang:es": "Nayarit"
+      },
+      "parent_id": "Q96"
+    },
+    {
+      "id": "Q96",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q96"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q628004"
+      ],
+      "type": {
+        "lang:es": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "United Mexican States",
+        "lang:es": "Estados Unidos Mexicanos"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 

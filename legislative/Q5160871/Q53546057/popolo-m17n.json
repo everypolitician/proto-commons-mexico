@@ -6,7 +6,583 @@
 
   ],
   "areas": [
-
+    {
+      "id": "Q46475",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:gua"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q46475"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q5589657"
+      ],
+      "type": {
+        "lang:es": "estado de México",
+        "lang:en": "state of Mexico"
+      },
+      "name": {
+        "lang:es": "Guanajuato"
+      },
+      "parent_id": "Q96"
+    },
+    {
+      "id": "Q53001927",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:gua/led:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53001927"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544367"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Guanajuato"
+      },
+      "name": {
+        "en": "I Local Electoral District of Guanajuato",
+        "es": "I Distrito Electoral Local de Guanajuato"
+      },
+      "parent_id": "Q46475"
+    },
+    {
+      "id": "Q53001930",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:gua/led:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53001930"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544367"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Guanajuato"
+      },
+      "name": {
+        "en": "II Local Electoral District of Guanajuato",
+        "es": "II Distrito Electoral Local de Guanajuato"
+      },
+      "parent_id": "Q46475"
+    },
+    {
+      "id": "Q53001931",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:gua/led:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53001931"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544367"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Guanajuato"
+      },
+      "name": {
+        "en": "III Local Electoral District of Guanajuato",
+        "es": "III Distrito Electoral Local de Guanajuato"
+      },
+      "parent_id": "Q46475"
+    },
+    {
+      "id": "Q53001934",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:gua/led:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53001934"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544367"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Guanajuato"
+      },
+      "name": {
+        "en": "IV Local Electoral District of Guanajuato",
+        "es": "IV Distrito Electoral Local de Guanajuato"
+      },
+      "parent_id": "Q46475"
+    },
+    {
+      "id": "Q53001937",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:gua/led:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53001937"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544367"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Guanajuato"
+      },
+      "name": {
+        "en": "V Local Electoral District of Guanajuato",
+        "es": "V Distrito Electoral Local de Guanajuato"
+      },
+      "parent_id": "Q46475"
+    },
+    {
+      "id": "Q53001938",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:gua/led:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53001938"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544367"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Guanajuato"
+      },
+      "name": {
+        "en": "VI Local Electoral District of Guanajuato",
+        "es": "VI Distrito Electoral Local de Guanajuato"
+      },
+      "parent_id": "Q46475"
+    },
+    {
+      "id": "Q53001941",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:gua/led:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53001941"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544367"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Guanajuato"
+      },
+      "name": {
+        "en": "VII Local Electoral District of Guanajuato",
+        "es": "VII Distrito Electoral Local de Guanajuato"
+      },
+      "parent_id": "Q46475"
+    },
+    {
+      "id": "Q53001943",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:gua/led:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53001943"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544367"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Guanajuato"
+      },
+      "name": {
+        "en": "VIII Local Electoral District of Guanajuato",
+        "es": "VIII Distrito Electoral Local de Guanajuato"
+      },
+      "parent_id": "Q46475"
+    },
+    {
+      "id": "Q53001945",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:gua/led:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53001945"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544367"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Guanajuato"
+      },
+      "name": {
+        "en": "IX Local Electoral District of Guanajuato",
+        "es": "IX Distrito Electoral Local de Guanajuato"
+      },
+      "parent_id": "Q46475"
+    },
+    {
+      "id": "Q53001963",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:gua/led:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53001963"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544367"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Guanajuato"
+      },
+      "name": {
+        "en": "X Local Electoral District of Guanajuato",
+        "es": "X Distrito Electoral Local de Guanajuato"
+      },
+      "parent_id": "Q46475"
+    },
+    {
+      "id": "Q53001973",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:gua/led:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53001973"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544367"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Guanajuato"
+      },
+      "name": {
+        "en": "XI Local Electoral District of Guanajuato",
+        "es": "XI Distrito Electoral Local de Guanajuato"
+      },
+      "parent_id": "Q46475"
+    },
+    {
+      "id": "Q53001975",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:gua/led:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53001975"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544367"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Guanajuato"
+      },
+      "name": {
+        "en": "XII Local Electoral District of Guanajuato",
+        "es": "XII Distrito Electoral Local de Guanajuato"
+      },
+      "parent_id": "Q46475"
+    },
+    {
+      "id": "Q53001977",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:gua/led:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53001977"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544367"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Guanajuato"
+      },
+      "name": {
+        "en": "XIII Local Electoral District of Guanajuato",
+        "es": "XIII Distrito Electoral Local de Guanajuato"
+      },
+      "parent_id": "Q46475"
+    },
+    {
+      "id": "Q53001981",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:gua/led:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53001981"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544367"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Guanajuato"
+      },
+      "name": {
+        "en": "XIV Local Electoral District of Guanajuato",
+        "es": "XIV Distrito Electoral Local de Guanajuato"
+      },
+      "parent_id": "Q46475"
+    },
+    {
+      "id": "Q53001982",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:gua/led:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53001982"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544367"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Guanajuato"
+      },
+      "name": {
+        "en": "XV Local Electoral District of Guanajuato",
+        "es": "XV Distrito Electoral Local de Guanajuato"
+      },
+      "parent_id": "Q46475"
+    },
+    {
+      "id": "Q53001985",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:gua/led:16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53001985"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544367"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Guanajuato"
+      },
+      "name": {
+        "en": "XVI Local Electoral District of Guanajuato",
+        "es": "XVI Distrito Electoral Local de Guanajuato"
+      },
+      "parent_id": "Q46475"
+    },
+    {
+      "id": "Q53001987",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:gua/led:17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53001987"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544367"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Guanajuato"
+      },
+      "name": {
+        "en": "XVII Local Electoral District of Guanajuato",
+        "es": "XVII Distrito Electoral Local de Guanajuato"
+      },
+      "parent_id": "Q46475"
+    },
+    {
+      "id": "Q53001989",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:gua/led:18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53001989"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544367"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Guanajuato"
+      },
+      "name": {
+        "en": "XVIII Local Electoral District of Guanajuato",
+        "es": "XVIII Distrito Electoral Local de Guanajuato"
+      },
+      "parent_id": "Q46475"
+    },
+    {
+      "id": "Q53002002",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:gua/led:19"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002002"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544367"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Guanajuato"
+      },
+      "name": {
+        "en": "XIX Local Electoral District of Guanajuato",
+        "es": "XIX Distrito Electoral Local de Guanajuato"
+      },
+      "parent_id": "Q46475"
+    },
+    {
+      "id": "Q53002016",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:gua/led:20"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002016"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544367"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Guanajuato"
+      },
+      "name": {
+        "en": "XX Local Electoral District of Guanajuato",
+        "es": "XX Distrito Electoral Local de Guanajuato"
+      },
+      "parent_id": "Q46475"
+    },
+    {
+      "id": "Q53002019",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:gua/led:21"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002019"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544367"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Guanajuato"
+      },
+      "name": {
+        "en": "XXI Local Electoral District of Guanajuato",
+        "es": "XXI Distrito Electoral Local de Guanajuato"
+      },
+      "parent_id": "Q46475"
+    },
+    {
+      "id": "Q53002021",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:gua/led:22"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002021"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544367"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Guanajuato"
+      },
+      "name": {
+        "en": "XXII Local Electoral District of Guanajuato",
+        "es": "XXII Distrito Electoral Local de Guanajuato"
+      },
+      "parent_id": "Q46475"
+    },
+    {
+      "id": "Q96",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q96"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q628004"
+      ],
+      "type": {
+        "lang:es": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "United Mexican States",
+        "lang:es": "Estados Unidos Mexicanos"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 

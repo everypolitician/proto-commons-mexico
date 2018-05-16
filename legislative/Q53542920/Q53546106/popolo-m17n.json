@@ -55,7 +55,415 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q53003113",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:tla/led:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003113"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544429"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Tlaxcala"
+      },
+      "name": {
+        "en": "I Local Electoral District of Tlaxcala",
+        "es": "I Distrito Electoral Local de Tlaxcala"
+      },
+      "parent_id": "Q82681"
+    },
+    {
+      "id": "Q53003116",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:tla/led:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003116"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544429"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Tlaxcala"
+      },
+      "name": {
+        "en": "II Local Electoral District of Tlaxcala",
+        "es": "II Distrito Electoral Local de Tlaxcala"
+      },
+      "parent_id": "Q82681"
+    },
+    {
+      "id": "Q53003123",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:tla/led:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003123"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544429"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Tlaxcala"
+      },
+      "name": {
+        "en": "III Local Electoral District of Tlaxcala",
+        "es": "III Distrito Electoral Local de Tlaxcala"
+      },
+      "parent_id": "Q82681"
+    },
+    {
+      "id": "Q53003135",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:tla/led:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003135"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544429"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Tlaxcala"
+      },
+      "name": {
+        "en": "IV Local Electoral District of Tlaxcala",
+        "es": "IV Distrito Electoral Local de Tlaxcala"
+      },
+      "parent_id": "Q82681"
+    },
+    {
+      "id": "Q53003138",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:tla/led:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003138"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544429"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Tlaxcala"
+      },
+      "name": {
+        "en": "V Local Electoral District of Tlaxcala",
+        "es": "V Distrito Electoral Local de Tlaxcala"
+      },
+      "parent_id": "Q82681"
+    },
+    {
+      "id": "Q53003142",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:tla/led:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003142"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544429"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Tlaxcala"
+      },
+      "name": {
+        "en": "VI Local Electoral District of Tlaxcala",
+        "es": "VI Distrito Electoral Local de Tlaxcala"
+      },
+      "parent_id": "Q82681"
+    },
+    {
+      "id": "Q53003145",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:tla/led:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003145"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544429"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Tlaxcala"
+      },
+      "name": {
+        "en": "VII Local Electoral District of Tlaxcala",
+        "es": "VII Distrito Electoral Local de Tlaxcala"
+      },
+      "parent_id": "Q82681"
+    },
+    {
+      "id": "Q53003147",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:tla/led:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003147"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544429"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Tlaxcala"
+      },
+      "name": {
+        "en": "VIII Local Electoral District of Tlaxcala",
+        "es": "VIII Distrito Electoral Local de Tlaxcala"
+      },
+      "parent_id": "Q82681"
+    },
+    {
+      "id": "Q53003150",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:tla/led:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003150"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544429"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Tlaxcala"
+      },
+      "name": {
+        "en": "IX Local Electoral District of Tlaxcala",
+        "es": "IX Distrito Electoral Local de Tlaxcala"
+      },
+      "parent_id": "Q82681"
+    },
+    {
+      "id": "Q53003153",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:tla/led:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003153"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544429"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Tlaxcala"
+      },
+      "name": {
+        "en": "X Local Electoral District of Tlaxcala",
+        "es": "X Distrito Electoral Local de Tlaxcala"
+      },
+      "parent_id": "Q82681"
+    },
+    {
+      "id": "Q53003157",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:tla/led:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003157"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544429"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Tlaxcala"
+      },
+      "name": {
+        "en": "XI Local Electoral District of Tlaxcala",
+        "es": "XI Distrito Electoral Local de Tlaxcala"
+      },
+      "parent_id": "Q82681"
+    },
+    {
+      "id": "Q53003165",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:tla/led:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003165"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544429"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Tlaxcala"
+      },
+      "name": {
+        "en": "XII Local Electoral District of Tlaxcala",
+        "es": "XII Distrito Electoral Local de Tlaxcala"
+      },
+      "parent_id": "Q82681"
+    },
+    {
+      "id": "Q53003174",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:tla/led:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003174"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544429"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Tlaxcala"
+      },
+      "name": {
+        "en": "XIII Local Electoral District of Tlaxcala",
+        "es": "XIII Distrito Electoral Local de Tlaxcala"
+      },
+      "parent_id": "Q82681"
+    },
+    {
+      "id": "Q53003177",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:tla/led:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003177"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544429"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Tlaxcala"
+      },
+      "name": {
+        "en": "XIV Local Electoral District of Tlaxcala",
+        "es": "XIV Distrito Electoral Local de Tlaxcala"
+      },
+      "parent_id": "Q82681"
+    },
+    {
+      "id": "Q53003179",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:tla/led:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003179"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544429"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Tlaxcala"
+      },
+      "name": {
+        "en": "XV Local Electoral District of Tlaxcala",
+        "es": "XV Distrito Electoral Local de Tlaxcala"
+      },
+      "parent_id": "Q82681"
+    },
+    {
+      "id": "Q82681",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:tla"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q82681"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q5589729"
+      ],
+      "type": {
+        "lang:es": "estado de México",
+        "lang:en": "state of Mexico"
+      },
+      "name": {
+        "lang:es": "Tlaxcala"
+      },
+      "parent_id": "Q96"
+    },
+    {
+      "id": "Q96",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q96"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q628004"
+      ],
+      "type": {
+        "lang:es": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "United Mexican States",
+        "lang:es": "Estados Unidos Mexicanos"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
     {

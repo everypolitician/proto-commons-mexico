@@ -55,7 +55,559 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q28005777",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:son/led:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28005777"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544408"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Sonora"
+      },
+      "name": {
+        "en": "I Local Electoral District of Sonora",
+        "es": "I Distrito Electoral Local de Sonora"
+      },
+      "parent_id": "Q46422"
+    },
+    {
+      "id": "Q28006056",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:son/led:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28006056"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544408"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Sonora"
+      },
+      "name": {
+        "en": "II Local Electoral District of Sonora",
+        "es": "II Distrito Electoral Local de Sonora"
+      },
+      "parent_id": "Q46422"
+    },
+    {
+      "id": "Q28006331",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:son/led:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28006331"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544408"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Sonora"
+      },
+      "name": {
+        "en": "III Local Electoral District of Sonora",
+        "es": "III Distrito Electoral Local de Sonora"
+      },
+      "parent_id": "Q46422"
+    },
+    {
+      "id": "Q28009107",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:son/led:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28009107"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544408"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Sonora"
+      },
+      "name": {
+        "en": "IV Local Electoral Distric of Sonora",
+        "es": "IV Distrito Electoral Local de Sonora"
+      },
+      "parent_id": "Q46422"
+    },
+    {
+      "id": "Q28038351",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:son/led:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28038351"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544408"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Sonora"
+      },
+      "name": {
+        "en": "V Local Electoral District of Sonora",
+        "es": "V Distrito Electoral Local de Sonora"
+      },
+      "parent_id": "Q46422"
+    },
+    {
+      "id": "Q46422",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:son"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q46422"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3249960"
+      ],
+      "type": {
+        "lang:es": "estado de México",
+        "lang:en": "state of Mexico"
+      },
+      "name": {
+        "lang:es": "Sonora"
+      },
+      "parent_id": "Q96"
+    },
+    {
+      "id": "Q52991239",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:son/led:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991239"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544408"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Sonora"
+      },
+      "name": {
+        "en": "VI Local Electoral District of Sonora",
+        "es": "VI Distrito Electoral Local de Sonora"
+      },
+      "parent_id": "Q46422"
+    },
+    {
+      "id": "Q52991240",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:son/led:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991240"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544408"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Sonora"
+      },
+      "name": {
+        "en": "VII Local Electoral District of Sonora",
+        "es": "VII Distrito Electoral Local de Sonora"
+      },
+      "parent_id": "Q46422"
+    },
+    {
+      "id": "Q52991241",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:son/led:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991241"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544408"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Sonora"
+      },
+      "name": {
+        "en": "VIII Local Electoral District of Sonora",
+        "es": "VIII Distrito Electoral Local de Sonora"
+      },
+      "parent_id": "Q46422"
+    },
+    {
+      "id": "Q52991242",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:son/led:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991242"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544408"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Sonora"
+      },
+      "name": {
+        "en": "IX Local Electoral District of Sonora",
+        "es": "IX Distrito Electoral Local de Sonora"
+      },
+      "parent_id": "Q46422"
+    },
+    {
+      "id": "Q52991243",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:son/led:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991243"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544408"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Sonora"
+      },
+      "name": {
+        "en": "X Local Electoral District of Sonora",
+        "es": "X Distrito Electoral Local de Sonora"
+      },
+      "parent_id": "Q46422"
+    },
+    {
+      "id": "Q52991274",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:son/led:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991274"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544408"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Sonora"
+      },
+      "name": {
+        "en": "XI Local Electoral District of Sonora",
+        "es": "XI Distrito Electoral Local de Sonora"
+      },
+      "parent_id": "Q46422"
+    },
+    {
+      "id": "Q52991275",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:son/led:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991275"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544408"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Sonora"
+      },
+      "name": {
+        "en": "XII Local Electoral District of Sonora",
+        "es": "XII Distrito Electoral Local de Sonora"
+      },
+      "parent_id": "Q46422"
+    },
+    {
+      "id": "Q52991276",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:son/led:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991276"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544408"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Sonora"
+      },
+      "name": {
+        "en": "XIII Local Electoral District of Sonora",
+        "es": "XIII Distrito Electoral Local de Sonora"
+      },
+      "parent_id": "Q46422"
+    },
+    {
+      "id": "Q52991278",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:son/led:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991278"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544408"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Sonora"
+      },
+      "name": {
+        "en": "XIV Local Electoral District of Sonora",
+        "es": "XIV Distrito Electoral Local de Sonora"
+      },
+      "parent_id": "Q46422"
+    },
+    {
+      "id": "Q52991279",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:son/led:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991279"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544408"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Sonora"
+      },
+      "name": {
+        "en": "XV Local Electoral District of Sonora",
+        "es": "XV Distrito Electoral Local de Sonora"
+      },
+      "parent_id": "Q46422"
+    },
+    {
+      "id": "Q52991280",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:son/led:16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991280"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544408"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Sonora"
+      },
+      "name": {
+        "en": "XVI Local Electoral District of Sonora",
+        "es": "XVI Distrito Electoral Local de Sonora"
+      },
+      "parent_id": "Q46422"
+    },
+    {
+      "id": "Q52991281",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:son/led:17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991281"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544408"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Sonora"
+      },
+      "name": {
+        "en": "XVII Local Electoral District of Sonora",
+        "es": "XVII Distrito Electoral Local de Sonora"
+      },
+      "parent_id": "Q46422"
+    },
+    {
+      "id": "Q52991282",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:son/led:18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991282"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544408"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Sonora"
+      },
+      "name": {
+        "en": "XVIII Local Electoral District of Sonora",
+        "es": "XVIII Distrito Electoral Local de Sonora"
+      },
+      "parent_id": "Q46422"
+    },
+    {
+      "id": "Q52991283",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:son/led:19"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991283"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544408"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Sonora"
+      },
+      "name": {
+        "en": "XIX Local Electoral District of Sonora",
+        "es": "XIX Distrito Electoral Local de Sonora"
+      },
+      "parent_id": "Q46422"
+    },
+    {
+      "id": "Q52991286",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:son/led:20"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991286"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544408"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Sonora"
+      },
+      "name": {
+        "en": "XX Local Electoral District of Sonora",
+        "es": "XX Distrito Electoral Local de Sonora"
+      },
+      "parent_id": "Q46422"
+    },
+    {
+      "id": "Q52991288",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:son/led:21"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991288"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544408"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Sonora"
+      },
+      "name": {
+        "en": "XXI Local Electoral District of Sonora",
+        "es": "XXI Distrito Electoral Local de Sonora"
+      },
+      "parent_id": "Q46422"
+    },
+    {
+      "id": "Q96",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q96"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q628004"
+      ],
+      "type": {
+        "lang:es": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "United Mexican States",
+        "lang:es": "Estados Unidos Mexicanos"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
     {

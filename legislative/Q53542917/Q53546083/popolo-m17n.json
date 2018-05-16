@@ -6,7 +6,415 @@
 
   ],
   "areas": [
-
+    {
+      "id": "Q53002630",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:que/led:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002630"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544400"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Queretaro"
+      },
+      "name": {
+        "en": "I Local Electoral District of Queretaro",
+        "es": "I Distrito Electoral Local de Queretaro"
+      },
+      "parent_id": "Q79754"
+    },
+    {
+      "id": "Q53002632",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:que/led:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002632"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544400"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Queretaro"
+      },
+      "name": {
+        "en": "II Local Electoral District of Queretaro",
+        "es": "II Distrito Electoral Local de Queretaro"
+      },
+      "parent_id": "Q79754"
+    },
+    {
+      "id": "Q53002637",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:que/led:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002637"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544400"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Queretaro"
+      },
+      "name": {
+        "en": "III Local Electoral District of Queretaro",
+        "es": "III Distrito Electoral Local de Queretaro"
+      },
+      "parent_id": "Q79754"
+    },
+    {
+      "id": "Q53002639",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:que/led:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002639"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544400"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Queretaro"
+      },
+      "name": {
+        "en": "IV Local Electoral District of Queretaro",
+        "es": "IV Distrito Electoral Local de Queretaro"
+      },
+      "parent_id": "Q79754"
+    },
+    {
+      "id": "Q53002642",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:que/led:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002642"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544400"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Queretaro"
+      },
+      "name": {
+        "en": "V Local Electoral District of Queretaro",
+        "es": "V Distrito Electoral Local de Queretaro"
+      },
+      "parent_id": "Q79754"
+    },
+    {
+      "id": "Q53002645",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:que/led:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002645"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544400"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Queretaro"
+      },
+      "name": {
+        "en": "VI Local Electoral District of Queretaro",
+        "es": "VI Distrito Electoral Local de Queretaro"
+      },
+      "parent_id": "Q79754"
+    },
+    {
+      "id": "Q53002651",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:que/led:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002651"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544400"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Queretaro"
+      },
+      "name": {
+        "en": "VII Local Electoral District of Queretaro",
+        "es": "VII Distrito Electoral Local de Queretaro"
+      },
+      "parent_id": "Q79754"
+    },
+    {
+      "id": "Q53002667",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:que/led:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002667"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544400"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Queretaro"
+      },
+      "name": {
+        "en": "VIII Local Electoral District of Queretaro",
+        "es": "VIII Distrito Electoral Local de Queretaro"
+      },
+      "parent_id": "Q79754"
+    },
+    {
+      "id": "Q53002669",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:que/led:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002669"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544400"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Queretaro"
+      },
+      "name": {
+        "en": "IX Local Electoral District of Queretaro",
+        "es": "IX Distrito Electoral Local de Queretaro"
+      },
+      "parent_id": "Q79754"
+    },
+    {
+      "id": "Q53002674",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:que/led:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002674"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544400"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Queretaro"
+      },
+      "name": {
+        "en": "X Local Electoral District of Queretaro",
+        "es": "X Distrito Electoral Local de Queretaro"
+      },
+      "parent_id": "Q79754"
+    },
+    {
+      "id": "Q53002678",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:que/led:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002678"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544400"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Queretaro"
+      },
+      "name": {
+        "en": "XI Local Electoral District of Queretaro",
+        "es": "XI Distrito Electoral Local de Queretaro"
+      },
+      "parent_id": "Q79754"
+    },
+    {
+      "id": "Q53002682",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:que/led:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002682"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544400"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Queretaro"
+      },
+      "name": {
+        "en": "XII Local Electoral District of Queretaro",
+        "es": "XII Distrito Electoral Local de Queretaro"
+      },
+      "parent_id": "Q79754"
+    },
+    {
+      "id": "Q53002685",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:que/led:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002685"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544400"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Queretaro"
+      },
+      "name": {
+        "en": "XIII Local Electoral District of Queretaro",
+        "es": "XIII Distrito Electoral Local de Queretaro"
+      },
+      "parent_id": "Q79754"
+    },
+    {
+      "id": "Q53002686",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:que/led:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002686"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544400"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Queretaro"
+      },
+      "name": {
+        "en": "XIV Local Electoral District of Queretaro",
+        "es": "XIV Distrito Electoral Local de Queretaro"
+      },
+      "parent_id": "Q79754"
+    },
+    {
+      "id": "Q53002691",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:que/led:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002691"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544400"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Queretaro"
+      },
+      "name": {
+        "en": "XV Local Electoral District of Queretaro",
+        "es": "XV Distrito Electoral Local de Queretaro"
+      },
+      "parent_id": "Q79754"
+    },
+    {
+      "id": "Q79754",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:que"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q79754"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q5589703"
+      ],
+      "type": {
+        "lang:es": "estado de México",
+        "lang:en": "state of Mexico"
+      },
+      "name": {
+        "lang:es": "Querétaro"
+      },
+      "parent_id": "Q96"
+    },
+    {
+      "id": "Q96",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q96"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q628004"
+      ],
+      "type": {
+        "lang:es": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "United Mexican States",
+        "lang:es": "Estados Unidos Mexicanos"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 

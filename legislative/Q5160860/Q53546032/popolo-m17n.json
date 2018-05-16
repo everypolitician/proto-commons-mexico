@@ -6,7 +6,559 @@
 
   ],
   "areas": [
-
+    {
+      "id": "Q52991473",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:cam/led:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991473"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544333"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Campeche"
+      },
+      "name": {
+        "en": "I Local Electoral District of Campeche",
+        "es": "I Distrito Electoral Local de Campeche"
+      },
+      "parent_id": "Q80908"
+    },
+    {
+      "id": "Q52991474",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:cam/led:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991474"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544333"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Campeche"
+      },
+      "name": {
+        "en": "II Local Electoral District of Campeche",
+        "es": "II Distrito Electoral Local de Campeche"
+      },
+      "parent_id": "Q80908"
+    },
+    {
+      "id": "Q52991475",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:cam/led:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991475"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544333"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Campeche"
+      },
+      "name": {
+        "en": "III Local Electoral District of Campeche",
+        "es": "III Distrito Electoral Local de Campeche"
+      },
+      "parent_id": "Q80908"
+    },
+    {
+      "id": "Q52991476",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:cam/led:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991476"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544333"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Campeche"
+      },
+      "name": {
+        "en": "IV Local Electoral District of Campeche",
+        "es": "IV Distrito Electoral Local de Campeche"
+      },
+      "parent_id": "Q80908"
+    },
+    {
+      "id": "Q52991477",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:cam/led:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991477"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544333"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Campeche"
+      },
+      "name": {
+        "en": "V Local Electoral District of Campeche",
+        "es": "V Distrito Electoral Local de Campeche"
+      },
+      "parent_id": "Q80908"
+    },
+    {
+      "id": "Q52991478",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:cam/led:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991478"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544333"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Campeche"
+      },
+      "name": {
+        "en": "VI Local Electoral District of Campeche",
+        "es": "VI Distrito Electoral Local de Campeche"
+      },
+      "parent_id": "Q80908"
+    },
+    {
+      "id": "Q52991480",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:cam/led:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991480"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544333"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Campeche"
+      },
+      "name": {
+        "en": "VII Local Electoral District of Campeche",
+        "es": "VII Distrito Electoral Local de Campeche"
+      },
+      "parent_id": "Q80908"
+    },
+    {
+      "id": "Q52991481",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:cam/led:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991481"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544333"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Campeche"
+      },
+      "name": {
+        "en": "VIII Local Electoral District of Campeche",
+        "es": "VIII Distrito Electoral Local de Campeche"
+      },
+      "parent_id": "Q80908"
+    },
+    {
+      "id": "Q52991482",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:cam/led:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991482"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544333"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Campeche"
+      },
+      "name": {
+        "en": "IX Local Electoral District of Campeche",
+        "es": "IX Distrito Electoral Local de Campeche"
+      },
+      "parent_id": "Q80908"
+    },
+    {
+      "id": "Q52991484",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:cam/led:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991484"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544333"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Campeche"
+      },
+      "name": {
+        "en": "X Local Electoral District of Campeche",
+        "es": "X Distrito Electoral Local de Campeche"
+      },
+      "parent_id": "Q80908"
+    },
+    {
+      "id": "Q52991486",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:cam/led:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991486"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544333"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Campeche"
+      },
+      "name": {
+        "en": "XI Local Electoral District of Campeche",
+        "es": "XI Distrito Electoral Local de Campeche"
+      },
+      "parent_id": "Q80908"
+    },
+    {
+      "id": "Q52991487",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:cam/led:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991487"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544333"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Campeche"
+      },
+      "name": {
+        "en": "XII Local Electoral District of Campeche",
+        "es": "XII Distrito Electoral Local de Campeche"
+      },
+      "parent_id": "Q80908"
+    },
+    {
+      "id": "Q52991488",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:cam/led:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991488"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544333"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Campeche"
+      },
+      "name": {
+        "en": "XIII Local Electoral District of Campeche",
+        "es": "XIII Distrito Electoral Local de Campeche"
+      },
+      "parent_id": "Q80908"
+    },
+    {
+      "id": "Q52991489",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:cam/led:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991489"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544333"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Campeche"
+      },
+      "name": {
+        "en": "XIV Local Electoral District of Campeche",
+        "es": "XIV Distrito Electoral Local de Campeche"
+      },
+      "parent_id": "Q80908"
+    },
+    {
+      "id": "Q52991491",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:cam/led:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991491"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544333"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Campeche"
+      },
+      "name": {
+        "en": "XV Local Electoral District of Campeche",
+        "es": "XV Distrito Electoral Local de Campeche"
+      },
+      "parent_id": "Q80908"
+    },
+    {
+      "id": "Q52991492",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:cam/led:16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991492"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544333"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Campeche"
+      },
+      "name": {
+        "en": "XVI Local Electoral District of Campeche",
+        "es": "XVI Distrito Electoral Local de Campeche"
+      },
+      "parent_id": "Q80908"
+    },
+    {
+      "id": "Q52991494",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:cam/led:17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991494"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544333"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Campeche"
+      },
+      "name": {
+        "en": "XVII Local Electoral District of Campeche",
+        "es": "XVII Distrito Electoral Local de Campeche"
+      },
+      "parent_id": "Q80908"
+    },
+    {
+      "id": "Q52991495",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:cam/led:18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991495"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544333"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Campeche"
+      },
+      "name": {
+        "en": "XVIII Local Electoral District of Campeche",
+        "es": "XVIII Distrito Electoral Local de Campeche"
+      },
+      "parent_id": "Q80908"
+    },
+    {
+      "id": "Q52991497",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:cam/led:19"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991497"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544333"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Campeche"
+      },
+      "name": {
+        "en": "XIX Local Electoral District of Campeche",
+        "es": "XIX Distrito Electoral Local de Campeche"
+      },
+      "parent_id": "Q80908"
+    },
+    {
+      "id": "Q52991501",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:cam/led:20"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991501"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544333"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Campeche"
+      },
+      "name": {
+        "en": "XX Local Electoral District of Campeche",
+        "es": "XX Distrito Electoral Local de Campeche"
+      },
+      "parent_id": "Q80908"
+    },
+    {
+      "id": "Q52991502",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:cam/led:21"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991502"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544333"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Campeche"
+      },
+      "name": {
+        "en": "XXI Local Electoral District of Campeche",
+        "es": "XXI Distrito Electoral Local de Campeche"
+      },
+      "parent_id": "Q80908"
+    },
+    {
+      "id": "Q80908",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:cam"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q80908"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q5589643"
+      ],
+      "type": {
+        "lang:es": "estado de México",
+        "lang:en": "state of Mexico"
+      },
+      "name": {
+        "lang:es": "Campeche"
+      },
+      "parent_id": "Q96"
+    },
+    {
+      "id": "Q96",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q96"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q628004"
+      ],
+      "type": {
+        "lang:es": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "United Mexican States",
+        "lang:es": "Estados Unidos Mexicanos"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 

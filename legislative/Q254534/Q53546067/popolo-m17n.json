@@ -6,7 +6,679 @@
 
   ],
   "areas": [
-
+    {
+      "id": "Q15282",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:nle"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15282"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q5589693"
+      ],
+      "type": {
+        "lang:es": "estado de México",
+        "lang:en": "state of Mexico"
+      },
+      "name": {
+        "lang:es": "Nuevo León"
+      },
+      "parent_id": "Q96"
+    },
+    {
+      "id": "Q52999334",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:nle/led:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52999334"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544387"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Nuevo Leon"
+      },
+      "name": {
+        "en": "I Local Electoral District of Nuevo Leon",
+        "es": "I Distrito Electoral Local de Nuevo Leon"
+      },
+      "parent_id": "Q15282"
+    },
+    {
+      "id": "Q52999337",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:nle/led:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52999337"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544387"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Nuevo Leon"
+      },
+      "name": {
+        "en": "II Local Electoral District of Nuevo Leon",
+        "es": "II Distrito Electoral Local de Nuevo Leon"
+      },
+      "parent_id": "Q15282"
+    },
+    {
+      "id": "Q52999339",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:nle/led:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52999339"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544387"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Nuevo Leon"
+      },
+      "name": {
+        "en": "III Local Electoral District of Nuevo Leon",
+        "es": "III Distrito Electoral Local de Nuevo Leon"
+      },
+      "parent_id": "Q15282"
+    },
+    {
+      "id": "Q52999342",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:nle/led:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52999342"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544387"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Nuevo Leon"
+      },
+      "name": {
+        "en": "IV Local Electoral District of Nuevo Leon",
+        "es": "IV Distrito Electoral Local de Nuevo Leon"
+      },
+      "parent_id": "Q15282"
+    },
+    {
+      "id": "Q52999346",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:nle/led:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52999346"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544387"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Nuevo Leon"
+      },
+      "name": {
+        "en": "V Local Electoral District of Nuevo Leon",
+        "es": "V Distrito Electoral Local de Nuevo Leon"
+      },
+      "parent_id": "Q15282"
+    },
+    {
+      "id": "Q52999348",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:nle/led:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52999348"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544387"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Nuevo Leon"
+      },
+      "name": {
+        "en": "VI Local Electoral District of Nuevo Leon",
+        "es": "VI Distrito Electoral Local de Nuevo Leon"
+      },
+      "parent_id": "Q15282"
+    },
+    {
+      "id": "Q52999352",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:nle/led:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52999352"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544387"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Nuevo Leon"
+      },
+      "name": {
+        "en": "VII Local Electoral District of Nuevo Leon",
+        "es": "VII Distrito Electoral Local de Nuevo Leon"
+      },
+      "parent_id": "Q15282"
+    },
+    {
+      "id": "Q52999353",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:nle/led:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52999353"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544387"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Nuevo Leon"
+      },
+      "name": {
+        "en": "VIII Local Electoral District of Nuevo Leon",
+        "es": "VIII Distrito Electoral Local de Nuevo Leon"
+      },
+      "parent_id": "Q15282"
+    },
+    {
+      "id": "Q52999363",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:nle/led:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52999363"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544387"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Nuevo Leon"
+      },
+      "name": {
+        "en": "IX Local Electoral District of Nuevo Leon",
+        "es": "IX Distrito Electoral Local de Nuevo Leon"
+      },
+      "parent_id": "Q15282"
+    },
+    {
+      "id": "Q52999375",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:nle/led:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52999375"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544387"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Nuevo Leon"
+      },
+      "name": {
+        "en": "X Local Electoral District of Nuevo Leon",
+        "es": "X Distrito Electoral Local de Nuevo Leon"
+      },
+      "parent_id": "Q15282"
+    },
+    {
+      "id": "Q52999377",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:nle/led:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52999377"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544387"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Nuevo Leon"
+      },
+      "name": {
+        "en": "XI Local Electoral District of Nuevo Leon",
+        "es": "XI Distrito Electoral Local de Nuevo Leon"
+      },
+      "parent_id": "Q15282"
+    },
+    {
+      "id": "Q52999381",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:nle/led:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52999381"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544387"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Nuevo Leon"
+      },
+      "name": {
+        "en": "XII Local Electoral District of Nuevo Leon",
+        "es": "XII Distrito Electoral Local de Nuevo Leon"
+      },
+      "parent_id": "Q15282"
+    },
+    {
+      "id": "Q52999382",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:nle/led:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52999382"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544387"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Nuevo Leon"
+      },
+      "name": {
+        "en": "XIII Local Electoral District of Nuevo Leon",
+        "es": "XIII Distrito Electoral Local de Nuevo Leon"
+      },
+      "parent_id": "Q15282"
+    },
+    {
+      "id": "Q52999387",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:nle/led:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52999387"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544387"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Nuevo Leon"
+      },
+      "name": {
+        "en": "XIV Local Electoral District of Nuevo Leon",
+        "es": "XIV Distrito Electoral Local de Nuevo Leon"
+      },
+      "parent_id": "Q15282"
+    },
+    {
+      "id": "Q52999391",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:nle/led:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52999391"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544387"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Nuevo Leon"
+      },
+      "name": {
+        "en": "XV Local Electoral District of Nuevo Leon",
+        "es": "XV Distrito Electoral Local de Nuevo Leon"
+      },
+      "parent_id": "Q15282"
+    },
+    {
+      "id": "Q52999392",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:nle/led:16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52999392"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544387"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Nuevo Leon"
+      },
+      "name": {
+        "en": "XVI Local Electoral District of Nuevo Leon",
+        "es": "XVI Distrito Electoral Local de Nuevo Leon"
+      },
+      "parent_id": "Q15282"
+    },
+    {
+      "id": "Q52999397",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:nle/led:17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52999397"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544387"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Nuevo Leon"
+      },
+      "name": {
+        "en": "XVII Local Electoral District of Nuevo Leon",
+        "es": "XVII Distrito Electoral Local de Nuevo Leon"
+      },
+      "parent_id": "Q15282"
+    },
+    {
+      "id": "Q52999403",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:nle/led:18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52999403"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544387"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Nuevo Leon"
+      },
+      "name": {
+        "en": "XVIII Local Electoral District of Nuevo Leon",
+        "es": "XVIII Distrito Electoral Local de Nuevo Leon"
+      },
+      "parent_id": "Q15282"
+    },
+    {
+      "id": "Q52999413",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:nle/led:19"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52999413"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544387"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Nuevo Leon"
+      },
+      "name": {
+        "en": "XIX Local Electoral District of Nuevo Leon",
+        "es": "XIX Distrito Electoral Local de Nuevo Leon"
+      },
+      "parent_id": "Q15282"
+    },
+    {
+      "id": "Q52999416",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:nle/led:20"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52999416"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544387"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Nuevo Leon"
+      },
+      "name": {
+        "en": "XX Local Electoral District of Nuevo Leon",
+        "es": "XX Distrito Electoral Local de Nuevo Leon"
+      },
+      "parent_id": "Q15282"
+    },
+    {
+      "id": "Q52999417",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:nle/led:21"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52999417"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544387"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Nuevo Leon"
+      },
+      "name": {
+        "en": "XXI Local Electoral District of Nuevo Leon",
+        "es": "XXI Distrito Electoral Local de Nuevo Leon"
+      },
+      "parent_id": "Q15282"
+    },
+    {
+      "id": "Q52999418",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:nle/led:22"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52999418"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544387"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Nuevo Leon"
+      },
+      "name": {
+        "en": "XXII Local Electoral District of Nuevo Leon",
+        "es": "XXII Distrito Electoral Local de Nuevo Leon"
+      },
+      "parent_id": "Q15282"
+    },
+    {
+      "id": "Q52999421",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:nle/led:23"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52999421"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544387"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Nuevo Leon"
+      },
+      "name": {
+        "en": "XXIII Local Electoral District of Nuevo Leon",
+        "es": "XXIII Distrito Electoral Local de Nuevo Leon"
+      },
+      "parent_id": "Q15282"
+    },
+    {
+      "id": "Q52999423",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:nle/led:24"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52999423"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544387"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Nuevo Leon"
+      },
+      "name": {
+        "en": "XXIV Local Electoral District of Nuevo Leon",
+        "es": "XXIV Distrito Electoral Local de Nuevo Leon"
+      },
+      "parent_id": "Q15282"
+    },
+    {
+      "id": "Q52999428",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:nle/led:25"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52999428"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544387"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Nuevo Leon"
+      },
+      "name": {
+        "en": "XXV Local Electoral District of Nuevo Leon",
+        "es": "XXV Distrito Electoral Local de Nuevo Leon"
+      },
+      "parent_id": "Q15282"
+    },
+    {
+      "id": "Q52999430",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:nle/led:26"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52999430"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544387"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Nuevo Leon"
+      },
+      "name": {
+        "en": "XXVI Local Electoral District of Nuevo Leon",
+        "es": "XXVI Distrito Electoral Local de Nuevo Leon"
+      },
+      "parent_id": "Q15282"
+    },
+    {
+      "id": "Q96",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q96"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q628004"
+      ],
+      "type": {
+        "lang:es": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "United Mexican States",
+        "lang:es": "Estados Unidos Mexicanos"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 

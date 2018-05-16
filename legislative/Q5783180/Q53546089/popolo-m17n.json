@@ -6,7 +6,631 @@
 
   ],
   "areas": [
-
+    {
+      "id": "Q53002833",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:sin/led:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002833"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544405"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Sinaloa"
+      },
+      "name": {
+        "en": "I Local Electoral District of Sinaloa",
+        "es": "I Distrito Electoral Local de Sinaloa"
+      },
+      "parent_id": "Q80252"
+    },
+    {
+      "id": "Q53002837",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:sin/led:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002837"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544405"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Sinaloa"
+      },
+      "name": {
+        "en": "II Local Electoral District of Sinaloa",
+        "es": "II Distrito Electoral Local de Sinaloa"
+      },
+      "parent_id": "Q80252"
+    },
+    {
+      "id": "Q53002839",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:sin/led:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002839"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544405"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Sinaloa"
+      },
+      "name": {
+        "en": "III Local Electoral District of Sinaloa",
+        "es": "III Distrito Electoral Local de Sinaloa"
+      },
+      "parent_id": "Q80252"
+    },
+    {
+      "id": "Q53002841",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:sin/led:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002841"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544405"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Sinaloa"
+      },
+      "name": {
+        "en": "IV Local Electoral District of Sinaloa",
+        "es": "IV Distrito Electoral Local de Sinaloa"
+      },
+      "parent_id": "Q80252"
+    },
+    {
+      "id": "Q53002843",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:sin/led:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002843"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544405"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Sinaloa"
+      },
+      "name": {
+        "en": "V Local Electoral District of Sinaloa",
+        "es": "V Distrito Electoral Local de Sinaloa"
+      },
+      "parent_id": "Q80252"
+    },
+    {
+      "id": "Q53002844",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:sin/led:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002844"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544405"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Sinaloa"
+      },
+      "name": {
+        "en": "VI Local Electoral District of Sinaloa",
+        "es": "VI Distrito Electoral Local de Sinaloa"
+      },
+      "parent_id": "Q80252"
+    },
+    {
+      "id": "Q53002853",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:sin/led:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002853"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544405"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Sinaloa"
+      },
+      "name": {
+        "en": "VII Local Electoral District of Sinaloa",
+        "es": "VII Distrito Electoral Local de Sinaloa"
+      },
+      "parent_id": "Q80252"
+    },
+    {
+      "id": "Q53002869",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:sin/led:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002869"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544405"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Sinaloa"
+      },
+      "name": {
+        "en": "VIII Local Electoral District of Sinaloa",
+        "es": "VIII Distrito Electoral Local de Sinaloa"
+      },
+      "parent_id": "Q80252"
+    },
+    {
+      "id": "Q53002873",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:sin/led:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002873"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544405"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Sinaloa"
+      },
+      "name": {
+        "en": "IX Local Electoral District of Sinaloa",
+        "es": "IX Distrito Electoral Local de Sinaloa"
+      },
+      "parent_id": "Q80252"
+    },
+    {
+      "id": "Q53002877",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:sin/led:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002877"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544405"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Sinaloa"
+      },
+      "name": {
+        "en": "X Local Electoral District of Sinaloa",
+        "es": "X Distrito Electoral Local de Sinaloa"
+      },
+      "parent_id": "Q80252"
+    },
+    {
+      "id": "Q53002880",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:sin/led:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002880"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544405"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Sinaloa"
+      },
+      "name": {
+        "en": "XI Local Electoral District of Sinaloa",
+        "es": "XI Distrito Electoral Local de Sinaloa"
+      },
+      "parent_id": "Q80252"
+    },
+    {
+      "id": "Q53002882",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:sin/led:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002882"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544405"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Sinaloa"
+      },
+      "name": {
+        "en": "XII Local Electoral District of Sinaloa",
+        "es": "XII Distrito Electoral Local de Sinaloa"
+      },
+      "parent_id": "Q80252"
+    },
+    {
+      "id": "Q53002884",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:sin/led:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002884"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544405"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Sinaloa"
+      },
+      "name": {
+        "en": "XIII Local Electoral District of Sinaloa",
+        "es": "XIII Distrito Electoral Local de Sinaloa"
+      },
+      "parent_id": "Q80252"
+    },
+    {
+      "id": "Q53002888",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:sin/led:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002888"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544405"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Sinaloa"
+      },
+      "name": {
+        "en": "XIV Local Electoral District of Sinaloa",
+        "es": "XIV Distrito Electoral Local de Sinaloa"
+      },
+      "parent_id": "Q80252"
+    },
+    {
+      "id": "Q53002890",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:sin/led:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002890"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544405"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Sinaloa"
+      },
+      "name": {
+        "en": "XV Local Electoral District of Sinaloa",
+        "es": "XV Distrito Electoral Local de Sinaloa"
+      },
+      "parent_id": "Q80252"
+    },
+    {
+      "id": "Q53002899",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:sin/led:16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002899"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544405"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Sinaloa"
+      },
+      "name": {
+        "en": "XVI Local Electoral District of Sinaloa",
+        "es": "XVI Distrito Electoral Local de Sinaloa"
+      },
+      "parent_id": "Q80252"
+    },
+    {
+      "id": "Q53002914",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:sin/led:17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002914"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544405"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Sinaloa"
+      },
+      "name": {
+        "en": "XVII Local Electoral District of Sinaloa",
+        "es": "XVII Distrito Electoral Local de Sinaloa"
+      },
+      "parent_id": "Q80252"
+    },
+    {
+      "id": "Q53002917",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:sin/led:18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002917"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544405"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Sinaloa"
+      },
+      "name": {
+        "en": "XVIII Local Electoral District of Sinaloa",
+        "es": "XVIII Distrito Electoral Local de Sinaloa"
+      },
+      "parent_id": "Q80252"
+    },
+    {
+      "id": "Q53002920",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:sin/led:19"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002920"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544405"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Sinaloa"
+      },
+      "name": {
+        "en": "XIX Local Electoral District of Sinaloa",
+        "es": "XIX Distrito Electoral Local de Sinaloa"
+      },
+      "parent_id": "Q80252"
+    },
+    {
+      "id": "Q53002924",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:sin/led:20"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002924"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544405"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Sinaloa"
+      },
+      "name": {
+        "en": "XX Local Electoral District of Sinaloa",
+        "es": "XX Distrito Electoral Local de Sinaloa"
+      },
+      "parent_id": "Q80252"
+    },
+    {
+      "id": "Q53002929",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:sin/led:21"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002929"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544405"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Sinaloa"
+      },
+      "name": {
+        "en": "XXI Local Electoral District of Sinaloa",
+        "es": "XXI Distrito Electoral Local de Sinaloa"
+      },
+      "parent_id": "Q80252"
+    },
+    {
+      "id": "Q53002932",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:sin/led:22"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002932"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544405"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Sinaloa"
+      },
+      "name": {
+        "en": "XXII Local Electoral District of Sinaloa",
+        "es": "XXII Distrito Electoral Local de Sinaloa"
+      },
+      "parent_id": "Q80252"
+    },
+    {
+      "id": "Q53002935",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:sin/led:23"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002935"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544405"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Sinaloa"
+      },
+      "name": {
+        "en": "XXIII Local Electoral District of Sinaloa",
+        "es": "XXIII Distrito Electoral Local de Sinaloa"
+      },
+      "parent_id": "Q80252"
+    },
+    {
+      "id": "Q53002939",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:sin/led:24"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002939"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544405"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Sinaloa"
+      },
+      "name": {
+        "en": "XXIV Local Electoral District of Sinaloa",
+        "es": "XXIV Distrito Electoral Local de Sinaloa"
+      },
+      "parent_id": "Q80252"
+    },
+    {
+      "id": "Q80252",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:sin"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q80252"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q5589715"
+      ],
+      "type": {
+        "lang:es": "estado de México",
+        "lang:en": "state of Mexico"
+      },
+      "name": {
+        "lang:es": "Sinaloa"
+      },
+      "parent_id": "Q96"
+    },
+    {
+      "id": "Q96",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q96"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q628004"
+      ],
+      "type": {
+        "lang:es": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "United Mexican States",
+        "lang:es": "Estados Unidos Mexicanos"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 
