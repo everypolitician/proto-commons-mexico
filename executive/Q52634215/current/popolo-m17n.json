@@ -35,7 +35,80 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q7258412",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:pue/mun:puebla"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7258412"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q6936360",
+        "Q53547725"
+      ],
+      "type": {
+        "lang:es": "municipio de México",
+        "lang:en": "municipality of Mexico"
+      },
+      "name": {
+        "es": "Puebla"
+      },
+      "parent_id": "Q79923"
+    },
+    {
+      "id": "Q79923",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:pue"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q79923"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q5589701"
+      ],
+      "type": {
+        "lang:es": "estado de México",
+        "lang:en": "state of Mexico"
+      },
+      "name": {
+        "lang:es": "Puebla"
+      },
+      "parent_id": "Q96"
+    },
+    {
+      "id": "Q96",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q96"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q628004"
+      ],
+      "type": {
+        "lang:es": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "United Mexican States",
+        "lang:es": "Estados Unidos Mexicanos"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
     {

@@ -52,7 +52,80 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q2360428",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:bcn/mun:tijuana"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2360428"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q16242755",
+        "Q53547723"
+      ],
+      "type": {
+        "lang:es": "municipio de México",
+        "lang:en": "municipality of Mexico"
+      },
+      "name": {
+        "es": "Tijuana"
+      },
+      "parent_id": "Q58731"
+    },
+    {
+      "id": "Q58731",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:bcn"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58731"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q5589632"
+      ],
+      "type": {
+        "lang:es": "estado de México",
+        "lang:en": "state of Mexico"
+      },
+      "name": {
+        "lang:es": "Baja California"
+      },
+      "parent_id": "Q96"
+    },
+    {
+      "id": "Q96",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q96"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q628004"
+      ],
+      "type": {
+        "lang:es": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "United Mexican States",
+        "lang:es": "Estados Unidos Mexicanos"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
     {

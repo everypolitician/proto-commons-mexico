@@ -1172,5 +1172,194 @@
       "match": "country:mx/federal-district:cmx",
       "column": "MS_FB_PARE"
     }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q1952852",
+    "associations": [
+      {
+        "comment": "municipal president of nezahualcóyotl",
+        "position_item_id": "Q52634198"
+      },
+      {
+        "comment": "alderman of the honorable city council of nezahualcoyotl",
+        "position_item_id": "Q53547733"
+      }
+    ],
+    "name_columns": {
+      "es": "NOMGEO"
+    },
+    "filter": {
+      "match": "country:mx/state:mex/mun:nezahualcoyotl",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q1952852",
+    "associations": [
+      {
+        "comment": "municipal president of puebla",
+        "position_item_id": "Q6936360"
+      },
+      {
+        "comment": "alderman of the honorable city council of puebla",
+        "position_item_id": "Q53547725"
+      }
+    ],
+    "name_columns": {
+      "es": "NOMGEO"
+    },
+    "filter": {
+      "match": "country:mx/state:pue/mun:puebla",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q1952852",
+    "associations": [
+      {
+        "comment": "municipal president of ecatepec de morelos",
+        "position_item_id": "Q52634194"
+      },
+      {
+        "comment": "alderman of the honorable town hall of ecatepec de morelos",
+        "position_item_id": "Q53547721"
+      }
+    ],
+    "name_columns": {
+      "es": "NOMGEO"
+    },
+    "filter": {
+      "match": "country:mx/state:mex/mun:ecatepec-de-morelos",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q1952852",
+    "associations": [
+      {
+        "comment": "municipal president of guadalajara",
+        "position_item_id": "Q52634195"
+      },
+      {
+        "comment": "alderman of the honorable city council of guadalajara",
+        "position_item_id": "Q53547726"
+      }
+    ],
+    "name_columns": {
+      "es": "NOMGEO"
+    },
+    "filter": {
+      "match": "country:mx/state:jal/mun:guadalajara",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q1952852",
+    "associations": [
+      {
+        "comment": "municipal president of juárez",
+        "position_item_id": "Q6936355"
+      },
+      {
+        "comment": "alderman of the honorable city council of ciudad juarez",
+        "position_item_id": "Q53547729"
+      }
+    ],
+    "name_columns": {
+      "es": "NOMGEO"
+    },
+    "filter": {
+      "match": "country:mx/state:chh/mun:juarez",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q1952852",
+    "associations": [
+      {
+        "comment": "municipal president of león de los aldama",
+        "position_item_id": "Q52634196"
+      },
+      {
+        "comment": "alderman of the honorable city council of leon",
+        "position_item_id": "Q53547728"
+      }
+    ],
+    "name_columns": {
+      "es": "NOMGEO"
+    },
+    "filter": {
+      "match": "country:mx/state:gua/mun:leon",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q3500564",
+    "associations": [
+      {
+        "comment": "municipal president of monterrey",
+        "position_item_id": "Q6936362"
+      },
+      {
+        "comment": "alderman of the honorable city council of monterrey",
+        "position_item_id": "Q53547735"
+      }
+    ],
+    "name_columns": {
+      "es": "NOMGEO"
+    },
+    "filter": {
+      "match": "country:mx/state:nle/mun:monterrey",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q1952852",
+    "associations": [
+      {
+        "comment": "municipal president of tijuana",
+        "position_item_id": "Q16242755"
+      },
+      {
+        "comment": "alderman of the city council of tijuana baja california",
+        "position_item_id": "Q53547723"
+      }
+    ],
+    "name_columns": {
+      "es": "NOMGEO"
+    },
+    "filter": {
+      "match": "country:mx/state:bcn/mun:tijuana",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q1952852",
+    "associations": [
+      {
+        "comment": "municipal president of zapopan",
+        "position_item_id": "Q52634197"
+      },
+      {
+        "comment": "alderman of the honorable city council of zapopan",
+        "position_item_id": "Q53547731"
+      }
+    ],
+    "name_columns": {
+      "es": "NOMGEO"
+    },
+    "filter": {
+      "match": "country:mx/state:jal/mun:zapopan",
+      "column": "MS_FB"
+    }
   }
 ]

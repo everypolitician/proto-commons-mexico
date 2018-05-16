@@ -6,7 +6,80 @@
 
   ],
   "areas": [
-
+    {
+      "id": "Q13160",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:jal"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13160"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q5589666"
+      ],
+      "type": {
+        "lang:es": "estado de México",
+        "lang:en": "state of Mexico"
+      },
+      "name": {
+        "lang:es": "Jalisco"
+      },
+      "parent_id": "Q96"
+    },
+    {
+      "id": "Q2143868",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:jal/mun:zapopan"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2143868"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q52634197",
+        "Q53547731"
+      ],
+      "type": {
+        "lang:es": "municipio de México",
+        "lang:en": "municipality of Mexico"
+      },
+      "name": {
+        "es": "Zapopan"
+      },
+      "parent_id": "Q13160"
+    },
+    {
+      "id": "Q96",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q96"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q628004"
+      ],
+      "type": {
+        "lang:es": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "United Mexican States",
+        "lang:es": "Estados Unidos Mexicanos"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 

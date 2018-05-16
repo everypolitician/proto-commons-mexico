@@ -49,7 +49,80 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q15282",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:nle"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15282"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q5589693"
+      ],
+      "type": {
+        "lang:es": "estado de México",
+        "lang:en": "state of Mexico"
+      },
+      "name": {
+        "lang:es": "Nuevo León"
+      },
+      "parent_id": "Q96"
+    },
+    {
+      "id": "Q6905368",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:nle/mun:monterrey"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6905368"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q6936362",
+        "Q53547735"
+      ],
+      "type": {
+        "lang:es": "municipios de Nuevo León",
+        "lang:en": "municipality of Nuevo León"
+      },
+      "name": {
+        "es": "Monterrey"
+      },
+      "parent_id": "Q15282"
+    },
+    {
+      "id": "Q96",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q96"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q628004"
+      ],
+      "type": {
+        "lang:es": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "United Mexican States",
+        "lang:es": "Estados Unidos Mexicanos"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
     {

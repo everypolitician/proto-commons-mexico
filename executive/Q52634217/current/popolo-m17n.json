@@ -52,7 +52,80 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q46475",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:gua"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q46475"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q5589657"
+      ],
+      "type": {
+        "lang:es": "estado de México",
+        "lang:en": "state of Mexico"
+      },
+      "name": {
+        "lang:es": "Guanajuato"
+      },
+      "parent_id": "Q96"
+    },
+    {
+      "id": "Q9022143",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:gua/mun:leon"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q9022143"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q52634196",
+        "Q53547728"
+      ],
+      "type": {
+        "lang:es": "municipio de México",
+        "lang:en": "municipality of Mexico"
+      },
+      "name": {
+        "es": "León"
+      },
+      "parent_id": "Q46475"
+    },
+    {
+      "id": "Q96",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q96"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q628004"
+      ],
+      "type": {
+        "lang:es": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "United Mexican States",
+        "lang:es": "Estados Unidos Mexicanos"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
     {
