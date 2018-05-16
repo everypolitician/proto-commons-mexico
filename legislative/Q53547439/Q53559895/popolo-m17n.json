@@ -6,7 +6,80 @@
 
   ],
   "areas": [
-
+    {
+      "id": "Q2557122",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:chh/mun:juarez"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2557122"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q6936355",
+        "Q53547729"
+      ],
+      "type": {
+        "lang:es": "municipio de México",
+        "lang:en": "municipality of Mexico"
+      },
+      "name": {
+        "es": "Juárez"
+      },
+      "parent_id": "Q655"
+    },
+    {
+      "id": "Q655",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:chh"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q655"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q9282520"
+      ],
+      "type": {
+        "lang:es": "estado de México",
+        "lang:en": "state of Mexico"
+      },
+      "name": {
+        "lang:es": "Chihuahua"
+      },
+      "parent_id": "Q96"
+    },
+    {
+      "id": "Q96",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q96"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q628004"
+      ],
+      "type": {
+        "lang:es": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "United Mexican States",
+        "lang:es": "Estados Unidos Mexicanos"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 
