@@ -328,5 +328,95 @@
         "position_item_id": "Q5589737"
       }
     ]
+  },
+  {
+    "comment": "Cabinet of Ecatepec de Morelos",
+    "executive_item_id": "Q52634213",
+    "positions": [
+      {
+        "comment": "Municipal President of Ecatepec de Morelos",
+        "position_item_id": "Q52634194"
+      }
+    ]
+  },
+  {
+    "comment": "Cabinet of Tijuana",
+    "executive_item_id": "Q52634214",
+    "positions": [
+      {
+        "comment": "Municipal President of Tijuana",
+        "position_item_id": "Q16242755"
+      }
+    ]
+  },
+  {
+    "comment": "Cabinet of the Heroic Puebla de Zaragoza",
+    "executive_item_id": "Q52634215",
+    "positions": [
+      {
+        "comment": "Municipal president of Puebla",
+        "position_item_id": "Q6936360"
+      }
+    ]
+  },
+  {
+    "comment": "Cabinet of Guadalajara",
+    "executive_item_id": "Q52634216",
+    "positions": [
+      {
+        "comment": "Municipal President of Guadalajara",
+        "position_item_id": "Q52634195"
+      }
+    ]
+  },
+  {
+    "comment": "Cabinet of Leon de los Aldama",
+    "executive_item_id": "Q52634217",
+    "positions": [
+      {
+        "comment": "Municipal President of León de los Aldama",
+        "position_item_id": "Q52634196"
+      }
+    ]
+  },
+  {
+    "comment": "Cabinet of Juarez",
+    "executive_item_id": "Q52634218",
+    "positions": [
+      {
+        "comment": "Municipal president of Juárez",
+        "position_item_id": "Q6936355"
+      }
+    ]
+  },
+  {
+    "comment": "Cabinet of Zapopan",
+    "executive_item_id": "Q52634219",
+    "positions": [
+      {
+        "comment": "Municipal President of Zapopan",
+        "position_item_id": "Q52634197"
+      }
+    ]
+  },
+  {
+    "comment": "Cabinet of Nezahualcóyotl",
+    "executive_item_id": "Q52634220",
+    "positions": [
+      {
+        "comment": "Municipal President of Nezahualcóyotl",
+        "position_item_id": "Q52634198"
+      }
+    ]
+  },
+  {
+    "comment": "Cabinet of Monterrey",
+    "executive_item_id": "Q52634221",
+    "positions": [
+      {
+        "comment": "Municipal president of Monterrey",
+        "position_item_id": "Q6936362"
+      }
+    ]
   }
 ]
