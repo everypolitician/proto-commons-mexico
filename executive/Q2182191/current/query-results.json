@@ -8,6 +8,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3366487"
       },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Liberal Party"
+      },
       "party_name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -90,16 +95,16 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q96"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Liberal Party"
       }
     }, {
       "party" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3366487"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Liberal Party"
       },
       "party_name_es" : {
         "xml:lang" : "es",
@@ -183,11 +188,6 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q96"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Liberal Party"
       }
     }, {
       "item" : {
@@ -273,6 +273,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q682969"
       },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Institutional Revolutionary Party"
+      },
       "party_name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -356,11 +361,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q96"
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Institutional Revolutionary Party"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
@@ -374,6 +374,11 @@
       "party" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2604894"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Liberal Constitutionalist Party"
       },
       "item" : {
         "type" : "uri",
@@ -452,11 +457,6 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q96"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Liberal Constitutionalist Party"
       }
     }, {
       "item" : {
@@ -542,6 +542,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15984928"
       },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Conservative Party"
+      },
       "party_name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -624,11 +629,6 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q96"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Conservative Party"
       }
     }, {
       "item" : {
@@ -793,6 +793,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3366487"
       },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Liberal Party"
+      },
       "party_name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -875,16 +880,16 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q96"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Liberal Party"
       }
     }, {
       "party" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3366487"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Liberal Party"
       },
       "party_name_es" : {
         "xml:lang" : "es",
@@ -968,16 +973,16 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q96"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Liberal Party"
       }
     }, {
       "party" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3366487"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Liberal Party"
       },
       "party_name_es" : {
         "xml:lang" : "es",
@@ -1061,11 +1066,6 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q96"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Liberal Party"
       }
     }, {
       "item" : {
@@ -1230,6 +1230,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q682969"
       },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Institutional Revolutionary Party"
+      },
       "party_name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -1312,16 +1317,16 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q96"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Institutional Revolutionary Party"
       }
     }, {
       "party" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3366487"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Liberal Party"
       },
       "party_name_es" : {
         "xml:lang" : "es",
@@ -1405,16 +1410,16 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q96"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Liberal Party"
       }
     }, {
       "party" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3366487"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Liberal Party"
       },
       "party_name_es" : {
         "xml:lang" : "es",
@@ -1498,16 +1503,16 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q96"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Liberal Party"
       }
     }, {
       "party" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3366487"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Liberal Party"
       },
       "party_name_es" : {
         "xml:lang" : "es",
@@ -1591,11 +1596,6 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q96"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Liberal Party"
       }
     } ]
   }
