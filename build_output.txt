@@ -3,12 +3,6 @@ WARNING: the district Yucatán (Q60176) wasn't found in the boundary data for po
 WARNING: the district Quintana Roo (Q80245) wasn't found in the boundary data for position senador de México (Q19971999)
 WARNING: the district Yucatán (Q60176) wasn't found in the boundary data for position senador de México (Q19971999)
 WARNING: the district Baja California Sur (Q46508) wasn't found in the boundary data for position senador de México (Q19971999)
-WARNING: Position diputado de México (Q18534310) not in boundary associated_wikidata_positions
-WARNING: the district Estado de México (Q82112) wasn't found in the boundary data for position diputado de México (Q18534310)
-WARNING: the district Estado de México (Q82112) wasn't found in the boundary data for position diputado de México (Q18534310)
-WARNING: the district Morelos (Q66117) wasn't found in the boundary data for position diputado de México (Q18534310)
-WARNING: the district Ciudad de México (Q1489) wasn't found in the boundary data for position diputado de México (Q18534310)
-WARNING: the district Estado de México (Q82112) wasn't found in the boundary data for position diputado de México (Q18534310)
 WARNING: Position diputado de la Honorable Congreso de Durango (Q53544355) not in boundary associated_wikidata_positions
 WARNING: Position diputado de la Honorable Congreso del Estado de Veracruz (Q53544431) not in boundary associated_wikidata_positions
 WARNING: the district X Distrito Electoral Local de Veracruz (Q52994411) wasn't found in the boundary data for position diputado de la Honorable Congreso del Estado de Veracruz (Q53544431)
