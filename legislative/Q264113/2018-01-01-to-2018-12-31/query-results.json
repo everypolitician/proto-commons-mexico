@@ -1266,7 +1266,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16147101-8D2B8FCF-3EAB-44D7-8EB5-250CA69CF9CB"
+        "value" : "http://www.wikidata.org/entity/statement/Q16147101-1C665956-AC45-4300-99A7-4155B8712037"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -1332,6 +1332,38 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "128"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q682969"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Institutional Revolutionary Party"
+      },
+      "party_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Partido Revolucionario Institucional"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q80252"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sinaloa"
+      },
+      "district_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Sinaloa"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "danielamadorgaxiola1"
       }
     }, {
       "statement" : {
@@ -15002,6 +15034,104 @@
     }, {
       "statement" : {
         "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q4764311-92B07E6B-00F2-4009-A91E-199C2C367CAD"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15686806"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "senator"
+      },
+      "role_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "senador"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q19971999"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the Senate of Mexico"
+      },
+      "role_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "senador de México"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4764311"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Agélica del Rosario Araujo Lara"
+      },
+      "name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Agélica del Rosario Araujo Lara"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q264113"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Senate of the Republic"
+      },
+      "org_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Senado de México"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q96"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "128"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q682969"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Institutional Revolutionary Party"
+      },
+      "party_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Partido Revolucionario Institucional"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q60176"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yucatán"
+      },
+      "district_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Yucatán"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q4801730-615F15F8-D11B-4164-AE8F-34CA5CD20886"
       },
       "role_superclass" : {
@@ -15413,6 +15543,104 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "128"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q53563151-E8A0B034-93F9-4CD3-8B6F-4A37BE7CBA96"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15686806"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "senator"
+      },
+      "role_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "senador"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q19971999"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the Senate of Mexico"
+      },
+      "role_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "senador de México"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53563151"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jorge Aréchiga Ávila"
+      },
+      "name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Jorge Aréchiga Ávila"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q264113"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Senate of the Republic"
+      },
+      "org_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Senado de México"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q96"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "128"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q383718"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ecologist Green Party of Mexico"
+      },
+      "party_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Partido Verde Ecologista de México"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q80245"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Quintana Roo"
+      },
+      "district_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Quintana Roo"
       }
     }, {
       "statement" : {
@@ -16994,12 +17222,12 @@
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Graco Ramírez"
+        "value" : "Graco Luis Ramírez Garrido Abreu"
       },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Graco Ramírez Garrido Abreu"
+        "value" : "Graco Luis Ramírez Garrido Abreu"
       },
       "org" : {
         "type" : "uri",
@@ -17023,6 +17251,10 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "128"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "gracoramirez"
       }
     }, {
       "statement" : {
@@ -19761,7 +19993,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q5798794-74C7207A-0648-4C89-BB7F-82B92BF0CED7"
+        "value" : "http://www.wikidata.org/entity/statement/Q5798794-6BB97767-5A3E-45AB-AB4C-BD6D5C42DEFD"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -19798,12 +20030,12 @@
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Daniel Ávila Ruiz"
+        "value" : "Daniel Gabriel Ávila Ruiz"
       },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Daniel Ávila Ruiz"
+        "value" : "Daniel Gabriel Ávila Ruiz"
       },
       "org" : {
         "type" : "uri",
@@ -19827,6 +20059,38 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "128"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q851087"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Action Party"
+      },
+      "party_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Partido Acción Nacional"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q60176"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yucatán"
+      },
+      "district_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Yucatán"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "danielavilaruizmx"
       }
     }, {
       "statement" : {
@@ -27041,6 +27305,10 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "128"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "MartinOrozcoAgs"
       }
     }, {
       "statement" : {
@@ -33073,7 +33341,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q9068953-F4BBE19B-C550-4C0B-942E-136FF1903772"
+        "value" : "http://www.wikidata.org/entity/statement/Q9068953-AF3DF123-F9FF-4783-BF5E-02EA61A0FA5B"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -33139,6 +33407,38 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "128"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q682969"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Institutional Revolutionary Party"
+      },
+      "party_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Partido Revolucionario Institucional"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q46508"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Baja California Sur"
+      },
+      "district_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Baja California Sur"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "RicardoBarrosoAgramont"
       }
     }, {
       "statement" : {

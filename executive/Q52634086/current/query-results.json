@@ -52,7 +52,7 @@
       "role_superclass_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Anexo:Gobernantes de Aguascalientes"
+        "value" : "Gobernantes de Aguascalientes"
       },
       "role_en" : {
         "xml:lang" : "en",
@@ -62,7 +62,7 @@
       "role_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Anexo:Gobernantes de Aguascalientes"
+        "value" : "Gobernantes de Aguascalientes"
       },
       "name_en" : {
         "xml:lang" : "en",
@@ -145,7 +145,7 @@
       "role_superclass_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Anexo:Gobernantes de Aguascalientes"
+        "value" : "Gobernantes de Aguascalientes"
       },
       "role_en" : {
         "xml:lang" : "en",
@@ -155,7 +155,7 @@
       "role_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Anexo:Gobernantes de Aguascalientes"
+        "value" : "Gobernantes de Aguascalientes"
       },
       "name_en" : {
         "xml:lang" : "en",
@@ -188,6 +188,103 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q79952"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q851087"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Action Party"
+      },
+      "party_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Partido Acción Nacional"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6002810"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q79952"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Aguascalientes"
+      },
+      "district_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Aguascalientes"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5589628"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5589628"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor of Aguascalientes"
+      },
+      "role_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gobernantes de Aguascalientes"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor of Aguascalientes"
+      },
+      "role_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gobernantes de Aguascalientes"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Martín Orozco Sandoval"
+      },
+      "name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Martín Orozco Sandoval"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634086"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "governor and cabinet of Aguascalientes"
+      },
+      "org_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "gobernador y gabinete de Aguascalientes"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q6002810-4BD1B4DA-66DB-40B1-9018-338069998C75"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q79952"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "MartinOrozcoAgs"
       }
     } ]
   }

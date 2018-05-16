@@ -355,7 +355,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/q296741-3FD7407A-41F3-4450-99B0-F1855AA9EADC"
+        "value" : "http://www.wikidata.org/entity/statement/Q296741-BAD9EB88-9122-43D4-BA3B-613C0E80C0ED"
       },
       "org_jurisdiction" : {
         "type" : "uri",
