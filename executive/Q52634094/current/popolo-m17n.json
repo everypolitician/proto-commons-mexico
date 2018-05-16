@@ -35,7 +35,55 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1489",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/federal-district:cmx"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1489"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q2962015"
+      ],
+      "type": {
+        "lang:es": "capital",
+        "lang:en": "capital"
+      },
+      "name": {
+        "lang:es": "Mexico City"
+      },
+      "parent_id": "Q96"
+    },
+    {
+      "id": "Q96",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q96"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q628004"
+      ],
+      "type": {
+        "lang:es": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "United Mexican States",
+        "lang:es": "Estados Unidos Mexicanos"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
     {

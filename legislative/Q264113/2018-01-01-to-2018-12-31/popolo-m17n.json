@@ -7846,7 +7846,767 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q53538965",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/senate-state:agu"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53538965"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19971999"
+      ],
+      "type": {
+        "lang:en": "constituency of the senate of Mexico"
+      },
+      "name": {
+        "lang:es": "Aguascalientes"
+      },
+      "parent_id": "Q96"
+    },
+    {
+      "id": "Q53538970",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/senate-state:bcn"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53538970"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19971999"
+      ],
+      "type": {
+        "lang:en": "constituency of the senate of Mexico"
+      },
+      "name": {
+        "lang:es": "Baja California"
+      },
+      "parent_id": "Q96"
+    },
+    {
+      "id": "Q53538975",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/senate-state:bcs"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53538975"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19971999"
+      ],
+      "type": {
+        "lang:en": "constituency of the senate of Mexico"
+      },
+      "name": {
+        "lang:es": "Baja California Sur"
+      },
+      "parent_id": "Q96"
+    },
+    {
+      "id": "Q53538980",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/senate-state:cam"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53538980"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19971999"
+      ],
+      "type": {
+        "lang:en": "constituency of the senate of Mexico"
+      },
+      "name": {
+        "lang:es": "Campeche"
+      },
+      "parent_id": "Q96"
+    },
+    {
+      "id": "Q53538984",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/senate-state:coa"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53538984"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19971999"
+      ],
+      "type": {
+        "lang:en": "constituency of the senate of Mexico"
+      },
+      "name": {
+        "lang:es": "Coahuila"
+      },
+      "parent_id": "Q96"
+    },
+    {
+      "id": "Q53538992",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/senate-state:col"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53538992"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19971999"
+      ],
+      "type": {
+        "lang:en": "constituency of the senate of Mexico"
+      },
+      "name": {
+        "lang:es": "Colima"
+      },
+      "parent_id": "Q96"
+    },
+    {
+      "id": "Q53538998",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/senate-state:chp"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53538998"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19971999"
+      ],
+      "type": {
+        "lang:en": "constituency of the senate of Mexico"
+      },
+      "name": {
+        "lang:es": "Chiapas"
+      },
+      "parent_id": "Q96"
+    },
+    {
+      "id": "Q53539005",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/senate-state:chh"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53539005"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19971999"
+      ],
+      "type": {
+        "lang:en": "constituency of the senate of Mexico"
+      },
+      "name": {
+        "lang:es": "Chihuahua"
+      },
+      "parent_id": "Q96"
+    },
+    {
+      "id": "Q53539010",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/senate-federal-district:cmx"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53539010"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19971999"
+      ],
+      "type": {
+        "lang:en": "constituency of the senate of Mexico"
+      },
+      "name": {
+        "lang:es": "Ciudad de México"
+      },
+      "parent_id": "Q96"
+    },
+    {
+      "id": "Q53539018",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/senate-state:dur"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53539018"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19971999"
+      ],
+      "type": {
+        "lang:en": "constituency of the senate of Mexico"
+      },
+      "name": {
+        "lang:es": "Durango"
+      },
+      "parent_id": "Q96"
+    },
+    {
+      "id": "Q53539025",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/senate-state:mex"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53539025"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19971999"
+      ],
+      "type": {
+        "lang:en": "constituency of the senate of Mexico"
+      },
+      "name": {
+        "lang:es": "Estado de México"
+      },
+      "parent_id": "Q96"
+    },
+    {
+      "id": "Q53539031",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/senate-state:gua"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53539031"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19971999"
+      ],
+      "type": {
+        "lang:en": "constituency of the senate of Mexico"
+      },
+      "name": {
+        "lang:es": "Guanajuato"
+      },
+      "parent_id": "Q96"
+    },
+    {
+      "id": "Q53539035",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/senate-state:gro"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53539035"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19971999"
+      ],
+      "type": {
+        "lang:en": "constituency of the senate of Mexico"
+      },
+      "name": {
+        "lang:es": "Guerrero"
+      },
+      "parent_id": "Q96"
+    },
+    {
+      "id": "Q53539269",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/senate-state:hid"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53539269"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19971999"
+      ],
+      "type": {
+        "lang:en": "constituency of the senate of Mexico"
+      },
+      "name": {
+        "lang:es": "Hidalgo"
+      },
+      "parent_id": "Q96"
+    },
+    {
+      "id": "Q53539277",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/senate-state:jal"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53539277"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19971999"
+      ],
+      "type": {
+        "lang:en": "constituency of the senate of Mexico"
+      },
+      "name": {
+        "lang:es": "Jalisco"
+      },
+      "parent_id": "Q96"
+    },
+    {
+      "id": "Q53539284",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/senate-state:mic"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53539284"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19971999"
+      ],
+      "type": {
+        "lang:en": "constituency of the senate of Mexico"
+      },
+      "name": {
+        "lang:es": "Michoacán"
+      },
+      "parent_id": "Q96"
+    },
+    {
+      "id": "Q53539292",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/senate-state:mor"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53539292"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19971999"
+      ],
+      "type": {
+        "lang:en": "constituency of the senate of Mexico"
+      },
+      "name": {
+        "lang:es": "Morelos"
+      },
+      "parent_id": "Q96"
+    },
+    {
+      "id": "Q53539299",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/senate-state:nay"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53539299"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19971999"
+      ],
+      "type": {
+        "lang:en": "constituency of the senate of Mexico"
+      },
+      "name": {
+        "lang:es": "Nayarit"
+      },
+      "parent_id": "Q96"
+    },
+    {
+      "id": "Q53539307",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/senate-state:nle"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53539307"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19971999"
+      ],
+      "type": {
+        "lang:en": "constituency of the senate of Mexico"
+      },
+      "name": {
+        "lang:es": "Nuevo León"
+      },
+      "parent_id": "Q96"
+    },
+    {
+      "id": "Q53539312",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/senate-state:oax"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53539312"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19971999"
+      ],
+      "type": {
+        "lang:en": "constituency of the senate of Mexico"
+      },
+      "name": {
+        "lang:es": "Oaxaca"
+      },
+      "parent_id": "Q96"
+    },
+    {
+      "id": "Q53539319",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/senate-state:pue"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53539319"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19971999"
+      ],
+      "type": {
+        "lang:en": "constituency of the senate of Mexico"
+      },
+      "name": {
+        "lang:es": "Puebla"
+      },
+      "parent_id": "Q96"
+    },
+    {
+      "id": "Q53539325",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/senate-state:que"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53539325"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19971999"
+      ],
+      "type": {
+        "lang:en": "constituency of the senate of Mexico"
+      },
+      "name": {
+        "lang:es": "Querétaro"
+      },
+      "parent_id": "Q96"
+    },
+    {
+      "id": "Q53539330",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/senate-state:roo"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53539330"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19971999"
+      ],
+      "type": {
+        "lang:en": "constituency of the senate of Mexico"
+      },
+      "name": {
+        "lang:es": "Quintana Roo"
+      },
+      "parent_id": "Q96"
+    },
+    {
+      "id": "Q53539336",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/senate-state:slp"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53539336"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19971999"
+      ],
+      "type": {
+        "lang:en": "constituency of the senate of Mexico"
+      },
+      "name": {
+        "lang:es": "San Luis Potosí"
+      },
+      "parent_id": "Q96"
+    },
+    {
+      "id": "Q53539342",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/senate-state:sin"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53539342"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19971999"
+      ],
+      "type": {
+        "lang:en": "constituency of the senate of Mexico"
+      },
+      "name": {
+        "lang:es": "Sinaloa"
+      },
+      "parent_id": "Q96"
+    },
+    {
+      "id": "Q53539349",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/senate-state:son"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53539349"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19971999"
+      ],
+      "type": {
+        "lang:en": "constituency of the senate of Mexico"
+      },
+      "name": {
+        "lang:es": "Sonora"
+      },
+      "parent_id": "Q96"
+    },
+    {
+      "id": "Q53539355",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/senate-state:tab"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53539355"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19971999"
+      ],
+      "type": {
+        "lang:en": "constituency of the senate of Mexico"
+      },
+      "name": {
+        "lang:es": "Tabasco"
+      },
+      "parent_id": "Q96"
+    },
+    {
+      "id": "Q53539360",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/senate-state:tam"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53539360"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19971999"
+      ],
+      "type": {
+        "lang:en": "constituency of the senate of Mexico"
+      },
+      "name": {
+        "lang:es": "Tamaulipas"
+      },
+      "parent_id": "Q96"
+    },
+    {
+      "id": "Q53539368",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/senate-state:tla"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53539368"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19971999"
+      ],
+      "type": {
+        "lang:en": "constituency of the senate of Mexico"
+      },
+      "name": {
+        "lang:es": "Tlaxcala"
+      },
+      "parent_id": "Q96"
+    },
+    {
+      "id": "Q53539375",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/senate-state:ver"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53539375"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19971999"
+      ],
+      "type": {
+        "lang:en": "constituency of the senate of Mexico"
+      },
+      "name": {
+        "lang:es": "Veracruz"
+      },
+      "parent_id": "Q96"
+    },
+    {
+      "id": "Q53539380",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/senate-state:yuc"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53539380"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19971999"
+      ],
+      "type": {
+        "lang:en": "constituency of the senate of Mexico"
+      },
+      "name": {
+        "lang:es": "Yucatán"
+      },
+      "parent_id": "Q96"
+    },
+    {
+      "id": "Q53539385",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/senate-state:zac"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53539385"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19971999"
+      ],
+      "type": {
+        "lang:en": "constituency of the senate of Mexico"
+      },
+      "name": {
+        "lang:es": "Zacatecas"
+      },
+      "parent_id": "Q96"
+    },
+    {
+      "id": "Q96",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q96"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q628004"
+      ],
+      "type": {
+        "lang:es": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "United Mexican States",
+        "lang:es": "Estados Unidos Mexicanos"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
     {
