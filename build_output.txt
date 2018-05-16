@@ -1,5 +1,15 @@
 WARNING: Position senador de México (Q19971999) not in boundary associated_wikidata_positions
+WARNING: the district Sinaloa (Q80252) wasn't found in the boundary data for position senador de México (Q19971999)
+WARNING: the district Yucatán (Q60176) wasn't found in the boundary data for position senador de México (Q19971999)
+WARNING: the district Quintana Roo (Q80245) wasn't found in the boundary data for position senador de México (Q19971999)
+WARNING: the district Yucatán (Q60176) wasn't found in the boundary data for position senador de México (Q19971999)
+WARNING: the district Baja California Sur (Q46508) wasn't found in the boundary data for position senador de México (Q19971999)
 WARNING: Position diputado de México (Q18534310) not in boundary associated_wikidata_positions
+WARNING: the district Estado de México (Q82112) wasn't found in the boundary data for position diputado de México (Q18534310)
+WARNING: the district Estado de México (Q82112) wasn't found in the boundary data for position diputado de México (Q18534310)
+WARNING: the district Morelos (Q66117) wasn't found in the boundary data for position diputado de México (Q18534310)
+WARNING: the district Ciudad de México (Q1489) wasn't found in the boundary data for position diputado de México (Q18534310)
+WARNING: the district Estado de México (Q82112) wasn't found in the boundary data for position diputado de México (Q18534310)
 WARNING: Position [no item] not in boundary associated_wikidata_positions
 WARNING: Position [no item] not in boundary associated_wikidata_positions
 WARNING: Position [no item] not in boundary associated_wikidata_positions
@@ -20,142 +30,128 @@ WARNING: Position [no item] not in boundary associated_wikidata_positions
 WARNING: Position [no item] not in boundary associated_wikidata_positions
 WARNING: Position [no item] not in boundary associated_wikidata_positions
 WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position Presidente de México (Q628004) not in boundary associated_wikidata_positions
-WARNING: the district México (Q96) wasn't found in the boundary data for position Presidente de México (Q628004)
-WARNING: the district México (Q96) wasn't found in the boundary data for position Presidente de México (Q628004)
-WARNING: the district México (Q96) wasn't found in the boundary data for position Presidente de México (Q628004)
-WARNING: the district México (Q96) wasn't found in the boundary data for position Presidente de México (Q628004)
-WARNING: the district México (Q96) wasn't found in the boundary data for position Presidente de México (Q628004)
-WARNING: the district México (Q96) wasn't found in the boundary data for position Presidente de México (Q628004)
-WARNING: the district México (Q96) wasn't found in the boundary data for position Presidente de México (Q628004)
-WARNING: the district México (Q96) wasn't found in the boundary data for position Presidente de México (Q628004)
-WARNING: the district México (Q96) wasn't found in the boundary data for position Presidente de México (Q628004)
-WARNING: the district México (Q96) wasn't found in the boundary data for position Presidente de México (Q628004)
-WARNING: the district México (Q96) wasn't found in the boundary data for position Presidente de México (Q628004)
-WARNING: the district México (Q96) wasn't found in the boundary data for position Presidente de México (Q628004)
-WARNING: the district México (Q96) wasn't found in the boundary data for position Presidente de México (Q628004)
-WARNING: the district México (Q96) wasn't found in the boundary data for position Presidente de México (Q628004)
-WARNING: the district México (Q96) wasn't found in the boundary data for position Presidente de México (Q628004)
-WARNING: the district México (Q96) wasn't found in the boundary data for position Presidente de México (Q628004)
-WARNING: the district México (Q96) wasn't found in the boundary data for position Presidente de México (Q628004)
-WARNING: the district México (Q96) wasn't found in the boundary data for position Presidente de México (Q628004)
-WARNING: Position Anexo:Gobernantes de Aguascalientes (Q5589628) not in boundary associated_wikidata_positions
-WARNING: the district Aguascalientes (Q79952) wasn't found in the boundary data for position Anexo:Gobernantes de Aguascalientes (Q5589628)
-WARNING: the district Aguascalientes (Q79952) wasn't found in the boundary data for position Anexo:Gobernantes de Aguascalientes (Q5589628)
-WARNING: Position Anexo:Gobernantes de Baja California (Q5589632) not in boundary associated_wikidata_positions
-WARNING: the district Baja California (Q58731) wasn't found in the boundary data for position Anexo:Gobernantes de Baja California (Q5589632)
-WARNING: the district Baja California (Q58731) wasn't found in the boundary data for position Anexo:Gobernantes de Baja California (Q5589632)
-WARNING: Position Anexo:Gobernantes de Baja California Sur (Q5589635) not in boundary associated_wikidata_positions
-WARNING: the district Baja California Sur (Q46508) wasn't found in the boundary data for position Anexo:Gobernantes de Baja California Sur (Q5589635)
-WARNING: Position Anexo:Gobernantes de Campeche (Q5589643) not in boundary associated_wikidata_positions
-WARNING: the district Campeche (Q80908) wasn't found in the boundary data for position Anexo:Gobernantes de Campeche (Q5589643)
-WARNING: Position Anexo:Gobernantes de Coahuila (Q11812211) not in boundary associated_wikidata_positions
-WARNING: the district Coahuila de Zaragoza (Q53079) wasn't found in the boundary data for position Anexo:Gobernantes de Coahuila (Q11812211)
-WARNING: the district Coahuila de Zaragoza (Q53079) wasn't found in the boundary data for position Anexo:Gobernantes de Coahuila (Q11812211)
-WARNING: Position Anexo:Gobernantes de Colima (Q5589648) not in boundary associated_wikidata_positions
-WARNING: the district Colima (Q61309) wasn't found in the boundary data for position Anexo:Gobernantes de Colima (Q5589648)
-WARNING: the district Colima (Q61309) wasn't found in the boundary data for position Anexo:Gobernantes de Colima (Q5589648)
-WARNING: the district Colima (Q61309) wasn't found in the boundary data for position Anexo:Gobernantes de Colima (Q5589648)
-WARNING: the district Colima (Q61309) wasn't found in the boundary data for position Anexo:Gobernantes de Colima (Q5589648)
-WARNING: the district Colima (Q61309) wasn't found in the boundary data for position Anexo:Gobernantes de Colima (Q5589648)
-WARNING: the district Colima (Q61309) wasn't found in the boundary data for position Anexo:Gobernantes de Colima (Q5589648)
-WARNING: the district Colima (Q61309) wasn't found in the boundary data for position Anexo:Gobernantes de Colima (Q5589648)
-WARNING: the district Colima (Q61309) wasn't found in the boundary data for position Anexo:Gobernantes de Colima (Q5589648)
-WARNING: Position Anexo:Gobernadores de Chiapas (Q5589647) not in boundary associated_wikidata_positions
-WARNING: Position Anexo:Gobernantes de Chihuahua (Q9282520) not in boundary associated_wikidata_positions
-WARNING: the district Chihuahua (Q655) wasn't found in the boundary data for position Anexo:Gobernantes de Chihuahua (Q9282520)
-WARNING: the district Chihuahua (Q655) wasn't found in the boundary data for position Anexo:Gobernantes de Chihuahua (Q9282520)
+WARNING: Position Gobernantes de Aguascalientes (Q5589628) not in boundary associated_wikidata_positions
+WARNING: the district Aguascalientes (Q79952) wasn't found in the boundary data for position Gobernantes de Aguascalientes (Q5589628)
+WARNING: the district Aguascalientes (Q79952) wasn't found in the boundary data for position Gobernantes de Aguascalientes (Q5589628)
+WARNING: the district Aguascalientes (Q79952) wasn't found in the boundary data for position Gobernantes de Aguascalientes (Q5589628)
+WARNING: Position Gobernantes de Baja California (Q5589632) not in boundary associated_wikidata_positions
+WARNING: the district Baja California (Q58731) wasn't found in the boundary data for position Gobernantes de Baja California (Q5589632)
+WARNING: the district Baja California (Q58731) wasn't found in the boundary data for position Gobernantes de Baja California (Q5589632)
+WARNING: Position Gobernantes de Baja California Sur (Q5589635) not in boundary associated_wikidata_positions
+WARNING: the district Baja California Sur (Q46508) wasn't found in the boundary data for position Gobernantes de Baja California Sur (Q5589635)
+WARNING: Position Gobernantes de Campeche (Q5589643) not in boundary associated_wikidata_positions
+WARNING: the district Campeche (Q80908) wasn't found in the boundary data for position Gobernantes de Campeche (Q5589643)
+WARNING: Position Gobernantes de Coahuila (Q11812211) not in boundary associated_wikidata_positions
+WARNING: the district Coahuila de Zaragoza (Q53079) wasn't found in the boundary data for position Gobernantes de Coahuila (Q11812211)
+WARNING: the district Coahuila de Zaragoza (Q53079) wasn't found in the boundary data for position Gobernantes de Coahuila (Q11812211)
+WARNING: Position Gobernantes de Colima (Q5589648) not in boundary associated_wikidata_positions
+WARNING: the district Colima (Q61309) wasn't found in the boundary data for position Gobernantes de Colima (Q5589648)
+WARNING: the district Colima (Q61309) wasn't found in the boundary data for position Gobernantes de Colima (Q5589648)
+WARNING: the district Colima (Q61309) wasn't found in the boundary data for position Gobernantes de Colima (Q5589648)
+WARNING: the district Colima (Q61309) wasn't found in the boundary data for position Gobernantes de Colima (Q5589648)
+WARNING: the district Colima (Q61309) wasn't found in the boundary data for position Gobernantes de Colima (Q5589648)
+WARNING: the district Colima (Q61309) wasn't found in the boundary data for position Gobernantes de Colima (Q5589648)
+WARNING: the district Colima (Q61309) wasn't found in the boundary data for position Gobernantes de Colima (Q5589648)
+WARNING: the district Colima (Q61309) wasn't found in the boundary data for position Gobernantes de Colima (Q5589648)
+WARNING: Position Gobernadores de Chiapas (Q5589647) not in boundary associated_wikidata_positions
+WARNING: Position Gobernantes de Chihuahua (Q9282520) not in boundary associated_wikidata_positions
+WARNING: the district Chihuahua (Q655) wasn't found in the boundary data for position Gobernantes de Chihuahua (Q9282520)
+WARNING: the district Chihuahua (Q655) wasn't found in the boundary data for position Gobernantes de Chihuahua (Q9282520)
 WARNING: Position Jefe de Gobierno de la Ciudad de México (Q2962015) not in boundary associated_wikidata_positions
-WARNING: Position Anexo:Gobernantes de Durango (Q3112712) not in boundary associated_wikidata_positions
-WARNING: Position Anexo:Gobernantes del Estado de México (Q5589754) not in boundary associated_wikidata_positions
-WARNING: the district Estado de México (Q82112) wasn't found in the boundary data for position Anexo:Gobernantes del Estado de México (Q5589754)
-WARNING: Position Anexo:Gobernantes de Guanajuato (Q5589657) not in boundary associated_wikidata_positions
-WARNING: the district Guanajuato (Q46475) wasn't found in the boundary data for position Anexo:Gobernantes de Guanajuato (Q5589657)
-WARNING: the district Guanajuato (Q46475) wasn't found in the boundary data for position Anexo:Gobernantes de Guanajuato (Q5589657)
-WARNING: the district Guanajuato (Q46475) wasn't found in the boundary data for position Anexo:Gobernantes de Guanajuato (Q5589657)
-WARNING: the district Guanajuato (Q46475) wasn't found in the boundary data for position Anexo:Gobernantes de Guanajuato (Q5589657)
-WARNING: the district Guanajuato (Q46475) wasn't found in the boundary data for position Anexo:Gobernantes de Guanajuato (Q5589657)
-WARNING: the district Guanajuato (Q46475) wasn't found in the boundary data for position Anexo:Gobernantes de Guanajuato (Q5589657)
-WARNING: the district Guanajuato (Q46475) wasn't found in the boundary data for position Anexo:Gobernantes de Guanajuato (Q5589657)
-WARNING: the district Guanajuato (Q46475) wasn't found in the boundary data for position Anexo:Gobernantes de Guanajuato (Q5589657)
-WARNING: the district Guanajuato (Q46475) wasn't found in the boundary data for position Anexo:Gobernantes de Guanajuato (Q5589657)
-WARNING: the district Guanajuato (Q46475) wasn't found in the boundary data for position Anexo:Gobernantes de Guanajuato (Q5589657)
-WARNING: the district Guanajuato (Q46475) wasn't found in the boundary data for position Anexo:Gobernantes de Guanajuato (Q5589657)
-WARNING: the district Guanajuato (Q46475) wasn't found in the boundary data for position Anexo:Gobernantes de Guanajuato (Q5589657)
-WARNING: the district Guanajuato (Q46475) wasn't found in the boundary data for position Anexo:Gobernantes de Guanajuato (Q5589657)
-WARNING: the district Guanajuato (Q46475) wasn't found in the boundary data for position Anexo:Gobernantes de Guanajuato (Q5589657)
-WARNING: the district Guanajuato (Q46475) wasn't found in the boundary data for position Anexo:Gobernantes de Guanajuato (Q5589657)
-WARNING: the district Guanajuato (Q46475) wasn't found in the boundary data for position Anexo:Gobernantes de Guanajuato (Q5589657)
-WARNING: the district Guanajuato (Q46475) wasn't found in the boundary data for position Anexo:Gobernantes de Guanajuato (Q5589657)
-WARNING: the district Guanajuato (Q46475) wasn't found in the boundary data for position Anexo:Gobernantes de Guanajuato (Q5589657)
-WARNING: the district Guanajuato (Q46475) wasn't found in the boundary data for position Anexo:Gobernantes de Guanajuato (Q5589657)
-WARNING: the district Guanajuato (Q46475) wasn't found in the boundary data for position Anexo:Gobernantes de Guanajuato (Q5589657)
-WARNING: the district Guanajuato (Q46475) wasn't found in the boundary data for position Anexo:Gobernantes de Guanajuato (Q5589657)
-WARNING: the district Guanajuato (Q46475) wasn't found in the boundary data for position Anexo:Gobernantes de Guanajuato (Q5589657)
-WARNING: the district Guanajuato (Q46475) wasn't found in the boundary data for position Anexo:Gobernantes de Guanajuato (Q5589657)
-WARNING: the district Guanajuato (Q46475) wasn't found in the boundary data for position Anexo:Gobernantes de Guanajuato (Q5589657)
-WARNING: the district Guanajuato (Q46475) wasn't found in the boundary data for position Anexo:Gobernantes de Guanajuato (Q5589657)
-WARNING: Position Anexo:Gobernantes de Guerrero (Q5589659) not in boundary associated_wikidata_positions
-WARNING: the district Estado de Guerrero (Q60158) wasn't found in the boundary data for position Anexo:Gobernantes de Guerrero (Q5589659)
-WARNING: Position Anexo:Gobernadores de Hidalgo (Q5589662) not in boundary associated_wikidata_positions
-WARNING: Position Anexo:Gobernantes de Jalisco (Q5589666) not in boundary associated_wikidata_positions
-WARNING: the district Jalisco (Q13160) wasn't found in the boundary data for position Anexo:Gobernantes de Jalisco (Q5589666)
-WARNING: Position Anexo:Gobernantes de Michoacán (Q5589681) not in boundary associated_wikidata_positions
-WARNING: the district Michoacán (Q79861) wasn't found in the boundary data for position Anexo:Gobernantes de Michoacán (Q5589681)
-WARNING: the district Michoacán (Q79861) wasn't found in the boundary data for position Anexo:Gobernantes de Michoacán (Q5589681)
-WARNING: the district Michoacán (Q79861) wasn't found in the boundary data for position Anexo:Gobernantes de Michoacán (Q5589681)
-WARNING: the district Michoacán (Q79861) wasn't found in the boundary data for position Anexo:Gobernantes de Michoacán (Q5589681)
-WARNING: the district Michoacán (Q79861) wasn't found in the boundary data for position Anexo:Gobernantes de Michoacán (Q5589681)
-WARNING: the district Michoacán (Q79861) wasn't found in the boundary data for position Anexo:Gobernantes de Michoacán (Q5589681)
-WARNING: the district Michoacán (Q79861) wasn't found in the boundary data for position Anexo:Gobernantes de Michoacán (Q5589681)
-WARNING: the district Michoacán (Q79861) wasn't found in the boundary data for position Anexo:Gobernantes de Michoacán (Q5589681)
-WARNING: the district Michoacán (Q79861) wasn't found in the boundary data for position Anexo:Gobernantes de Michoacán (Q5589681)
-WARNING: the district Michoacán (Q79861) wasn't found in the boundary data for position Anexo:Gobernantes de Michoacán (Q5589681)
-WARNING: the district Michoacán (Q79861) wasn't found in the boundary data for position Anexo:Gobernantes de Michoacán (Q5589681)
-WARNING: the district Michoacán (Q79861) wasn't found in the boundary data for position Anexo:Gobernantes de Michoacán (Q5589681)
-WARNING: the district Michoacán (Q79861) wasn't found in the boundary data for position Anexo:Gobernantes de Michoacán (Q5589681)
-WARNING: the district Michoacán (Q79861) wasn't found in the boundary data for position Anexo:Gobernantes de Michoacán (Q5589681)
-WARNING: the district Michoacán (Q79861) wasn't found in the boundary data for position Anexo:Gobernantes de Michoacán (Q5589681)
-WARNING: the district Michoacán (Q79861) wasn't found in the boundary data for position Anexo:Gobernantes de Michoacán (Q5589681)
-WARNING: Position Anexo:Gobernantes de Morelos (Q5589684) not in boundary associated_wikidata_positions
-WARNING: Position Anexo:Gobernantes de Nayarit (Q5589686) not in boundary associated_wikidata_positions
-WARNING: Position Anexo:Gobernantes de Nuevo León (Q5589693) not in boundary associated_wikidata_positions
-WARNING: the district Nuevo León (Q15282) wasn't found in the boundary data for position Anexo:Gobernantes de Nuevo León (Q5589693)
-WARNING: the district Nuevo León (Q15282) wasn't found in the boundary data for position Anexo:Gobernantes de Nuevo León (Q5589693)
-WARNING: the district Nuevo León (Q15282) wasn't found in the boundary data for position Anexo:Gobernantes de Nuevo León (Q5589693)
-WARNING: Position Anexo:Gobernantes de Oaxaca (Q5589697) not in boundary associated_wikidata_positions
-WARNING: the district Oaxaca (Q34110) wasn't found in the boundary data for position Anexo:Gobernantes de Oaxaca (Q5589697)
-WARNING: Position Anexo:Gobernantes de Puebla (Q5589701) not in boundary associated_wikidata_positions
-WARNING: the district Puebla (Q79923) wasn't found in the boundary data for position Anexo:Gobernantes de Puebla (Q5589701)
-WARNING: Position Anexo:Gobernantes de Querétaro (Q5589703) not in boundary associated_wikidata_positions
-WARNING: the district Querétaro (Q79754) wasn't found in the boundary data for position Anexo:Gobernantes de Querétaro (Q5589703)
-WARNING: the district Querétaro (Q79754) wasn't found in the boundary data for position Anexo:Gobernantes de Querétaro (Q5589703)
-WARNING: Position Anexo:Gobernantes de Quintana Roo (Q5589705) not in boundary associated_wikidata_positions
-WARNING: Position Anexo:Gobernantes de San Luis Potosí (Q5589709) not in boundary associated_wikidata_positions
-WARNING: Position Anexo:Gobernantes de Sinaloa (Q5589715) not in boundary associated_wikidata_positions
-WARNING: Position Anexo:Gobernantes de Sonora (Q3249960) not in boundary associated_wikidata_positions
-WARNING: the district Sonora (Q46422) wasn't found in the boundary data for position Anexo:Gobernantes de Sonora (Q3249960)
-WARNING: the district Sonora (Q46422) wasn't found in the boundary data for position Anexo:Gobernantes de Sonora (Q3249960)
-WARNING: the district Sonora (Q46422) wasn't found in the boundary data for position Anexo:Gobernantes de Sonora (Q3249960)
+WARNING: Position Gobernantes de Durango (Q3112712) not in boundary associated_wikidata_positions
+WARNING: Position Gobernantes del Estado de México (Q5589754) not in boundary associated_wikidata_positions
+WARNING: the district Estado de México (Q82112) wasn't found in the boundary data for position Gobernantes del Estado de México (Q5589754)
+WARNING: the district Estado de México (Q82112) wasn't found in the boundary data for position Gobernantes del Estado de México (Q5589754)
+WARNING: Position Gobernantes de Guanajuato (Q5589657) not in boundary associated_wikidata_positions
+WARNING: the district Guanajuato (Q46475) wasn't found in the boundary data for position Gobernantes de Guanajuato (Q5589657)
+WARNING: the district Guanajuato (Q46475) wasn't found in the boundary data for position Gobernantes de Guanajuato (Q5589657)
+WARNING: the district Guanajuato (Q46475) wasn't found in the boundary data for position Gobernantes de Guanajuato (Q5589657)
+WARNING: the district Guanajuato (Q46475) wasn't found in the boundary data for position Gobernantes de Guanajuato (Q5589657)
+WARNING: the district Guanajuato (Q46475) wasn't found in the boundary data for position Gobernantes de Guanajuato (Q5589657)
+WARNING: the district Guanajuato (Q46475) wasn't found in the boundary data for position Gobernantes de Guanajuato (Q5589657)
+WARNING: the district Guanajuato (Q46475) wasn't found in the boundary data for position Gobernantes de Guanajuato (Q5589657)
+WARNING: the district Guanajuato (Q46475) wasn't found in the boundary data for position Gobernantes de Guanajuato (Q5589657)
+WARNING: the district Guanajuato (Q46475) wasn't found in the boundary data for position Gobernantes de Guanajuato (Q5589657)
+WARNING: the district Guanajuato (Q46475) wasn't found in the boundary data for position Gobernantes de Guanajuato (Q5589657)
+WARNING: the district Guanajuato (Q46475) wasn't found in the boundary data for position Gobernantes de Guanajuato (Q5589657)
+WARNING: the district Guanajuato (Q46475) wasn't found in the boundary data for position Gobernantes de Guanajuato (Q5589657)
+WARNING: the district Guanajuato (Q46475) wasn't found in the boundary data for position Gobernantes de Guanajuato (Q5589657)
+WARNING: the district Guanajuato (Q46475) wasn't found in the boundary data for position Gobernantes de Guanajuato (Q5589657)
+WARNING: the district Guanajuato (Q46475) wasn't found in the boundary data for position Gobernantes de Guanajuato (Q5589657)
+WARNING: the district Guanajuato (Q46475) wasn't found in the boundary data for position Gobernantes de Guanajuato (Q5589657)
+WARNING: the district Guanajuato (Q46475) wasn't found in the boundary data for position Gobernantes de Guanajuato (Q5589657)
+WARNING: the district Guanajuato (Q46475) wasn't found in the boundary data for position Gobernantes de Guanajuato (Q5589657)
+WARNING: the district Guanajuato (Q46475) wasn't found in the boundary data for position Gobernantes de Guanajuato (Q5589657)
+WARNING: the district Guanajuato (Q46475) wasn't found in the boundary data for position Gobernantes de Guanajuato (Q5589657)
+WARNING: the district Guanajuato (Q46475) wasn't found in the boundary data for position Gobernantes de Guanajuato (Q5589657)
+WARNING: the district Guanajuato (Q46475) wasn't found in the boundary data for position Gobernantes de Guanajuato (Q5589657)
+WARNING: the district Guanajuato (Q46475) wasn't found in the boundary data for position Gobernantes de Guanajuato (Q5589657)
+WARNING: the district Guanajuato (Q46475) wasn't found in the boundary data for position Gobernantes de Guanajuato (Q5589657)
+WARNING: the district Guanajuato (Q46475) wasn't found in the boundary data for position Gobernantes de Guanajuato (Q5589657)
+WARNING: Position Gobernantes de Guerrero (Q5589659) not in boundary associated_wikidata_positions
+WARNING: the district Estado de Guerrero (Q60158) wasn't found in the boundary data for position Gobernantes de Guerrero (Q5589659)
+WARNING: Position Gobernadores de Hidalgo (Q5589662) not in boundary associated_wikidata_positions
+WARNING: Position Gobernantes de Jalisco (Q5589666) not in boundary associated_wikidata_positions
+WARNING: the district Jalisco (Q13160) wasn't found in the boundary data for position Gobernantes de Jalisco (Q5589666)
+WARNING: Position Gobernantes de Michoacán (Q5589681) not in boundary associated_wikidata_positions
+WARNING: the district Michoacán (Q79861) wasn't found in the boundary data for position Gobernantes de Michoacán (Q5589681)
+WARNING: the district Michoacán (Q79861) wasn't found in the boundary data for position Gobernantes de Michoacán (Q5589681)
+WARNING: the district Michoacán (Q79861) wasn't found in the boundary data for position Gobernantes de Michoacán (Q5589681)
+WARNING: the district Michoacán (Q79861) wasn't found in the boundary data for position Gobernantes de Michoacán (Q5589681)
+WARNING: the district Michoacán (Q79861) wasn't found in the boundary data for position Gobernantes de Michoacán (Q5589681)
+WARNING: the district Michoacán (Q79861) wasn't found in the boundary data for position Gobernantes de Michoacán (Q5589681)
+WARNING: the district Michoacán (Q79861) wasn't found in the boundary data for position Gobernantes de Michoacán (Q5589681)
+WARNING: the district Michoacán (Q79861) wasn't found in the boundary data for position Gobernantes de Michoacán (Q5589681)
+WARNING: the district Michoacán (Q79861) wasn't found in the boundary data for position Gobernantes de Michoacán (Q5589681)
+WARNING: the district Michoacán (Q79861) wasn't found in the boundary data for position Gobernantes de Michoacán (Q5589681)
+WARNING: the district Michoacán (Q79861) wasn't found in the boundary data for position Gobernantes de Michoacán (Q5589681)
+WARNING: the district Michoacán (Q79861) wasn't found in the boundary data for position Gobernantes de Michoacán (Q5589681)
+WARNING: the district Michoacán (Q79861) wasn't found in the boundary data for position Gobernantes de Michoacán (Q5589681)
+WARNING: the district Michoacán (Q79861) wasn't found in the boundary data for position Gobernantes de Michoacán (Q5589681)
+WARNING: the district Michoacán (Q79861) wasn't found in the boundary data for position Gobernantes de Michoacán (Q5589681)
+WARNING: the district Michoacán (Q79861) wasn't found in the boundary data for position Gobernantes de Michoacán (Q5589681)
+WARNING: Position Gobernantes de Morelos (Q5589684) not in boundary associated_wikidata_positions
+WARNING: the district Morelos (Q66117) wasn't found in the boundary data for position Gobernantes de Morelos (Q5589684)
+WARNING: the district Morelos (Q66117) wasn't found in the boundary data for position Gobernantes de Morelos (Q5589684)
+WARNING: Position Gobernantes de Nayarit (Q5589686) not in boundary associated_wikidata_positions
+WARNING: Position Gobernantes de Nuevo León (Q5589693) not in boundary associated_wikidata_positions
+WARNING: the district Nuevo León (Q15282) wasn't found in the boundary data for position Gobernantes de Nuevo León (Q5589693)
+WARNING: the district Nuevo León (Q15282) wasn't found in the boundary data for position Gobernantes de Nuevo León (Q5589693)
+WARNING: the district Nuevo León (Q15282) wasn't found in the boundary data for position Gobernantes de Nuevo León (Q5589693)
+WARNING: Position Gobernantes de Oaxaca (Q5589697) not in boundary associated_wikidata_positions
+WARNING: the district Oaxaca (Q34110) wasn't found in the boundary data for position Gobernantes de Oaxaca (Q5589697)
+WARNING: Position Gobernantes de Puebla (Q5589701) not in boundary associated_wikidata_positions
+WARNING: the district Puebla (Q79923) wasn't found in the boundary data for position Gobernantes de Puebla (Q5589701)
+WARNING: Position Gobernantes de Querétaro (Q5589703) not in boundary associated_wikidata_positions
+WARNING: the district Querétaro (Q79754) wasn't found in the boundary data for position Gobernantes de Querétaro (Q5589703)
+WARNING: the district Querétaro (Q79754) wasn't found in the boundary data for position Gobernantes de Querétaro (Q5589703)
+WARNING: Position Gobernantes de Quintana Roo (Q5589705) not in boundary associated_wikidata_positions
+WARNING: Position Gobernantes de San Luis Potosí (Q5589709) not in boundary associated_wikidata_positions
+WARNING: Position Gobernantes de Sinaloa (Q5589715) not in boundary associated_wikidata_positions
+WARNING: Position Gobernantes de Sonora (Q3249960) not in boundary associated_wikidata_positions
+WARNING: the district Sonora (Q46422) wasn't found in the boundary data for position Gobernantes de Sonora (Q3249960)
+WARNING: the district Sonora (Q46422) wasn't found in the boundary data for position Gobernantes de Sonora (Q3249960)
+WARNING: the district Sonora (Q46422) wasn't found in the boundary data for position Gobernantes de Sonora (Q3249960)
 WARNING: Position Gobernantes de Tabasco (Q5589723) not in boundary associated_wikidata_positions
 WARNING: the district Tabasco (Q80914) wasn't found in the boundary data for position Gobernantes de Tabasco (Q5589723)
 WARNING: the district Tabasco (Q80914) wasn't found in the boundary data for position Gobernantes de Tabasco (Q5589723)
 WARNING: the district Tabasco (Q80914) wasn't found in the boundary data for position Gobernantes de Tabasco (Q5589723)
 WARNING: the district Tabasco (Q80914) wasn't found in the boundary data for position Gobernantes de Tabasco (Q5589723)
 WARNING: the district Tabasco (Q80914) wasn't found in the boundary data for position Gobernantes de Tabasco (Q5589723)
-WARNING: Position Anexo:Gobernantes de Tamaulipas (Q5589726) not in boundary associated_wikidata_positions
-WARNING: the district Tamaulipas (Q80007) wasn't found in the boundary data for position Anexo:Gobernantes de Tamaulipas (Q5589726)
-WARNING: the district Tamaulipas (Q80007) wasn't found in the boundary data for position Anexo:Gobernantes de Tamaulipas (Q5589726)
-WARNING: Position Anexo:Gobernantes de Tlaxcala (Q5589729) not in boundary associated_wikidata_positions
-WARNING: the district Tlaxcala (Q82681) wasn't found in the boundary data for position Anexo:Gobernantes de Tlaxcala (Q5589729)
-WARNING: the district Tlaxcala (Q82681) wasn't found in the boundary data for position Anexo:Gobernantes de Tlaxcala (Q5589729)
-WARNING: the district Tlaxcala (Q82681) wasn't found in the boundary data for position Anexo:Gobernantes de Tlaxcala (Q5589729)
-WARNING: Position Anexo:Gobernadores de Veracruz (Q5589731) not in boundary associated_wikidata_positions
-WARNING: the district Veracruz (Q60130) wasn't found in the boundary data for position Anexo:Gobernadores de Veracruz (Q5589731)
-WARNING: the district Veracruz (Q60130) wasn't found in the boundary data for position Anexo:Gobernadores de Veracruz (Q5589731)
-WARNING: the district Veracruz (Q60130) wasn't found in the boundary data for position Anexo:Gobernadores de Veracruz (Q5589731)
-WARNING: the district Veracruz (Q60130) wasn't found in the boundary data for position Anexo:Gobernadores de Veracruz (Q5589731)
-WARNING: the district Veracruz (Q60130) wasn't found in the boundary data for position Anexo:Gobernadores de Veracruz (Q5589731)
+WARNING: Position Gobernantes de Tamaulipas (Q5589726) not in boundary associated_wikidata_positions
+WARNING: the district Tamaulipas (Q80007) wasn't found in the boundary data for position Gobernantes de Tamaulipas (Q5589726)
+WARNING: the district Tamaulipas (Q80007) wasn't found in the boundary data for position Gobernantes de Tamaulipas (Q5589726)
+WARNING: Position Gobernantes de Tlaxcala (Q5589729) not in boundary associated_wikidata_positions
+WARNING: the district Tlaxcala (Q82681) wasn't found in the boundary data for position Gobernantes de Tlaxcala (Q5589729)
+WARNING: the district Tlaxcala (Q82681) wasn't found in the boundary data for position Gobernantes de Tlaxcala (Q5589729)
+WARNING: the district Tlaxcala (Q82681) wasn't found in the boundary data for position Gobernantes de Tlaxcala (Q5589729)
+WARNING: the district Tlaxcala (Q82681) wasn't found in the boundary data for position Gobernantes de Tlaxcala (Q5589729)
+WARNING: Position Gobernadores de Veracruz (Q5589731) not in boundary associated_wikidata_positions
+WARNING: the district Veracruz (Q60130) wasn't found in the boundary data for position Gobernadores de Veracruz (Q5589731)
+WARNING: the district Veracruz (Q60130) wasn't found in the boundary data for position Gobernadores de Veracruz (Q5589731)
+WARNING: the district Veracruz (Q60130) wasn't found in the boundary data for position Gobernadores de Veracruz (Q5589731)
+WARNING: the district Veracruz (Q60130) wasn't found in the boundary data for position Gobernadores de Veracruz (Q5589731)
+WARNING: the district Veracruz (Q60130) wasn't found in the boundary data for position Gobernadores de Veracruz (Q5589731)
 WARNING: Position Gobernantes de Yucatán (Q5589736) not in boundary associated_wikidata_positions
 WARNING: the district Yucatán (Q60176) wasn't found in the boundary data for position Gobernantes de Yucatán (Q5589736)
 WARNING: the district Yucatán (Q60176) wasn't found in the boundary data for position Gobernantes de Yucatán (Q5589736)
@@ -185,6 +181,6 @@ WARNING: the district Yucatán (Q60176) wasn't found in the boundary data for po
 WARNING: the district Yucatán (Q60176) wasn't found in the boundary data for position Gobernantes de Yucatán (Q5589736)
 WARNING: the district Yucatán (Q60176) wasn't found in the boundary data for position Gobernantes de Yucatán (Q5589736)
 WARNING: the district Yucatán (Q60176) wasn't found in the boundary data for position Gobernantes de Yucatán (Q5589736)
-WARNING: Position Anexo:Gobernantes de Zacatecas (Q5589737) not in boundary associated_wikidata_positions
-WARNING: the district Zacatecas (Q80269) wasn't found in the boundary data for position Anexo:Gobernantes de Zacatecas (Q5589737)
-WARNING: the district Zacatecas (Q80269) wasn't found in the boundary data for position Anexo:Gobernantes de Zacatecas (Q5589737)
+WARNING: Position Gobernantes de Zacatecas (Q5589737) not in boundary associated_wikidata_positions
+WARNING: the district Zacatecas (Q80269) wasn't found in the boundary data for position Gobernantes de Zacatecas (Q5589737)
+WARNING: the district Zacatecas (Q80269) wasn't found in the boundary data for position Gobernantes de Zacatecas (Q5589737)

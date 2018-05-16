@@ -2,6 +2,25 @@
   "persons": [
     {
       "name": {
+        "lang:es": "Marco Antonio Mena Rodríguez",
+        "lang:en": "Marco Antonio Mena Rodríguez"
+      },
+      "id": "Q23907068",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23907068"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/marco.a.mena"
+        }
+      ]
+    },
+    {
+      "name": {
         "lang:es": "Héctor Ortiz Ortiz",
         "lang:en": "Héctor Ortiz Ortiz"
       },
@@ -83,6 +102,22 @@
   ],
   "memberships": [
     {
+      "id": "http://www.wikidata.org/entity/statement/Q23907068-6E1365EA-0B3C-42FB-AD00-0EBE332EC73F",
+      "person_id": "Q23907068",
+      "organization_id": "Q52634117",
+      "area_id": "Q82681",
+      "role_superclass_code": "Q5589729",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Tlaxcala",
+        "lang:en": "Governor of Tlaxcala"
+      },
+      "role_code": "Q5589729",
+      "role": {
+        "lang:es": "Gobernantes de Tlaxcala",
+        "lang:en": "Governor of Tlaxcala"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q2437970-C7DF5D8D-1D8E-4B39-A52F-7DF5A3509E71",
       "person_id": "Q2437970",
       "on_behalf_of_id": "Q682969",
@@ -90,12 +125,12 @@
       "area_id": "Q82681",
       "role_superclass_code": "Q5589729",
       "role_superclass": {
-        "lang:es": "Anexo:Gobernantes de Tlaxcala",
+        "lang:es": "Gobernantes de Tlaxcala",
         "lang:en": "Governor of Tlaxcala"
       },
       "role_code": "Q5589729",
       "role": {
-        "lang:es": "Anexo:Gobernantes de Tlaxcala",
+        "lang:es": "Gobernantes de Tlaxcala",
         "lang:en": "Governor of Tlaxcala"
       }
     },
@@ -107,12 +142,12 @@
       "area_id": "Q82681",
       "role_superclass_code": "Q5589729",
       "role_superclass": {
-        "lang:es": "Anexo:Gobernantes de Tlaxcala",
+        "lang:es": "Gobernantes de Tlaxcala",
         "lang:en": "Governor of Tlaxcala"
       },
       "role_code": "Q5589729",
       "role": {
-        "lang:es": "Anexo:Gobernantes de Tlaxcala",
+        "lang:es": "Gobernantes de Tlaxcala",
         "lang:en": "Governor of Tlaxcala"
       }
     },
@@ -124,12 +159,12 @@
       "area_id": "Q82681",
       "role_superclass_code": "Q5589729",
       "role_superclass": {
-        "lang:es": "Anexo:Gobernantes de Tlaxcala",
+        "lang:es": "Gobernantes de Tlaxcala",
         "lang:en": "Governor of Tlaxcala"
       },
       "role_code": "Q5589729",
       "role": {
-        "lang:es": "Anexo:Gobernantes de Tlaxcala",
+        "lang:es": "Gobernantes de Tlaxcala",
         "lang:en": "Governor of Tlaxcala"
       }
     }

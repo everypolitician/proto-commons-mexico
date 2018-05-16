@@ -768,7 +768,10 @@
         }
       ],
       "links": [
-
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/victormanuel.bautistalopez.3"
+        }
       ]
     },
     {
@@ -1408,7 +1411,10 @@
         }
       ],
       "links": [
-
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/danielamadorgaxiola1"
+        }
       ]
     },
     {
@@ -1925,8 +1931,8 @@
     },
     {
       "name": {
-        "lang:es": "Juan Manuel Gastélum",
-        "lang:en": "Juan Manuel Gastélum"
+        "lang:es": "Juan Manuel Gastélum Buenrostro",
+        "lang:en": "Juan Manuel Gastélum Buenrostro"
       },
       "id": "Q16186248",
       "identifiers": [
@@ -1936,7 +1942,10 @@
         }
       ],
       "links": [
-
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/ALCDETI"
+        }
       ]
     },
     {
@@ -18767,7 +18776,10 @@
         }
       ],
       "links": [
-
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/AndresAguirreRo"
+        }
       ]
     },
     {
@@ -31033,8 +31045,8 @@
     },
     {
       "name": {
-        "lang:es": "Angélica Araujo Lara",
-        "lang:en": "Angélica Araujo Lara"
+        "lang:es": "Agélica del Rosario Araujo Lara",
+        "lang:en": "Agélica del Rosario Araujo Lara"
       },
       "id": "Q4764311",
       "identifiers": [
@@ -31387,6 +31399,79 @@
     },
     {
       "name": {
+        "lang:es": "María Guadalupe Alcántara Rojas",
+        "lang:en": "María Guadalupe Alcántara Rojas"
+      },
+      "id": "Q53563153",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53563153"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Matías Nazario Morales",
+        "lang:en": "Matías Nazario Morales"
+      },
+      "id": "Q53563154",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53563154"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/MatiasNazarioMor"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Héctor Barrera Marmolejo",
+        "lang:en": "Héctor Barrera Marmolejo"
+      },
+      "id": "Q53563155",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53563155"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/hector.barreramarmolejo"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "María Élida Castelán Mondragón",
+        "lang:en": "María Élida Castelán Mondragón"
+      },
+      "id": "Q53563157",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53563157"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/diputadaelidacaastelanmondragon"
+        }
+      ]
+    },
+    {
+      "name": {
         "lang:es": "Emeterio de la Garza, Jr.",
         "lang:en": "Emeterio de la Garza, Jr."
       },
@@ -31462,7 +31547,10 @@
         }
       ],
       "links": [
-
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/EnriqueIbarraP"
+        }
       ]
     },
     {
@@ -31950,8 +32038,8 @@
     },
     {
       "name": {
-        "lang:es": "Graco Ramírez Garrido Abreu",
-        "lang:en": "Graco Ramírez"
+        "lang:es": "Graco Luis Ramírez Garrido Abreu",
+        "lang:en": "Graco Luis Ramírez Garrido Abreu"
       },
       "id": "Q5591665",
       "identifiers": [
@@ -31961,7 +32049,10 @@
         }
       ],
       "links": [
-
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/gracoramirez"
+        }
       ]
     },
     {
@@ -33508,8 +33599,8 @@
     },
     {
       "name": {
-        "lang:es": "Daniel Ávila Ruiz",
-        "lang:en": "Daniel Ávila Ruiz"
+        "lang:es": "Daniel Gabriel Ávila Ruiz",
+        "lang:en": "Daniel Gabriel Ávila Ruiz"
       },
       "id": "Q5798794",
       "identifiers": [
@@ -33519,7 +33610,10 @@
         }
       ],
       "links": [
-
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/danielavilaruizmx"
+        }
       ]
     },
     {
@@ -40541,6 +40635,48 @@
       "seat_counts": {
         "Q18534310": "500"
       }
+    },
+    {
+      "name": {
+        "lang:es": "Partido Revolucionario Institucional",
+        "lang:en": "Institutional Revolutionary Party"
+      },
+      "id": "Q682969",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q682969"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Partido de la Revolución Democrática",
+        "lang:en": "Party of the Democratic Revolution"
+      },
+      "id": "Q767010",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q767010"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Partido Acción Nacional",
+        "lang:en": "National Action Party"
+      },
+      "id": "Q851087",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q851087"
+        }
+      ]
     }
   ],
   "areas": [
@@ -58113,9 +58249,11 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q18638111-C82B59A8-4B92-468E-8157-D9DE4086C8BB",
+      "id": "http://www.wikidata.org/entity/statement/Q18638111-F6E0CC63-3353-4047-9C32-0FDD501838C8",
       "person_id": "Q18638111",
+      "on_behalf_of_id": "Q682969",
       "organization_id": "Q3014316",
+      "area_id": "Q82112",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
         "lang:es": "diputado",
@@ -69952,6 +70090,74 @@
       "id": "http://www.wikidata.org/entity/statement/Q535570-7DAEF2FB-0CDD-4ABA-AF22-F691F2D0FD3B",
       "person_id": "Q535570",
       "organization_id": "Q3014316",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18534310",
+      "role": {
+        "lang:es": "diputado de México",
+        "lang:en": "Member of the Chamber of Deputies of Mexico"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q53563153-0323705E-F87C-4F40-833C-9D7943500D55",
+      "person_id": "Q53563153",
+      "on_behalf_of_id": "Q682969",
+      "organization_id": "Q3014316",
+      "area_id": "Q82112",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18534310",
+      "role": {
+        "lang:es": "diputado de México",
+        "lang:en": "Member of the Chamber of Deputies of Mexico"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q53563154-30CA74DB-C7AC-4018-B582-89397F537E06",
+      "person_id": "Q53563154",
+      "on_behalf_of_id": "Q682969",
+      "organization_id": "Q3014316",
+      "area_id": "Q66117",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18534310",
+      "role": {
+        "lang:es": "diputado de México",
+        "lang:en": "Member of the Chamber of Deputies of Mexico"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q53563155-F6AB6071-28E4-4894-ACF4-74D2D235385C",
+      "person_id": "Q53563155",
+      "on_behalf_of_id": "Q851087",
+      "organization_id": "Q3014316",
+      "area_id": "Q1489",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18534310",
+      "role": {
+        "lang:es": "diputado de México",
+        "lang:en": "Member of the Chamber of Deputies of Mexico"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q53563157-0C5B58C5-3BF2-405D-BCEB-18F5B59788B4",
+      "person_id": "Q53563157",
+      "on_behalf_of_id": "Q767010",
+      "organization_id": "Q3014316",
+      "area_id": "Q82112",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
         "lang:es": "diputado",

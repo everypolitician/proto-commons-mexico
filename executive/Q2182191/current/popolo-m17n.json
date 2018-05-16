@@ -349,7 +349,31 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q96",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q96"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q628004"
+      ],
+      "type": {
+        "lang:es": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "United Mexican States",
+        "lang:es": "Estados Unidos Mexicanos"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
     {
@@ -391,6 +415,24 @@
       "person_id": "Q2500617",
       "organization_id": "Q2182191",
       "area_id": "Q96",
+      "role_superclass_code": "Q628004",
+      "role_superclass": {
+        "lang:es": "Presidente de México",
+        "lang:en": "President of Mexico"
+      },
+      "role_code": "Q628004",
+      "role": {
+        "lang:es": "Presidente de México",
+        "lang:en": "President of Mexico"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q296741-BAD9EB88-9122-43D4-BA3B-613C0E80C0ED",
+      "person_id": "Q296741",
+      "on_behalf_of_id": "Q682969",
+      "organization_id": "Q2182191",
+      "area_id": "Q96",
+      "start_date": "2012-12-01",
       "role_superclass_code": "Q628004",
       "role_superclass": {
         "lang:es": "Presidente de México",
@@ -624,24 +666,6 @@
       "on_behalf_of_id": "Q3366487",
       "organization_id": "Q2182191",
       "area_id": "Q96",
-      "role_superclass_code": "Q628004",
-      "role_superclass": {
-        "lang:es": "Presidente de México",
-        "lang:en": "President of Mexico"
-      },
-      "role_code": "Q628004",
-      "role": {
-        "lang:es": "Presidente de México",
-        "lang:en": "President of Mexico"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/q296741-3FD7407A-41F3-4450-99B0-F1855AA9EADC",
-      "person_id": "Q296741",
-      "on_behalf_of_id": "Q682969",
-      "organization_id": "Q2182191",
-      "area_id": "Q96",
-      "start_date": "2012-12-01",
       "role_superclass_code": "Q628004",
       "role_superclass": {
         "lang:es": "Presidente de México",
