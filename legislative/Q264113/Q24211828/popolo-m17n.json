@@ -921,7 +921,7 @@
       "person_id": "Q16147101",
       "on_behalf_of_id": "Q682969",
       "organization_id": "Q264113",
-      "area_id": "Q80252",
+      "area_id": "Q53539342",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
         "lang:es": "senador",
@@ -938,7 +938,7 @@
       "person_id": "Q4764311",
       "on_behalf_of_id": "Q682969",
       "organization_id": "Q264113",
-      "area_id": "Q60176",
+      "area_id": "Q53539380",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
         "lang:es": "senador",
@@ -955,7 +955,7 @@
       "person_id": "Q53563151",
       "on_behalf_of_id": "Q383718",
       "organization_id": "Q264113",
-      "area_id": "Q80245",
+      "area_id": "Q53539330",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
         "lang:es": "senador",
@@ -972,7 +972,7 @@
       "person_id": "Q5798794",
       "on_behalf_of_id": "Q851087",
       "organization_id": "Q264113",
-      "area_id": "Q60176",
+      "area_id": "Q53539380",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
         "lang:es": "senador",
@@ -989,7 +989,7 @@
       "person_id": "Q9068953",
       "on_behalf_of_id": "Q682969",
       "organization_id": "Q264113",
-      "area_id": "Q46508",
+      "area_id": "Q53538975",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
         "lang:es": "senador",
