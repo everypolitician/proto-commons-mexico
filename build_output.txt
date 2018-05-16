@@ -9,23 +9,40 @@ WARNING: the district Estado de México (Q82112) wasn't found in the boundary da
 WARNING: the district Morelos (Q66117) wasn't found in the boundary data for position diputado de México (Q18534310)
 WARNING: the district Ciudad de México (Q1489) wasn't found in the boundary data for position diputado de México (Q18534310)
 WARNING: the district Estado de México (Q82112) wasn't found in the boundary data for position diputado de México (Q18534310)
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position diputado de la Honorable Congreso de Durango (Q53544355) not in boundary associated_wikidata_positions
+WARNING: Position diputado de la Honorable Congreso del Estado de Veracruz (Q53544431) not in boundary associated_wikidata_positions
+WARNING: the district X Distrito Electoral Local de Veracruz (Q52994411) wasn't found in the boundary data for position diputado de la Honorable Congreso del Estado de Veracruz (Q53544431)
+WARNING: Position diputado de la Honorable Congreso del Estado de Nuevo León (Q53544387) not in boundary associated_wikidata_positions
+WARNING: Position diputado de la Asamblea Legislativa del Distrito Federal (Q53544340) not in boundary associated_wikidata_positions
+WARNING: Position diputado de la Congreso del Estado Libre y Soberano de Hidalgo (Q53544369) not in boundary associated_wikidata_positions
+WARNING: Position diputado de la Poder Legislativo del Estado de Baja California (Q53544328) not in boundary associated_wikidata_positions
+WARNING: Position diputado de la Honorable Congreso del Estado de Chiapas (Q53544336) not in boundary associated_wikidata_positions
+WARNING: Position diputado de la Poder Legislativo del Estado de Campeche (Q53544333) not in boundary associated_wikidata_positions
+WARNING: Position diputado de la Congreso del Estado de Coahuila de Zaragoza (Q53544334) not in boundary associated_wikidata_positions
+WARNING: Position diputado de la Honorable Congreso del Estado de Colima (Q53544335) not in boundary associated_wikidata_positions
+WARNING: Position diputado de la Congreso del Estado de Guanajuato (Q53544367) not in boundary associated_wikidata_positions
+WARNING: Position diputado de la Congreso del Estado de Jalisco (Q53544371) not in boundary associated_wikidata_positions
+WARNING: the district XX Distrito Electoral Local de Jalisco (Q53002175) wasn't found in the boundary data for position diputado de la Congreso del Estado de Jalisco (Q53544371)
+WARNING: Position diputado de la Congreso del Estado de Michoacán de Ocampo (Q53544375) not in boundary associated_wikidata_positions
+WARNING: Position diputado de la Honorable Congreso del Estado Libre y Soberano de Oaxaca (Q53544396) not in boundary associated_wikidata_positions
+WARNING: Position diputado de la Honorable Congreso del Estado Libre y Soberano de Puebla (Q53544398) not in boundary associated_wikidata_positions
+WARNING: Position diputado de la Poder Legislativo del Estado Libre y Soberano de Quintana Roo (Q53544402) not in boundary associated_wikidata_positions
+WARNING: Position diputado de la Honorable Congreso del Estado de Sonora (Q53544408) not in boundary associated_wikidata_positions
+WARNING: the district I Distrito Electoral Local de Sonora (Q28005777) wasn't found in the boundary data for position diputado de la Honorable Congreso del Estado de Sonora (Q53544408)
+WARNING: Position diputado de la Honorable Congreso del Estado de Tabasco (Q53544410) not in boundary associated_wikidata_positions
+WARNING: Position diputado de la Honorable Congreso del Estado de Tamaulipas (Q53544421) not in boundary associated_wikidata_positions
+WARNING: Position diputado de la Poder Legislativo del Estado de Zacatecas (Q53544433) not in boundary associated_wikidata_positions
+WARNING: Position diputado de la Honorable Congreso del Estado de Yucatán (Q53544432) not in boundary associated_wikidata_positions
+WARNING: Position diputado de la Poder Legislativo del Estado de México (Q53544365) not in boundary associated_wikidata_positions
+WARNING: the district XLI Distrito Electoral Local de México (Q52992439) wasn't found in the boundary data for position diputado de la Poder Legislativo del Estado de México (Q53544365)
+WARNING: Position diputado de la Honorable Congreso del Estado de Aguascalientes (Q53544327) not in boundary associated_wikidata_positions
+WARNING: Position diputado de la Honorable Congreso del Estado de Baja California Sur (Q53544332) not in boundary associated_wikidata_positions
+WARNING: Position diputado de la Congreso del Estado de Nayarit (Q53544378) not in boundary associated_wikidata_positions
+WARNING: Position diputado de la Poder Legislativo del Estado de Querétaro (Q53544400) not in boundary associated_wikidata_positions
+WARNING: Position diputado de la Honorable Congreso del Estado de San Luis Potosí (Q53544404) not in boundary associated_wikidata_positions
+WARNING: Position diputado de la Congreso del Estado de Tlaxcala (Q53544429) not in boundary associated_wikidata_positions
+WARNING: the district XV Distrito Electoral Local de Tlaxcala (Q53003179) wasn't found in the boundary data for position diputado de la Congreso del Estado de Tlaxcala (Q53544429)
+WARNING: Position diputado de la Honorable Congreso del Estado de Chihuahua (Q53544338) not in boundary associated_wikidata_positions
+WARNING: Position diputado de la Honorable Congreso del Estado de Morelos (Q53544376) not in boundary associated_wikidata_positions
+WARNING: Position diputado de la Honorable Congreso del Estado de Sinaloa (Q53544405) not in boundary associated_wikidata_positions
+WARNING: Position diputado de la Congreso del Estado Libre y Soberano de Guerrero (Q53544368) not in boundary associated_wikidata_positions
