@@ -98,8 +98,8 @@
         "lang:en": "local electoral district of Jalisco"
       },
       "name": {
-        "en": "I Local Electoral District of Jalisco",
-        "es": "I Distrito Electoral Local de Jalisco"
+        "lang:en": "I Local Electoral District of Jalisco",
+        "lang:es": "I Distrito Electoral Local de Jalisco"
       },
       "parent_id": "Q13160"
     },
@@ -122,8 +122,8 @@
         "lang:en": "local electoral district of Jalisco"
       },
       "name": {
-        "en": "II Local Electoral District of Jalisco",
-        "es": "II Distrito Electoral Local de Jalisco"
+        "lang:en": "II Local Electoral District of Jalisco",
+        "lang:es": "II Distrito Electoral Local de Jalisco"
       },
       "parent_id": "Q13160"
     },
@@ -146,8 +146,8 @@
         "lang:en": "local electoral district of Jalisco"
       },
       "name": {
-        "en": "III Local Electoral District of Jalisco",
-        "es": "III Distrito Electoral Local de Jalisco"
+        "lang:en": "III Local Electoral District of Jalisco",
+        "lang:es": "III Distrito Electoral Local de Jalisco"
       },
       "parent_id": "Q13160"
     },
@@ -170,8 +170,8 @@
         "lang:en": "local electoral district of Jalisco"
       },
       "name": {
-        "en": "IV Local Electoral District of Jalisco",
-        "es": "IV Distrito Electoral Local de Jalisco"
+        "lang:en": "IV Local Electoral District of Jalisco",
+        "lang:es": "IV Distrito Electoral Local de Jalisco"
       },
       "parent_id": "Q13160"
     },
@@ -194,8 +194,8 @@
         "lang:en": "local electoral district of Jalisco"
       },
       "name": {
-        "en": "V Local Electoral District of Jalisco",
-        "es": "V Distrito Electoral Local de Jalisco"
+        "lang:en": "V Local Electoral District of Jalisco",
+        "lang:es": "V Distrito Electoral Local de Jalisco"
       },
       "parent_id": "Q13160"
     },
@@ -218,8 +218,8 @@
         "lang:en": "local electoral district of Jalisco"
       },
       "name": {
-        "en": "VI Local Electoral District of Jalisco",
-        "es": "VI Distrito Electoral Local de Jalisco"
+        "lang:en": "VI Local Electoral District of Jalisco",
+        "lang:es": "VI Distrito Electoral Local de Jalisco"
       },
       "parent_id": "Q13160"
     },
@@ -242,8 +242,8 @@
         "lang:en": "local electoral district of Jalisco"
       },
       "name": {
-        "en": "VII Local Electoral District of Jalisco",
-        "es": "VII Distrito Electoral Local de Jalisco"
+        "lang:en": "VII Local Electoral District of Jalisco",
+        "lang:es": "VII Distrito Electoral Local de Jalisco"
       },
       "parent_id": "Q13160"
     },
@@ -266,8 +266,8 @@
         "lang:en": "local electoral district of Jalisco"
       },
       "name": {
-        "en": "VIII Local Electoral District of Jalisco",
-        "es": "VIII Distrito Electoral Local de Jalisco"
+        "lang:en": "VIII Local Electoral District of Jalisco",
+        "lang:es": "VIII Distrito Electoral Local de Jalisco"
       },
       "parent_id": "Q13160"
     },
@@ -290,8 +290,8 @@
         "lang:en": "local electoral district of Jalisco"
       },
       "name": {
-        "en": "IX Local Electoral District of Jalisco",
-        "es": "IX Distrito Electoral Local de Jalisco"
+        "lang:en": "IX Local Electoral District of Jalisco",
+        "lang:es": "IX Distrito Electoral Local de Jalisco"
       },
       "parent_id": "Q13160"
     },
@@ -314,8 +314,8 @@
         "lang:en": "local electoral district of Jalisco"
       },
       "name": {
-        "en": "X Local Electoral District of Jalisco",
-        "es": "X Distrito Electoral Local de Jalisco"
+        "lang:en": "X Local Electoral District of Jalisco",
+        "lang:es": "X Distrito Electoral Local de Jalisco"
       },
       "parent_id": "Q13160"
     },
@@ -338,8 +338,8 @@
         "lang:en": "local electoral district of Jalisco"
       },
       "name": {
-        "en": "XI Local Electoral District of Jalisco",
-        "es": "XI Distrito Electoral Local de Jalisco"
+        "lang:en": "XI Local Electoral District of Jalisco",
+        "lang:es": "XI Distrito Electoral Local de Jalisco"
       },
       "parent_id": "Q13160"
     },
@@ -362,8 +362,8 @@
         "lang:en": "local electoral district of Jalisco"
       },
       "name": {
-        "en": "XII Local Electoral District of Jalisco",
-        "es": "XII Distrito Electoral Local de Jalisco"
+        "lang:en": "XII Local Electoral District of Jalisco",
+        "lang:es": "XII Distrito Electoral Local de Jalisco"
       },
       "parent_id": "Q13160"
     },
@@ -386,8 +386,8 @@
         "lang:en": "local electoral district of Jalisco"
       },
       "name": {
-        "en": "XIII Local Electoral District of Jalisco",
-        "es": "XIII Distrito Electoral Local de Jalisco"
+        "lang:en": "XIII Local Electoral District of Jalisco",
+        "lang:es": "XIII Distrito Electoral Local de Jalisco"
       },
       "parent_id": "Q13160"
     },
@@ -410,8 +410,8 @@
         "lang:en": "local electoral district of Jalisco"
       },
       "name": {
-        "en": "XIV Local Electoral District of Jalisco",
-        "es": "XIV Distrito Electoral Local de Jalisco"
+        "lang:en": "XIV Local Electoral District of Jalisco",
+        "lang:es": "XIV Distrito Electoral Local de Jalisco"
       },
       "parent_id": "Q13160"
     },
@@ -434,8 +434,8 @@
         "lang:en": "local electoral district of Jalisco"
       },
       "name": {
-        "en": "XV Local Electoral District of Jalisco",
-        "es": "XV Distrito Electoral Local de Jalisco"
+        "lang:en": "XV Local Electoral District of Jalisco",
+        "lang:es": "XV Distrito Electoral Local de Jalisco"
       },
       "parent_id": "Q13160"
     },
@@ -458,8 +458,8 @@
         "lang:en": "local electoral district of Jalisco"
       },
       "name": {
-        "en": "XVI Local Electoral District of Jalisco",
-        "es": "XVI Distrito Electoral Local de Jalisco"
+        "lang:en": "XVI Local Electoral District of Jalisco",
+        "lang:es": "XVI Distrito Electoral Local de Jalisco"
       },
       "parent_id": "Q13160"
     },
@@ -482,8 +482,8 @@
         "lang:en": "local electoral district of Jalisco"
       },
       "name": {
-        "en": "XVII Local Electoral District of Jalisco",
-        "es": "XVII Distrito Electoral Local de Jalisco"
+        "lang:en": "XVII Local Electoral District of Jalisco",
+        "lang:es": "XVII Distrito Electoral Local de Jalisco"
       },
       "parent_id": "Q13160"
     },
@@ -506,8 +506,8 @@
         "lang:en": "local electoral district of Jalisco"
       },
       "name": {
-        "en": "XVIII Local Electoral District of Jalisco",
-        "es": "XVIII Distrito Electoral Local de Jalisco"
+        "lang:en": "XVIII Local Electoral District of Jalisco",
+        "lang:es": "XVIII Distrito Electoral Local de Jalisco"
       },
       "parent_id": "Q13160"
     },
@@ -530,8 +530,8 @@
         "lang:en": "local electoral district of Jalisco"
       },
       "name": {
-        "en": "XIX Local Electoral District of Jalisco",
-        "es": "XIX Distrito Electoral Local de Jalisco"
+        "lang:en": "XIX Local Electoral District of Jalisco",
+        "lang:es": "XIX Distrito Electoral Local de Jalisco"
       },
       "parent_id": "Q13160"
     },
@@ -554,8 +554,8 @@
         "lang:en": "local electoral district of Jalisco"
       },
       "name": {
-        "en": "XX Local Electoral District of Jalisco",
-        "es": "XX Distrito Electoral Local de Jalisco"
+        "lang:en": "XX Local Electoral District of Jalisco",
+        "lang:es": "XX Distrito Electoral Local de Jalisco"
       },
       "parent_id": "Q13160"
     },

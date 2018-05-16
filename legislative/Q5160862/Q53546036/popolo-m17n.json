@@ -25,8 +25,8 @@
         "lang:en": "local electoral district of Colima"
       },
       "name": {
-        "en": "I Local Electoral District of Colima",
-        "es": "I Distrito Electoral Local de Colima"
+        "lang:en": "I Local Electoral District of Colima",
+        "lang:es": "I Distrito Electoral Local de Colima"
       },
       "parent_id": "Q61309"
     },
@@ -49,8 +49,8 @@
         "lang:en": "local electoral district of Colima"
       },
       "name": {
-        "en": "II Local Electoral District of Colima",
-        "es": "II Distrito Electoral Local de Colima"
+        "lang:en": "II Local Electoral District of Colima",
+        "lang:es": "II Distrito Electoral Local de Colima"
       },
       "parent_id": "Q61309"
     },
@@ -73,8 +73,8 @@
         "lang:en": "local electoral district of Colima"
       },
       "name": {
-        "en": "III Local Electoral District of Colima",
-        "es": "III Distrito Electoral Local de Colima"
+        "lang:en": "III Local Electoral District of Colima",
+        "lang:es": "III Distrito Electoral Local de Colima"
       },
       "parent_id": "Q61309"
     },
@@ -97,8 +97,8 @@
         "lang:en": "local electoral district of Colima"
       },
       "name": {
-        "en": "IV Local Electoral District of Colima",
-        "es": "IV Distrito Electoral Local de Colima"
+        "lang:en": "IV Local Electoral District of Colima",
+        "lang:es": "IV Distrito Electoral Local de Colima"
       },
       "parent_id": "Q61309"
     },
@@ -121,8 +121,8 @@
         "lang:en": "local electoral district of Colima"
       },
       "name": {
-        "en": "V Local Electoral District of Colima",
-        "es": "V Distrito Electoral Local de Colima"
+        "lang:en": "V Local Electoral District of Colima",
+        "lang:es": "V Distrito Electoral Local de Colima"
       },
       "parent_id": "Q61309"
     },
@@ -145,8 +145,8 @@
         "lang:en": "local electoral district of Colima"
       },
       "name": {
-        "en": "VI Local Electoral District of Colima",
-        "es": "VI Distrito Electoral Local de Colima"
+        "lang:en": "VI Local Electoral District of Colima",
+        "lang:es": "VI Distrito Electoral Local de Colima"
       },
       "parent_id": "Q61309"
     },
@@ -169,8 +169,8 @@
         "lang:en": "local electoral district of Colima"
       },
       "name": {
-        "en": "VII Local Electoral District of Colima",
-        "es": "VII Distrito Electoral Local de Colima"
+        "lang:en": "VII Local Electoral District of Colima",
+        "lang:es": "VII Distrito Electoral Local de Colima"
       },
       "parent_id": "Q61309"
     },
@@ -193,8 +193,8 @@
         "lang:en": "local electoral district of Colima"
       },
       "name": {
-        "en": "VIII Local Electoral District of Colima",
-        "es": "VIII Distrito Electoral Local de Colima"
+        "lang:en": "VIII Local Electoral District of Colima",
+        "lang:es": "VIII Distrito Electoral Local de Colima"
       },
       "parent_id": "Q61309"
     },
@@ -217,8 +217,8 @@
         "lang:en": "local electoral district of Colima"
       },
       "name": {
-        "en": "IX Local Electoral District of Colima",
-        "es": "IX Distrito Electoral Local de Colima"
+        "lang:en": "IX Local Electoral District of Colima",
+        "lang:es": "IX Distrito Electoral Local de Colima"
       },
       "parent_id": "Q61309"
     },
@@ -241,8 +241,8 @@
         "lang:en": "local electoral district of Colima"
       },
       "name": {
-        "en": "X Local Electoral District of Colima",
-        "es": "X Distrito Electoral Local de Colima"
+        "lang:en": "X Local Electoral District of Colima",
+        "lang:es": "X Distrito Electoral Local de Colima"
       },
       "parent_id": "Q61309"
     },
@@ -265,8 +265,8 @@
         "lang:en": "local electoral district of Colima"
       },
       "name": {
-        "en": "XI Local Electoral District of Colima",
-        "es": "XI Distrito Electoral Local de Colima"
+        "lang:en": "XI Local Electoral District of Colima",
+        "lang:es": "XI Distrito Electoral Local de Colima"
       },
       "parent_id": "Q61309"
     },
@@ -289,8 +289,8 @@
         "lang:en": "local electoral district of Colima"
       },
       "name": {
-        "en": "XII Local Electoral District of Colima",
-        "es": "XII Distrito Electoral Local de Colima"
+        "lang:en": "XII Local Electoral District of Colima",
+        "lang:es": "XII Distrito Electoral Local de Colima"
       },
       "parent_id": "Q61309"
     },
@@ -313,8 +313,8 @@
         "lang:en": "local electoral district of Colima"
       },
       "name": {
-        "en": "XIII Local Electoral District of Colima",
-        "es": "XIII Distrito Electoral Local de Colima"
+        "lang:en": "XIII Local Electoral District of Colima",
+        "lang:es": "XIII Distrito Electoral Local de Colima"
       },
       "parent_id": "Q61309"
     },
@@ -337,8 +337,8 @@
         "lang:en": "local electoral district of Colima"
       },
       "name": {
-        "en": "XIV Local Electoral District of Colima",
-        "es": "XIV Distrito Electoral Local de Colima"
+        "lang:en": "XIV Local Electoral District of Colima",
+        "lang:es": "XIV Distrito Electoral Local de Colima"
       },
       "parent_id": "Q61309"
     },
@@ -361,8 +361,8 @@
         "lang:en": "local electoral district of Colima"
       },
       "name": {
-        "en": "XV Local Electoral District of Colima",
-        "es": "XV Distrito Electoral Local de Colima"
+        "lang:en": "XV Local Electoral District of Colima",
+        "lang:es": "XV Distrito Electoral Local de Colima"
       },
       "parent_id": "Q61309"
     },
@@ -385,8 +385,8 @@
         "lang:en": "local electoral district of Colima"
       },
       "name": {
-        "en": "XVI Local Electoral District of Colima",
-        "es": "XVI Distrito Electoral Local de Colima"
+        "lang:en": "XVI Local Electoral District of Colima",
+        "lang:es": "XVI Distrito Electoral Local de Colima"
       },
       "parent_id": "Q61309"
     },

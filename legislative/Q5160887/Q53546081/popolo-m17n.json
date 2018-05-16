@@ -25,8 +25,8 @@
         "lang:en": "local electoral district of Puebla"
       },
       "name": {
-        "en": "I Local Electoral District of Puebla",
-        "es": "I Distrito Electoral Local de Puebla"
+        "lang:en": "I Local Electoral District of Puebla",
+        "lang:es": "I Distrito Electoral Local de Puebla"
       },
       "parent_id": "Q79923"
     },
@@ -49,8 +49,8 @@
         "lang:en": "local electoral district of Puebla"
       },
       "name": {
-        "en": "II Local Electoral District of Puebla",
-        "es": "II Distrito Electoral Local de Puebla"
+        "lang:en": "II Local Electoral District of Puebla",
+        "lang:es": "II Distrito Electoral Local de Puebla"
       },
       "parent_id": "Q79923"
     },
@@ -73,8 +73,8 @@
         "lang:en": "local electoral district of Puebla"
       },
       "name": {
-        "en": "III Local Electoral District of Puebla",
-        "es": "III Distrito Electoral Local de Puebla"
+        "lang:en": "III Local Electoral District of Puebla",
+        "lang:es": "III Distrito Electoral Local de Puebla"
       },
       "parent_id": "Q79923"
     },
@@ -97,8 +97,8 @@
         "lang:en": "local electoral district of Puebla"
       },
       "name": {
-        "en": "IV Local Electoral District of Puebla",
-        "es": "IV Distrito Electoral Local de Puebla"
+        "lang:en": "IV Local Electoral District of Puebla",
+        "lang:es": "IV Distrito Electoral Local de Puebla"
       },
       "parent_id": "Q79923"
     },
@@ -121,8 +121,8 @@
         "lang:en": "local electoral district of Puebla"
       },
       "name": {
-        "en": "V Local Electoral District of Puebla",
-        "es": "V Distrito Electoral Local de Puebla"
+        "lang:en": "V Local Electoral District of Puebla",
+        "lang:es": "V Distrito Electoral Local de Puebla"
       },
       "parent_id": "Q79923"
     },
@@ -145,8 +145,8 @@
         "lang:en": "local electoral district of Puebla"
       },
       "name": {
-        "en": "VI Local Electoral District of Puebla",
-        "es": "VI Distrito Electoral Local de Puebla"
+        "lang:en": "VI Local Electoral District of Puebla",
+        "lang:es": "VI Distrito Electoral Local de Puebla"
       },
       "parent_id": "Q79923"
     },
@@ -169,8 +169,8 @@
         "lang:en": "local electoral district of Puebla"
       },
       "name": {
-        "en": "VII Local Electoral District of Puebla",
-        "es": "VII Distrito Electoral Local de Puebla"
+        "lang:en": "VII Local Electoral District of Puebla",
+        "lang:es": "VII Distrito Electoral Local de Puebla"
       },
       "parent_id": "Q79923"
     },
@@ -193,8 +193,8 @@
         "lang:en": "local electoral district of Puebla"
       },
       "name": {
-        "en": "VIII Local Electoral District of Puebla",
-        "es": "VIII Distrito Electoral Local de Puebla"
+        "lang:en": "VIII Local Electoral District of Puebla",
+        "lang:es": "VIII Distrito Electoral Local de Puebla"
       },
       "parent_id": "Q79923"
     },
@@ -217,8 +217,8 @@
         "lang:en": "local electoral district of Puebla"
       },
       "name": {
-        "en": "IX Local Electoral District of Puebla",
-        "es": "IX Distrito Electoral Local de Puebla"
+        "lang:en": "IX Local Electoral District of Puebla",
+        "lang:es": "IX Distrito Electoral Local de Puebla"
       },
       "parent_id": "Q79923"
     },
@@ -241,8 +241,8 @@
         "lang:en": "local electoral district of Puebla"
       },
       "name": {
-        "en": "X Local Electoral District of Puebla",
-        "es": "X Distrito Electoral Local de Puebla"
+        "lang:en": "X Local Electoral District of Puebla",
+        "lang:es": "X Distrito Electoral Local de Puebla"
       },
       "parent_id": "Q79923"
     },
@@ -265,8 +265,8 @@
         "lang:en": "local electoral district of Puebla"
       },
       "name": {
-        "en": "XI Local Electoral District of Puebla",
-        "es": "XI Distrito Electoral Local de Puebla"
+        "lang:en": "XI Local Electoral District of Puebla",
+        "lang:es": "XI Distrito Electoral Local de Puebla"
       },
       "parent_id": "Q79923"
     },
@@ -289,8 +289,8 @@
         "lang:en": "local electoral district of Puebla"
       },
       "name": {
-        "en": "XII Local Electoral District of Puebla",
-        "es": "XII Distrito Electoral Local de Puebla"
+        "lang:en": "XII Local Electoral District of Puebla",
+        "lang:es": "XII Distrito Electoral Local de Puebla"
       },
       "parent_id": "Q79923"
     },
@@ -313,8 +313,8 @@
         "lang:en": "local electoral district of Puebla"
       },
       "name": {
-        "en": "XIII Local Electoral District of Puebla",
-        "es": "XIII Distrito Electoral Local de Puebla"
+        "lang:en": "XIII Local Electoral District of Puebla",
+        "lang:es": "XIII Distrito Electoral Local de Puebla"
       },
       "parent_id": "Q79923"
     },
@@ -337,8 +337,8 @@
         "lang:en": "local electoral district of Puebla"
       },
       "name": {
-        "en": "XIV Local Electoral District of Puebla",
-        "es": "XIV Distrito Electoral Local de Puebla"
+        "lang:en": "XIV Local Electoral District of Puebla",
+        "lang:es": "XIV Distrito Electoral Local de Puebla"
       },
       "parent_id": "Q79923"
     },
@@ -361,8 +361,8 @@
         "lang:en": "local electoral district of Puebla"
       },
       "name": {
-        "en": "XV Local Electoral District of Puebla",
-        "es": "XV Distrito Electoral Local de Puebla"
+        "lang:en": "XV Local Electoral District of Puebla",
+        "lang:es": "XV Distrito Electoral Local de Puebla"
       },
       "parent_id": "Q79923"
     },
@@ -385,8 +385,8 @@
         "lang:en": "local electoral district of Puebla"
       },
       "name": {
-        "en": "XVI Local Electoral District of Puebla",
-        "es": "XVI Distrito Electoral Local de Puebla"
+        "lang:en": "XVI Local Electoral District of Puebla",
+        "lang:es": "XVI Distrito Electoral Local de Puebla"
       },
       "parent_id": "Q79923"
     },
@@ -409,8 +409,8 @@
         "lang:en": "local electoral district of Puebla"
       },
       "name": {
-        "en": "XVII Local Electoral District of Puebla",
-        "es": "XVII Distrito Electoral Local de Puebla"
+        "lang:en": "XVII Local Electoral District of Puebla",
+        "lang:es": "XVII Distrito Electoral Local de Puebla"
       },
       "parent_id": "Q79923"
     },
@@ -433,8 +433,8 @@
         "lang:en": "local electoral district of Puebla"
       },
       "name": {
-        "en": "XVIII Local Electoral District of Puebla",
-        "es": "XVIII Distrito Electoral Local de Puebla"
+        "lang:en": "XVIII Local Electoral District of Puebla",
+        "lang:es": "XVIII Distrito Electoral Local de Puebla"
       },
       "parent_id": "Q79923"
     },
@@ -457,8 +457,8 @@
         "lang:en": "local electoral district of Puebla"
       },
       "name": {
-        "en": "XIX Local Electoral District of Puebla",
-        "es": "XIX Distrito Electoral Local de Puebla"
+        "lang:en": "XIX Local Electoral District of Puebla",
+        "lang:es": "XIX Distrito Electoral Local de Puebla"
       },
       "parent_id": "Q79923"
     },
@@ -481,8 +481,8 @@
         "lang:en": "local electoral district of Puebla"
       },
       "name": {
-        "en": "XX Local Electoral District of Puebla",
-        "es": "XX Distrito Electoral Local de Puebla"
+        "lang:en": "XX Local Electoral District of Puebla",
+        "lang:es": "XX Distrito Electoral Local de Puebla"
       },
       "parent_id": "Q79923"
     },
@@ -505,8 +505,8 @@
         "lang:en": "local electoral district of Puebla"
       },
       "name": {
-        "en": "XXI Local Electoral District of Puebla",
-        "es": "XXI Distrito Electoral Local de Puebla"
+        "lang:en": "XXI Local Electoral District of Puebla",
+        "lang:es": "XXI Distrito Electoral Local de Puebla"
       },
       "parent_id": "Q79923"
     },
@@ -529,8 +529,8 @@
         "lang:en": "local electoral district of Puebla"
       },
       "name": {
-        "en": "XXII Local Electoral District of Puebla",
-        "es": "XXII Distrito Electoral Local de Puebla"
+        "lang:en": "XXII Local Electoral District of Puebla",
+        "lang:es": "XXII Distrito Electoral Local de Puebla"
       },
       "parent_id": "Q79923"
     },
@@ -553,8 +553,8 @@
         "lang:en": "local electoral district of Puebla"
       },
       "name": {
-        "en": "XXIII Local Electoral District of Puebla",
-        "es": "XXIII Distrito Electoral Local de Puebla"
+        "lang:en": "XXIII Local Electoral District of Puebla",
+        "lang:es": "XXIII Distrito Electoral Local de Puebla"
       },
       "parent_id": "Q79923"
     },
@@ -577,8 +577,8 @@
         "lang:en": "local electoral district of Puebla"
       },
       "name": {
-        "en": "XXIV Local Electoral District of Puebla",
-        "es": "XXIV Distrito Electoral Local de Puebla"
+        "lang:en": "XXIV Local Electoral District of Puebla",
+        "lang:es": "XXIV Distrito Electoral Local de Puebla"
       },
       "parent_id": "Q79923"
     },
@@ -601,8 +601,8 @@
         "lang:en": "local electoral district of Puebla"
       },
       "name": {
-        "en": "XXV Local Electoral District of Puebla",
-        "es": "XXV Distrito Electoral Local de Puebla"
+        "lang:en": "XXV Local Electoral District of Puebla",
+        "lang:es": "XXV Distrito Electoral Local de Puebla"
       },
       "parent_id": "Q79923"
     },
@@ -625,8 +625,8 @@
         "lang:en": "local electoral district of Puebla"
       },
       "name": {
-        "en": "XXVI Local Electoral District of Puebla",
-        "es": "XXVI Distrito Electoral Local de Puebla"
+        "lang:en": "XXVI Local Electoral District of Puebla",
+        "lang:es": "XXVI Distrito Electoral Local de Puebla"
       },
       "parent_id": "Q79923"
     },
