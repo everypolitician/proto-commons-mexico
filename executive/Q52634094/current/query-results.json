@@ -4,6 +4,24 @@
   },
   "results" : {
     "bindings" : [ {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1489"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mexico City"
+      },
+      "district_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Ciudad de México"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2962015"
+      },
       "role_superclass" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2962015"
@@ -17,10 +35,6 @@
         "xml:lang" : "es",
         "type" : "literal",
         "value" : "Jefe de Gobierno de la Ciudad de México"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2962015"
       },
       "role_en" : {
         "xml:lang" : "en",
