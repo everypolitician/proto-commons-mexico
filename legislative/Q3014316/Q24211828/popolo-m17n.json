@@ -1249,6 +1249,126 @@
       "parent_id": "Q96"
     },
     {
+      "id": "Q53459407",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/circunscripcion:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53459407"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18534310"
+      ],
+      "type": {
+        "lang:es": "circunscripcion plurinominales electorales federales",
+        "lang:en": "plurinominal electoral region for federal elections"
+      },
+      "name": {
+        "lang:es": "Primera"
+      },
+      "parent_id": "Q96"
+    },
+    {
+      "id": "Q53461146",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/circunscripcion:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53461146"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18534310"
+      ],
+      "type": {
+        "lang:es": "circunscripcion plurinominales electorales federales",
+        "lang:en": "plurinominal electoral region for federal elections"
+      },
+      "name": {
+        "lang:es": "Segunda"
+      },
+      "parent_id": "Q96"
+    },
+    {
+      "id": "Q53461413",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/circunscripcion:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53461413"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18534310"
+      ],
+      "type": {
+        "lang:es": "circunscripcion plurinominales electorales federales",
+        "lang:en": "plurinominal electoral region for federal elections"
+      },
+      "name": {
+        "lang:es": "Tercera"
+      },
+      "parent_id": "Q96"
+    },
+    {
+      "id": "Q53461634",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/circunscripcion:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53461634"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18534310"
+      ],
+      "type": {
+        "lang:es": "circunscripcion plurinominales electorales federales",
+        "lang:en": "plurinominal electoral region for federal elections"
+      },
+      "name": {
+        "lang:es": "Cuarta"
+      },
+      "parent_id": "Q96"
+    },
+    {
+      "id": "Q53461696",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/circunscripcion:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53461696"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18534310"
+      ],
+      "type": {
+        "lang:es": "circunscripcion plurinominales electorales federales",
+        "lang:en": "plurinominal electoral region for federal elections"
+      },
+      "name": {
+        "lang:es": "Quinta"
+      },
+      "parent_id": "Q96"
+    },
+    {
       "id": "Q5349105",
       "identifiers": [
         {
