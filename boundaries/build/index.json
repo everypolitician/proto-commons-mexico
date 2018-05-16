@@ -583,5 +583,18 @@
       "lang:es": "name_es",
       "lang:en": "name_en"
     }
+  },
+  {
+    "directory": "circunscripciones",
+    "area_type_wikidata_item_id": "Q53460654",
+    "associations": [
+      {
+        "comment": "Member of the Chamber of Deputies of Mexico",
+        "position_item_id": "Q18534310"
+      }
+    ],
+    "name_columns": {
+      "lang:es": "Circunscri"
+    }
   }
 ]
