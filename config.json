@@ -3,5 +3,16 @@
     "es",
     "en"
   ],
-  "country_wikidata_id": "Q96"
+  "country_wikidata_id": "Q96",
+  "additional_admin_area_ids": [
+    "Q12348369",
+    "Q9022143",
+    "Q2557122",
+    "Q2143868",
+    "Q3313478",
+    "Q6905368",
+    "Q7258412",
+    "Q2360428",
+    "Q15121208"
+  ]
 }
