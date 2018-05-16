@@ -98,7 +98,55 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q82681",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:tla"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q82681"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q5589729"
+      ],
+      "type": {
+        "lang:es": "estado de México",
+        "lang:en": "state of Mexico"
+      },
+      "name": {
+        "lang:es": "Tlaxcala"
+      },
+      "parent_id": "Q96"
+    },
+    {
+      "id": "Q96",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q96"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q628004"
+      ],
+      "type": {
+        "lang:es": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "United Mexican States",
+        "lang:es": "Estados Unidos Mexicanos"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
     {
