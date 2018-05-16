@@ -1,0 +1,79 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:es": "Víctor Manuel Bautista López",
+        "lang:en": "Víctor Manuel Bautista López"
+      },
+      "id": "Q16114032",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16114032"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/victormanuel.bautistalopez.3"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:es": "Congreso del Estado de México",
+        "lang:en": "Congress of the Estado de México"
+      },
+      "id": "Q5160913",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5160913"
+        }
+      ],
+      "area_id": "Q82112",
+      "seat_counts": {
+        "Q53544365": "75"
+      }
+    },
+    {
+      "name": {
+        "lang:es": "Partido de la Revolución Democrática",
+        "lang:en": "Party of the Democratic Revolution"
+      },
+      "id": "Q767010",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q767010"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16114032-CAB1AE38-D56F-4749-9929-7AACA420164D",
+      "person_id": "Q16114032",
+      "on_behalf_of_id": "Q767010",
+      "organization_id": "Q5160913",
+      "area_id": "Q52992439",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q53544365",
+      "role": {
+        "lang:es": "diputado de la Poder Legislativo del Estado de México",
+        "lang:en": "deputy of the Legislative Power of the State of Mexico"
+      }
+    }
+  ]
+}

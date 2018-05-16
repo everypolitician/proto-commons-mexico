@@ -5,8 +5,8 @@
     "position_item_id": "Q19971999",
     "terms": [
       {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
+        "comment": "LXIII Legislature of the Mexican Congress",
+        "term_item_id": "Q24211828"
       }
     ]
   },
@@ -16,15 +16,48 @@
     "position_item_id": "Q18534310",
     "terms": [
       {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
+        "comment": "LXIII Legislature of the Mexican Congress",
+        "term_item_id": "Q24211828"
       }
     ]
   },
   {
-    "comment": "Congress of Nuevo León",
+    "comment": "Congress of Durango",
+    "house_item_id": "Q20014631",
+    "position_item_id": "Q53544355",
+    "terms": [
+      {
+        "comment": "LXVII Legislature Durango",
+        "term_item_id": "Q53546041"
+      }
+    ]
+  },
+  {
+    "comment": "Congress of Veracruz",
+    "house_item_id": "Q24337177",
+    "position_item_id": "Q53544431",
+    "terms": [
+      {
+        "comment": "LXIV Legislature of the Honorable Congress of the State of Veracruz",
+        "term_item_id": "Q53546113"
+      }
+    ]
+  },
+  {
+    "comment": "Congress of Nuevo Leon",
     "house_item_id": "Q254534",
-    "position_item_id": null,
+    "position_item_id": "Q53544387",
+    "terms": [
+      {
+        "comment": "LXXIV Legislature of the Honorable Congress of the State of Nuevo León",
+        "term_item_id": "Q53546067"
+      }
+    ]
+  },
+  {
+    "comment": "Congress of Mexico City",
+    "house_item_id": "Q2867085",
+    "position_item_id": "Q53544340",
     "terms": [
       {
         "start_date": "2018-01-01",
@@ -33,211 +66,310 @@
     ]
   },
   {
-    "comment": "Legislative Assembly of the Federal District",
-    "house_item_id": "Q2867085",
-    "position_item_id": null,
+    "comment": "Congress of Hidalfo",
+    "house_item_id": "Q28924553",
+    "position_item_id": "Q53544369",
     "terms": [
       {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
+        "comment": "LXIII Legislature Congress of the Free and Sovereign State of Hidalgo",
+        "term_item_id": "Q53546059"
       }
     ]
   },
   {
     "comment": "Congress of Baja California",
     "house_item_id": "Q5160856",
-    "position_item_id": null,
+    "position_item_id": "Q53544328",
     "terms": [
       {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
+        "comment": "XXII Legislature of Baja California",
+        "term_item_id": "Q53546030"
+      }
+    ]
+  },
+  {
+    "comment": "Congress of Chiapas",
+    "house_item_id": "Q5160858",
+    "position_item_id": "Q53544336",
+    "terms": [
+      {
+        "comment": "LXVI Legislature of the Honorable Congress of the State of Chiapas",
+        "term_item_id": "Q53546037"
       }
     ]
   },
   {
     "comment": "Congress of Campeche",
     "house_item_id": "Q5160860",
-    "position_item_id": null,
+    "position_item_id": "Q53544333",
     "terms": [
       {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
+        "comment": "LXII Legislature of the Honorable Congress of the State of Campeche",
+        "term_item_id": "Q53546032"
       }
     ]
   },
   {
     "comment": "Congress of Coahuila",
     "house_item_id": "Q5160861",
-    "position_item_id": null,
+    "position_item_id": "Q53544334",
     "terms": [
       {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
+        "comment": "LXI Legislature of the Honorable Congress of Coahuila de Zaragoza",
+        "term_item_id": "Q53546035"
       }
     ]
   },
   {
     "comment": "Congress of Colima",
     "house_item_id": "Q5160862",
-    "position_item_id": null,
+    "position_item_id": "Q53544335",
     "terms": [
       {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
+        "comment": "LVIII Legislature of the Honorable Congress of the State of Colima",
+        "term_item_id": "Q53546036"
       }
     ]
   },
   {
     "comment": "Congress of Guanajuato",
     "house_item_id": "Q5160871",
-    "position_item_id": null,
+    "position_item_id": "Q53544367",
     "terms": [
       {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
+        "comment": "LXIII Legislature Congress of the State of Guanajuato",
+        "term_item_id": "Q53546057"
       }
     ]
   },
   {
     "comment": "Congress of Jalisco",
     "house_item_id": "Q5160874",
-    "position_item_id": null,
+    "position_item_id": "Q53544371",
     "terms": [
       {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
+        "comment": "LXI Legislature Congress of the State of Jalisco",
+        "term_item_id": "Q53546060"
       }
     ]
   },
   {
-    "comment": "Congress of Michoacán",
+    "comment": "Congress of Michoacan",
     "house_item_id": "Q5160879",
-    "position_item_id": null,
+    "position_item_id": "Q53544375",
     "terms": [
       {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
+        "comment": "LXXIII Legislature Michoacán",
+        "term_item_id": "Q53546062"
+      }
+    ]
+  },
+  {
+    "comment": "Congress of Oaxaca",
+    "house_item_id": "Q5160884",
+    "position_item_id": "Q53544396",
+    "terms": [
+      {
+        "comment": "LXIII Legislature of the Honorable Congress of the Free and Sovereign State of Oaxaca",
+        "term_item_id": "Q53546076"
       }
     ]
   },
   {
     "comment": "Congress of Puebla",
     "house_item_id": "Q5160887",
-    "position_item_id": null,
+    "position_item_id": "Q53544398",
     "terms": [
       {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
+        "comment": "Honorable Congress of the Free and Sovereign State of Puebla LIX Legislature",
+        "term_item_id": "Q53546081"
       }
     ]
   },
   {
     "comment": "Congress of Quintana Roo",
     "house_item_id": "Q5160888",
-    "position_item_id": null,
+    "position_item_id": "Q53544402",
     "terms": [
       {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
+        "comment": "Legislative Power of the State of Quintana Roo XV Legislature",
+        "term_item_id": "Q53546085"
       }
     ]
   },
   {
     "comment": "Congress of Sonora",
     "house_item_id": "Q5160894",
-    "position_item_id": null,
+    "position_item_id": "Q53544408",
     "terms": [
       {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
+        "comment": "LXI Legislature of the Honorable Congress of the State of Sonora",
+        "term_item_id": "Q53546090"
+      }
+    ]
+  },
+  {
+    "comment": "Congress of Tabasco",
+    "house_item_id": "Q5160896",
+    "position_item_id": "Q53544410",
+    "terms": [
+      {
+        "comment": "LXII Legislature of the Honorable Congress of the State of Tabasco",
+        "term_item_id": "Q53546093"
       }
     ]
   },
   {
     "comment": "Congress of Tamaulipas",
     "house_item_id": "Q5160897",
-    "position_item_id": null,
+    "position_item_id": "Q53544421",
     "terms": [
       {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
+        "comment": "Honorable Congress of the State of Tamaulipas LXIII Legislature",
+        "term_item_id": "Q53546094"
       }
     ]
   },
   {
     "comment": "Congress of Zacatecas",
     "house_item_id": "Q5160905",
-    "position_item_id": null,
+    "position_item_id": "Q53544433",
     "terms": [
       {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
+        "comment": "LXII Legislature State of Zacatecas",
+        "term_item_id": "Q53546116"
       }
     ]
   },
   {
     "comment": "Congress of Yucatán",
     "house_item_id": "Q5160907",
-    "position_item_id": null,
+    "position_item_id": "Q53544432",
     "terms": [
       {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
+        "comment": "Honorable Congress of the State of Yucatán LXI Legislature",
+        "term_item_id": "Q53546115"
       }
     ]
   },
   {
-    "comment": "Congress of the State of México",
+    "comment": "Congress of the Estado de México",
     "house_item_id": "Q5160913",
-    "position_item_id": null,
+    "position_item_id": "Q53544365",
     "terms": [
       {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
+        "comment": "LIX Legislature of the Legislative Power of the State of Mexico",
+        "term_item_id": "Q53546050"
+      }
+    ]
+  },
+  {
+    "comment": "Congress of Aguascalientes",
+    "house_item_id": "Q53542909",
+    "position_item_id": "Q53544327",
+    "terms": [
+      {
+        "comment": "Honorable Congress of the State of Aguascalientes LXIII Legislature",
+        "term_item_id": "Q53546029"
+      }
+    ]
+  },
+  {
+    "comment": "Congress of Baja California Sur",
+    "house_item_id": "Q53542913",
+    "position_item_id": "Q53544332",
+    "terms": [
+      {
+        "comment": "XIV Legislature of the Honorable Congress of the State of Baja California Sur",
+        "term_item_id": "Q53546031"
+      }
+    ]
+  },
+  {
+    "comment": "Congress of Nayarit",
+    "house_item_id": "Q53542914",
+    "position_item_id": "Q53544378",
+    "terms": [
+      {
+        "comment": "Legislative Branch Nayarit XXXII Legislature",
+        "term_item_id": "Q53546065"
+      }
+    ]
+  },
+  {
+    "comment": "Congress of Queretaro",
+    "house_item_id": "Q53542917",
+    "position_item_id": "Q53544400",
+    "terms": [
+      {
+        "comment": "LVIII Legislature Queretaro",
+        "term_item_id": "Q53546083"
+      }
+    ]
+  },
+  {
+    "comment": "Congress of San Luis Potosí",
+    "house_item_id": "Q53542918",
+    "position_item_id": "Q53544404",
+    "terms": [
+      {
+        "comment": "LXI Legislature of the Honorable Congress of the State of San Luis Potosí",
+        "term_item_id": "Q53546087"
+      }
+    ]
+  },
+  {
+    "comment": "Congress of Tlaxcala",
+    "house_item_id": "Q53542920",
+    "position_item_id": "Q53544429",
+    "terms": [
+      {
+        "comment": "Congress of the State of Tlaxcala LXII Legislature",
+        "term_item_id": "Q53546106"
       }
     ]
   },
   {
     "comment": "Congress of Chihuahua",
     "house_item_id": "Q5783176",
-    "position_item_id": null,
+    "position_item_id": "Q53544338",
     "terms": [
       {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
+        "comment": "LXV Legislature of the Honorable Congress of the State of Chihuahua",
+        "term_item_id": "Q53546038"
       }
     ]
   },
   {
     "comment": "Congress of Morelos",
     "house_item_id": "Q5783178",
-    "position_item_id": null,
+    "position_item_id": "Q53544376",
     "terms": [
       {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
+        "comment": "LXIII Legislature of the Honorable Congress of the State of Morelos",
+        "term_item_id": "Q53546064"
       }
     ]
   },
   {
     "comment": "Congress of Sinaloa",
     "house_item_id": "Q5783180",
-    "position_item_id": null,
+    "position_item_id": "Q53544405",
     "terms": [
       {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
+        "comment": "LXII Legislature of the Honorable Congress of the State of Sinaloa",
+        "term_item_id": "Q53546089"
       }
     ]
   },
   {
     "comment": "Congress of Guerrero",
     "house_item_id": "Q610045",
-    "position_item_id": null,
+    "position_item_id": "Q53544368",
     "terms": [
       {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
+        "comment": "LXI Legislature Congress of the Free and Sovereign State of Guerrero",
+        "term_item_id": "Q53546058"
       }
     ]
   }
