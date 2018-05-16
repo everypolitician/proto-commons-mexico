@@ -6,7 +6,415 @@
 
   ],
   "areas": [
-
+    {
+      "id": "Q53000440",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:dur/led:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000440"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544355"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Durango"
+      },
+      "name": {
+        "en": "I Local Electoral District of Durango",
+        "es": "I Distrito Electoral Local de Durango"
+      },
+      "parent_id": "Q79918"
+    },
+    {
+      "id": "Q53000445",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:dur/led:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000445"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544355"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Durango"
+      },
+      "name": {
+        "en": "II Local Electoral District of Durango",
+        "es": "II Distrito Electoral Local de Durango"
+      },
+      "parent_id": "Q79918"
+    },
+    {
+      "id": "Q53000447",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:dur/led:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000447"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544355"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Durango"
+      },
+      "name": {
+        "en": "III Local Electoral District of Durango",
+        "es": "III Distrito Electoral Local de Durango"
+      },
+      "parent_id": "Q79918"
+    },
+    {
+      "id": "Q53000454",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:dur/led:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000454"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544355"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Durango"
+      },
+      "name": {
+        "en": "IV Local Electoral District of Durango",
+        "es": "IV Distrito Electoral Local de Durango"
+      },
+      "parent_id": "Q79918"
+    },
+    {
+      "id": "Q53000465",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:dur/led:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000465"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544355"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Durango"
+      },
+      "name": {
+        "en": "V Local Electoral District of Durango",
+        "es": "V Distrito Electoral Local de Durango"
+      },
+      "parent_id": "Q79918"
+    },
+    {
+      "id": "Q53000468",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:dur/led:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000468"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544355"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Durango"
+      },
+      "name": {
+        "en": "VI Local Electoral District of Durango",
+        "es": "VI Distrito Electoral Local de Durango"
+      },
+      "parent_id": "Q79918"
+    },
+    {
+      "id": "Q53000470",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:dur/led:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000470"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544355"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Durango"
+      },
+      "name": {
+        "en": "VII Local Electoral District of Durango",
+        "es": "VII Distrito Electoral Local de Durango"
+      },
+      "parent_id": "Q79918"
+    },
+    {
+      "id": "Q53000472",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:dur/led:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000472"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544355"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Durango"
+      },
+      "name": {
+        "en": "VIII Local Electoral District of Durango",
+        "es": "VIII Distrito Electoral Local de Durango"
+      },
+      "parent_id": "Q79918"
+    },
+    {
+      "id": "Q53000475",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:dur/led:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000475"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544355"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Durango"
+      },
+      "name": {
+        "en": "IX Local Electoral District of Durango",
+        "es": "IX Distrito Electoral Local de Durango"
+      },
+      "parent_id": "Q79918"
+    },
+    {
+      "id": "Q53000481",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:dur/led:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000481"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544355"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Durango"
+      },
+      "name": {
+        "en": "X Local Electoral District of Durango",
+        "es": "X Distrito Electoral Local de Durango"
+      },
+      "parent_id": "Q79918"
+    },
+    {
+      "id": "Q53000483",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:dur/led:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000483"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544355"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Durango"
+      },
+      "name": {
+        "en": "XI Local Electoral District of Durango",
+        "es": "XI Distrito Electoral Local de Durango"
+      },
+      "parent_id": "Q79918"
+    },
+    {
+      "id": "Q53000487",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:dur/led:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000487"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544355"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Durango"
+      },
+      "name": {
+        "en": "XII Local Electoral District of Durango",
+        "es": "XII Distrito Electoral Local de Durango"
+      },
+      "parent_id": "Q79918"
+    },
+    {
+      "id": "Q53000490",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:dur/led:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000490"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544355"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Durango"
+      },
+      "name": {
+        "en": "XIII Local Electoral District of Durango",
+        "es": "XIII Distrito Electoral Local de Durango"
+      },
+      "parent_id": "Q79918"
+    },
+    {
+      "id": "Q53000501",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:dur/led:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000501"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544355"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Durango"
+      },
+      "name": {
+        "en": "XIV Local Electoral District of Durango",
+        "es": "XIV Distrito Electoral Local de Durango"
+      },
+      "parent_id": "Q79918"
+    },
+    {
+      "id": "Q53000504",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:dur/led:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000504"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544355"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Durango"
+      },
+      "name": {
+        "en": "XV Local Electoral District of Durango",
+        "es": "XV Distrito Electoral Local de Durango"
+      },
+      "parent_id": "Q79918"
+    },
+    {
+      "id": "Q79918",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:dur"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q79918"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3112712"
+      ],
+      "type": {
+        "lang:es": "estado de México",
+        "lang:en": "state of Mexico"
+      },
+      "name": {
+        "lang:es": "Durango"
+      },
+      "parent_id": "Q96"
+    },
+    {
+      "id": "Q96",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q96"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q628004"
+      ],
+      "type": {
+        "lang:es": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "United Mexican States",
+        "lang:es": "Estados Unidos Mexicanos"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 

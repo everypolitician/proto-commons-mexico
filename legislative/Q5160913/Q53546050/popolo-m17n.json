@@ -55,7 +55,1135 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q52992271",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mex/led:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52992271"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544365"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico"
+      },
+      "name": {
+        "en": "I Local Electoral District of México",
+        "es": "I Distrito Electoral Local de México"
+      },
+      "parent_id": "Q82112"
+    },
+    {
+      "id": "Q52992274",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mex/led:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52992274"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544365"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico"
+      },
+      "name": {
+        "en": "II Local Electoral District of México",
+        "es": "II Distrito Electoral Local de México"
+      },
+      "parent_id": "Q82112"
+    },
+    {
+      "id": "Q52992276",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mex/led:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52992276"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544365"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico"
+      },
+      "name": {
+        "en": "III Local Electoral District of México",
+        "es": "III Distrito Electoral Local de México"
+      },
+      "parent_id": "Q82112"
+    },
+    {
+      "id": "Q52992279",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mex/led:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52992279"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544365"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico"
+      },
+      "name": {
+        "en": "IV Local Electoral District of México",
+        "es": "IV Distrito Electoral Local de México"
+      },
+      "parent_id": "Q82112"
+    },
+    {
+      "id": "Q52992281",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mex/led:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52992281"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544365"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico"
+      },
+      "name": {
+        "en": "V Local Electoral District of México",
+        "es": "V Distrito Electoral Local de México"
+      },
+      "parent_id": "Q82112"
+    },
+    {
+      "id": "Q52992282",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mex/led:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52992282"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544365"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico"
+      },
+      "name": {
+        "en": "VI Local Electoral District of México",
+        "es": "VI Distrito Electoral Local de México"
+      },
+      "parent_id": "Q82112"
+    },
+    {
+      "id": "Q52992286",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mex/led:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52992286"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544365"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico"
+      },
+      "name": {
+        "en": "VII Local Electoral District of México",
+        "es": "VII Distrito Electoral Local de México"
+      },
+      "parent_id": "Q82112"
+    },
+    {
+      "id": "Q52992287",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mex/led:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52992287"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544365"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico"
+      },
+      "name": {
+        "en": "VIII Local Electoral District of México",
+        "es": "VIII Distrito Electoral Local de México"
+      },
+      "parent_id": "Q82112"
+    },
+    {
+      "id": "Q52992289",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mex/led:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52992289"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544365"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico"
+      },
+      "name": {
+        "en": "IX Local Electoral District of México",
+        "es": "IX Distrito Electoral Local de México"
+      },
+      "parent_id": "Q82112"
+    },
+    {
+      "id": "Q52992301",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mex/led:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52992301"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544365"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico"
+      },
+      "name": {
+        "en": "X Local Electoral District of México",
+        "es": "X Distrito Electoral Local de México"
+      },
+      "parent_id": "Q82112"
+    },
+    {
+      "id": "Q52992313",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mex/led:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52992313"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544365"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico"
+      },
+      "name": {
+        "en": "XI Local Electoral District of México",
+        "es": "XI Distrito Electoral Local de México"
+      },
+      "parent_id": "Q82112"
+    },
+    {
+      "id": "Q52992315",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mex/led:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52992315"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544365"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico"
+      },
+      "name": {
+        "en": "XII Local Electoral District of México",
+        "es": "XII Distrito Electoral Local de México"
+      },
+      "parent_id": "Q82112"
+    },
+    {
+      "id": "Q52992318",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mex/led:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52992318"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544365"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico"
+      },
+      "name": {
+        "en": "XIII Local Electoral District of México",
+        "es": "XIII Distrito Electoral Local de México"
+      },
+      "parent_id": "Q82112"
+    },
+    {
+      "id": "Q52992319",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mex/led:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52992319"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544365"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico"
+      },
+      "name": {
+        "en": "XIV Local Electoral District of México",
+        "es": "XIV Distrito Electoral Local de México"
+      },
+      "parent_id": "Q82112"
+    },
+    {
+      "id": "Q52992320",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mex/led:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52992320"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544365"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico"
+      },
+      "name": {
+        "en": "XV Local Electoral District of México",
+        "es": "XV Distrito Electoral Local de México"
+      },
+      "parent_id": "Q82112"
+    },
+    {
+      "id": "Q52992324",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mex/led:16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52992324"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544365"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico"
+      },
+      "name": {
+        "en": "XVI Local Electoral District of México",
+        "es": "XVI Distrito Electoral Local de México"
+      },
+      "parent_id": "Q82112"
+    },
+    {
+      "id": "Q52992326",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mex/led:17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52992326"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544365"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico"
+      },
+      "name": {
+        "en": "XVII Local Electoral District of México",
+        "es": "XVII Distrito Electoral Local de México"
+      },
+      "parent_id": "Q82112"
+    },
+    {
+      "id": "Q52992329",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mex/led:18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52992329"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544365"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico"
+      },
+      "name": {
+        "en": "XVIII Local Electoral District of México",
+        "es": "XVIII Distrito Electoral Local de México"
+      },
+      "parent_id": "Q82112"
+    },
+    {
+      "id": "Q52992338",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mex/led:19"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52992338"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544365"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico"
+      },
+      "name": {
+        "en": "XIX Local Electoral District of México",
+        "es": "XIX Distrito Electoral Local de México"
+      },
+      "parent_id": "Q82112"
+    },
+    {
+      "id": "Q52992351",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mex/led:20"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52992351"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544365"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico"
+      },
+      "name": {
+        "en": "XX Local Electoral District of México",
+        "es": "XX Distrito Electoral Local de México"
+      },
+      "parent_id": "Q82112"
+    },
+    {
+      "id": "Q52992353",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mex/led:21"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52992353"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544365"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico"
+      },
+      "name": {
+        "en": "XXI Local Electoral District of México",
+        "es": "XXI Distrito Electoral Local de México"
+      },
+      "parent_id": "Q82112"
+    },
+    {
+      "id": "Q52992357",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mex/led:22"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52992357"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544365"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico"
+      },
+      "name": {
+        "en": "XXII Local Electoral District of México",
+        "es": "XXII Distrito Electoral Local de México"
+      },
+      "parent_id": "Q82112"
+    },
+    {
+      "id": "Q52992360",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mex/led:23"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52992360"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544365"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico"
+      },
+      "name": {
+        "en": "XXIII Local Electoral District of México",
+        "es": "XXIII Distrito Electoral Local de México"
+      },
+      "parent_id": "Q82112"
+    },
+    {
+      "id": "Q52992363",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mex/led:24"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52992363"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544365"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico"
+      },
+      "name": {
+        "en": "XXIV Local Electoral District of México",
+        "es": "XXIV Distrito Electoral Local de México"
+      },
+      "parent_id": "Q82112"
+    },
+    {
+      "id": "Q52992365",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mex/led:25"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52992365"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544365"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico"
+      },
+      "name": {
+        "en": "XXV Local Electoral District of México",
+        "es": "XXV Distrito Electoral Local de México"
+      },
+      "parent_id": "Q82112"
+    },
+    {
+      "id": "Q52992367",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mex/led:26"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52992367"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544365"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico"
+      },
+      "name": {
+        "en": "XXVI Local Electoral District of México",
+        "es": "XXVI Distrito Electoral Local de México"
+      },
+      "parent_id": "Q82112"
+    },
+    {
+      "id": "Q52992370",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mex/led:27"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52992370"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544365"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico"
+      },
+      "name": {
+        "en": "XXVII Local Electoral District of México",
+        "es": "XXVII Distrito Electoral Local de México"
+      },
+      "parent_id": "Q82112"
+    },
+    {
+      "id": "Q52992381",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mex/led:28"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52992381"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544365"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico"
+      },
+      "name": {
+        "en": "XXVIII Local Electoral District of México",
+        "es": "XXVIII Distrito Electoral Local de México"
+      },
+      "parent_id": "Q82112"
+    },
+    {
+      "id": "Q52992390",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mex/led:29"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52992390"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544365"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico"
+      },
+      "name": {
+        "en": "XXIX Local Electoral District of México",
+        "es": "XXIX Distrito Electoral Local de México"
+      },
+      "parent_id": "Q82112"
+    },
+    {
+      "id": "Q52992392",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mex/led:30"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52992392"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544365"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico"
+      },
+      "name": {
+        "en": "XXX Local Electoral District of México",
+        "es": "XXX Distrito Electoral Local de México"
+      },
+      "parent_id": "Q82112"
+    },
+    {
+      "id": "Q52992394",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mex/led:31"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52992394"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544365"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico"
+      },
+      "name": {
+        "en": "XXXI Local Electoral District of México",
+        "es": "XXXI Distrito Electoral Local de México"
+      },
+      "parent_id": "Q82112"
+    },
+    {
+      "id": "Q52992398",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mex/led:32"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52992398"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544365"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico"
+      },
+      "name": {
+        "en": "XXXII Local Electoral District of México",
+        "es": "XXXII Distrito Electoral Local de México"
+      },
+      "parent_id": "Q82112"
+    },
+    {
+      "id": "Q52992399",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mex/led:33"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52992399"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544365"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico"
+      },
+      "name": {
+        "en": "XXXIII Local Electoral District of México",
+        "es": "XXXIII Distrito Electoral Local de México"
+      },
+      "parent_id": "Q82112"
+    },
+    {
+      "id": "Q52992400",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mex/led:34"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52992400"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544365"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico"
+      },
+      "name": {
+        "en": "XXXIV Local Electoral District of México",
+        "es": "XXXIV Distrito Electoral Local de México"
+      },
+      "parent_id": "Q82112"
+    },
+    {
+      "id": "Q52992405",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mex/led:35"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52992405"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544365"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico"
+      },
+      "name": {
+        "en": "XXXV Local Electoral District of México",
+        "es": "XXXV Distrito Electoral Local de México"
+      },
+      "parent_id": "Q82112"
+    },
+    {
+      "id": "Q52992407",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mex/led:36"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52992407"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544365"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico"
+      },
+      "name": {
+        "en": "XXXVI Local Electoral District of México",
+        "es": "XXXVI Distrito Electoral Local de México"
+      },
+      "parent_id": "Q82112"
+    },
+    {
+      "id": "Q52992420",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mex/led:37"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52992420"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544365"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico"
+      },
+      "name": {
+        "en": "XXXVII Local Electoral District of México",
+        "es": "XXXVII Distrito Electoral Local de México"
+      },
+      "parent_id": "Q82112"
+    },
+    {
+      "id": "Q52992430",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mex/led:38"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52992430"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544365"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico"
+      },
+      "name": {
+        "en": "XXXVIII Local Electoral District of México",
+        "es": "XXXVIII Distrito Electoral Local de México"
+      },
+      "parent_id": "Q82112"
+    },
+    {
+      "id": "Q52992433",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mex/led:39"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52992433"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544365"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico"
+      },
+      "name": {
+        "en": "XXXIX Local Electoral District of México",
+        "es": "XXXIX Distrito Electoral Local de México"
+      },
+      "parent_id": "Q82112"
+    },
+    {
+      "id": "Q52992435",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mex/led:40"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52992435"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544365"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico"
+      },
+      "name": {
+        "en": "XL Local Electoral District of México",
+        "es": "XL Distrito Electoral Local de México"
+      },
+      "parent_id": "Q82112"
+    },
+    {
+      "id": "Q52992439",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mex/led:41"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52992439"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544365"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico"
+      },
+      "name": {
+        "en": "XLI Local Electoral District of México",
+        "es": "XLI Distrito Electoral Local de México"
+      },
+      "parent_id": "Q82112"
+    },
+    {
+      "id": "Q52992441",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mex/led:42"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52992441"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544365"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico"
+      },
+      "name": {
+        "en": "XLII Local Electoral District of México",
+        "es": "XLII Distrito Electoral Local de México"
+      },
+      "parent_id": "Q82112"
+    },
+    {
+      "id": "Q52992444",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mex/led:43"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52992444"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544365"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico"
+      },
+      "name": {
+        "en": "XLIII Local Electoral District of México",
+        "es": "XLIII Distrito Electoral Local de México"
+      },
+      "parent_id": "Q82112"
+    },
+    {
+      "id": "Q52992445",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mex/led:44"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52992445"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544365"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico"
+      },
+      "name": {
+        "en": "XLIV Local Electoral District of México",
+        "es": "XLIV Distrito Electoral Local de México"
+      },
+      "parent_id": "Q82112"
+    },
+    {
+      "id": "Q52992448",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mex/led:45"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52992448"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544365"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico"
+      },
+      "name": {
+        "en": "XLV Local Electoral District of México",
+        "es": "XLV Distrito Electoral Local de México"
+      },
+      "parent_id": "Q82112"
+    },
+    {
+      "id": "Q82112",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mex"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q82112"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q5589754"
+      ],
+      "type": {
+        "lang:es": "estado de México",
+        "lang:en": "state of Mexico"
+      },
+      "name": {
+        "lang:es": "México"
+      },
+      "parent_id": "Q96"
+    },
+    {
+      "id": "Q96",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q96"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q628004"
+      ],
+      "type": {
+        "lang:es": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "United Mexican States",
+        "lang:es": "Estados Unidos Mexicanos"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
     {

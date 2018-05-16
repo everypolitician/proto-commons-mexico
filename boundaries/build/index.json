@@ -596,5 +596,581 @@
     "name_columns": {
       "lang:es": "Circunscri"
     }
+  },
+  {
+    "directory": "local-electoral-districts",
+    "area_type_wikidata_item_id": "Q52990761",
+    "associations": [
+      {
+        "comment": "deputy of the honorable congress of the state of aguascalientes",
+        "position_item_id": "Q53544327"
+      }
+    ],
+    "name_columns": {
+      "en": "label_en",
+      "es": "label_es"
+    },
+    "filter": {
+      "match": "country:mx/state:agu",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "local-electoral-districts",
+    "area_type_wikidata_item_id": "Q52991592",
+    "associations": [
+      {
+        "comment": "deputy of the legislative power of the state of baja california",
+        "position_item_id": "Q53544328"
+      }
+    ],
+    "name_columns": {
+      "en": "label_en",
+      "es": "label_es"
+    },
+    "filter": {
+      "match": "country:mx/state:bcn",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "local-electoral-districts",
+    "area_type_wikidata_item_id": "Q52991672",
+    "associations": [
+      {
+        "comment": "deputy of the honorable congress of the state of baja california sur",
+        "position_item_id": "Q53544332"
+      }
+    ],
+    "name_columns": {
+      "en": "label_en",
+      "es": "label_es"
+    },
+    "filter": {
+      "match": "country:mx/state:bcs",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "local-electoral-districts",
+    "area_type_wikidata_item_id": "Q52991416",
+    "associations": [
+      {
+        "comment": "deputy of the legislative power of the state of campeche",
+        "position_item_id": "Q53544333"
+      }
+    ],
+    "name_columns": {
+      "en": "label_en",
+      "es": "label_es"
+    },
+    "filter": {
+      "match": "country:mx/state:cam",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "local-electoral-districts",
+    "area_type_wikidata_item_id": "Q52999804",
+    "associations": [
+      {
+        "comment": "deputy of the congress of the state of coahuila de zaragoza",
+        "position_item_id": "Q53544334"
+      }
+    ],
+    "name_columns": {
+      "en": "label_en",
+      "es": "label_es"
+    },
+    "filter": {
+      "match": "country:mx/state:coa",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "local-electoral-districts",
+    "area_type_wikidata_item_id": "Q52999829",
+    "associations": [
+      {
+        "comment": "deputy of the honorable congress of the state of colima",
+        "position_item_id": "Q53544335"
+      }
+    ],
+    "name_columns": {
+      "en": "label_en",
+      "es": "label_es"
+    },
+    "filter": {
+      "match": "country:mx/state:col",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "local-electoral-districts",
+    "area_type_wikidata_item_id": "Q52999849",
+    "associations": [
+      {
+        "comment": "deputy of the honorable congress of the state of chiapas",
+        "position_item_id": "Q53544336"
+      }
+    ],
+    "name_columns": {
+      "en": "label_en",
+      "es": "label_es"
+    },
+    "filter": {
+      "match": "country:mx/state:chp",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "local-electoral-districts",
+    "area_type_wikidata_item_id": "Q52999874",
+    "associations": [
+      {
+        "comment": "deputy of the honorable congress of the state of chihuahua",
+        "position_item_id": "Q53544338"
+      }
+    ],
+    "name_columns": {
+      "en": "label_en",
+      "es": "label_es"
+    },
+    "filter": {
+      "match": "country:mx/state:chh",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "local-electoral-districts",
+    "area_type_wikidata_item_id": "Q52999896",
+    "associations": [
+      {
+        "comment": "deputy of the honorable congress of durango",
+        "position_item_id": "Q53544355"
+      }
+    ],
+    "name_columns": {
+      "en": "label_en",
+      "es": "label_es"
+    },
+    "filter": {
+      "match": "country:mx/state:dur",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "local-electoral-districts",
+    "area_type_wikidata_item_id": "Q53001248",
+    "associations": [
+      {
+        "comment": "deputy of the congress of the state of guanajuato",
+        "position_item_id": "Q53544367"
+      }
+    ],
+    "name_columns": {
+      "en": "label_en",
+      "es": "label_es"
+    },
+    "filter": {
+      "match": "country:mx/state:gua",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "local-electoral-districts",
+    "area_type_wikidata_item_id": "Q52994307",
+    "associations": [
+      {
+        "comment": "deputy of the congress of the free and sovereign state of guerrero",
+        "position_item_id": "Q53544368"
+      }
+    ],
+    "name_columns": {
+      "en": "label_en",
+      "es": "label_es"
+    },
+    "filter": {
+      "match": "country:mx/state:gro",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "local-electoral-districts",
+    "area_type_wikidata_item_id": "Q53001260",
+    "associations": [
+      {
+        "comment": "deputy of the congress of the free and sovereign state of hidalgo",
+        "position_item_id": "Q53544369"
+      }
+    ],
+    "name_columns": {
+      "en": "label_en",
+      "es": "label_es"
+    },
+    "filter": {
+      "match": "country:mx/state:hid",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "local-electoral-districts",
+    "area_type_wikidata_item_id": "Q53001270",
+    "associations": [
+      {
+        "comment": "deputy of the congress of the state of jalisco",
+        "position_item_id": "Q53544371"
+      }
+    ],
+    "name_columns": {
+      "en": "label_en",
+      "es": "label_es"
+    },
+    "filter": {
+      "match": "country:mx/state:jal",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "local-electoral-districts",
+    "area_type_wikidata_item_id": "Q52991916",
+    "associations": [
+      {
+        "comment": "deputy of the legislative power of the state of mexico",
+        "position_item_id": "Q53544365"
+      }
+    ],
+    "name_columns": {
+      "en": "label_en",
+      "es": "label_es"
+    },
+    "filter": {
+      "match": "country:mx/state:mex",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "local-electoral-districts",
+    "area_type_wikidata_item_id": "Q53001290",
+    "associations": [
+      {
+        "comment": "deputy of the congress of the state of michoacán de ocampo",
+        "position_item_id": "Q53544375"
+      }
+    ],
+    "name_columns": {
+      "en": "label_en",
+      "es": "label_es"
+    },
+    "filter": {
+      "match": "country:mx/state:mic",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "local-electoral-districts",
+    "area_type_wikidata_item_id": "Q53001433",
+    "associations": [
+      {
+        "comment": "deputy of the honorable congress of the state of morelos",
+        "position_item_id": "Q53544376"
+      }
+    ],
+    "name_columns": {
+      "en": "label_en",
+      "es": "label_es"
+    },
+    "filter": {
+      "match": "country:mx/state:mor",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "local-electoral-districts",
+    "area_type_wikidata_item_id": "Q53001453",
+    "associations": [
+      {
+        "comment": "deputy of the congress of the state of nayarit",
+        "position_item_id": "Q53544378"
+      }
+    ],
+    "name_columns": {
+      "en": "label_en",
+      "es": "label_es"
+    },
+    "filter": {
+      "match": "country:mx/state:nay",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "local-electoral-districts",
+    "area_type_wikidata_item_id": "Q52994310",
+    "associations": [
+      {
+        "comment": "deputy of the honorable congress of the state of nuevo león",
+        "position_item_id": "Q53544387"
+      }
+    ],
+    "name_columns": {
+      "en": "label_en",
+      "es": "label_es"
+    },
+    "filter": {
+      "match": "country:mx/state:nle",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "local-electoral-districts",
+    "area_type_wikidata_item_id": "Q53001477",
+    "associations": [
+      {
+        "comment": "deputy of the honorable congress of the free and sovereign state of oaxaca",
+        "position_item_id": "Q53544396"
+      }
+    ],
+    "name_columns": {
+      "en": "label_en",
+      "es": "label_es"
+    },
+    "filter": {
+      "match": "country:mx/state:oax",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "local-electoral-districts",
+    "area_type_wikidata_item_id": "Q53001495",
+    "associations": [
+      {
+        "comment": "deputy of the honorable congress of the free and sovereign state of puebla",
+        "position_item_id": "Q53544398"
+      }
+    ],
+    "name_columns": {
+      "en": "label_en",
+      "es": "label_es"
+    },
+    "filter": {
+      "match": "country:mx/state:pue",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "local-electoral-districts",
+    "area_type_wikidata_item_id": "Q53001526",
+    "associations": [
+      {
+        "comment": "deputy of the legislative power of the state of querétaro",
+        "position_item_id": "Q53544400"
+      }
+    ],
+    "name_columns": {
+      "en": "label_en",
+      "es": "label_es"
+    },
+    "filter": {
+      "match": "country:mx/state:que",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "local-electoral-districts",
+    "area_type_wikidata_item_id": "Q53001561",
+    "associations": [
+      {
+        "comment": "deputy of the legislative power of the free and sovereign state of quintana roo",
+        "position_item_id": "Q53544402"
+      }
+    ],
+    "name_columns": {
+      "en": "label_en",
+      "es": "label_es"
+    },
+    "filter": {
+      "match": "country:mx/state:roo",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "local-electoral-districts",
+    "area_type_wikidata_item_id": "Q53001595",
+    "associations": [
+      {
+        "comment": "deputy of the honorable congress of the state of san luis potosi",
+        "position_item_id": "Q53544404"
+      }
+    ],
+    "name_columns": {
+      "en": "label_en",
+      "es": "label_es"
+    },
+    "filter": {
+      "match": "country:mx/state:slp",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "local-electoral-districts",
+    "area_type_wikidata_item_id": "Q53001617",
+    "associations": [
+      {
+        "comment": "deputy of the honorable congress of the state of sinaloa",
+        "position_item_id": "Q53544405"
+      }
+    ],
+    "name_columns": {
+      "en": "label_en",
+      "es": "label_es"
+    },
+    "filter": {
+      "match": "country:mx/state:sin",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "local-electoral-districts",
+    "area_type_wikidata_item_id": "Q52988024",
+    "associations": [
+      {
+        "comment": "deputy of the honorable congress of the state of sonora",
+        "position_item_id": "Q53544408"
+      }
+    ],
+    "name_columns": {
+      "en": "label_en",
+      "es": "label_es"
+    },
+    "filter": {
+      "match": "country:mx/state:son",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "local-electoral-districts",
+    "area_type_wikidata_item_id": "Q53001639",
+    "associations": [
+      {
+        "comment": "deputy of the honorable congress of the state of tabasco",
+        "position_item_id": "Q53544410"
+      }
+    ],
+    "name_columns": {
+      "en": "label_en",
+      "es": "label_es"
+    },
+    "filter": {
+      "match": "country:mx/state:tab",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "local-electoral-districts",
+    "area_type_wikidata_item_id": "Q53001662",
+    "associations": [
+      {
+        "comment": "deputy of the honorable congress of the state of tamaulipas",
+        "position_item_id": "Q53544421"
+      }
+    ],
+    "name_columns": {
+      "en": "label_en",
+      "es": "label_es"
+    },
+    "filter": {
+      "match": "country:mx/state:tam",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "local-electoral-districts",
+    "area_type_wikidata_item_id": "Q53001678",
+    "associations": [
+      {
+        "comment": "deputy of the congress of the state of tlaxcala",
+        "position_item_id": "Q53544429"
+      }
+    ],
+    "name_columns": {
+      "en": "label_en",
+      "es": "label_es"
+    },
+    "filter": {
+      "match": "country:mx/state:tla",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "local-electoral-districts",
+    "area_type_wikidata_item_id": "Q52994238",
+    "associations": [
+      {
+        "comment": "deputy of the honorable congress of the state of veracruz",
+        "position_item_id": "Q53544431"
+      }
+    ],
+    "name_columns": {
+      "en": "label_en",
+      "es": "label_es"
+    },
+    "filter": {
+      "match": "country:mx/state:ver",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "local-electoral-districts",
+    "area_type_wikidata_item_id": "Q53001699",
+    "associations": [
+      {
+        "comment": "deputy of the honorable congress of the state of yucatán",
+        "position_item_id": "Q53544432"
+      }
+    ],
+    "name_columns": {
+      "en": "label_en",
+      "es": "label_es"
+    },
+    "filter": {
+      "match": "country:mx/state:yuc",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "local-electoral-districts",
+    "area_type_wikidata_item_id": "Q53001726",
+    "associations": [
+      {
+        "comment": "deputy of the legislative power of the state of zacatecas",
+        "position_item_id": "Q53544433"
+      }
+    ],
+    "name_columns": {
+      "en": "label_en",
+      "es": "label_es"
+    },
+    "filter": {
+      "match": "country:mx/state:zac",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "local-electoral-districts",
+    "area_type_wikidata_item_id": "Q53014857",
+    "associations": [
+      {
+        "comment": "deputy of the legislative assembly of the federal district",
+        "position_item_id": "Q53544340"
+      }
+    ],
+    "name_columns": {
+      "en": "label_en",
+      "es": "label_es"
+    },
+    "filter": {
+      "match": "country:mx/federal-district:cmx",
+      "column": "MS_FB_PARE"
+    }
   }
 ]

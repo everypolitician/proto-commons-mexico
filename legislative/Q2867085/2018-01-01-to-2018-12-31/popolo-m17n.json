@@ -6,7 +6,847 @@
 
   ],
   "areas": [
-
+    {
+      "id": "Q1489",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/federal-district:cmx"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1489"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q2962015"
+      ],
+      "type": {
+        "lang:es": "capital",
+        "lang:en": "capital"
+      },
+      "name": {
+        "lang:es": "Mexico City"
+      },
+      "parent_id": "Q96"
+    },
+    {
+      "id": "Q53015302",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/federal-district:cmx/led:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53015302"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544340"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico City"
+      },
+      "name": {
+        "en": "90I Local Electoral District of Mexico City",
+        "es": "I Distrito Electoral Local de Ciudad de México"
+      },
+      "parent_id": "Q1489"
+    },
+    {
+      "id": "Q53015304",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/federal-district:cmx/led:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53015304"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544340"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico City"
+      },
+      "name": {
+        "en": "II Local Electoral District of Mexico City",
+        "es": "II Distrito Electoral Local de Ciudad de México"
+      },
+      "parent_id": "Q1489"
+    },
+    {
+      "id": "Q53015306",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/federal-district:cmx/led:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53015306"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544340"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico City"
+      },
+      "name": {
+        "en": "III Local Electoral District of Mexico City",
+        "es": "III Distrito Electoral Local de Ciudad de México"
+      },
+      "parent_id": "Q1489"
+    },
+    {
+      "id": "Q53015307",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/federal-district:cmx/led:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53015307"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544340"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico City"
+      },
+      "name": {
+        "en": "IV Local Electoral District of Mexico City",
+        "es": "IV Distrito Electoral Local de Ciudad de México"
+      },
+      "parent_id": "Q1489"
+    },
+    {
+      "id": "Q53015311",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/federal-district:cmx/led:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53015311"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544340"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico City"
+      },
+      "name": {
+        "en": "V Local Electoral District of Mexico City",
+        "es": "V Distrito Electoral Local de Ciudad de México"
+      },
+      "parent_id": "Q1489"
+    },
+    {
+      "id": "Q53015312",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/federal-district:cmx/led:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53015312"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544340"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico City"
+      },
+      "name": {
+        "en": "VI Local Electoral District of Mexico City",
+        "es": "VI Distrito Electoral Local de Ciudad de México"
+      },
+      "parent_id": "Q1489"
+    },
+    {
+      "id": "Q53015315",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/federal-district:cmx/led:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53015315"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544340"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico City"
+      },
+      "name": {
+        "en": "VII Local Electoral District of Mexico City",
+        "es": "VII Distrito Electoral Local de Ciudad de México"
+      },
+      "parent_id": "Q1489"
+    },
+    {
+      "id": "Q53015317",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/federal-district:cmx/led:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53015317"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544340"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico City"
+      },
+      "name": {
+        "en": "VIII Local Electoral District of Mexico City",
+        "es": "VIII Distrito Electoral Local de Ciudad de México"
+      },
+      "parent_id": "Q1489"
+    },
+    {
+      "id": "Q53015318",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/federal-district:cmx/led:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53015318"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544340"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico City"
+      },
+      "name": {
+        "en": "IX Local Electoral District of Mexico City",
+        "es": "IX Distrito Electoral Local de Ciudad de México"
+      },
+      "parent_id": "Q1489"
+    },
+    {
+      "id": "Q53015332",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/federal-district:cmx/led:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53015332"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544340"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico City"
+      },
+      "name": {
+        "en": "X Local Electoral District of Mexico City",
+        "es": "X Distrito Electoral Local de Ciudad de México"
+      },
+      "parent_id": "Q1489"
+    },
+    {
+      "id": "Q53015346",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/federal-district:cmx/led:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53015346"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544340"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico City"
+      },
+      "name": {
+        "en": "XI Local Electoral District of Mexico City",
+        "es": "XI Distrito Electoral Local de Ciudad de México"
+      },
+      "parent_id": "Q1489"
+    },
+    {
+      "id": "Q53015348",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/federal-district:cmx/led:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53015348"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544340"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico City"
+      },
+      "name": {
+        "en": "XII Local Electoral District of Mexico City",
+        "es": "XII Distrito Electoral Local de Ciudad de México"
+      },
+      "parent_id": "Q1489"
+    },
+    {
+      "id": "Q53015352",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/federal-district:cmx/led:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53015352"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544340"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico City"
+      },
+      "name": {
+        "en": "XIII Local Electoral District of Mexico City",
+        "es": "XIII Distrito Electoral Local de Ciudad de México"
+      },
+      "parent_id": "Q1489"
+    },
+    {
+      "id": "Q53015354",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/federal-district:cmx/led:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53015354"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544340"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico City"
+      },
+      "name": {
+        "en": "XIV Local Electoral District of Mexico City",
+        "es": "XIV Distrito Electoral Local de Ciudad de México"
+      },
+      "parent_id": "Q1489"
+    },
+    {
+      "id": "Q53015356",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/federal-district:cmx/led:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53015356"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544340"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico City"
+      },
+      "name": {
+        "en": "XV Local Electoral District of Mexico City",
+        "es": "XV Distrito Electoral Local de Ciudad de México"
+      },
+      "parent_id": "Q1489"
+    },
+    {
+      "id": "Q53015359",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/federal-district:cmx/led:16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53015359"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544340"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico City"
+      },
+      "name": {
+        "en": "XVI Local Electoral District of Mexico City",
+        "es": "XVI Distrito Electoral Local de Ciudad de México"
+      },
+      "parent_id": "Q1489"
+    },
+    {
+      "id": "Q53015361",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/federal-district:cmx/led:17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53015361"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544340"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico City"
+      },
+      "name": {
+        "en": "XVII Local Electoral District of Mexico City",
+        "es": "XVII Distrito Electoral Local de Ciudad de México"
+      },
+      "parent_id": "Q1489"
+    },
+    {
+      "id": "Q53015364",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/federal-district:cmx/led:18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53015364"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544340"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico City"
+      },
+      "name": {
+        "en": "XVIII Local Electoral District of Mexico City",
+        "es": "XVIII Distrito Electoral Local de Ciudad de México"
+      },
+      "parent_id": "Q1489"
+    },
+    {
+      "id": "Q53015374",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/federal-district:cmx/led:19"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53015374"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544340"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico City"
+      },
+      "name": {
+        "en": "XIX Local Electoral District of Mexico City",
+        "es": "XIX Distrito Electoral Local de Ciudad de México"
+      },
+      "parent_id": "Q1489"
+    },
+    {
+      "id": "Q53015382",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/federal-district:cmx/led:20"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53015382"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544340"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico City"
+      },
+      "name": {
+        "en": "XX Local Electoral District of Mexico City",
+        "es": "XX Distrito Electoral Local de Ciudad de México"
+      },
+      "parent_id": "Q1489"
+    },
+    {
+      "id": "Q53015386",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/federal-district:cmx/led:21"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53015386"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544340"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico City"
+      },
+      "name": {
+        "en": "XXI Local Electoral District of Mexico City",
+        "es": "XXI Distrito Electoral Local de Ciudad de México"
+      },
+      "parent_id": "Q1489"
+    },
+    {
+      "id": "Q53015388",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/federal-district:cmx/led:22"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53015388"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544340"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico City"
+      },
+      "name": {
+        "en": "XXII Local Electoral District of Mexico City",
+        "es": "XXII Distrito Electoral Local de Ciudad de México"
+      },
+      "parent_id": "Q1489"
+    },
+    {
+      "id": "Q53015390",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/federal-district:cmx/led:23"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53015390"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544340"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico City"
+      },
+      "name": {
+        "en": "XXIII Local Electoral District of Mexico City",
+        "es": "XXIII Distrito Electoral Local de Ciudad de México"
+      },
+      "parent_id": "Q1489"
+    },
+    {
+      "id": "Q53015392",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/federal-district:cmx/led:24"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53015392"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544340"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico City"
+      },
+      "name": {
+        "en": "XXIV Local Electoral District of Mexico City",
+        "es": "XXIV Distrito Electoral Local de Ciudad de México"
+      },
+      "parent_id": "Q1489"
+    },
+    {
+      "id": "Q53015395",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/federal-district:cmx/led:25"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53015395"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544340"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico City"
+      },
+      "name": {
+        "en": "XXV Local Electoral District of Mexico City",
+        "es": "XXV Distrito Electoral Local de Ciudad de México"
+      },
+      "parent_id": "Q1489"
+    },
+    {
+      "id": "Q53015398",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/federal-district:cmx/led:26"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53015398"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544340"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico City"
+      },
+      "name": {
+        "en": "XXVI Local Electoral District of Mexico City",
+        "es": "XXVI Distrito Electoral Local de Ciudad de México"
+      },
+      "parent_id": "Q1489"
+    },
+    {
+      "id": "Q53015399",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/federal-district:cmx/led:27"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53015399"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544340"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico City"
+      },
+      "name": {
+        "en": "XXVII Local Electoral District of Mexico City",
+        "es": "XXVII Distrito Electoral Local de Ciudad de México"
+      },
+      "parent_id": "Q1489"
+    },
+    {
+      "id": "Q53015409",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/federal-district:cmx/led:28"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53015409"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544340"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico City"
+      },
+      "name": {
+        "en": "XXVIII Local Electoral District of Mexico City",
+        "es": "XXVIII Distrito Electoral Local de Ciudad de México"
+      },
+      "parent_id": "Q1489"
+    },
+    {
+      "id": "Q53015418",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/federal-district:cmx/led:29"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53015418"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544340"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico City"
+      },
+      "name": {
+        "en": "XXIX Local Electoral District of Mexico City",
+        "es": "XXIX Distrito Electoral Local de Ciudad de México"
+      },
+      "parent_id": "Q1489"
+    },
+    {
+      "id": "Q53015420",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/federal-district:cmx/led:30"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53015420"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544340"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico City"
+      },
+      "name": {
+        "en": "XXX Local Electoral District of Mexico City",
+        "es": "XXX Distrito Electoral Local de Ciudad de México"
+      },
+      "parent_id": "Q1489"
+    },
+    {
+      "id": "Q53015423",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/federal-district:cmx/led:31"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53015423"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544340"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico City"
+      },
+      "name": {
+        "en": "XXXI Local Electoral District of Mexico City",
+        "es": "XXXI Distrito Electoral Local de Ciudad de México"
+      },
+      "parent_id": "Q1489"
+    },
+    {
+      "id": "Q53015426",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/federal-district:cmx/led:32"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53015426"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544340"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico City"
+      },
+      "name": {
+        "en": "XXXII Local Electoral District of Mexico City",
+        "es": "XXXII Distrito Electoral Local de Ciudad de México"
+      },
+      "parent_id": "Q1489"
+    },
+    {
+      "id": "Q53015428",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/federal-district:cmx/led:33"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53015428"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544340"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Mexico City"
+      },
+      "name": {
+        "en": "XXXIII Local Electoral District of Mexico City",
+        "es": "XXXIII Distrito Electoral Local de Ciudad de México"
+      },
+      "parent_id": "Q1489"
+    },
+    {
+      "id": "Q96",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q96"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q628004"
+      ],
+      "type": {
+        "lang:es": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "United Mexican States",
+        "lang:es": "Estados Unidos Mexicanos"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 

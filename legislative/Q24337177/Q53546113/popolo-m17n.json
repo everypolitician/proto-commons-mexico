@@ -55,7 +55,775 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q52994385",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:ver/led:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52994385"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544431"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Veracruz"
+      },
+      "name": {
+        "en": "I Local Electoral District of Veracruz",
+        "es": "I Distrito Electoral Local de Veracruz"
+      },
+      "parent_id": "Q60130"
+    },
+    {
+      "id": "Q52994387",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:ver/led:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52994387"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544431"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Veracruz"
+      },
+      "name": {
+        "en": "II Local Electoral District of Veracruz",
+        "es": "II Distrito Electoral Local de Veracruz"
+      },
+      "parent_id": "Q60130"
+    },
+    {
+      "id": "Q52994390",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:ver/led:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52994390"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544431"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Veracruz"
+      },
+      "name": {
+        "en": "III Local Electoral District of Veracruz",
+        "es": "III Distrito Electoral Local de Veracruz"
+      },
+      "parent_id": "Q60130"
+    },
+    {
+      "id": "Q52994393",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:ver/led:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52994393"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544431"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Veracruz"
+      },
+      "name": {
+        "en": "IV Local Electoral District of Veracruz",
+        "es": "IV Distrito Electoral Local de Veracruz"
+      },
+      "parent_id": "Q60130"
+    },
+    {
+      "id": "Q52994395",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:ver/led:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52994395"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544431"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Veracruz"
+      },
+      "name": {
+        "en": "V Local Electoral District of Veracruz",
+        "es": "V Distrito Electoral Local de Veracruz"
+      },
+      "parent_id": "Q60130"
+    },
+    {
+      "id": "Q52994397",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:ver/led:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52994397"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544431"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Veracruz"
+      },
+      "name": {
+        "en": "VI Local Electoral District of Veracruz",
+        "es": "VI Distrito Electoral Local de Veracruz"
+      },
+      "parent_id": "Q60130"
+    },
+    {
+      "id": "Q52994400",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:ver/led:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52994400"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544431"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Veracruz"
+      },
+      "name": {
+        "en": "VII Local Electoral District of Veracruz",
+        "es": "VII Distrito Electoral Local de Veracruz"
+      },
+      "parent_id": "Q60130"
+    },
+    {
+      "id": "Q52994401",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:ver/led:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52994401"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544431"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Veracruz"
+      },
+      "name": {
+        "en": "VIII Local Electoral District of Veracruz",
+        "es": "VIII Distrito Electoral Local de Veracruz"
+      },
+      "parent_id": "Q60130"
+    },
+    {
+      "id": "Q52994403",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:ver/led:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52994403"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544431"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Veracruz"
+      },
+      "name": {
+        "en": "IX Local Electoral District of Veracruz",
+        "es": "IX Distrito Electoral Local de Veracruz"
+      },
+      "parent_id": "Q60130"
+    },
+    {
+      "id": "Q52994411",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:ver/led:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52994411"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544431"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Veracruz"
+      },
+      "name": {
+        "en": "X Local Electoral District of Veracruz",
+        "es": "X Distrito Electoral Local de Veracruz"
+      },
+      "parent_id": "Q60130"
+    },
+    {
+      "id": "Q52994423",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:ver/led:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52994423"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544431"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Veracruz"
+      },
+      "name": {
+        "en": "XI Local Electoral District of Veracruz",
+        "es": "XI Distrito Electoral Local de Veracruz"
+      },
+      "parent_id": "Q60130"
+    },
+    {
+      "id": "Q52994425",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:ver/led:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52994425"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544431"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Veracruz"
+      },
+      "name": {
+        "en": "XII Local Electoral District of Veracruz",
+        "es": "XII Distrito Electoral Local de Veracruz"
+      },
+      "parent_id": "Q60130"
+    },
+    {
+      "id": "Q52994428",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:ver/led:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52994428"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544431"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Veracruz"
+      },
+      "name": {
+        "en": "XIII Local Electoral District of Veracruz",
+        "es": "XIII Distrito Electoral Local de Veracruz"
+      },
+      "parent_id": "Q60130"
+    },
+    {
+      "id": "Q52994430",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:ver/led:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52994430"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544431"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Veracruz"
+      },
+      "name": {
+        "en": "XIV Local Electoral District of Veracruz",
+        "es": "XIV Distrito Electoral Local de Veracruz"
+      },
+      "parent_id": "Q60130"
+    },
+    {
+      "id": "Q52994431",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:ver/led:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52994431"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544431"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Veracruz"
+      },
+      "name": {
+        "en": "XV Local Electoral District of Veracruz",
+        "es": "XV Distrito Electoral Local de Veracruz"
+      },
+      "parent_id": "Q60130"
+    },
+    {
+      "id": "Q52994435",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:ver/led:16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52994435"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544431"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Veracruz"
+      },
+      "name": {
+        "en": "XVI Local Electoral District of Veracruz",
+        "es": "XVI Distrito Electoral Local de Veracruz"
+      },
+      "parent_id": "Q60130"
+    },
+    {
+      "id": "Q52994437",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:ver/led:17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52994437"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544431"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Veracruz"
+      },
+      "name": {
+        "en": "XVII Local Electoral District of Veracruz",
+        "es": "XVII Distrito Electoral Local de Veracruz"
+      },
+      "parent_id": "Q60130"
+    },
+    {
+      "id": "Q52994440",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:ver/led:18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52994440"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544431"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Veracruz"
+      },
+      "name": {
+        "en": "XVIII Local Electoral District of Veracruz",
+        "es": "XVIII Distrito Electoral Local de Veracruz"
+      },
+      "parent_id": "Q60130"
+    },
+    {
+      "id": "Q52994450",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:ver/led:19"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52994450"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544431"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Veracruz"
+      },
+      "name": {
+        "en": "XIX Local Electoral District of Veracruz",
+        "es": "XIX Distrito Electoral Local de Veracruz"
+      },
+      "parent_id": "Q60130"
+    },
+    {
+      "id": "Q52994458",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:ver/led:20"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52994458"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544431"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Veracruz"
+      },
+      "name": {
+        "en": "XX Local Electoral District of Veracruz",
+        "es": "XX Distrito Electoral Local de Veracruz"
+      },
+      "parent_id": "Q60130"
+    },
+    {
+      "id": "Q52994461",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:ver/led:21"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52994461"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544431"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Veracruz"
+      },
+      "name": {
+        "en": "XXI Local Electoral District of Veracruz",
+        "es": "XXI Distrito Electoral Local de Veracruz"
+      },
+      "parent_id": "Q60130"
+    },
+    {
+      "id": "Q52994463",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:ver/led:22"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52994463"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544431"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Veracruz"
+      },
+      "name": {
+        "en": "XXII Local Electoral District of Veracruz",
+        "es": "XXII Distrito Electoral Local de Veracruz"
+      },
+      "parent_id": "Q60130"
+    },
+    {
+      "id": "Q52994464",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:ver/led:23"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52994464"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544431"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Veracruz"
+      },
+      "name": {
+        "en": "XXIII Local Electoral District of Veracruz",
+        "es": "XXIII Distrito Electoral Local de Veracruz"
+      },
+      "parent_id": "Q60130"
+    },
+    {
+      "id": "Q52994469",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:ver/led:24"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52994469"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544431"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Veracruz"
+      },
+      "name": {
+        "en": "XXIV Local Electoral District of Veracruz",
+        "es": "XXIV Distrito Electoral Local de Veracruz"
+      },
+      "parent_id": "Q60130"
+    },
+    {
+      "id": "Q52994472",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:ver/led:25"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52994472"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544431"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Veracruz"
+      },
+      "name": {
+        "en": "XXV Local Electoral District of Veracruz",
+        "es": "XXV Distrito Electoral Local de Veracruz"
+      },
+      "parent_id": "Q60130"
+    },
+    {
+      "id": "Q52994473",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:ver/led:26"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52994473"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544431"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Veracruz"
+      },
+      "name": {
+        "en": "XXVI Local Electoral District of Veracruz",
+        "es": "XXVI Distrito Electoral Local de Veracruz"
+      },
+      "parent_id": "Q60130"
+    },
+    {
+      "id": "Q52994475",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:ver/led:27"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52994475"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544431"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Veracruz"
+      },
+      "name": {
+        "en": "XXVII Local Electoral District of Veracruz",
+        "es": "XXVII Distrito Electoral Local de Veracruz"
+      },
+      "parent_id": "Q60130"
+    },
+    {
+      "id": "Q52994486",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:ver/led:28"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52994486"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544431"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Veracruz"
+      },
+      "name": {
+        "en": "XXVIII Local Electoral District of Veracruz",
+        "es": "XXVIII Distrito Electoral Local de Veracruz"
+      },
+      "parent_id": "Q60130"
+    },
+    {
+      "id": "Q52994496",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:ver/led:29"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52994496"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544431"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Veracruz"
+      },
+      "name": {
+        "en": "XXIX Local Electoral District of Veracruz",
+        "es": "XXIX Distrito Electoral Local de Veracruz"
+      },
+      "parent_id": "Q60130"
+    },
+    {
+      "id": "Q52994498",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:ver/led:30"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52994498"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544431"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Veracruz"
+      },
+      "name": {
+        "en": "XXX Local Electoral District of Veracruz",
+        "es": "XXX Distrito Electoral Local de Veracruz"
+      },
+      "parent_id": "Q60130"
+    },
+    {
+      "id": "Q60130",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:ver"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q60130"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q5589731"
+      ],
+      "type": {
+        "lang:es": "estado de México",
+        "lang:en": "state of Mexico"
+      },
+      "name": {
+        "lang:es": "Veracruz"
+      },
+      "parent_id": "Q96"
+    },
+    {
+      "id": "Q96",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q96"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q628004"
+      ],
+      "type": {
+        "lang:es": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "United Mexican States",
+        "lang:es": "Estados Unidos Mexicanos"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
     {

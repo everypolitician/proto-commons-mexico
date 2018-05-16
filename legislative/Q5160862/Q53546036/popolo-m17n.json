@@ -6,7 +6,439 @@
 
   ],
   "areas": [
-
+    {
+      "id": "Q53000197",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:col/led:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000197"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544335"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Colima"
+      },
+      "name": {
+        "en": "I Local Electoral District of Colima",
+        "es": "I Distrito Electoral Local de Colima"
+      },
+      "parent_id": "Q61309"
+    },
+    {
+      "id": "Q53000199",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:col/led:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000199"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544335"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Colima"
+      },
+      "name": {
+        "en": "II Local Electoral District of Colima",
+        "es": "II Distrito Electoral Local de Colima"
+      },
+      "parent_id": "Q61309"
+    },
+    {
+      "id": "Q53000210",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:col/led:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000210"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544335"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Colima"
+      },
+      "name": {
+        "en": "III Local Electoral District of Colima",
+        "es": "III Distrito Electoral Local de Colima"
+      },
+      "parent_id": "Q61309"
+    },
+    {
+      "id": "Q53000220",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:col/led:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000220"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544335"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Colima"
+      },
+      "name": {
+        "en": "IV Local Electoral District of Colima",
+        "es": "IV Distrito Electoral Local de Colima"
+      },
+      "parent_id": "Q61309"
+    },
+    {
+      "id": "Q53000221",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:col/led:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000221"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544335"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Colima"
+      },
+      "name": {
+        "en": "V Local Electoral District of Colima",
+        "es": "V Distrito Electoral Local de Colima"
+      },
+      "parent_id": "Q61309"
+    },
+    {
+      "id": "Q53000225",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:col/led:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000225"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544335"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Colima"
+      },
+      "name": {
+        "en": "VI Local Electoral District of Colima",
+        "es": "VI Distrito Electoral Local de Colima"
+      },
+      "parent_id": "Q61309"
+    },
+    {
+      "id": "Q53000227",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:col/led:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000227"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544335"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Colima"
+      },
+      "name": {
+        "en": "VII Local Electoral District of Colima",
+        "es": "VII Distrito Electoral Local de Colima"
+      },
+      "parent_id": "Q61309"
+    },
+    {
+      "id": "Q53000229",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:col/led:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000229"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544335"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Colima"
+      },
+      "name": {
+        "en": "VIII Local Electoral District of Colima",
+        "es": "VIII Distrito Electoral Local de Colima"
+      },
+      "parent_id": "Q61309"
+    },
+    {
+      "id": "Q53000232",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:col/led:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000232"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544335"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Colima"
+      },
+      "name": {
+        "en": "IX Local Electoral District of Colima",
+        "es": "IX Distrito Electoral Local de Colima"
+      },
+      "parent_id": "Q61309"
+    },
+    {
+      "id": "Q53000233",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:col/led:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000233"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544335"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Colima"
+      },
+      "name": {
+        "en": "X Local Electoral District of Colima",
+        "es": "X Distrito Electoral Local de Colima"
+      },
+      "parent_id": "Q61309"
+    },
+    {
+      "id": "Q53000236",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:col/led:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000236"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544335"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Colima"
+      },
+      "name": {
+        "en": "XI Local Electoral District of Colima",
+        "es": "XI Distrito Electoral Local de Colima"
+      },
+      "parent_id": "Q61309"
+    },
+    {
+      "id": "Q53000245",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:col/led:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000245"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544335"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Colima"
+      },
+      "name": {
+        "en": "XII Local Electoral District of Colima",
+        "es": "XII Distrito Electoral Local de Colima"
+      },
+      "parent_id": "Q61309"
+    },
+    {
+      "id": "Q53000257",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:col/led:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000257"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544335"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Colima"
+      },
+      "name": {
+        "en": "XIII Local Electoral District of Colima",
+        "es": "XIII Distrito Electoral Local de Colima"
+      },
+      "parent_id": "Q61309"
+    },
+    {
+      "id": "Q53000258",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:col/led:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000258"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544335"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Colima"
+      },
+      "name": {
+        "en": "XIV Local Electoral District of Colima",
+        "es": "XIV Distrito Electoral Local de Colima"
+      },
+      "parent_id": "Q61309"
+    },
+    {
+      "id": "Q53000260",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:col/led:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000260"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544335"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Colima"
+      },
+      "name": {
+        "en": "XV Local Electoral District of Colima",
+        "es": "XV Distrito Electoral Local de Colima"
+      },
+      "parent_id": "Q61309"
+    },
+    {
+      "id": "Q53000262",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:col/led:16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000262"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544335"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Colima"
+      },
+      "name": {
+        "en": "XVI Local Electoral District of Colima",
+        "es": "XVI Distrito Electoral Local de Colima"
+      },
+      "parent_id": "Q61309"
+    },
+    {
+      "id": "Q61309",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:col"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q61309"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q5589648"
+      ],
+      "type": {
+        "lang:es": "estado de México",
+        "lang:en": "state of Mexico"
+      },
+      "name": {
+        "lang:es": "Colima"
+      },
+      "parent_id": "Q96"
+    },
+    {
+      "id": "Q96",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q96"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q628004"
+      ],
+      "type": {
+        "lang:es": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "United Mexican States",
+        "lang:es": "Estados Unidos Mexicanos"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 

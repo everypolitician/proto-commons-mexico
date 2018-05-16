@@ -6,7 +6,343 @@
 
   ],
   "areas": [
-
+    {
+      "id": "Q53002283",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mor/led:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002283"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544376"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Morelos"
+      },
+      "name": {
+        "en": "I Local Electoral District of Morelos",
+        "es": "I Distrito Electoral Local de Morelos"
+      },
+      "parent_id": "Q66117"
+    },
+    {
+      "id": "Q53002287",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mor/led:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002287"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544376"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Morelos"
+      },
+      "name": {
+        "en": "II Local Electoral District of Morelos",
+        "es": "II Distrito Electoral Local de Morelos"
+      },
+      "parent_id": "Q66117"
+    },
+    {
+      "id": "Q53002289",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mor/led:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002289"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544376"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Morelos"
+      },
+      "name": {
+        "en": "III Local Electoral District of Morelos",
+        "es": "III Distrito Electoral Local de Morelos"
+      },
+      "parent_id": "Q66117"
+    },
+    {
+      "id": "Q53002292",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mor/led:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002292"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544376"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Morelos"
+      },
+      "name": {
+        "en": "IV Local Electoral District of Morelos",
+        "es": "IV Distrito Electoral Local de Morelos"
+      },
+      "parent_id": "Q66117"
+    },
+    {
+      "id": "Q53002295",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mor/led:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002295"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544376"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Morelos"
+      },
+      "name": {
+        "en": "V Local Electoral District of Morelos",
+        "es": "V Distrito Electoral Local de Morelos"
+      },
+      "parent_id": "Q66117"
+    },
+    {
+      "id": "Q53002298",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mor/led:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002298"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544376"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Morelos"
+      },
+      "name": {
+        "en": "VI Local Electoral District of Morelos",
+        "es": "VI Distrito Electoral Local de Morelos"
+      },
+      "parent_id": "Q66117"
+    },
+    {
+      "id": "Q53002307",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mor/led:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002307"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544376"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Morelos"
+      },
+      "name": {
+        "en": "VII Local Electoral District of Morelos",
+        "es": "VII Distrito Electoral Local de Morelos"
+      },
+      "parent_id": "Q66117"
+    },
+    {
+      "id": "Q53002318",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mor/led:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002318"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544376"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Morelos"
+      },
+      "name": {
+        "en": "VIII Local Electoral District of Morelos",
+        "es": "VIII Distrito Electoral Local de Morelos"
+      },
+      "parent_id": "Q66117"
+    },
+    {
+      "id": "Q53002321",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mor/led:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002321"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544376"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Morelos"
+      },
+      "name": {
+        "en": "IX Local Electoral District of Morelos",
+        "es": "IX Distrito Electoral Local de Morelos"
+      },
+      "parent_id": "Q66117"
+    },
+    {
+      "id": "Q53002322",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mor/led:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002322"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544376"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Morelos"
+      },
+      "name": {
+        "en": "X Local Electoral District of Morelos",
+        "es": "X Distrito Electoral Local de Morelos"
+      },
+      "parent_id": "Q66117"
+    },
+    {
+      "id": "Q53002324",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mor/led:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002324"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544376"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Morelos"
+      },
+      "name": {
+        "en": "XI Local Electoral District of Morelos",
+        "es": "XI Distrito Electoral Local de Morelos"
+      },
+      "parent_id": "Q66117"
+    },
+    {
+      "id": "Q53002326",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mor/led:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002326"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544376"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Morelos"
+      },
+      "name": {
+        "en": "XII Local Electoral District of Morelos",
+        "es": "XII Distrito Electoral Local de Morelos"
+      },
+      "parent_id": "Q66117"
+    },
+    {
+      "id": "Q66117",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mor"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q66117"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q5589684"
+      ],
+      "type": {
+        "lang:es": "estado de México",
+        "lang:en": "state of Mexico"
+      },
+      "name": {
+        "lang:es": "Morelos"
+      },
+      "parent_id": "Q96"
+    },
+    {
+      "id": "Q96",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q96"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q628004"
+      ],
+      "type": {
+        "lang:es": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "United Mexican States",
+        "lang:es": "Estados Unidos Mexicanos"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 

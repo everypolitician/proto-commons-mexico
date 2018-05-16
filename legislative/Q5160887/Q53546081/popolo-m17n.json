@@ -6,7 +6,679 @@
 
   ],
   "areas": [
-
+    {
+      "id": "Q53002519",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:pue/led:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002519"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544398"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Puebla"
+      },
+      "name": {
+        "en": "I Local Electoral District of Puebla",
+        "es": "I Distrito Electoral Local de Puebla"
+      },
+      "parent_id": "Q79923"
+    },
+    {
+      "id": "Q53002520",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:pue/led:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002520"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544398"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Puebla"
+      },
+      "name": {
+        "en": "II Local Electoral District of Puebla",
+        "es": "II Distrito Electoral Local de Puebla"
+      },
+      "parent_id": "Q79923"
+    },
+    {
+      "id": "Q53002523",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:pue/led:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002523"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544398"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Puebla"
+      },
+      "name": {
+        "en": "III Local Electoral District of Puebla",
+        "es": "III Distrito Electoral Local de Puebla"
+      },
+      "parent_id": "Q79923"
+    },
+    {
+      "id": "Q53002524",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:pue/led:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002524"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544398"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Puebla"
+      },
+      "name": {
+        "en": "IV Local Electoral District of Puebla",
+        "es": "IV Distrito Electoral Local de Puebla"
+      },
+      "parent_id": "Q79923"
+    },
+    {
+      "id": "Q53002527",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:pue/led:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002527"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544398"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Puebla"
+      },
+      "name": {
+        "en": "V Local Electoral District of Puebla",
+        "es": "V Distrito Electoral Local de Puebla"
+      },
+      "parent_id": "Q79923"
+    },
+    {
+      "id": "Q53002540",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:pue/led:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002540"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544398"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Puebla"
+      },
+      "name": {
+        "en": "VI Local Electoral District of Puebla",
+        "es": "VI Distrito Electoral Local de Puebla"
+      },
+      "parent_id": "Q79923"
+    },
+    {
+      "id": "Q53002548",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:pue/led:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002548"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544398"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Puebla"
+      },
+      "name": {
+        "en": "VII Local Electoral District of Puebla",
+        "es": "VII Distrito Electoral Local de Puebla"
+      },
+      "parent_id": "Q79923"
+    },
+    {
+      "id": "Q53002551",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:pue/led:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002551"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544398"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Puebla"
+      },
+      "name": {
+        "en": "VIII Local Electoral District of Puebla",
+        "es": "VIII Distrito Electoral Local de Puebla"
+      },
+      "parent_id": "Q79923"
+    },
+    {
+      "id": "Q53002554",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:pue/led:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002554"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544398"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Puebla"
+      },
+      "name": {
+        "en": "IX Local Electoral District of Puebla",
+        "es": "IX Distrito Electoral Local de Puebla"
+      },
+      "parent_id": "Q79923"
+    },
+    {
+      "id": "Q53002556",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:pue/led:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002556"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544398"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Puebla"
+      },
+      "name": {
+        "en": "X Local Electoral District of Puebla",
+        "es": "X Distrito Electoral Local de Puebla"
+      },
+      "parent_id": "Q79923"
+    },
+    {
+      "id": "Q53002560",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:pue/led:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002560"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544398"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Puebla"
+      },
+      "name": {
+        "en": "XI Local Electoral District of Puebla",
+        "es": "XI Distrito Electoral Local de Puebla"
+      },
+      "parent_id": "Q79923"
+    },
+    {
+      "id": "Q53002562",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:pue/led:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002562"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544398"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Puebla"
+      },
+      "name": {
+        "en": "XII Local Electoral District of Puebla",
+        "es": "XII Distrito Electoral Local de Puebla"
+      },
+      "parent_id": "Q79923"
+    },
+    {
+      "id": "Q53002565",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:pue/led:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002565"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544398"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Puebla"
+      },
+      "name": {
+        "en": "XIII Local Electoral District of Puebla",
+        "es": "XIII Distrito Electoral Local de Puebla"
+      },
+      "parent_id": "Q79923"
+    },
+    {
+      "id": "Q53002567",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:pue/led:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002567"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544398"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Puebla"
+      },
+      "name": {
+        "en": "XIV Local Electoral District of Puebla",
+        "es": "XIV Distrito Electoral Local de Puebla"
+      },
+      "parent_id": "Q79923"
+    },
+    {
+      "id": "Q53002581",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:pue/led:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002581"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544398"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Puebla"
+      },
+      "name": {
+        "en": "XV Local Electoral District of Puebla",
+        "es": "XV Distrito Electoral Local de Puebla"
+      },
+      "parent_id": "Q79923"
+    },
+    {
+      "id": "Q53002590",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:pue/led:16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002590"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544398"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Puebla"
+      },
+      "name": {
+        "en": "XVI Local Electoral District of Puebla",
+        "es": "XVI Distrito Electoral Local de Puebla"
+      },
+      "parent_id": "Q79923"
+    },
+    {
+      "id": "Q53002593",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:pue/led:17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002593"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544398"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Puebla"
+      },
+      "name": {
+        "en": "XVII Local Electoral District of Puebla",
+        "es": "XVII Distrito Electoral Local de Puebla"
+      },
+      "parent_id": "Q79923"
+    },
+    {
+      "id": "Q53002596",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:pue/led:18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002596"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544398"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Puebla"
+      },
+      "name": {
+        "en": "XVIII Local Electoral District of Puebla",
+        "es": "XVIII Distrito Electoral Local de Puebla"
+      },
+      "parent_id": "Q79923"
+    },
+    {
+      "id": "Q53002598",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:pue/led:19"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002598"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544398"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Puebla"
+      },
+      "name": {
+        "en": "XIX Local Electoral District of Puebla",
+        "es": "XIX Distrito Electoral Local de Puebla"
+      },
+      "parent_id": "Q79923"
+    },
+    {
+      "id": "Q53002601",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:pue/led:20"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002601"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544398"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Puebla"
+      },
+      "name": {
+        "en": "XX Local Electoral District of Puebla",
+        "es": "XX Distrito Electoral Local de Puebla"
+      },
+      "parent_id": "Q79923"
+    },
+    {
+      "id": "Q53002602",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:pue/led:21"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002602"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544398"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Puebla"
+      },
+      "name": {
+        "en": "XXI Local Electoral District of Puebla",
+        "es": "XXI Distrito Electoral Local de Puebla"
+      },
+      "parent_id": "Q79923"
+    },
+    {
+      "id": "Q53002604",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:pue/led:22"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002604"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544398"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Puebla"
+      },
+      "name": {
+        "en": "XXII Local Electoral District of Puebla",
+        "es": "XXII Distrito Electoral Local de Puebla"
+      },
+      "parent_id": "Q79923"
+    },
+    {
+      "id": "Q53002607",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:pue/led:23"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002607"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544398"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Puebla"
+      },
+      "name": {
+        "en": "XXIII Local Electoral District of Puebla",
+        "es": "XXIII Distrito Electoral Local de Puebla"
+      },
+      "parent_id": "Q79923"
+    },
+    {
+      "id": "Q53002615",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:pue/led:24"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002615"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544398"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Puebla"
+      },
+      "name": {
+        "en": "XXIV Local Electoral District of Puebla",
+        "es": "XXIV Distrito Electoral Local de Puebla"
+      },
+      "parent_id": "Q79923"
+    },
+    {
+      "id": "Q53002625",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:pue/led:25"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002625"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544398"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Puebla"
+      },
+      "name": {
+        "en": "XXV Local Electoral District of Puebla",
+        "es": "XXV Distrito Electoral Local de Puebla"
+      },
+      "parent_id": "Q79923"
+    },
+    {
+      "id": "Q53002627",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:pue/led:26"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002627"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544398"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Puebla"
+      },
+      "name": {
+        "en": "XXVI Local Electoral District of Puebla",
+        "es": "XXVI Distrito Electoral Local de Puebla"
+      },
+      "parent_id": "Q79923"
+    },
+    {
+      "id": "Q79923",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:pue"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q79923"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q5589701"
+      ],
+      "type": {
+        "lang:es": "estado de México",
+        "lang:en": "state of Mexico"
+      },
+      "name": {
+        "lang:es": "Puebla"
+      },
+      "parent_id": "Q96"
+    },
+    {
+      "id": "Q96",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q96"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q628004"
+      ],
+      "type": {
+        "lang:es": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "United Mexican States",
+        "lang:es": "Estados Unidos Mexicanos"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 

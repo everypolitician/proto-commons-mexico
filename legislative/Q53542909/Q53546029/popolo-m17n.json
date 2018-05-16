@@ -6,7 +6,487 @@
 
   ],
   "areas": [
-
+    {
+      "id": "Q52991137",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:agu/led:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991137"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544327"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Aguascalientes"
+      },
+      "name": {
+        "en": "I Local Electoral District of Aguascalientes",
+        "es": "I Distrito Electoral Local de Aguascalientes"
+      },
+      "parent_id": "Q79952"
+    },
+    {
+      "id": "Q52991138",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:agu/led:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991138"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544327"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Aguascalientes"
+      },
+      "name": {
+        "en": "II Local Electoral District of Aguascalientes",
+        "es": "II Distrito Electoral Local de Aguascalientes"
+      },
+      "parent_id": "Q79952"
+    },
+    {
+      "id": "Q52991139",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:agu/led:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991139"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544327"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Aguascalientes"
+      },
+      "name": {
+        "en": "III Local Electoral District of Aguascalientes",
+        "es": "III Distrito Electoral Local de Aguascalientes"
+      },
+      "parent_id": "Q79952"
+    },
+    {
+      "id": "Q52991141",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:agu/led:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991141"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544327"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Aguascalientes"
+      },
+      "name": {
+        "en": "V Local Electoral District of Aguascalientes",
+        "es": "V Distrito Electoral Local de Aguascalientes"
+      },
+      "parent_id": "Q79952"
+    },
+    {
+      "id": "Q52991142",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:agu/led:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991142"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544327"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Aguascalientes"
+      },
+      "name": {
+        "en": "VI Local Electoral District of Aguascalientes",
+        "es": "VI Distrito Electoral Local de Aguascalientes"
+      },
+      "parent_id": "Q79952"
+    },
+    {
+      "id": "Q52991143",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:agu/led:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991143"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544327"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Aguascalientes"
+      },
+      "name": {
+        "en": "VII Local Electoral District of Aguascalientes",
+        "es": "VII Distrito Electoral Local de Aguascalientes"
+      },
+      "parent_id": "Q79952"
+    },
+    {
+      "id": "Q52991144",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:agu/led:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991144"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544327"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Aguascalientes"
+      },
+      "name": {
+        "en": "VIII Local Electoral District of Aguascalientes",
+        "es": "VIII Distrito Electoral Local de Aguascalientes"
+      },
+      "parent_id": "Q79952"
+    },
+    {
+      "id": "Q52991146",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:agu/led:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991146"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544327"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Aguascalientes"
+      },
+      "name": {
+        "en": "IX Local Electoral District of Aguascalientes",
+        "es": "IX Distrito Electoral Local de Aguascalientes"
+      },
+      "parent_id": "Q79952"
+    },
+    {
+      "id": "Q52991147",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:agu/led:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991147"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544327"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Aguascalientes"
+      },
+      "name": {
+        "en": "X Local Electoral District of Aguascalientes",
+        "es": "X Distrito Electoral Local de Aguascalientes"
+      },
+      "parent_id": "Q79952"
+    },
+    {
+      "id": "Q52991152",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:agu/led:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991152"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544327"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Aguascalientes"
+      },
+      "name": {
+        "en": "XI Local Electoral District of Aguascalientes",
+        "es": "XI Distrito Electoral Local de Aguascalientes"
+      },
+      "parent_id": "Q79952"
+    },
+    {
+      "id": "Q52991153",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:agu/led:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991153"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544327"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Aguascalientes"
+      },
+      "name": {
+        "en": "XII Local Electoral District of Aguascalientes",
+        "es": "XII Distrito Electoral Local de Aguascalientes"
+      },
+      "parent_id": "Q79952"
+    },
+    {
+      "id": "Q52991154",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:agu/led:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991154"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544327"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Aguascalientes"
+      },
+      "name": {
+        "en": "XIII Local Electoral District of Aguascalientes",
+        "es": "XIII Distrito Electoral Local de Aguascalientes"
+      },
+      "parent_id": "Q79952"
+    },
+    {
+      "id": "Q52991155",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:agu/led:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991155"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544327"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Aguascalientes"
+      },
+      "name": {
+        "en": "XIV Local Electoral District of Aguascalientes",
+        "es": "XIV Distrito Electoral Local de Aguascalientes"
+      },
+      "parent_id": "Q79952"
+    },
+    {
+      "id": "Q52991157",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:agu/led:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991157"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544327"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Aguascalientes"
+      },
+      "name": {
+        "en": "XV Local Electoral District of Aguascalientes",
+        "es": "XV Distrito Electoral Local de Aguascalientes"
+      },
+      "parent_id": "Q79952"
+    },
+    {
+      "id": "Q52991158",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:agu/led:16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991158"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544327"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Aguascalientes"
+      },
+      "name": {
+        "en": "XVI Local Electoral District of Aguascalientes",
+        "es": "XVI Distrito Electoral Local de Aguascalientes"
+      },
+      "parent_id": "Q79952"
+    },
+    {
+      "id": "Q52991159",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:agu/led:17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991159"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544327"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Aguascalientes"
+      },
+      "name": {
+        "en": "XVII Local Electoral District of Aguascalientes",
+        "es": "XVII Distrito Electoral Local de Aguascalientes"
+      },
+      "parent_id": "Q79952"
+    },
+    {
+      "id": "Q52991160",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:agu/led:18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991160"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544327"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Aguascalientes"
+      },
+      "name": {
+        "en": "XVIII Local Electoral District of Aguascalientes",
+        "es": "XVIII Distrito Electoral Local de Aguascalientes"
+      },
+      "parent_id": "Q79952"
+    },
+    {
+      "id": "Q53009735",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:agu/led:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53009735"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544327"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Aguascalientes"
+      },
+      "name": {
+        "en": "IV Local Electoral District of Aguascalientes",
+        "es": "IV Distrito Electoral Local de Aguascalientes"
+      },
+      "parent_id": "Q79952"
+    },
+    {
+      "id": "Q79952",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:agu"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q79952"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q5589628"
+      ],
+      "type": {
+        "lang:es": "estado de México",
+        "lang:en": "state of Mexico"
+      },
+      "name": {
+        "lang:es": "Aguascalientes"
+      },
+      "parent_id": "Q96"
+    },
+    {
+      "id": "Q96",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q96"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q628004"
+      ],
+      "type": {
+        "lang:es": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "United Mexican States",
+        "lang:es": "Estados Unidos Mexicanos"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 

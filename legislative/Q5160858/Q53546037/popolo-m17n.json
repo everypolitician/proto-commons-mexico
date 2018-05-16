@@ -6,7 +6,631 @@
 
   ],
   "areas": [
-
+    {
+      "id": "Q53000265",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:chp/led:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000265"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544336"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Chiapas"
+      },
+      "name": {
+        "en": "I Local Electoral District of Chiapas",
+        "es": "I Distrito Electoral Local de Chiapas"
+      },
+      "parent_id": "Q60123"
+    },
+    {
+      "id": "Q53000266",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:chp/led:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000266"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544336"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Chiapas"
+      },
+      "name": {
+        "en": "II Local Electoral District of Chiapas",
+        "es": "II Distrito Electoral Local de Chiapas"
+      },
+      "parent_id": "Q60123"
+    },
+    {
+      "id": "Q53000269",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:chp/led:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000269"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544336"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Chiapas"
+      },
+      "name": {
+        "en": "III Local Electoral District of Chiapas",
+        "es": "III Distrito Electoral Local de Chiapas"
+      },
+      "parent_id": "Q60123"
+    },
+    {
+      "id": "Q53000272",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:chp/led:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000272"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544336"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Chiapas"
+      },
+      "name": {
+        "en": "IV Local Electoral District of Chiapas",
+        "es": "IV Distrito Electoral Local de Chiapas"
+      },
+      "parent_id": "Q60123"
+    },
+    {
+      "id": "Q53000282",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:chp/led:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000282"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544336"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Chiapas"
+      },
+      "name": {
+        "en": "V Local Electoral District of Chiapas",
+        "es": "V Distrito Electoral Local de Chiapas"
+      },
+      "parent_id": "Q60123"
+    },
+    {
+      "id": "Q53000294",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:chp/led:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000294"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544336"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Chiapas"
+      },
+      "name": {
+        "en": "VI Local Electoral District of Chiapas",
+        "es": "VI Distrito Electoral Local de Chiapas"
+      },
+      "parent_id": "Q60123"
+    },
+    {
+      "id": "Q53000295",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:chp/led:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000295"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544336"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Chiapas"
+      },
+      "name": {
+        "en": "VII Local Electoral District of Chiapas",
+        "es": "VII Distrito Electoral Local de Chiapas"
+      },
+      "parent_id": "Q60123"
+    },
+    {
+      "id": "Q53000297",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:chp/led:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000297"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544336"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Chiapas"
+      },
+      "name": {
+        "en": "VIII Local Electoral District of Chiapas",
+        "es": "VIII Distrito Electoral Local de Chiapas"
+      },
+      "parent_id": "Q60123"
+    },
+    {
+      "id": "Q53000299",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:chp/led:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000299"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544336"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Chiapas"
+      },
+      "name": {
+        "en": "IX Local Electoral District of Chiapas",
+        "es": "IX Distrito Electoral Local de Chiapas"
+      },
+      "parent_id": "Q60123"
+    },
+    {
+      "id": "Q53000302",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:chp/led:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000302"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544336"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Chiapas"
+      },
+      "name": {
+        "en": "X Local Electoral District of Chiapas",
+        "es": "X Distrito Electoral Local de Chiapas"
+      },
+      "parent_id": "Q60123"
+    },
+    {
+      "id": "Q53000303",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:chp/led:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000303"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544336"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Chiapas"
+      },
+      "name": {
+        "en": "XI Local Electoral District of Chiapas",
+        "es": "XI Distrito Electoral Local de Chiapas"
+      },
+      "parent_id": "Q60123"
+    },
+    {
+      "id": "Q53000305",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:chp/led:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000305"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544336"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Chiapas"
+      },
+      "name": {
+        "en": "XII Local Electoral District of Chiapas",
+        "es": "XII Distrito Electoral Local de Chiapas"
+      },
+      "parent_id": "Q60123"
+    },
+    {
+      "id": "Q53000306",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:chp/led:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000306"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544336"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Chiapas"
+      },
+      "name": {
+        "en": "XIII Local Electoral District of Chiapas",
+        "es": "XIII Distrito Electoral Local de Chiapas"
+      },
+      "parent_id": "Q60123"
+    },
+    {
+      "id": "Q53000316",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:chp/led:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000316"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544336"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Chiapas"
+      },
+      "name": {
+        "en": "XIV Local Electoral District of Chiapas",
+        "es": "XIV Distrito Electoral Local de Chiapas"
+      },
+      "parent_id": "Q60123"
+    },
+    {
+      "id": "Q53000326",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:chp/led:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000326"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544336"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Chiapas"
+      },
+      "name": {
+        "en": "XV Local Electoral District of Chiapas",
+        "es": "XV Distrito Electoral Local de Chiapas"
+      },
+      "parent_id": "Q60123"
+    },
+    {
+      "id": "Q53000330",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:chp/led:16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000330"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544336"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Chiapas"
+      },
+      "name": {
+        "en": "XVI Local Electoral District of Chiapas",
+        "es": "XVI Distrito Electoral Local de Chiapas"
+      },
+      "parent_id": "Q60123"
+    },
+    {
+      "id": "Q53000333",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:chp/led:17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000333"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544336"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Chiapas"
+      },
+      "name": {
+        "en": "XVII Local Electoral District of Chiapas",
+        "es": "XVII Distrito Electoral Local de Chiapas"
+      },
+      "parent_id": "Q60123"
+    },
+    {
+      "id": "Q53000335",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:chp/led:18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000335"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544336"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Chiapas"
+      },
+      "name": {
+        "en": "XVIII Local Electoral District of Chiapas",
+        "es": "XVIII Distrito Electoral Local de Chiapas"
+      },
+      "parent_id": "Q60123"
+    },
+    {
+      "id": "Q53000338",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:chp/led:19"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000338"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544336"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Chiapas"
+      },
+      "name": {
+        "en": "XIX Local Electoral District of Chiapas",
+        "es": "XIX Distrito Electoral Local de Chiapas"
+      },
+      "parent_id": "Q60123"
+    },
+    {
+      "id": "Q53000339",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:chp/led:20"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000339"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544336"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Chiapas"
+      },
+      "name": {
+        "en": "XX Local Electoral District of Chiapas",
+        "es": "XX Distrito Electoral Local de Chiapas"
+      },
+      "parent_id": "Q60123"
+    },
+    {
+      "id": "Q53000342",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:chp/led:21"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000342"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544336"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Chiapas"
+      },
+      "name": {
+        "en": "XXI Local Electoral District of Chiapas",
+        "es": "XXI Distrito Electoral Local de Chiapas"
+      },
+      "parent_id": "Q60123"
+    },
+    {
+      "id": "Q53000343",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:chp/led:22"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000343"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544336"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Chiapas"
+      },
+      "name": {
+        "en": "XXII Local Electoral District of Chiapas",
+        "es": "XXII Distrito Electoral Local de Chiapas"
+      },
+      "parent_id": "Q60123"
+    },
+    {
+      "id": "Q53000353",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:chp/led:23"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000353"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544336"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Chiapas"
+      },
+      "name": {
+        "en": "XXIII Local Electoral District of Chiapas",
+        "es": "XXIII Distrito Electoral Local de Chiapas"
+      },
+      "parent_id": "Q60123"
+    },
+    {
+      "id": "Q53000360",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:chp/led:24"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000360"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544336"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Chiapas"
+      },
+      "name": {
+        "en": "XXIV Local Electoral District of Chiapas",
+        "es": "XXIV Distrito Electoral Local de Chiapas"
+      },
+      "parent_id": "Q60123"
+    },
+    {
+      "id": "Q60123",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:chp"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q60123"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q5589647"
+      ],
+      "type": {
+        "lang:es": "estado de México",
+        "lang:en": "state of Mexico"
+      },
+      "name": {
+        "lang:es": "Chiapas"
+      },
+      "parent_id": "Q96"
+    },
+    {
+      "id": "Q96",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q96"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q628004"
+      ],
+      "type": {
+        "lang:es": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "United Mexican States",
+        "lang:es": "Estados Unidos Mexicanos"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 

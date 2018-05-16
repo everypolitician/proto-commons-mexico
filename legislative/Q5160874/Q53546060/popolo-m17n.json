@@ -55,7 +55,535 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q13160",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:jal"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13160"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q5589666"
+      ],
+      "type": {
+        "lang:es": "estado de México",
+        "lang:en": "state of Mexico"
+      },
+      "name": {
+        "lang:es": "Jalisco"
+      },
+      "parent_id": "Q96"
+    },
+    {
+      "id": "Q53002100",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:jal/led:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002100"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544371"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Jalisco"
+      },
+      "name": {
+        "en": "I Local Electoral District of Jalisco",
+        "es": "I Distrito Electoral Local de Jalisco"
+      },
+      "parent_id": "Q13160"
+    },
+    {
+      "id": "Q53002102",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:jal/led:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002102"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544371"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Jalisco"
+      },
+      "name": {
+        "en": "II Local Electoral District of Jalisco",
+        "es": "II Distrito Electoral Local de Jalisco"
+      },
+      "parent_id": "Q13160"
+    },
+    {
+      "id": "Q53002105",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:jal/led:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002105"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544371"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Jalisco"
+      },
+      "name": {
+        "en": "III Local Electoral District of Jalisco",
+        "es": "III Distrito Electoral Local de Jalisco"
+      },
+      "parent_id": "Q13160"
+    },
+    {
+      "id": "Q53002107",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:jal/led:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002107"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544371"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Jalisco"
+      },
+      "name": {
+        "en": "IV Local Electoral District of Jalisco",
+        "es": "IV Distrito Electoral Local de Jalisco"
+      },
+      "parent_id": "Q13160"
+    },
+    {
+      "id": "Q53002109",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:jal/led:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002109"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544371"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Jalisco"
+      },
+      "name": {
+        "en": "V Local Electoral District of Jalisco",
+        "es": "V Distrito Electoral Local de Jalisco"
+      },
+      "parent_id": "Q13160"
+    },
+    {
+      "id": "Q53002118",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:jal/led:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002118"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544371"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Jalisco"
+      },
+      "name": {
+        "en": "VI Local Electoral District of Jalisco",
+        "es": "VI Distrito Electoral Local de Jalisco"
+      },
+      "parent_id": "Q13160"
+    },
+    {
+      "id": "Q53002128",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:jal/led:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002128"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544371"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Jalisco"
+      },
+      "name": {
+        "en": "VII Local Electoral District of Jalisco",
+        "es": "VII Distrito Electoral Local de Jalisco"
+      },
+      "parent_id": "Q13160"
+    },
+    {
+      "id": "Q53002130",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:jal/led:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002130"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544371"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Jalisco"
+      },
+      "name": {
+        "en": "VIII Local Electoral District of Jalisco",
+        "es": "VIII Distrito Electoral Local de Jalisco"
+      },
+      "parent_id": "Q13160"
+    },
+    {
+      "id": "Q53002133",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:jal/led:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002133"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544371"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Jalisco"
+      },
+      "name": {
+        "en": "IX Local Electoral District of Jalisco",
+        "es": "IX Distrito Electoral Local de Jalisco"
+      },
+      "parent_id": "Q13160"
+    },
+    {
+      "id": "Q53002135",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:jal/led:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002135"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544371"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Jalisco"
+      },
+      "name": {
+        "en": "X Local Electoral District of Jalisco",
+        "es": "X Distrito Electoral Local de Jalisco"
+      },
+      "parent_id": "Q13160"
+    },
+    {
+      "id": "Q53002138",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:jal/led:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002138"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544371"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Jalisco"
+      },
+      "name": {
+        "en": "XI Local Electoral District of Jalisco",
+        "es": "XI Distrito Electoral Local de Jalisco"
+      },
+      "parent_id": "Q13160"
+    },
+    {
+      "id": "Q53002140",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:jal/led:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002140"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544371"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Jalisco"
+      },
+      "name": {
+        "en": "XII Local Electoral District of Jalisco",
+        "es": "XII Distrito Electoral Local de Jalisco"
+      },
+      "parent_id": "Q13160"
+    },
+    {
+      "id": "Q53002144",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:jal/led:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002144"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544371"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Jalisco"
+      },
+      "name": {
+        "en": "XIII Local Electoral District of Jalisco",
+        "es": "XIII Distrito Electoral Local de Jalisco"
+      },
+      "parent_id": "Q13160"
+    },
+    {
+      "id": "Q53002146",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:jal/led:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002146"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544371"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Jalisco"
+      },
+      "name": {
+        "en": "XIV Local Electoral District of Jalisco",
+        "es": "XIV Distrito Electoral Local de Jalisco"
+      },
+      "parent_id": "Q13160"
+    },
+    {
+      "id": "Q53002156",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:jal/led:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002156"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544371"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Jalisco"
+      },
+      "name": {
+        "en": "XV Local Electoral District of Jalisco",
+        "es": "XV Distrito Electoral Local de Jalisco"
+      },
+      "parent_id": "Q13160"
+    },
+    {
+      "id": "Q53002167",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:jal/led:16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002167"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544371"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Jalisco"
+      },
+      "name": {
+        "en": "XVI Local Electoral District of Jalisco",
+        "es": "XVI Distrito Electoral Local de Jalisco"
+      },
+      "parent_id": "Q13160"
+    },
+    {
+      "id": "Q53002169",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:jal/led:17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002169"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544371"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Jalisco"
+      },
+      "name": {
+        "en": "XVII Local Electoral District of Jalisco",
+        "es": "XVII Distrito Electoral Local de Jalisco"
+      },
+      "parent_id": "Q13160"
+    },
+    {
+      "id": "Q53002171",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:jal/led:18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002171"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544371"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Jalisco"
+      },
+      "name": {
+        "en": "XVIII Local Electoral District of Jalisco",
+        "es": "XVIII Distrito Electoral Local de Jalisco"
+      },
+      "parent_id": "Q13160"
+    },
+    {
+      "id": "Q53002173",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:jal/led:19"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002173"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544371"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Jalisco"
+      },
+      "name": {
+        "en": "XIX Local Electoral District of Jalisco",
+        "es": "XIX Distrito Electoral Local de Jalisco"
+      },
+      "parent_id": "Q13160"
+    },
+    {
+      "id": "Q53002175",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:jal/led:20"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002175"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544371"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Jalisco"
+      },
+      "name": {
+        "en": "XX Local Electoral District of Jalisco",
+        "es": "XX Distrito Electoral Local de Jalisco"
+      },
+      "parent_id": "Q13160"
+    },
+    {
+      "id": "Q96",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q96"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q628004"
+      ],
+      "type": {
+        "lang:es": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "United Mexican States",
+        "lang:es": "Estados Unidos Mexicanos"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
     {

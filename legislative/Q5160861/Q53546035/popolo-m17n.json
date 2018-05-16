@@ -6,7 +6,439 @@
 
   ],
   "areas": [
-
+    {
+      "id": "Q53000144",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:coa/led:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000144"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544334"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Coahuila"
+      },
+      "name": {
+        "en": "I Local Electoral District of Coahuila",
+        "es": "I Distrito Electoral Local de Coahuila"
+      },
+      "parent_id": "Q53079"
+    },
+    {
+      "id": "Q53000147",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:coa/led:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000147"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544334"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Coahuila"
+      },
+      "name": {
+        "en": "II Local Electoral District of Coahuila",
+        "es": "II Distrito Electoral Local de Coahuila"
+      },
+      "parent_id": "Q53079"
+    },
+    {
+      "id": "Q53000149",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:coa/led:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000149"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544334"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Coahuila"
+      },
+      "name": {
+        "en": "III Local Electoral District of Coahuila",
+        "es": "III Distrito Electoral Local de Coahuila"
+      },
+      "parent_id": "Q53079"
+    },
+    {
+      "id": "Q53000150",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:coa/led:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000150"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544334"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Coahuila"
+      },
+      "name": {
+        "en": "IV Local Electoral District of Coahuila",
+        "es": "IV Distrito Electoral Local de Coahuila"
+      },
+      "parent_id": "Q53079"
+    },
+    {
+      "id": "Q53000151",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:coa/led:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000151"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544334"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Coahuila"
+      },
+      "name": {
+        "en": "V Local Electoral District of Coahuila",
+        "es": "V Distrito Electoral Local de Coahuila"
+      },
+      "parent_id": "Q53079"
+    },
+    {
+      "id": "Q53000152",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:coa/led:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000152"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544334"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Coahuila"
+      },
+      "name": {
+        "en": "VI Local Electoral District of Coahuila",
+        "es": "VI Distrito Electoral Local de Coahuila"
+      },
+      "parent_id": "Q53079"
+    },
+    {
+      "id": "Q53000154",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:coa/led:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000154"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544334"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Coahuila"
+      },
+      "name": {
+        "en": "VII Local Electoral District of Coahuila",
+        "es": "VII Distrito Electoral Local de Coahuila"
+      },
+      "parent_id": "Q53079"
+    },
+    {
+      "id": "Q53000157",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:coa/led:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000157"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544334"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Coahuila"
+      },
+      "name": {
+        "en": "VIII Local Electoral District of Coahuila",
+        "es": "VIII Distrito Electoral Local de Coahuila"
+      },
+      "parent_id": "Q53079"
+    },
+    {
+      "id": "Q53000159",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:coa/led:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000159"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544334"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Coahuila"
+      },
+      "name": {
+        "en": "IX Local Electoral District of Coahuila",
+        "es": "IX Distrito Electoral Local de Coahuila"
+      },
+      "parent_id": "Q53079"
+    },
+    {
+      "id": "Q53000175",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:coa/led:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000175"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544334"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Coahuila"
+      },
+      "name": {
+        "en": "X Local Electoral District of Coahuila",
+        "es": "X Distrito Electoral Local de Coahuila"
+      },
+      "parent_id": "Q53079"
+    },
+    {
+      "id": "Q53000184",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:coa/led:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000184"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544334"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Coahuila"
+      },
+      "name": {
+        "en": "XI Local Electoral District of Coahuila",
+        "es": "XI Distrito Electoral Local de Coahuila"
+      },
+      "parent_id": "Q53079"
+    },
+    {
+      "id": "Q53000185",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:coa/led:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000185"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544334"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Coahuila"
+      },
+      "name": {
+        "en": "XII Local Electoral District of Coahuila",
+        "es": "XII Distrito Electoral Local de Coahuila"
+      },
+      "parent_id": "Q53079"
+    },
+    {
+      "id": "Q53000187",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:coa/led:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000187"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544334"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Coahuila"
+      },
+      "name": {
+        "en": "XIII Local Electoral District of Coahuila",
+        "es": "XIII Distrito Electoral Local de Coahuila"
+      },
+      "parent_id": "Q53079"
+    },
+    {
+      "id": "Q53000189",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:coa/led:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000189"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544334"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Coahuila"
+      },
+      "name": {
+        "en": "XIV Local Electoral District of Coahuila",
+        "es": "XIV Distrito Electoral Local de Coahuila"
+      },
+      "parent_id": "Q53079"
+    },
+    {
+      "id": "Q53000192",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:coa/led:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000192"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544334"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Coahuila"
+      },
+      "name": {
+        "en": "XV Local Electoral District of Coahuila",
+        "es": "XV Distrito Electoral Local de Coahuila"
+      },
+      "parent_id": "Q53079"
+    },
+    {
+      "id": "Q53000193",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:coa/led:16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53000193"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544334"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Coahuila"
+      },
+      "name": {
+        "en": "XVI Local Electoral District of Coahuila",
+        "es": "XVI Distrito Electoral Local de Coahuila"
+      },
+      "parent_id": "Q53079"
+    },
+    {
+      "id": "Q53079",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:coa"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53079"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q11812211"
+      ],
+      "type": {
+        "lang:es": "estado de México",
+        "lang:en": "state of Mexico"
+      },
+      "name": {
+        "lang:es": "Coahuila"
+      },
+      "parent_id": "Q96"
+    },
+    {
+      "id": "Q96",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q96"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q628004"
+      ],
+      "type": {
+        "lang:es": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "United Mexican States",
+        "lang:es": "Estados Unidos Mexicanos"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 

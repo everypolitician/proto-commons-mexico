@@ -6,7 +6,727 @@
 
   ],
   "areas": [
-
+    {
+      "id": "Q52999219",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:gro/led:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52999219"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544368"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Guerrero"
+      },
+      "name": {
+        "en": "I Local Electoral District of Guerrero",
+        "es": "I Distrito Electoral Local de Guerrero"
+      },
+      "parent_id": "Q60158"
+    },
+    {
+      "id": "Q52999221",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:gro/led:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52999221"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544368"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Guerrero"
+      },
+      "name": {
+        "en": "II Local Electoral District of Guerrero",
+        "es": "II Distrito Electoral Local de Guerrero"
+      },
+      "parent_id": "Q60158"
+    },
+    {
+      "id": "Q52999223",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:gro/led:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52999223"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544368"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Guerrero"
+      },
+      "name": {
+        "en": "III Local Electoral District of Guerrero",
+        "es": "III Distrito Electoral Local de Guerrero"
+      },
+      "parent_id": "Q60158"
+    },
+    {
+      "id": "Q52999226",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:gro/led:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52999226"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544368"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Guerrero"
+      },
+      "name": {
+        "en": "IV Local Electoral District of Guerrero",
+        "es": "IV Distrito Electoral Local de Guerrero"
+      },
+      "parent_id": "Q60158"
+    },
+    {
+      "id": "Q52999230",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:gro/led:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52999230"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544368"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Guerrero"
+      },
+      "name": {
+        "en": "V Local Electoral District of Guerrero",
+        "es": "V Distrito Electoral Local de Guerrero"
+      },
+      "parent_id": "Q60158"
+    },
+    {
+      "id": "Q52999232",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:gro/led:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52999232"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544368"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Guerrero"
+      },
+      "name": {
+        "en": "VI Local Electoral District of Guerrero",
+        "es": "VI Distrito Electoral Local de Guerrero"
+      },
+      "parent_id": "Q60158"
+    },
+    {
+      "id": "Q52999234",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:gro/led:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52999234"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544368"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Guerrero"
+      },
+      "name": {
+        "en": "VII Local Electoral District of Guerrero",
+        "es": "VII Distrito Electoral Local de Guerrero"
+      },
+      "parent_id": "Q60158"
+    },
+    {
+      "id": "Q52999235",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:gro/led:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52999235"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544368"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Guerrero"
+      },
+      "name": {
+        "en": "VIII Local Electoral District of Guerrero",
+        "es": "VIII Distrito Electoral Local de Guerrero"
+      },
+      "parent_id": "Q60158"
+    },
+    {
+      "id": "Q52999237",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:gro/led:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52999237"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544368"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Guerrero"
+      },
+      "name": {
+        "en": "IX Local Electoral District of Guerrero",
+        "es": "IX Distrito Electoral Local de Guerrero"
+      },
+      "parent_id": "Q60158"
+    },
+    {
+      "id": "Q52999249",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:gro/led:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52999249"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544368"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Guerrero"
+      },
+      "name": {
+        "en": "X Local Electoral District of Guerrero",
+        "es": "X Distrito Electoral Local de Guerrero"
+      },
+      "parent_id": "Q60158"
+    },
+    {
+      "id": "Q52999258",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:gro/led:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52999258"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544368"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Guerrero"
+      },
+      "name": {
+        "en": "XI Local Electoral District of Guerrero",
+        "es": "XI Distrito Electoral Local de Guerrero"
+      },
+      "parent_id": "Q60158"
+    },
+    {
+      "id": "Q52999260",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:gro/led:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52999260"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544368"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Guerrero"
+      },
+      "name": {
+        "en": "XII Local Electoral District of Guerrero",
+        "es": "XII Distrito Electoral Local de Guerrero"
+      },
+      "parent_id": "Q60158"
+    },
+    {
+      "id": "Q52999262",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:gro/led:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52999262"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544368"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Guerrero"
+      },
+      "name": {
+        "en": "XIII Local Electoral District of Guerrero",
+        "es": "XIII Distrito Electoral Local de Guerrero"
+      },
+      "parent_id": "Q60158"
+    },
+    {
+      "id": "Q52999264",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:gro/led:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52999264"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544368"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Guerrero"
+      },
+      "name": {
+        "en": "XIV Local Electoral District of Guerrero",
+        "es": "XIV Distrito Electoral Local de Guerrero"
+      },
+      "parent_id": "Q60158"
+    },
+    {
+      "id": "Q52999268",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:gro/led:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52999268"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544368"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Guerrero"
+      },
+      "name": {
+        "en": "XV Local Electoral District of Guerrero",
+        "es": "XV Distrito Electoral Local de Guerrero"
+      },
+      "parent_id": "Q60158"
+    },
+    {
+      "id": "Q52999272",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:gro/led:16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52999272"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544368"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Guerrero"
+      },
+      "name": {
+        "en": "XVI Local Electoral District of Guerrero",
+        "es": "XVI Distrito Electoral Local de Guerrero"
+      },
+      "parent_id": "Q60158"
+    },
+    {
+      "id": "Q52999274",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:gro/led:17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52999274"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544368"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Guerrero"
+      },
+      "name": {
+        "en": "XVII Local Electoral District of Guerrero",
+        "es": "XVII Distrito Electoral Local de Guerrero"
+      },
+      "parent_id": "Q60158"
+    },
+    {
+      "id": "Q52999277",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:gro/led:18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52999277"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544368"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Guerrero"
+      },
+      "name": {
+        "en": "XVIII Local Electoral District of Guerrero",
+        "es": "XVIII Distrito Electoral Local de Guerrero"
+      },
+      "parent_id": "Q60158"
+    },
+    {
+      "id": "Q52999286",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:gro/led:19"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52999286"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544368"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Guerrero"
+      },
+      "name": {
+        "en": "XIX Local Electoral District of Guerrero",
+        "es": "XIX Distrito Electoral Local de Guerrero"
+      },
+      "parent_id": "Q60158"
+    },
+    {
+      "id": "Q52999299",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:gro/led:20"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52999299"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544368"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Guerrero"
+      },
+      "name": {
+        "en": "XX Local Electoral District of Guerrero",
+        "es": "XX Distrito Electoral Local de Guerrero"
+      },
+      "parent_id": "Q60158"
+    },
+    {
+      "id": "Q52999301",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:gro/led:21"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52999301"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544368"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Guerrero"
+      },
+      "name": {
+        "en": "XXI Local Electoral District of Guerrero",
+        "es": "XXI Distrito Electoral Local de Guerrero"
+      },
+      "parent_id": "Q60158"
+    },
+    {
+      "id": "Q52999304",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:gro/led:22"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52999304"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544368"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Guerrero"
+      },
+      "name": {
+        "en": "XXII Local Electoral District of Guerrero",
+        "es": "XXII Distrito Electoral Local de Guerrero"
+      },
+      "parent_id": "Q60158"
+    },
+    {
+      "id": "Q52999306",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:gro/led:23"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52999306"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544368"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Guerrero"
+      },
+      "name": {
+        "en": "XXIII Local Electoral District of Guerrero",
+        "es": "XXIII Distrito Electoral Local de Guerrero"
+      },
+      "parent_id": "Q60158"
+    },
+    {
+      "id": "Q52999308",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:gro/led:24"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52999308"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544368"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Guerrero"
+      },
+      "name": {
+        "en": "XXIV Local Electoral District of Guerrero",
+        "es": "XXIV Distrito Electoral Local de Guerrero"
+      },
+      "parent_id": "Q60158"
+    },
+    {
+      "id": "Q52999312",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:gro/led:25"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52999312"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544368"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Guerrero"
+      },
+      "name": {
+        "en": "XXV Local Electoral District of Guerrero",
+        "es": "XXV Distrito Electoral Local de Guerrero"
+      },
+      "parent_id": "Q60158"
+    },
+    {
+      "id": "Q52999314",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:gro/led:26"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52999314"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544368"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Guerrero"
+      },
+      "name": {
+        "en": "XXVI Local Electoral District of Guerrero",
+        "es": "XXVI Distrito Electoral Local de Guerrero"
+      },
+      "parent_id": "Q60158"
+    },
+    {
+      "id": "Q52999316",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:gro/led:27"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52999316"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544368"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Guerrero"
+      },
+      "name": {
+        "en": "XXVII Local Electoral District of Guerrero",
+        "es": "XXVII Distrito Electoral Local de Guerrero"
+      },
+      "parent_id": "Q60158"
+    },
+    {
+      "id": "Q52999323",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:gro/led:28"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52999323"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544368"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Guerrero"
+      },
+      "name": {
+        "en": "XXVIII Local Electoral District of Guerrero",
+        "es": "XXVIII Distrito Electoral Local de Guerrero"
+      },
+      "parent_id": "Q60158"
+    },
+    {
+      "id": "Q60158",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:gro"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q60158"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q5589659"
+      ],
+      "type": {
+        "lang:es": "estado de México",
+        "lang:en": "state of Mexico"
+      },
+      "name": {
+        "lang:es": "Guerrero"
+      },
+      "parent_id": "Q96"
+    },
+    {
+      "id": "Q96",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q96"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q628004"
+      ],
+      "type": {
+        "lang:es": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "United Mexican States",
+        "lang:es": "Estados Unidos Mexicanos"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 

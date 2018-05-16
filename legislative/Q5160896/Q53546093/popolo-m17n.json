@@ -6,7 +6,559 @@
 
   ],
   "areas": [
-
+    {
+      "id": "Q53002945",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:tab/led:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002945"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544410"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Tabasco"
+      },
+      "name": {
+        "en": "I Local Electoral District of Tabasco",
+        "es": "I Distrito Electoral Local de Tabasco"
+      },
+      "parent_id": "Q80914"
+    },
+    {
+      "id": "Q53002955",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:tab/led:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002955"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544410"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Tabasco"
+      },
+      "name": {
+        "en": "II Local Electoral District of Tabasco",
+        "es": "II Distrito Electoral Local de Tabasco"
+      },
+      "parent_id": "Q80914"
+    },
+    {
+      "id": "Q53002958",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:tab/led:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002958"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544410"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Tabasco"
+      },
+      "name": {
+        "en": "III Local Electoral District of Tabasco",
+        "es": "III Distrito Electoral Local de Tabasco"
+      },
+      "parent_id": "Q80914"
+    },
+    {
+      "id": "Q53002962",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:tab/led:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002962"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544410"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Tabasco"
+      },
+      "name": {
+        "en": "IV Local Electoral District of Tabasco",
+        "es": "IV Distrito Electoral Local de Tabasco"
+      },
+      "parent_id": "Q80914"
+    },
+    {
+      "id": "Q53002967",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:tab/led:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002967"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544410"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Tabasco"
+      },
+      "name": {
+        "en": "V Local Electoral District of Tabasco",
+        "es": "V Distrito Electoral Local de Tabasco"
+      },
+      "parent_id": "Q80914"
+    },
+    {
+      "id": "Q53002968",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:tab/led:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002968"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544410"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Tabasco"
+      },
+      "name": {
+        "en": "VI Local Electoral District of Tabasco",
+        "es": "VI Distrito Electoral Local de Tabasco"
+      },
+      "parent_id": "Q80914"
+    },
+    {
+      "id": "Q53002970",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:tab/led:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002970"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544410"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Tabasco"
+      },
+      "name": {
+        "en": "VII Local Electoral District of Tabasco",
+        "es": "VII Distrito Electoral Local de Tabasco"
+      },
+      "parent_id": "Q80914"
+    },
+    {
+      "id": "Q53002972",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:tab/led:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002972"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544410"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Tabasco"
+      },
+      "name": {
+        "en": "VIII Local Electoral District of Tabasco",
+        "es": "VIII Distrito Electoral Local de Tabasco"
+      },
+      "parent_id": "Q80914"
+    },
+    {
+      "id": "Q53002975",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:tab/led:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002975"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544410"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Tabasco"
+      },
+      "name": {
+        "en": "IX Local Electoral District of Tabasco",
+        "es": "IX Distrito Electoral Local de Tabasco"
+      },
+      "parent_id": "Q80914"
+    },
+    {
+      "id": "Q53002982",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:tab/led:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002982"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544410"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Tabasco"
+      },
+      "name": {
+        "en": "X Local Electoral District of Tabasco",
+        "es": "X Distrito Electoral Local de Tabasco"
+      },
+      "parent_id": "Q80914"
+    },
+    {
+      "id": "Q53002993",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:tab/led:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002993"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544410"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Tabasco"
+      },
+      "name": {
+        "en": "XI Local Electoral District of Tabasco",
+        "es": "XI Distrito Electoral Local de Tabasco"
+      },
+      "parent_id": "Q80914"
+    },
+    {
+      "id": "Q53002995",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:tab/led:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002995"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544410"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Tabasco"
+      },
+      "name": {
+        "en": "XII Local Electoral District of Tabasco",
+        "es": "XII Distrito Electoral Local de Tabasco"
+      },
+      "parent_id": "Q80914"
+    },
+    {
+      "id": "Q53002998",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:tab/led:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002998"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544410"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Tabasco"
+      },
+      "name": {
+        "en": "XIII Local Electoral District of Tabasco",
+        "es": "XIII Distrito Electoral Local de Tabasco"
+      },
+      "parent_id": "Q80914"
+    },
+    {
+      "id": "Q53003002",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:tab/led:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003002"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544410"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Tabasco"
+      },
+      "name": {
+        "en": "XIV Local Electoral District of Tabasco",
+        "es": "XIV Distrito Electoral Local de Tabasco"
+      },
+      "parent_id": "Q80914"
+    },
+    {
+      "id": "Q53003004",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:tab/led:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003004"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544410"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Tabasco"
+      },
+      "name": {
+        "en": "XV Local Electoral District of Tabasco",
+        "es": "XV Distrito Electoral Local de Tabasco"
+      },
+      "parent_id": "Q80914"
+    },
+    {
+      "id": "Q53003006",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:tab/led:16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003006"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544410"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Tabasco"
+      },
+      "name": {
+        "en": "XVI Local Electoral District of Tabasco",
+        "es": "XVI Distrito Electoral Local de Tabasco"
+      },
+      "parent_id": "Q80914"
+    },
+    {
+      "id": "Q53003008",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:tab/led:17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003008"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544410"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Tabasco"
+      },
+      "name": {
+        "en": "XVII Local Electoral District of Tabasco",
+        "es": "XVII Distrito Electoral Local de Tabasco"
+      },
+      "parent_id": "Q80914"
+    },
+    {
+      "id": "Q53003012",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:tab/led:18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003012"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544410"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Tabasco"
+      },
+      "name": {
+        "en": "XVIII Local Electoral District of Tabasco",
+        "es": "XVIII Distrito Electoral Local de Tabasco"
+      },
+      "parent_id": "Q80914"
+    },
+    {
+      "id": "Q53003019",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:tab/led:19"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003019"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544410"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Tabasco"
+      },
+      "name": {
+        "en": "XIX Local Electoral District of Tabasco",
+        "es": "XIX Distrito Electoral Local de Tabasco"
+      },
+      "parent_id": "Q80914"
+    },
+    {
+      "id": "Q53003028",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:tab/led:20"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003028"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544410"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Tabasco"
+      },
+      "name": {
+        "en": "XX Local Electoral District of Tabasco",
+        "es": "XX Distrito Electoral Local de Tabasco"
+      },
+      "parent_id": "Q80914"
+    },
+    {
+      "id": "Q53003031",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:tab/led:21"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53003031"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544410"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Tabasco"
+      },
+      "name": {
+        "en": "XXI Local Electoral District of Tabasco",
+        "es": "XXI Distrito Electoral Local de Tabasco"
+      },
+      "parent_id": "Q80914"
+    },
+    {
+      "id": "Q80914",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:tab"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q80914"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q5589723"
+      ],
+      "type": {
+        "lang:es": "estado de México",
+        "lang:en": "state of Mexico"
+      },
+      "name": {
+        "lang:es": "Tabasco"
+      },
+      "parent_id": "Q96"
+    },
+    {
+      "id": "Q96",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q96"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q628004"
+      ],
+      "type": {
+        "lang:es": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "United Mexican States",
+        "lang:es": "Estados Unidos Mexicanos"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 

@@ -6,7 +6,631 @@
 
   ],
   "areas": [
-
+    {
+      "id": "Q53002177",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mic/led:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002177"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544375"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Michoacan"
+      },
+      "name": {
+        "en": "I Local Electoral District of Michoacan",
+        "es": "I Distrito Electoral Local de Michoacan"
+      },
+      "parent_id": "Q79861"
+    },
+    {
+      "id": "Q53002179",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mic/led:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002179"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544375"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Michoacan"
+      },
+      "name": {
+        "en": "II Local Electoral District of Michoacan",
+        "es": "II Distrito Electoral Local de Michoacan"
+      },
+      "parent_id": "Q79861"
+    },
+    {
+      "id": "Q53002180",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mic/led:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002180"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544375"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Michoacan"
+      },
+      "name": {
+        "en": "III Local Electoral District of Michoacan",
+        "es": "III Distrito Electoral Local de Michoacan"
+      },
+      "parent_id": "Q79861"
+    },
+    {
+      "id": "Q53002189",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mic/led:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002189"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544375"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Michoacan"
+      },
+      "name": {
+        "en": "IV Local Electoral District of Michoacan",
+        "es": "IV Distrito Electoral Local de Michoacan"
+      },
+      "parent_id": "Q79861"
+    },
+    {
+      "id": "Q53002200",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mic/led:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002200"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544375"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Michoacan"
+      },
+      "name": {
+        "en": "V Local Electoral District of Michoacan",
+        "es": "V Distrito Electoral Local de Michoacan"
+      },
+      "parent_id": "Q79861"
+    },
+    {
+      "id": "Q53002203",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mic/led:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002203"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544375"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Michoacan"
+      },
+      "name": {
+        "en": "VI Local Electoral District of Michoacan",
+        "es": "VI Distrito Electoral Local de Michoacan"
+      },
+      "parent_id": "Q79861"
+    },
+    {
+      "id": "Q53002204",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mic/led:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002204"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544375"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Michoacan"
+      },
+      "name": {
+        "en": "VII Local Electoral District of Michoacan",
+        "es": "VII Distrito Electoral Local de Michoacan"
+      },
+      "parent_id": "Q79861"
+    },
+    {
+      "id": "Q53002208",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mic/led:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002208"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544375"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Michoacan"
+      },
+      "name": {
+        "en": "VIII Local Electoral District of Michoacan",
+        "es": "VIII Distrito Electoral Local de Michoacan"
+      },
+      "parent_id": "Q79861"
+    },
+    {
+      "id": "Q53002210",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mic/led:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002210"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544375"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Michoacan"
+      },
+      "name": {
+        "en": "IX Local Electoral District of Michoacan",
+        "es": "IX Distrito Electoral Local de Michoacan"
+      },
+      "parent_id": "Q79861"
+    },
+    {
+      "id": "Q53002213",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mic/led:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002213"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544375"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Michoacan"
+      },
+      "name": {
+        "en": "X Local Electoral District of Michoacan",
+        "es": "X Distrito Electoral Local de Michoacan"
+      },
+      "parent_id": "Q79861"
+    },
+    {
+      "id": "Q53002216",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mic/led:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002216"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544375"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Michoacan"
+      },
+      "name": {
+        "en": "XI Local Electoral District of Michoacan",
+        "es": "XI Distrito Electoral Local de Michoacan"
+      },
+      "parent_id": "Q79861"
+    },
+    {
+      "id": "Q53002218",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mic/led:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002218"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544375"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Michoacan"
+      },
+      "name": {
+        "en": "XII Local Electoral District of Michoacan",
+        "es": "XII Distrito Electoral Local de Michoacan"
+      },
+      "parent_id": "Q79861"
+    },
+    {
+      "id": "Q53002227",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mic/led:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002227"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544375"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Michoacan"
+      },
+      "name": {
+        "en": "XIII Local Electoral District of Michoacan",
+        "es": "XIII Distrito Electoral Local de Michoacan"
+      },
+      "parent_id": "Q79861"
+    },
+    {
+      "id": "Q53002239",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mic/led:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002239"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544375"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Michoacan"
+      },
+      "name": {
+        "en": "XIV Local Electoral District of Michoacan",
+        "es": "XIV Distrito Electoral Local de Michoacan"
+      },
+      "parent_id": "Q79861"
+    },
+    {
+      "id": "Q53002242",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mic/led:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002242"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544375"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Michoacan"
+      },
+      "name": {
+        "en": "XV Local Electoral District of Michoacan",
+        "es": "XV Distrito Electoral Local de Michoacan"
+      },
+      "parent_id": "Q79861"
+    },
+    {
+      "id": "Q53002245",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mic/led:16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002245"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544375"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Michoacan"
+      },
+      "name": {
+        "en": "XVI Local Electoral District of Michoacan",
+        "es": "XVI Distrito Electoral Local de Michoacan"
+      },
+      "parent_id": "Q79861"
+    },
+    {
+      "id": "Q53002248",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mic/led:17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002248"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544375"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Michoacan"
+      },
+      "name": {
+        "en": "XVII Local Electoral District of Michoacan",
+        "es": "XVII Distrito Electoral Local de Michoacan"
+      },
+      "parent_id": "Q79861"
+    },
+    {
+      "id": "Q53002250",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mic/led:18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002250"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544375"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Michoacan"
+      },
+      "name": {
+        "en": "XVIII Local Electoral District of Michoacan",
+        "es": "XVIII Distrito Electoral Local de Michoacan"
+      },
+      "parent_id": "Q79861"
+    },
+    {
+      "id": "Q53002253",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mic/led:19"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002253"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544375"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Michoacan"
+      },
+      "name": {
+        "en": "XIX Local Electoral District of Michoacan",
+        "es": "XIX Distrito Electoral Local de Michoacan"
+      },
+      "parent_id": "Q79861"
+    },
+    {
+      "id": "Q53002256",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mic/led:20"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002256"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544375"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Michoacan"
+      },
+      "name": {
+        "en": "XX Local Electoral District of Michoacan",
+        "es": "XX Distrito Electoral Local de Michoacan"
+      },
+      "parent_id": "Q79861"
+    },
+    {
+      "id": "Q53002259",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mic/led:21"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002259"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544375"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Michoacan"
+      },
+      "name": {
+        "en": "XXI Local Electoral District of Michoacan",
+        "es": "XXI Distrito Electoral Local de Michoacan"
+      },
+      "parent_id": "Q79861"
+    },
+    {
+      "id": "Q53002268",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mic/led:22"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002268"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544375"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Michoacan"
+      },
+      "name": {
+        "en": "XXII Local Electoral District of Michoacan",
+        "es": "XXII Distrito Electoral Local de Michoacan"
+      },
+      "parent_id": "Q79861"
+    },
+    {
+      "id": "Q53002278",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mic/led:23"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002278"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544375"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Michoacan"
+      },
+      "name": {
+        "en": "XXIII Local Electoral District of Michoacan",
+        "es": "XXIII Distrito Electoral Local de Michoacan"
+      },
+      "parent_id": "Q79861"
+    },
+    {
+      "id": "Q53002281",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mic/led:24"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002281"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544375"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Michoacan"
+      },
+      "name": {
+        "en": "XXIV Local Electoral District of Michoacan",
+        "es": "XXIV Distrito Electoral Local de Michoacan"
+      },
+      "parent_id": "Q79861"
+    },
+    {
+      "id": "Q79861",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:mic"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q79861"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q5589681"
+      ],
+      "type": {
+        "lang:es": "estado de México",
+        "lang:en": "state of Mexico"
+      },
+      "name": {
+        "lang:es": "Michoacán"
+      },
+      "parent_id": "Q96"
+    },
+    {
+      "id": "Q96",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q96"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q628004"
+      ],
+      "type": {
+        "lang:es": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "United Mexican States",
+        "lang:es": "Estados Unidos Mexicanos"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 
