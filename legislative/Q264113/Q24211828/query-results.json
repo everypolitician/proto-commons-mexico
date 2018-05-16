@@ -24,15 +24,10 @@
       },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q80252"
+        "value" : "http://www.wikidata.org/entity/Q53539342"
       },
       "district_name_en" : {
         "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Sinaloa"
-      },
-      "district_name_es" : {
-        "xml:lang" : "es",
         "type" : "literal",
         "value" : "Sinaloa"
       },
@@ -126,15 +121,10 @@
       },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q60176"
+        "value" : "http://www.wikidata.org/entity/Q53539380"
       },
       "district_name_en" : {
         "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Yucatán"
-      },
-      "district_name_es" : {
-        "xml:lang" : "es",
         "type" : "literal",
         "value" : "Yucatán"
       },
@@ -224,15 +214,10 @@
       },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q80245"
+        "value" : "http://www.wikidata.org/entity/Q53539330"
       },
       "district_name_en" : {
         "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Quintana Roo"
-      },
-      "district_name_es" : {
-        "xml:lang" : "es",
         "type" : "literal",
         "value" : "Quintana Roo"
       },
@@ -322,15 +307,10 @@
       },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q60176"
+        "value" : "http://www.wikidata.org/entity/Q53539380"
       },
       "district_name_en" : {
         "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Yucatán"
-      },
-      "district_name_es" : {
-        "xml:lang" : "es",
         "type" : "literal",
         "value" : "Yucatán"
       },
@@ -424,15 +404,10 @@
       },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q46508"
+        "value" : "http://www.wikidata.org/entity/Q53538975"
       },
       "district_name_en" : {
         "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Baja California Sur"
-      },
-      "district_name_es" : {
-        "xml:lang" : "es",
         "type" : "literal",
         "value" : "Baja California Sur"
       },
