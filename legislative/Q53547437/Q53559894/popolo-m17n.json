@@ -1,0 +1,75 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:es": "Federico Zermeño Padilla",
+        "lang:en": "Federico Zermeño Padilla"
+      },
+      "id": "Q53567012",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53567012"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:es": "Ayuntamiento de León",
+        "lang:en": "Town Hall of Leon"
+      },
+      "id": "Q53547437",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53547437"
+        }
+      ],
+      "area_id": "Q9022143",
+      "seat_counts": {
+        "Q53547728": "14"
+      }
+    },
+    {
+      "name": {
+        "lang:es": "Partido Acción Nacional",
+        "lang:en": "National Action Party"
+      },
+      "id": "Q851087",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q851087"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q53567012-B3E01569-C5B5-4996-B30F-4506165D7057",
+      "person_id": "Q53567012",
+      "on_behalf_of_id": "Q851087",
+      "organization_id": "Q53547437",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:es": "concejal",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53547728",
+      "role": {
+        "lang:es": "regidor de la Honorable Ayuntamiento de León",
+        "lang:en": "alderman of the Honorable City Council of Leon"
+      }
+    }
+  ]
+}

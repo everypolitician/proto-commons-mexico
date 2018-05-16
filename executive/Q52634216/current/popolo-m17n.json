@@ -1,0 +1,76 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:es": "Enrique Ibarra Pedroza",
+        "lang:en": "Enrique Ibarra Pedroza"
+      },
+      "id": "Q5379729",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5379729"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/EnriqueIbarraP"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:es": "Gabinete de Guadalajara",
+        "lang:en": "Cabinet of Guadalajara"
+      },
+      "id": "Q52634216",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52634216"
+        }
+      ],
+      "area_id": "Q12348369"
+    },
+    {
+      "name": {
+        "lang:es": "Partido Revolucionario Institucional",
+        "lang:en": "Institutional Revolutionary Party"
+      },
+      "id": "Q682969",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q682969"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5379729-45C7A6E4-94CA-44A3-ADA5-2B618B0C12C6",
+      "person_id": "Q5379729",
+      "on_behalf_of_id": "Q682969",
+      "organization_id": "Q52634216",
+      "area_id": "Q12348369",
+      "role_superclass_code": "Q52634195",
+      "role_superclass": {
+        "lang:es": "Presidente Municipal de Guadalajara",
+        "lang:en": "Municipal President of Guadalajara"
+      },
+      "role_code": "Q52634195",
+      "role": {
+        "lang:es": "Presidente Municipal de Guadalajara",
+        "lang:en": "Municipal President of Guadalajara"
+      }
+    }
+  ]
+}

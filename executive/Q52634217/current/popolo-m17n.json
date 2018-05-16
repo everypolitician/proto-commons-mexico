@@ -1,0 +1,76 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:es": "Héctor López Santillana",
+        "lang:en": "Héctor López Santillana"
+      },
+      "id": "Q5906263",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5906263"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/hlsantillana"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:es": "Gabinete de León de los Aldama",
+        "lang:en": "Cabinet of Leon de los Aldama"
+      },
+      "id": "Q52634217",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52634217"
+        }
+      ],
+      "area_id": "Q9022143"
+    },
+    {
+      "name": {
+        "lang:es": "Partido Acción Nacional",
+        "lang:en": "National Action Party"
+      },
+      "id": "Q851087",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q851087"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5906263-99773450-A45C-4185-8BAA-238D09DE6D21",
+      "person_id": "Q5906263",
+      "on_behalf_of_id": "Q851087",
+      "organization_id": "Q52634217",
+      "area_id": "Q9022143",
+      "role_superclass_code": "Q52634196",
+      "role_superclass": {
+        "lang:es": "Presidente Municipal de León de los Aldama",
+        "lang:en": "Municipal President of León de los Aldama"
+      },
+      "role_code": "Q52634196",
+      "role": {
+        "lang:es": "Presidente Municipal de León de los Aldama",
+        "lang:en": "Municipal President of León de los Aldama"
+      }
+    }
+  ]
+}

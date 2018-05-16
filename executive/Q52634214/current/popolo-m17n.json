@@ -1,0 +1,74 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:es": "Juan Manuel Gastélum Buenrostro",
+        "lang:en": "Juan Manuel Gastélum Buenrostro"
+      },
+      "id": "Q16186248",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16186248"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/ALCDETI"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:es": "Gabinete de Tijuana",
+        "lang:en": "Cabinet of Tijuana"
+      },
+      "id": "Q52634214",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52634214"
+        }
+      ],
+      "area_id": "Q2360428"
+    },
+    {
+      "name": {
+        "lang:es": "Partido Acción Nacional",
+        "lang:en": "National Action Party"
+      },
+      "id": "Q851087",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q851087"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16186248-FEB37030-9BB7-47E0-AEEF-124997F8BDA6",
+      "person_id": "Q16186248",
+      "on_behalf_of_id": "Q851087",
+      "organization_id": "Q52634214",
+      "area_id": "Q2360428",
+      "role_superclass_code": "Q16242755",
+      "role_superclass": {
+        "lang:en": "Municipal President of Tijuana"
+      },
+      "role_code": "Q16242755",
+      "role": {
+        "lang:en": "Municipal President of Tijuana"
+      }
+    }
+  ]
+}

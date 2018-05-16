@@ -1,0 +1,61 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:es": "Indalecio Ríos Velázquez",
+        "lang:en": "Indalecio Ríos Velázquez"
+      },
+      "id": "Q53585530",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53585530"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/indalecioriosv"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:es": "Gabinete de Ecatepec de Morelos",
+        "lang:en": "Cabinet of Ecatepec de Morelos"
+      },
+      "id": "Q52634213",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52634213"
+        }
+      ],
+      "area_id": "Q15121208"
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q53585530-D42EB624-6CC6-4BEE-B07C-8DC57DA1C3EE",
+      "person_id": "Q53585530",
+      "organization_id": "Q52634213",
+      "area_id": "Q15121208",
+      "role_superclass_code": "Q52634194",
+      "role_superclass": {
+        "lang:es": "Presidente municipal de Ecatepec de Morelos",
+        "lang:en": "Municipal President of Ecatepec de Morelos"
+      },
+      "role_code": "Q52634194",
+      "role": {
+        "lang:es": "Presidente municipal de Ecatepec de Morelos",
+        "lang:en": "Municipal President of Ecatepec de Morelos"
+      }
+    }
+  ]
+}
