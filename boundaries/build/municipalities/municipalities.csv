@@ -1,0 +1,10 @@
+CVE_ENT,CVE_MUN,CVEGEO,NOMGEO,WIKIDATA,MS_FB_PARE,MS_FB
+15,058,15058,Nezahualcóyotl,Q3313478,country:mx/state:mex,country:mx/state:mex/mun:nezahualcoyotl
+21,114,21114,Puebla,Q7258412,country:mx/state:pue,country:mx/state:pue/mun:puebla
+15,033,15033,Ecatepec de Morelos,Q15121208,country:mx/state:mex,country:mx/state:mex/mun:ecatepec-de-morelos
+14,039,14039,Guadalajara,Q12348369,country:mx/state:jal,country:mx/state:jal/mun:guadalajara
+08,037,08037,Juárez,Q2557122,country:mx/state:chh,country:mx/state:chh/mun:juarez
+11,020,11020,León,Q9022143,country:mx/state:gua,country:mx/state:gua/mun:leon
+19,039,19039,Monterrey,Q6905368,country:mx/state:nle,country:mx/state:nle/mun:monterrey
+02,004,02004,Tijuana,Q2360428,country:mx/state:bcn,country:mx/state:bcn/mun:tijuana
+14,120,14120,Zapopan,Q2143868,country:mx/state:jal,country:mx/state:jal/mun:zapopan
