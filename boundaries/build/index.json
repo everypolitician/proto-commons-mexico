@@ -569,5 +569,19 @@
       "column": "MS_FB",
       "match": "country:mx/state:zac"
     }
+  },
+  {
+    "directory": "federal-electoral-districts",
+    "area_type_wikidata_item_id": "Q1154445",
+    "associations": [
+      {
+        "comment": "Member of the Chamber of Deputies of Mexico",
+        "position_item_id": "Q18534310"
+      }
+    ],
+    "name_columns": {
+      "lang:es": "name_es",
+      "lang:en": "name_en"
+    }
   }
 ]
