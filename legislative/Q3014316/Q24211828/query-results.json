@@ -24,17 +24,12 @@
       },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q82112"
+        "value" : "http://www.wikidata.org/entity/Q5396956"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "México"
-      },
-      "district_name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Estado de México"
+        "value" : "39th federal electoral district of the state of México"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -101,6 +96,11 @@
         "type" : "literal",
         "value" : "500"
       },
+      "district_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "XXXIX distrito electoral federal de Estado de México"
+      },
       "facebook" : {
         "type" : "literal",
         "value" : "AndresAguirreRo"
@@ -126,17 +126,12 @@
       },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q82112"
+        "value" : "http://www.wikidata.org/entity/Q53461696"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "México"
-      },
-      "district_name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Estado de México"
+        "value" : "fifth plurinominal electoral region of Mexico"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -224,17 +219,12 @@
       },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q66117"
+        "value" : "http://www.wikidata.org/entity/Q53461634"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Morelos"
-      },
-      "district_name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Morelos"
+        "value" : "fourth plurinominal electoral region of Mexico"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -301,6 +291,11 @@
         "type" : "literal",
         "value" : "500"
       },
+      "district_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "cuarta circunscripción"
+      },
       "facebook" : {
         "type" : "literal",
         "value" : "MatiasNazarioMor"
@@ -326,17 +321,12 @@
       },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1489"
+        "value" : "http://www.wikidata.org/entity/Q5811292"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Mexico City"
-      },
-      "district_name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Ciudad de México"
+        "value" : "24th federal electoral district of the Federal District"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -403,6 +393,11 @@
         "type" : "literal",
         "value" : "500"
       },
+      "district_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "XXIV distrito electoral federal de Distrito Federal"
+      },
       "facebook" : {
         "type" : "literal",
         "value" : "hector.barreramarmolejo"
@@ -428,17 +423,12 @@
       },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q82112"
+        "value" : "http://www.wikidata.org/entity/Q53461696"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "México"
-      },
-      "district_name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Estado de México"
+        "value" : "fifth plurinominal electoral region of Mexico"
       },
       "role_superclass" : {
         "type" : "uri",
