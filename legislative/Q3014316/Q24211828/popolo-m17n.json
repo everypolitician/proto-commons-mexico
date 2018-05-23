@@ -8576,7 +8576,7 @@
       "person_id": "Q18638111",
       "on_behalf_of_id": "Q682969",
       "organization_id": "Q3014316",
-      "area_id": "Q82112",
+      "area_id": "Q5396956",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
         "lang:es": "diputado",
@@ -8593,7 +8593,7 @@
       "person_id": "Q53563153",
       "on_behalf_of_id": "Q682969",
       "organization_id": "Q3014316",
-      "area_id": "Q82112",
+      "area_id": "Q53461696",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
         "lang:es": "diputado",
@@ -8610,7 +8610,7 @@
       "person_id": "Q53563154",
       "on_behalf_of_id": "Q682969",
       "organization_id": "Q3014316",
-      "area_id": "Q66117",
+      "area_id": "Q53461634",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
         "lang:es": "diputado",
@@ -8627,7 +8627,7 @@
       "person_id": "Q53563155",
       "on_behalf_of_id": "Q851087",
       "organization_id": "Q3014316",
-      "area_id": "Q1489",
+      "area_id": "Q5811292",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
         "lang:es": "diputado",
@@ -8644,7 +8644,7 @@
       "person_id": "Q53563157",
       "on_behalf_of_id": "Q767010",
       "organization_id": "Q3014316",
-      "area_id": "Q82112",
+      "area_id": "Q53461696",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
         "lang:es": "diputado",
