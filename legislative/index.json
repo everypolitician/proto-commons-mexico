@@ -407,17 +407,6 @@
     ]
   },
   {
-    "comment": "Town Hall of Guadalajara",
-    "house_item_id": "Q53547435",
-    "position_item_id": "Q53547726",
-    "terms": [
-      {
-        "comment": "2015- Town Hall of Guadalajara",
-        "term_item_id": "Q53559893"
-      }
-    ]
-  },
-  {
     "comment": "Town Hall of Leon",
     "house_item_id": "Q53547437",
     "position_item_id": "Q53547728",
@@ -440,17 +429,6 @@
     ]
   },
   {
-    "comment": "Town Hall of Zapopan",
-    "house_item_id": "Q53547442",
-    "position_item_id": "Q53547731",
-    "terms": [
-      {
-        "comment": "2015- Town Hall of Zapopan",
-        "term_item_id": "Q53559896"
-      }
-    ]
-  },
-  {
     "comment": "Town Hall of the City of Nezahualcóyotl",
     "house_item_id": "Q53547443",
     "position_item_id": "Q53547733",
@@ -469,6 +447,28 @@
       {
         "comment": "2015- Town Hall of Monterrey",
         "term_item_id": "Q53559899"
+      }
+    ]
+  },
+  {
+    "comment": "Town Hall of Guadalajara",
+    "house_item_id": "Q53547435",
+    "position_item_id": "Q53547726",
+    "terms": [
+      {
+        "comment": "2015- Town Hall of Guadalajara",
+        "term_item_id": "Q53559893"
+      }
+    ]
+  },
+  {
+    "comment": "Town Hall of Zapopan",
+    "house_item_id": "Q53547442",
+    "position_item_id": "Q53547731",
+    "terms": [
+      {
+        "comment": "2015- Town Hall of Zapopan",
+        "term_item_id": "Q53559896"
       }
     ]
   }
