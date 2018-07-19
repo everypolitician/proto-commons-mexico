@@ -360,6 +360,16 @@
     ]
   },
   {
+    "comment": "Cabinet of Guadalajara",
+    "executive_item_id": "Q52634216",
+    "positions": [
+      {
+        "comment": "Municipal President of Guadalajara",
+        "position_item_id": "Q52634195"
+      }
+    ]
+  },
+  {
     "comment": "Cabinet of Leon de los Aldama",
     "executive_item_id": "Q52634217",
     "positions": [
@@ -380,6 +390,16 @@
     ]
   },
   {
+    "comment": "Cabinet of Zapopan",
+    "executive_item_id": "Q52634219",
+    "positions": [
+      {
+        "comment": "Municipal President of Zapopan",
+        "position_item_id": "Q52634197"
+      }
+    ]
+  },
+  {
     "comment": "Cabinet of Nezahualcóyotl",
     "executive_item_id": "Q52634220",
     "positions": [
@@ -396,26 +416,6 @@
       {
         "comment": "Municipal president of Monterrey",
         "position_item_id": "Q6936362"
-      }
-    ]
-  },
-  {
-    "comment": "Cabinet of Guadalajara",
-    "executive_item_id": "Q52634216",
-    "positions": [
-      {
-        "comment": "Municipal President of Guadalajara",
-        "position_item_id": "Q52634195"
-      }
-    ]
-  },
-  {
-    "comment": "Cabinet of Zapopan",
-    "executive_item_id": "Q52634219",
-    "positions": [
-      {
-        "comment": "Municipal President of Zapopan",
-        "position_item_id": "Q52634197"
       }
     ]
   }

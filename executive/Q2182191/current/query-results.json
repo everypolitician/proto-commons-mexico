@@ -13,6 +13,11 @@
         "type" : "literal",
         "value" : "Liberal Party"
       },
+      "party_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Partido Liberal"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1196814"
@@ -90,11 +95,6 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q96"
-      },
-      "party_name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Partido Liberal"
       }
     }, {
       "party" : {
@@ -105,6 +105,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Liberal Party"
+      },
+      "party_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Partido Liberal"
       },
       "item" : {
         "type" : "uri",
@@ -183,11 +188,6 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q96"
-      },
-      "party_name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Partido Liberal"
       }
     }, {
       "item" : {
@@ -278,6 +278,11 @@
         "type" : "literal",
         "value" : "Institutional Revolutionary Party"
       },
+      "party_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Partido Revolucionario Institucional"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q296741"
@@ -355,11 +360,6 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q96"
-      },
-      "party_name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Partido Revolucionario Institucional"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -547,6 +547,11 @@
         "type" : "literal",
         "value" : "Conservative Party"
       },
+      "party_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Partido Conservador (México)"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q354678"
@@ -624,11 +629,6 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q96"
-      },
-      "party_name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Partido Conservador (México)"
       }
     }, {
       "item" : {
@@ -798,6 +798,11 @@
         "type" : "literal",
         "value" : "Liberal Party"
       },
+      "party_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Partido Liberal"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q380975"
@@ -875,11 +880,6 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q96"
-      },
-      "party_name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Partido Liberal"
       }
     }, {
       "party" : {
@@ -890,6 +890,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Liberal Party"
+      },
+      "party_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Partido Liberal"
       },
       "item" : {
         "type" : "uri",
@@ -968,11 +973,6 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q96"
-      },
-      "party_name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Partido Liberal"
       }
     }, {
       "party" : {
@@ -983,6 +983,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Liberal Party"
+      },
+      "party_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Partido Liberal"
       },
       "item" : {
         "type" : "uri",
@@ -1061,11 +1066,6 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q96"
-      },
-      "party_name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Partido Liberal"
       }
     }, {
       "item" : {
@@ -1235,6 +1235,11 @@
         "type" : "literal",
         "value" : "Institutional Revolutionary Party"
       },
+      "party_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Partido Revolucionario Institucional"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q455683"
@@ -1312,11 +1317,6 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q96"
-      },
-      "party_name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Partido Revolucionario Institucional"
       }
     }, {
       "party" : {
@@ -1327,6 +1327,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Liberal Party"
+      },
+      "party_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Partido Liberal"
       },
       "item" : {
         "type" : "uri",
@@ -1405,11 +1410,6 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q96"
-      },
-      "party_name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Partido Liberal"
       }
     }, {
       "party" : {
@@ -1420,6 +1420,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Liberal Party"
+      },
+      "party_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Partido Liberal"
       },
       "item" : {
         "type" : "uri",
@@ -1498,11 +1503,6 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q96"
-      },
-      "party_name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Partido Liberal"
       }
     }, {
       "party" : {
@@ -1513,6 +1513,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Liberal Party"
+      },
+      "party_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Partido Liberal"
       },
       "item" : {
         "type" : "uri",
@@ -1591,11 +1596,6 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q96"
-      },
-      "party_name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Partido Liberal"
       }
     } ]
   }
