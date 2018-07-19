@@ -10,54 +10,65 @@ WHERE {
   VALUES ?role_superclass { wd:Q5589705 }
   BIND(wd:Q52634110 AS ?org)
   OPTIONAL {
-          ?org rdfs:label ?org_es
-          FILTER(LANG(?org_es) = "es")
-        }
+  ?org rdfs:label ?org_es
+  FILTER(LANG(?org_es) = "es")
+}
+
 OPTIONAL {
-          ?org rdfs:label ?org_en
-          FILTER(LANG(?org_en) = "en")
-        }
+  ?org rdfs:label ?org_en
+  FILTER(LANG(?org_en) = "en")
+}
+
   OPTIONAL {
     ?org wdt:P1001 ?org_jurisdiction
   }
-  ?item p:P39 ?statement .
+  ?item wdt:P31 wd:Q5 ;
+        p:P39 ?statement .
   OPTIONAL {
-          ?item rdfs:label ?name_es
-          FILTER(LANG(?name_es) = "es")
-        }
+  ?item rdfs:label ?name_es
+  FILTER(LANG(?name_es) = "es")
+}
+
 OPTIONAL {
-          ?item rdfs:label ?name_en
-          FILTER(LANG(?name_en) = "en")
-        }
+  ?item rdfs:label ?name_en
+  FILTER(LANG(?name_en) = "en")
+}
+
   ?statement ps:P39 ?role .
   OPTIONAL {
-          ?role rdfs:label ?role_es
-          FILTER(LANG(?role_es) = "es")
-        }
+  ?role rdfs:label ?role_es
+  FILTER(LANG(?role_es) = "es")
+}
+
 OPTIONAL {
-          ?role rdfs:label ?role_en
-          FILTER(LANG(?role_en) = "en")
-        }
+  ?role rdfs:label ?role_en
+  FILTER(LANG(?role_en) = "en")
+}
+
   ?role wdt:P279* ?role_superclass .
   OPTIONAL {
-          ?role_superclass rdfs:label ?role_superclass_es
-          FILTER(LANG(?role_superclass_es) = "es")
-        }
+  ?role_superclass rdfs:label ?role_superclass_es
+  FILTER(LANG(?role_superclass_es) = "es")
+}
+
 OPTIONAL {
-          ?role_superclass rdfs:label ?role_superclass_en
-          FILTER(LANG(?role_superclass_en) = "en")
-        }
+  ?role_superclass rdfs:label ?role_superclass_en
+  FILTER(LANG(?role_superclass_en) = "en")
+}
+
   ?role wdt:P361 ?org .
   OPTIONAL {
     ?role p:P1001/ps:P1001 ?district .
     OPTIONAL {
-          ?district rdfs:label ?district_name_es
-          FILTER(LANG(?district_name_es) = "es")
-        }
+  ?district rdfs:label ?district_name_es
+  FILTER(LANG(?district_name_es) = "es")
+}
+
 OPTIONAL {
-          ?district rdfs:label ?district_name_en
-          FILTER(LANG(?district_name_en) = "en")
-        }
+  ?district rdfs:label ?district_name_en
+  FILTER(LANG(?district_name_en) = "en")
+}
+
   }
   OPTIONAL { ?statement pq:P580 ?start }
   OPTIONAL { ?statement pq:P582 ?end }
@@ -68,13 +79,15 @@ OPTIONAL {
     ?item p:P102 ?party_statement .
     ?party_statement ps:P102 ?party .
     OPTIONAL {
-          ?party rdfs:label ?party_name_es
-          FILTER(LANG(?party_name_es) = "es")
-        }
+  ?party rdfs:label ?party_name_es
+  FILTER(LANG(?party_name_es) = "es")
+}
+
 OPTIONAL {
-          ?party rdfs:label ?party_name_en
-          FILTER(LANG(?party_name_en) = "en")
-        }
+  ?party rdfs:label ?party_name_en
+  FILTER(LANG(?party_name_en) = "en")
+}
+
     OPTIONAL { ?party_statement pq:P582 ?end_party }
     BIND(COALESCE(?end_party, "9999-12-31T00:00:00Z"^^xsd:dateTime) AS ?party_end_or_sentinel)
     FILTER(?party_end_or_sentinel >= NOW())
