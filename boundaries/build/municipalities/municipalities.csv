@@ -1,10 +1,59 @@
-CVE_ENT,CVE_MUN,CVEGEO,NOMGEO,WIKIDATA,MS_FB_PARE,MS_FB
-15,058,15058,Nezahualcóyotl,Q3313478,country:mx/state:mex,country:mx/state:mex/mun:nezahualcoyotl
-21,114,21114,Puebla,Q7258412,country:mx/state:pue,country:mx/state:pue/mun:puebla
-15,033,15033,Ecatepec de Morelos,Q15121208,country:mx/state:mex,country:mx/state:mex/mun:ecatepec-de-morelos
-14,039,14039,Guadalajara,Q12348369,country:mx/state:jal,country:mx/state:jal/mun:guadalajara
-08,037,08037,Juárez,Q2557122,country:mx/state:chh,country:mx/state:chh/mun:juarez
-11,020,11020,León,Q9022143,country:mx/state:gua,country:mx/state:gua/mun:leon
-19,039,19039,Monterrey,Q6905368,country:mx/state:nle,country:mx/state:nle/mun:monterrey
-02,004,02004,Tijuana,Q2360428,country:mx/state:bcn,country:mx/state:bcn/mun:tijuana
-14,120,14120,Zapopan,Q2143868,country:mx/state:jal,country:mx/state:jal/mun:zapopan
+CVE_ENT,CVE_MUN,CVEGEO,NOMGEO,NAME,ISO 3166-2,WIKIDATA,municipali,MS_FB_PARE,MS_FB,states_MS_
+12,001,12001,Acapulco de Juárez,Acapulco,MX-GRO,Q2378103,Q2378103,country:mx/state:gro,country:mx/state:gro/municipality:acapulco-de-juarez,country:mx/state:gro
+01,001,01001,Aguascalientes,Aguascalientes,MX-AGU,Q391149,Q391149,country:mx/state:agu,country:mx/state:agu/municipality:aguascalientes,country:mx/state:agu
+23,005,23005,Benito Juárez,Cancún,MX-ROO,Q2279198,Q2279198,country:mx/state:roo,country:mx/state:roo/municipality:benito-juarez,country:mx/state:roo
+11,007,11007,Celaya,Celaya,MX-GUA,Q668273,Q668273,country:mx/state:gua,country:mx/state:gua/municipality:celaya,country:mx/state:gua
+08,019,08019,Chihuahua,Chihuahua,MX-CHH,Q2475171,Q2475171,country:mx/state:chh,country:mx/state:chh/municipality:chihuahua,country:mx/state:chh
+15,031,15031,Chimalhuacán,Chimalhuacán,MX-MEX,Q2497047,Q2497047,country:mx/state:mex,country:mx/state:mex/municipality:chimalhuacan,country:mx/state:mex
+19,006,19006,Apodaca,Ciudad Apodaca,MX-NLE,Q27797574,Q27797574,country:mx/state:nle,country:mx/state:nle/municipality:apodaca,country:mx/state:nle
+30,152,30152,Tampico Alto,Ciudad López Mateos,MX-MEX,Q749761,Q749761,country:mx/state:mex,country:mx/state:mex/municipality:tampico-alto,country:mx/state:mex
+15,060,15060,Nicolás Romero,Ciudad Nicolás Romero,MX-MEX,Q2526463,Q2526463,country:mx/state:mex,country:mx/state:mex/municipality:nicolas-romero,country:mx/state:mex
+26,018,26018,Cajeme,Ciudad Obregón,MX-SON,Q1430907,Q1430907,country:mx/state:son,country:mx/state:son/municipality:cajeme,country:mx/state:son
+28,041,28041,Victoria,Ciudad Victoria,MX-TAM,Q7926884,Q7926884,country:mx/state:tam,country:mx/state:tam/municipality:victoria,country:mx/state:tam
+15,020,15020,Coacalco de Berriozábal,Coacalco de Berriozábal,MX-MEX,Q1781109,Q1781109,country:mx/state:mex,country:mx/state:mex/municipality:coacalco-de-berriozabal,country:mx/state:mex
+15,121,15121,Cuautitlán Izcalli,Cuautitlán Izcalli,MX-MEX,Q4406321,Q4406321,country:mx/state:mex,country:mx/state:mex/municipality:cuautitlan-izcalli,country:mx/state:mex
+17,007,17007,Cuernavaca,Cuernavaca,MX-MOR,Q5793859,Q5793859,country:mx/state:mor,country:mx/state:mor/municipality:cuernavaca,country:mx/state:mor
+25,006,25006,Culiacán,Culiacán,MX-SIN,Q2485095,Q2485095,country:mx/state:sin,country:mx/state:sin/municipality:culiacan,country:mx/state:sin
+08,027,08027,Guachochi,Durango,MX-DUR,Q2832731,Q2832731,country:mx/state:dur,country:mx/state:dur/municipality:guachochi,country:mx/state:dur
+15,033,15033,Ecatepec de Morelos,Ecatepec,MX-MEX,Q15121208,Q15121208,country:mx/state:mex,country:mx/state:mex/municipality:ecatepec-de-morelos,country:mx/state:mex
+02,001,02001,Ensenada,Ensenada,MX-BCN,Q1548691,Q1548691,country:mx/state:bcn,country:mx/state:bcn/municipality:ensenada,country:mx/state:bcn
+19,021,19021,General Escobedo,General Escobedo,MX-NLE,Q778941,Q778941,country:mx/state:nle,country:mx/state:nle/municipality:general-escobedo,country:mx/state:nle
+14,039,14039,Guadalajara,Guadalajara,MX-JAL,Q12348369,Q12348369,country:mx/state:jal,country:mx/state:jal/municipality:guadalajara,country:mx/state:jal
+08,028,08028,Guadalupe,Guadalupe,MX-CHH,Q2997100,Q2997100,country:mx/state:chh,country:mx/state:chh/municipality:guadalupe,country:mx/state:chh
+10,012,10012,Lerdo,Gómez Palacio,MX-DUR,Q2351085,Q2351085,country:mx/state:dur,country:mx/state:dur/municipality:lerdo,country:mx/state:dur
+26,030,26030,Hermosillo,Hermosillo,MX-SON,Q1142677,Q1142677,country:mx/state:son,country:mx/state:son/municipality:hermosillo,country:mx/state:son
+11,017,11017,Irapuato,Irapuato,MX-GUA,Q9009232,Q9009232,country:mx/state:gua,country:mx/state:gua/municipality:irapuato,country:mx/state:gua
+15,039,15039,Ixtapaluca,Ixtapaluca,MX-MEX,Q1130484,Q1130484,country:mx/state:mex,country:mx/state:mex/municipality:ixtapaluca,country:mx/state:mex
+08,037,08037,Juárez,Juárez,MX-CHH,Q2557122,Q2557122,country:mx/state:chh,country:mx/state:chh/municipality:juarez,country:mx/state:chh
+11,020,11020,León,León,MX-GUA,Q9022143,Q9022143,country:mx/state:gua,country:mx/state:gua/municipality:leon,country:mx/state:gua
+10,023,10023,Pueblo Nuevo,Mazatlán,MX-SIN,Q2652458,Q2652458,country:mx/state:sin,country:mx/state:sin/municipality:pueblo-nuevo,country:mx/state:sin
+02,002,02002,Mexicali,Mexicali,MX-BCN,Q1477270,Q1477270,country:mx/state:bcn,country:mx/state:bcn/municipality:mexicali,country:mx/state:bcn
+19,039,19039,Monterrey,Monterrey,MX-NLE,Q6905368,Q6905368,country:mx/state:nle,country:mx/state:nle/municipality:monterrey,country:mx/state:nle
+16,053,16053,Morelia,Morelia,MX-MIC,Q10972151,Q10972151,country:mx/state:mic,country:mx/state:mic/municipality:morelia,country:mx/state:mic
+31,076,31076,Tecoh,Mérida,MX-YUC,Q2651972,Q2651972,country:mx/state:yuc,country:mx/state:yuc/municipality:tecoh,country:mx/state:yuc
+15,057,15057,Naucalpan de Juárez,Naucalpan,MX-MEX,Q219574,Q219574,country:mx/state:mex,country:mx/state:mex/municipality:naucalpan-de-juarez,country:mx/state:mex
+15,058,15058,Nezahualcóyotl,Nezahualcóyotl,MX-MEX,Q3313478,Q3313478,country:mx/state:mex,country:mx/state:mex/municipality:nezahualcoyotl,country:mx/state:mex
+28,027,28027,Nuevo Laredo,Nuevo Laredo,MX-TAM,Q2450312,Q2450312,country:mx/state:tam,country:mx/state:tam/municipality:nuevo-laredo,country:mx/state:tam
+20,067,20067,Oaxaca de Juárez,Oaxaca,MX-OAX,Q2000066,Q2000066,country:mx/state:oax,country:mx/state:oax/municipality:oaxaca-de-juarez,country:mx/state:oax
+13,048,13048,Pachuca de Soto,Pachuca,MX-HID,Q1370932,Q1370932,country:mx/state:hid,country:mx/state:hid/municipality:pachuca-de-soto,country:mx/state:hid
+21,114,21114,Puebla,Puebla,MX-PUE,Q7258412,Q7258412,country:mx/state:pue,country:mx/state:pue/municipality:puebla,country:mx/state:pue
+22,014,22014,Querétaro,Querétaro,MX-QUE,Q2917451,Q2917451,country:mx/state:que,country:mx/state:que/municipality:queretaro,country:mx/state:que
+05,024,05024,Parras,Saltillo,MX-COA,Q53078,Q53078,country:mx/state:coa,country:mx/state:coa/municipality:parras,country:mx/state:coa
+24,028,24028,San Luis Potosí,San Luis Potosí,MX-SLP,Q204271,Q204271,country:mx/state:slp,country:mx/state:slp/municipality:san-luis-potosi,country:mx/state:slp
+19,046,19046,San Nicolás de los Garza,San Nicolás de los Garza,MX-NLE,Q914055,Q914055,country:mx/state:nle,country:mx/state:nle/municipality:san-nicolas-de-los-garza,country:mx/state:nle
+11,034,11034,Santa Catarina,Santa Catarina,MX-GUA,Q2991533,Q2991533,country:mx/state:gua,country:mx/state:gua/municipality:santa-catarina,country:mx/state:gua
+24,035,24035,Soledad de Graciano Sánchez,Soledad de Graciano Sánchez,MX-SLP,Q1962080,Q1962080,country:mx/state:slp,country:mx/state:slp/municipality:soledad-de-graciano-sanchez,country:mx/state:slp
+28,038,28038,Tampico,Tampico,MX-TAM,Q4450971,Q4450971,country:mx/state:tam,country:mx/state:tam/municipality:tampico,country:mx/state:tam
+18,017,18017,Tepic,Tepic,MX-NAY,Q2001115,Q2001115,country:mx/state:nay,country:mx/state:nay/municipality:tepic,country:mx/state:nay
+02,004,02004,Tijuana,Tijuana,MX-BCN,Q2360428,Q2360428,country:mx/state:bcn,country:mx/state:bcn/municipality:tijuana,country:mx/state:bcn
+15,104,15104,Tlalnepantla de Baz,Tlalnepantla,MX-MEX,Q845307,Q845307,country:mx/state:mex,country:mx/state:mex/municipality:tlalnepantla-de-baz,country:mx/state:mex
+15,106,15106,Toluca,Toluca,MX-MEX,Q2308567,Q2308567,country:mx/state:mex,country:mx/state:mex/municipality:toluca,country:mx/state:mex
+07,097,07097,Tonalá,Tonalá,MX-CHP,Q2636407,Q2636407,country:mx/state:chp,country:mx/state:chp/municipality:tonala,country:mx/state:chp
+05,035,05035,Torreón,Torreón,MX-COA,Q3238418,Q3238418,country:mx/state:coa,country:mx/state:coa/municipality:torreon,country:mx/state:coa
+07,101,07101,Tuxtla Gutiérrez,Tuxtla Gutiérrez,MX-CHP,Q2002727,Q2002727,country:mx/state:chp,country:mx/state:chp/municipality:tuxtla-gutierrez,country:mx/state:chp
+16,035,16035,La Huacana,Uruapan,MX-MIC,Q3868473,Q3868473,country:mx/state:mic,country:mx/state:mic/municipality:la-huacana,country:mx/state:mic
+30,193,30193,Veracruz,Veracruz,,Q173270,Q173270,,/municipality:veracruz,
+27,004,27004,Centro,Villahermosa,MX-TAB,Q2994111,Q2994111,country:mx/state:tab,country:mx/state:tab/municipality:centro,country:mx/state:tab
+30,087,30087,Xalapa,Xalapa,MX-VER,Q12816823,Q12816823,country:mx/state:ver,country:mx/state:ver/municipality:xalapa,country:mx/state:ver
+30,092,30092,Xico,Xico,MX-VER,Q20270917,Q20270917,country:mx/state:ver,country:mx/state:ver/municipality:xico,country:mx/state:ver
+14,120,14120,Zapopan,Zapopan,MX-JAL,Q2143868,Q2143868,country:mx/state:jal,country:mx/state:jal/municipality:zapopan,country:mx/state:jal

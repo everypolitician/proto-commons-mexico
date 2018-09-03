@@ -2,5 +2,10 @@ Data downloaded using merge-reproject-federal.sh and merge-reproject-local.sh.
 Data downloaded from http://cartografia.ife.org.mx/sige7/?distritacion=federal
 Licencing
 There is no explicit licencing. So it is assumed that it is sufficient to credit
-the Instituto Nacional Electoral (http://www.ine.mx/transparencia/datos-abiertos/#/) 
+the Instituto Nacional Electoral (http://www.ine.mx/transparencia/datos-abiertos/#/)
 as the source.
+
+Data downloaded using merge-reproject-municipios.sh
+Source: INEGI, Marco Geoestadístico, febrero 2018
+Licence: http://www.beta.inegi.org.mx/app/biblioteca/ficha.html?upc=889463526636
+
