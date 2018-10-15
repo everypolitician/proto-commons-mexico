@@ -5,8 +5,8 @@
     "position_item_id": "Q19971999",
     "terms": [
       {
-        "comment": "LXIII Legislature of the Mexican Congress",
-        "term_item_id": "Q24211828"
+        "comment": "LXIV Legislature of the Mexican Congress",
+        "term_item_id": "Q56153246"
       }
     ]
   },
@@ -16,8 +16,8 @@
     "position_item_id": "Q18534310",
     "terms": [
       {
-        "comment": "LXIII Legislature of the Mexican Congress",
-        "term_item_id": "Q24211828"
+        "comment": "LXIV Legislature of the Mexican Congress",
+        "term_item_id": "Q56153246"
       }
     ]
   },
@@ -70,6 +70,10 @@
     "house_item_id": "Q28924553",
     "position_item_id": "Q53544369",
     "terms": [
+      {
+        "comment": "LXIV Legislatura del Congreso de Hidalgo",
+        "term_item_id": "Q56507491"
+      },
       {
         "comment": "LXIII Legislature Congress of the Free and Sovereign State of Hidalgo",
         "term_item_id": "Q53546059"
