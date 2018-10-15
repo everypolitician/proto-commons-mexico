@@ -64,11 +64,6 @@
         "type" : "literal",
         "value" : "Gobernantes de Baja California"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Ernesto Ruffo Appel"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -95,6 +90,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q58731"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ernesto Ruffo Appel"
       }
     }, {
       "party" : {
@@ -157,11 +157,6 @@
         "type" : "literal",
         "value" : "Gobernantes de Baja California"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Eugenio Elorduy Walther"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -184,6 +179,85 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q5408273-E92B70BA-0E67-4184-B298-363FCABF65A1"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58731"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Eugenio Elorduy Walther"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56479845"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58731"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Baja California"
+      },
+      "district_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Baja California"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5589632"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5589632"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor of Baja California"
+      },
+      "role_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gobernantes de Baja California"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor of Baja California"
+      },
+      "role_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gobernantes de Baja California"
+      },
+      "name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Francisco Vega de la Madrid"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634087"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "governor and cabinet of Baja California"
+      },
+      "org_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "gobernador y gabinete de Baja California"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q56479845-22D65DDA-767B-405D-BD1E-01B1FEF2EFEC"
       },
       "org_jurisdiction" : {
         "type" : "uri",

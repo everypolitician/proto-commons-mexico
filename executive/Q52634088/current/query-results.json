@@ -96,6 +96,99 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q46508"
       }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q851087"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Action Party"
+      },
+      "party_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Partido Acción Nacional"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5042373"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q46508"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Baja California Sur"
+      },
+      "district_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Baja California Sur"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5589635"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5589635"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor of Baja California Sur"
+      },
+      "role_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gobernantes de Baja California Sur"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor of Baja California Sur"
+      },
+      "role_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gobernantes de Baja California Sur"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Carlos Mendoza Davis"
+      },
+      "name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Carlos Mendoza Davis"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634088"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "governor and cabinet of Baja California Sur"
+      },
+      "org_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "gobernador y gabinete de Baja California Sur"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q5042373-003B9DF0-BEFD-41C5-9260-BBA5A177A2BB"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q46508"
+      }
     } ]
   }
 }

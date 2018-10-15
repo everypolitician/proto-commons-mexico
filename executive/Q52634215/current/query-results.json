@@ -4,6 +4,24 @@
   },
   "results" : {
     "bindings" : [ {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q851087"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Action Party"
+      },
+      "party_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Partido Acción Nacional"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22940140"
+      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7258412"
@@ -46,9 +64,98 @@
         "type" : "literal",
         "value" : "Presidentes Municipales de Puebla de Zaragoza"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Luis Banck Serrato"
+      },
+      "name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Luis Banck Serrato"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634215"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cabinet of the Heroic Puebla de Zaragoza"
+      },
+      "org_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gabinete de la Heroica Puebla de Zaragoza"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q22940140-38C18D82-EACE-48D2-98E9-FC89E26290D1"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7258412"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q851087"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Action Party"
+      },
+      "party_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Partido Acción Nacional"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q22940140"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7258412"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Puebla"
+      },
+      "district_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Puebla (municipio)"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6936360"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6936360"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Municipal president of Puebla"
+      },
+      "role_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Presidentes Municipales de Puebla de Zaragoza"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Municipal president of Puebla"
+      },
+      "role_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Presidentes Municipales de Puebla de Zaragoza"
       },
       "name_en" : {
         "xml:lang" : "en",
