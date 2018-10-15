@@ -16,6 +16,10 @@
         {
           "note": "facebook",
           "url": "https://www.facebook.com/indalecioriosv"
+        },
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/indalecioriosv"
         }
       ]
     }
@@ -116,6 +120,22 @@
   "memberships": [
     {
       "id": "http://www.wikidata.org/entity/statement/Q53585530-D42EB624-6CC6-4BEE-B07C-8DC57DA1C3EE",
+      "person_id": "Q53585530",
+      "organization_id": "Q52634213",
+      "area_id": "Q15121208",
+      "role_superclass_code": "Q52634194",
+      "role_superclass": {
+        "lang:es": "Presidente municipal de Ecatepec de Morelos",
+        "lang:en": "Municipal President of Ecatepec de Morelos"
+      },
+      "role_code": "Q52634194",
+      "role": {
+        "lang:es": "Presidente municipal de Ecatepec de Morelos",
+        "lang:en": "Municipal President of Ecatepec de Morelos"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q53585530-F97FA123-E284-4435-AFDB-D239E1369727",
       "person_id": "Q53585530",
       "organization_id": "Q52634213",
       "area_id": "Q15121208",

@@ -178,6 +178,22 @@
     },
     {
       "name": {
+        "lang:es": "Francisco de Montejo",
+        "lang:en": "Francisco de Montejo"
+      },
+      "id": "Q387619",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q387619"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:es": "Santiago Méndez Ibarra",
         "lang:en": "Santiago Méndez"
       },
@@ -743,6 +759,22 @@
       "id": "http://www.wikidata.org/entity/statement/Q366050-45CDF785-1E78-4EB0-9102-F112A9EADE93",
       "person_id": "Q366050",
       "on_behalf_of_id": "Q682969",
+      "organization_id": "Q52634119",
+      "area_id": "Q60176",
+      "role_superclass_code": "Q5589736",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Yucatán",
+        "lang:en": "Governor of Yucatán"
+      },
+      "role_code": "Q5589736",
+      "role": {
+        "lang:es": "Gobernantes de Yucatán",
+        "lang:en": "Governor of Yucatán"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q387619-8f7c86e1-5737-4a82-bb90-dd3a1c4f533c",
+      "person_id": "Q387619",
       "organization_id": "Q52634119",
       "area_id": "Q60176",
       "role_superclass_code": "Q5589736",

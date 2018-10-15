@@ -1,9 +1,52 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:es": "Juan Manuel Carreras López",
+        "lang:en": "Juan Manuel Carreras López"
+      },
+      "id": "Q19663117",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19663117"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "gobernador y gabinete de San Luis Potosí",
+        "lang:en": "governor and cabinet of San Luis Potosí"
+      },
+      "id": "Q52634111",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52634111"
+        }
+      ],
+      "area_id": "Q78980"
+    },
+    {
+      "name": {
+        "lang:es": "Partido Revolucionario Institucional",
+        "lang:en": "Institutional Revolutionary Party"
+      },
+      "id": "Q682969",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q682969"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -57,6 +100,22 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q19663117-10D0ADED-2759-44DA-BAAE-E9C9708229D1",
+      "person_id": "Q19663117",
+      "on_behalf_of_id": "Q682969",
+      "organization_id": "Q52634111",
+      "area_id": "Q78980",
+      "role_superclass_code": "Q5589709",
+      "role_superclass": {
+        "lang:es": "Gobernantes de San Luis Potosí",
+        "lang:en": "Governor of San Luis Potosí"
+      },
+      "role_code": "Q5589709",
+      "role": {
+        "lang:es": "Gobernantes de San Luis Potosí",
+        "lang:en": "Governor of San Luis Potosí"
+      }
+    }
   ]
 }

@@ -1,9 +1,37 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:es": "Jesús Pablo Lémus Navarro"
+      },
+      "id": "Q56479917",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56479917"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "Gabinete de Zapopan",
+        "lang:en": "Cabinet of Zapopan"
+      },
+      "id": "Q52634219",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52634219"
+        }
+      ],
+      "area_id": "Q2143868"
+    }
   ],
   "areas": [
     {
@@ -82,6 +110,21 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56479917-5F4A1ED5-FC25-4E2F-AF9B-5A158D8136A8",
+      "person_id": "Q56479917",
+      "organization_id": "Q52634219",
+      "area_id": "Q2143868",
+      "role_superclass_code": "Q52634197",
+      "role_superclass": {
+        "lang:es": "Presidente Municipal de Zapopan",
+        "lang:en": "Municipal President of Zapopan"
+      },
+      "role_code": "Q52634197",
+      "role": {
+        "lang:es": "Presidente Municipal de Zapopan",
+        "lang:en": "Municipal President of Zapopan"
+      }
+    }
   ]
 }

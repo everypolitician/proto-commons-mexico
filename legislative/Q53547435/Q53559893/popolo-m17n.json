@@ -18,6 +18,21 @@
           "url": "https://www.facebook.com/JeanetteVelazquezS"
         }
       ]
+    },
+    {
+      "name": {
+        "lang:es": "Jeanette Velázquez Sedano"
+      },
+      "id": "Q56479909",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56479909"
+        }
+      ],
+      "links": [
+
+      ]
     }
   ],
   "organizations": [
@@ -136,6 +151,22 @@
       "person_id": "Q53567011",
       "on_behalf_of_id": "Q682969",
       "organization_id": "Q53547435",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:es": "concejal",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53547726",
+      "role": {
+        "lang:es": "regidor de la Honorable Ayuntamiento de Guadalajara",
+        "lang:en": "alderman of the Honorable City Council of Guadalajara"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56479909-1B68B768-CAA0-495C-9A48-73BB39EE662B",
+      "person_id": "Q56479909",
+      "organization_id": "Q53547435",
+      "area_id": "Q12348369",
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:es": "concejal",

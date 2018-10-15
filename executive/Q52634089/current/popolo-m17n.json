@@ -15,6 +15,22 @@
       "links": [
 
       ]
+    },
+    {
+      "name": {
+        "lang:es": "Alejandro Moreno Cárdenas",
+        "lang:en": "Alejandro Moreno Cárdenas"
+      },
+      "id": "Q5665275",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5665275"
+        }
+      ],
+      "links": [
+
+      ]
     }
   ],
   "organizations": [
@@ -103,6 +119,23 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q2265973-E3406FDC-868E-41FF-981E-8BB054727233",
       "person_id": "Q2265973",
+      "on_behalf_of_id": "Q682969",
+      "organization_id": "Q52634089",
+      "area_id": "Q80908",
+      "role_superclass_code": "Q5589643",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Campeche",
+        "lang:en": "Governor of Campeche"
+      },
+      "role_code": "Q5589643",
+      "role": {
+        "lang:es": "Gobernantes de Campeche",
+        "lang:en": "Governor of Campeche"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5665275-FF9A4BA7-C4FD-4960-85F0-4CE42814C54E",
+      "person_id": "Q5665275",
       "on_behalf_of_id": "Q682969",
       "organization_id": "Q52634089",
       "area_id": "Q80908",

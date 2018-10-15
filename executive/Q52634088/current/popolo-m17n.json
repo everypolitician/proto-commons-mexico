@@ -15,6 +15,22 @@
       "links": [
 
       ]
+    },
+    {
+      "name": {
+        "lang:es": "Carlos Mendoza Davis",
+        "lang:en": "Carlos Mendoza Davis"
+      },
+      "id": "Q5042373",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5042373"
+        }
+      ],
+      "links": [
+
+      ]
     }
   ],
   "organizations": [
@@ -44,6 +60,20 @@
         {
           "scheme": "wikidata",
           "identifier": "Q767010"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Partido Acción Nacional",
+        "lang:en": "National Action Party"
+      },
+      "id": "Q851087",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q851087"
         }
       ]
     }
@@ -104,6 +134,23 @@
       "id": "http://www.wikidata.org/entity/statement/Q2735282-513CF8B4-DC27-46B0-A766-81E9D9571288",
       "person_id": "Q2735282",
       "on_behalf_of_id": "Q767010",
+      "organization_id": "Q52634088",
+      "area_id": "Q46508",
+      "role_superclass_code": "Q5589635",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Baja California Sur",
+        "lang:en": "Governor of Baja California Sur"
+      },
+      "role_code": "Q5589635",
+      "role": {
+        "lang:es": "Gobernantes de Baja California Sur",
+        "lang:en": "Governor of Baja California Sur"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5042373-003B9DF0-BEFD-41C5-9260-BBA5A177A2BB",
+      "person_id": "Q5042373",
+      "on_behalf_of_id": "Q851087",
       "organization_id": "Q52634088",
       "area_id": "Q46508",
       "role_superclass_code": "Q5589635",

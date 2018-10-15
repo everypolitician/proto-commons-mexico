@@ -1,9 +1,52 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:es": "Antonio Echevarría García",
+        "lang:en": "Antonio Echevarría García"
+      },
+      "id": "Q30323579",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30323579"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "gobernador y gabinete de Nayarit",
+        "lang:en": "governor and cabinet of Nayarit"
+      },
+      "id": "Q52634104",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52634104"
+        }
+      ],
+      "area_id": "Q79920"
+    },
+    {
+      "name": {
+        "lang:es": "Partido Acción Nacional",
+        "lang:en": "National Action Party"
+      },
+      "id": "Q851087",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q851087"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -57,6 +100,22 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q30323579-128A799C-39B9-4AAA-863F-6C02E9231221",
+      "person_id": "Q30323579",
+      "on_behalf_of_id": "Q851087",
+      "organization_id": "Q52634104",
+      "area_id": "Q79920",
+      "role_superclass_code": "Q5589686",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Nayarit",
+        "lang:en": "Governor of Nayarit"
+      },
+      "role_code": "Q5589686",
+      "role": {
+        "lang:es": "Gobernantes de Nayarit",
+        "lang:en": "Governor of Nayarit"
+      }
+    }
   ]
 }
