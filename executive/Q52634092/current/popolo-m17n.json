@@ -106,10 +106,10 @@
       "on_behalf_of_id": "Q383718",
       "organization_id": "Q52634092",
       "area_id": "Q60123",
-      "role_superclass_code": "Q5589647",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernadores de Chiapas",
-        "lang:en": "Governor of Chiapas"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589647",
       "role": {
@@ -123,10 +123,10 @@
       "on_behalf_of_id": "Q383718",
       "organization_id": "Q52634092",
       "area_id": "Q60123",
-      "role_superclass_code": "Q5589647",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernadores de Chiapas",
-        "lang:en": "Governor of Chiapas"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589647",
       "role": {

@@ -152,10 +152,10 @@
       "on_behalf_of_id": "Q851087",
       "organization_id": "Q52634116",
       "area_id": "Q80007",
-      "role_superclass_code": "Q5589726",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Tamaulipas",
-        "lang:en": "Governor of Tamaulipas"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589726",
       "role": {
@@ -169,10 +169,10 @@
       "on_behalf_of_id": "Q682969",
       "organization_id": "Q52634116",
       "area_id": "Q80007",
-      "role_superclass_code": "Q5589726",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Tamaulipas",
-        "lang:en": "Governor of Tamaulipas"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589726",
       "role": {
@@ -185,10 +185,10 @@
       "person_id": "Q7820531",
       "organization_id": "Q52634116",
       "area_id": "Q80007",
-      "role_superclass_code": "Q5589726",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Tamaulipas",
-        "lang:en": "Governor of Tamaulipas"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589726",
       "role": {

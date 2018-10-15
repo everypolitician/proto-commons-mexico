@@ -15,6 +15,87 @@
       "links": [
 
       ]
+    },
+    {
+      "name": {
+        "lang:es": "Claudia Anaya Mota",
+        "lang:en": "Claudia Anaya Mota"
+      },
+      "id": "Q18638126",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18638126"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Sandra Méndez Hernández",
+        "lang:en": "Sandra Méndez Hernández"
+      },
+      "id": "Q18649009",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18649009"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Rogerio Castro Vázquez",
+        "lang:en": "Rogerio Castro Vázquez"
+      },
+      "id": "Q33126453",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q33126453"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/rogeriocastrovazquez"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Gonzalo Herrera Pérez"
+      },
+      "id": "Q56877395",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56877395"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Mario Alberto Ramos Tamez"
+      },
+      "id": "Q56877404",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56877404"
+        }
+      ],
+      "links": [
+
+      ]
     }
   ],
   "organizations": [
@@ -35,6 +116,34 @@
       "seat_counts": {
         "Q18534310": "500"
       }
+    },
+    {
+      "name": {
+        "lang:es": "Movimiento Regeneración Nacional",
+        "lang:en": "National Regeneration Movement"
+      },
+      "id": "Q15717618",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15717618"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Partido Revolucionario Institucional",
+        "lang:en": "Institutional Revolutionary Party"
+      },
+      "id": "Q682969",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q682969"
+        }
+      ]
     }
   ],
   "areas": [
@@ -8458,6 +8567,92 @@
       "person_id": "Q16146929",
       "organization_id": "Q3014316",
       "start_date": "2018-08-01",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18534310",
+      "role": {
+        "lang:es": "diputado de México",
+        "lang:en": "Member of the Chamber of Deputies of Mexico"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q18638126-2b30c0e9-40a8-cdb8-8c8c-b9ff433ec2db",
+      "person_id": "Q18638126",
+      "on_behalf_of_id": "Q682969",
+      "organization_id": "Q3014316",
+      "area_id": "Q5906884",
+      "start_date": "2018-07-02",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18534310",
+      "role": {
+        "lang:es": "diputado de México",
+        "lang:en": "Member of the Chamber of Deputies of Mexico"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q18649009-07CB62D0-FF7B-4F6F-8676-F449C62AF0F2",
+      "person_id": "Q18649009",
+      "organization_id": "Q3014316",
+      "start_date": "2015-01-01",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18534310",
+      "role": {
+        "lang:es": "diputado de México",
+        "lang:en": "Member of the Chamber of Deputies of Mexico"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q33126453-b6da8f9d-440b-7d9f-6489-7fc72a74c4fa",
+      "person_id": "Q33126453",
+      "on_behalf_of_id": "Q15717618",
+      "organization_id": "Q3014316",
+      "area_id": "Q53461413",
+      "start_date": "2018-07-02",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18534310",
+      "role": {
+        "lang:es": "diputado de México",
+        "lang:en": "Member of the Chamber of Deputies of Mexico"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56877395-0904c179-4823-9702-d441-91e7876515b0",
+      "person_id": "Q56877395",
+      "organization_id": "Q3014316",
+      "area_id": "Q6158389",
+      "start_date": "2018-09-01",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18534310",
+      "role": {
+        "lang:es": "diputado de México",
+        "lang:en": "Member of the Chamber of Deputies of Mexico"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56877404-26a549a6-42a4-331f-222f-e2b2db52cec2",
+      "person_id": "Q56877404",
+      "organization_id": "Q3014316",
+      "area_id": "Q6158521",
+      "start_date": "2018-09-01",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
         "lang:es": "diputado",

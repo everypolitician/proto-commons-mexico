@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "Congreso de Morelos",
+        "lang:en": "Congress of Morelos"
+      },
+      "id": "Q5783178",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5783178"
+        }
+      ],
+      "area_id": "Q66117",
+      "seat_counts": {
+        "Q53544376": "30"
+      }
+    }
   ],
   "areas": [
     {

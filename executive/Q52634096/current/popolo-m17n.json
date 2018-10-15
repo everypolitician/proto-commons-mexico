@@ -120,10 +120,10 @@
       "on_behalf_of_id": "Q682969",
       "organization_id": "Q52634096",
       "area_id": "Q79918",
-      "role_superclass_code": "Q3112712",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Durango",
-        "lang:en": "Governor of Durango"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q3112712",
       "role": {
@@ -137,10 +137,10 @@
       "on_behalf_of_id": "Q851087",
       "organization_id": "Q52634096",
       "area_id": "Q79918",
-      "role_superclass_code": "Q3112712",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Durango",
-        "lang:en": "Governor of Durango"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q3112712",
       "role": {

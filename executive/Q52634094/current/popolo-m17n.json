@@ -106,10 +106,10 @@
       "on_behalf_of_id": "Q767010",
       "organization_id": "Q52634094",
       "area_id": "Q1489",
-      "role_superclass_code": "Q2962015",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Jefe de Gobierno de la Ciudad de México",
-        "lang:en": "Head of Mexico City government"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q2962015",
       "role": {
@@ -124,10 +124,10 @@
       "organization_id": "Q52634094",
       "area_id": "Q1489",
       "start_date": "2018-01-01",
-      "role_superclass_code": "Q2962015",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Jefe de Gobierno de la Ciudad de México",
-        "lang:en": "Head of Mexico City government"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q2962015",
       "role": {

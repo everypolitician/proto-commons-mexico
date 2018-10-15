@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "Congreso de Chiapas",
+        "lang:en": "Congress of Chiapas"
+      },
+      "id": "Q5160858",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5160858"
+        }
+      ],
+      "area_id": "Q60123",
+      "seat_counts": {
+        "Q53544336": "41"
+      }
+    }
   ],
   "areas": [
     {

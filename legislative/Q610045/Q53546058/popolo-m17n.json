@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "Congreso de Guerrero",
+        "lang:en": "Congress of Guerrero"
+      },
+      "id": "Q610045",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q610045"
+        }
+      ],
+      "area_id": "Q60158",
+      "seat_counts": {
+        "Q53544368": "46"
+      }
+    }
   ],
   "areas": [
     {

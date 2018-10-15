@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "Congreso de Zacatecas",
+        "lang:en": "Congress of Zacatecas"
+      },
+      "id": "Q5160905",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5160905"
+        }
+      ],
+      "area_id": "Q80269",
+      "seat_counts": {
+        "Q53544433": "30"
+      }
+    }
   ],
   "areas": [
     {

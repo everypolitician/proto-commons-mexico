@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "Congreso de Oaxaca",
+        "lang:en": "Congress of Oaxaca"
+      },
+      "id": "Q5160884",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5160884"
+        }
+      ],
+      "area_id": "Q34110",
+      "seat_counts": {
+        "Q53544396": "42"
+      }
+    }
   ],
   "areas": [
     {

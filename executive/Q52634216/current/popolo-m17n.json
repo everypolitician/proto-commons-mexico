@@ -134,10 +134,10 @@
       "on_behalf_of_id": "Q682969",
       "organization_id": "Q52634216",
       "area_id": "Q12348369",
-      "role_superclass_code": "Q52634195",
+      "role_superclass_code": "Q6936349",
       "role_superclass": {
-        "lang:es": "Presidente Municipal de Guadalajara",
-        "lang:en": "Municipal President of Guadalajara"
+        "lang:es": "presidente municipal",
+        "lang:en": "municipal president"
       },
       "role_code": "Q52634195",
       "role": {

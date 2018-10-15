@@ -122,10 +122,10 @@
       "on_behalf_of_id": "Q682969",
       "organization_id": "Q52634107",
       "area_id": "Q34110",
-      "role_superclass_code": "Q5589697",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Oaxaca",
-        "lang:en": "Governor of Oaxaca"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589697",
       "role": {
@@ -139,10 +139,10 @@
       "on_behalf_of_id": "Q682969",
       "organization_id": "Q52634107",
       "area_id": "Q34110",
-      "role_superclass_code": "Q5589697",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Oaxaca",
-        "lang:en": "Governor of Oaxaca"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589697",
       "role": {

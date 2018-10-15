@@ -1,9 +1,56 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:es": "Emilio Álvarez Icaza",
+        "lang:en": "Emilio Álvarez Icaza"
+      },
+      "id": "Q5371976",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5371976"
+        }
+      ],
+      "links": [
 
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Ismael García Cabeza de Vaca"
+      },
+      "id": "Q56753914",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56753914"
+        }
+      ],
+      "links": [
+
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "Senado de México",
+        "lang:en": "Senate of the Republic"
+      },
+      "id": "Q264113",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q264113"
+        }
+      ],
+      "area_id": "Q96",
+      "seat_counts": {
+        "Q19971999": "128"
+      }
+    }
   ],
   "areas": [
     {
@@ -769,6 +816,39 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5371976-06ccb8ad-41a1-a023-a2cf-58c2b31bb04a",
+      "person_id": "Q5371976",
+      "organization_id": "Q264113",
+      "area_id": "Q53539010",
+      "start_date": "2018-09-01",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q19971999",
+      "role": {
+        "lang:es": "senador de México",
+        "lang:en": "member of the Senate of Mexico"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56753914-cb330431-4fe8-e4a0-ddc2-96dd06a58550",
+      "person_id": "Q56753914",
+      "organization_id": "Q264113",
+      "area_id": "Q53539360",
+      "start_date": "2018-09-01",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q19971999",
+      "role": {
+        "lang:es": "senador de México",
+        "lang:en": "member of the Senate of Mexico"
+      }
+    }
   ]
 }

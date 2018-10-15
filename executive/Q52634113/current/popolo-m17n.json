@@ -151,10 +151,10 @@
       "person_id": "Q16493239",
       "organization_id": "Q52634113",
       "area_id": "Q46422",
-      "role_superclass_code": "Q3249960",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Sonora",
-        "lang:en": "Governor of Sonora"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q3249960",
       "role": {
@@ -168,10 +168,10 @@
       "on_behalf_of_id": "Q851087",
       "organization_id": "Q52634113",
       "area_id": "Q46422",
-      "role_superclass_code": "Q3249960",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Sonora",
-        "lang:en": "Governor of Sonora"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q3249960",
       "role": {
@@ -185,10 +185,10 @@
       "on_behalf_of_id": "Q682969",
       "organization_id": "Q52634113",
       "area_id": "Q46422",
-      "role_superclass_code": "Q3249960",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Sonora",
-        "lang:en": "Governor of Sonora"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q3249960",
       "role": {

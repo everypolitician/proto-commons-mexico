@@ -106,10 +106,10 @@
       "on_behalf_of_id": "Q682969",
       "organization_id": "Q52634112",
       "area_id": "Q80252",
-      "role_superclass_code": "Q5589715",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Sinaloa",
-        "lang:en": "Governor of Sinaloa"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589715",
       "role": {

@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "Ayuntamiento de Ciudad Nezahualcóyotl",
+        "lang:en": "Town Hall of the City of Nezahualcóyotl"
+      },
+      "id": "Q53547443",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53547443"
+        }
+      ],
+      "area_id": "Q3313478",
+      "seat_counts": {
+        "Q53547733": "20"
+      }
+    }
   ],
   "areas": [
     {

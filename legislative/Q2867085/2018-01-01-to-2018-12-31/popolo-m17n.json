@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "Congreso de la Ciudad de México",
+        "lang:en": "Congress of Mexico City"
+      },
+      "id": "Q2867085",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2867085"
+        }
+      ],
+      "area_id": "Q1489",
+      "seat_counts": {
+        "Q53544340": "66"
+      }
+    }
   ],
   "areas": [
     {

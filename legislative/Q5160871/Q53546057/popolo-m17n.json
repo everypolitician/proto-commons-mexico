@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "Congreso de Guanajuato",
+        "lang:en": "Congress of Guanajuato"
+      },
+      "id": "Q5160871",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5160871"
+        }
+      ],
+      "area_id": "Q46475",
+      "seat_counts": {
+        "Q53544367": "36"
+      }
+    }
   ],
   "areas": [
     {

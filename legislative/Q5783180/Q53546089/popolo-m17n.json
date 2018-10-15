@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "Congreso de Sinaloa",
+        "lang:en": "Congress of Sinaloa"
+      },
+      "id": "Q5783180",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5783180"
+        }
+      ],
+      "area_id": "Q80252",
+      "seat_counts": {
+        "Q53544405": "40"
+      }
+    }
   ],
   "areas": [
     {

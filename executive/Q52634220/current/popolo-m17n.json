@@ -3,7 +3,21 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "Gabinete de Nezahualcóyotl",
+        "lang:en": "Cabinet of Nezahualcóyotl"
+      },
+      "id": "Q52634220",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52634220"
+        }
+      ],
+      "area_id": "Q3313478"
+    }
   ],
   "areas": [
     {

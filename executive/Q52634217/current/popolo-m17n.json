@@ -16,10 +16,6 @@
         {
           "note": "facebook",
           "url": "https://www.facebook.com/hlsantillana"
-        },
-        {
-          "note": "facebook",
-          "url": "https://www.facebook.com/hlsantillana"
         }
       ]
     }
@@ -138,10 +134,10 @@
       "on_behalf_of_id": "Q851087",
       "organization_id": "Q52634217",
       "area_id": "Q9022143",
-      "role_superclass_code": "Q52634196",
+      "role_superclass_code": "Q6936349",
       "role_superclass": {
-        "lang:es": "Presidente Municipal de León de los Aldama",
-        "lang:en": "Municipal President of León de los Aldama"
+        "lang:es": "presidente municipal",
+        "lang:en": "municipal president"
       },
       "role_code": "Q52634196",
       "role": {
@@ -155,10 +151,10 @@
       "on_behalf_of_id": "Q851087",
       "organization_id": "Q52634217",
       "area_id": "Q9022143",
-      "role_superclass_code": "Q52634196",
+      "role_superclass_code": "Q6936349",
       "role_superclass": {
-        "lang:es": "Presidente Municipal de León de los Aldama",
-        "lang:en": "Municipal President of León de los Aldama"
+        "lang:es": "presidente municipal",
+        "lang:en": "municipal president"
       },
       "role_code": "Q52634196",
       "role": {

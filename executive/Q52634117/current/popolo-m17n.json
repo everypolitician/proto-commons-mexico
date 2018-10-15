@@ -155,10 +155,10 @@
       "on_behalf_of_id": "Q682969",
       "organization_id": "Q52634117",
       "area_id": "Q82681",
-      "role_superclass_code": "Q5589729",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Tlaxcala",
-        "lang:en": "Governor of Tlaxcala"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589729",
       "role": {
@@ -172,10 +172,10 @@
       "on_behalf_of_id": "Q682969",
       "organization_id": "Q52634117",
       "area_id": "Q82681",
-      "role_superclass_code": "Q5589729",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Tlaxcala",
-        "lang:en": "Governor of Tlaxcala"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589729",
       "role": {
@@ -189,10 +189,10 @@
       "on_behalf_of_id": "Q851087",
       "organization_id": "Q52634117",
       "area_id": "Q82681",
-      "role_superclass_code": "Q5589729",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Tlaxcala",
-        "lang:en": "Governor of Tlaxcala"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589729",
       "role": {
@@ -206,10 +206,10 @@
       "on_behalf_of_id": "Q682969",
       "organization_id": "Q52634117",
       "area_id": "Q82681",
-      "role_superclass_code": "Q5589729",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Tlaxcala",
-        "lang:en": "Governor of Tlaxcala"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589729",
       "role": {

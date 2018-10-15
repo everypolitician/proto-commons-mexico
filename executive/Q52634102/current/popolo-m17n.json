@@ -625,10 +625,10 @@
       "person_id": "Q17274633",
       "organization_id": "Q52634102",
       "area_id": "Q79861",
-      "role_superclass_code": "Q5589681",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Michoacán",
-        "lang:en": "Governor of Michoacán"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589681",
       "role": {
@@ -642,10 +642,10 @@
       "on_behalf_of_id": "Q767010",
       "organization_id": "Q52634102",
       "area_id": "Q79861",
-      "role_superclass_code": "Q5589681",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Michoacán",
-        "lang:en": "Governor of Michoacán"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589681",
       "role": {
@@ -658,10 +658,10 @@
       "person_id": "Q2436982",
       "organization_id": "Q52634102",
       "area_id": "Q79861",
-      "role_superclass_code": "Q5589681",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Michoacán",
-        "lang:en": "Governor of Michoacán"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589681",
       "role": {
@@ -674,10 +674,10 @@
       "person_id": "Q2642570",
       "organization_id": "Q52634102",
       "area_id": "Q79861",
-      "role_superclass_code": "Q5589681",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Michoacán",
-        "lang:en": "Governor of Michoacán"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589681",
       "role": {
@@ -691,10 +691,10 @@
       "on_behalf_of_id": "Q767010",
       "organization_id": "Q52634102",
       "area_id": "Q79861",
-      "role_superclass_code": "Q5589681",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Michoacán",
-        "lang:en": "Governor of Michoacán"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589681",
       "role": {
@@ -707,10 +707,10 @@
       "person_id": "Q2844131",
       "organization_id": "Q52634102",
       "area_id": "Q79861",
-      "role_superclass_code": "Q5589681",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Michoacán",
-        "lang:en": "Governor of Michoacán"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589681",
       "role": {
@@ -724,10 +724,10 @@
       "on_behalf_of_id": "Q682969",
       "organization_id": "Q52634102",
       "area_id": "Q79861",
-      "role_superclass_code": "Q5589681",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Michoacán",
-        "lang:en": "Governor of Michoacán"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589681",
       "role": {
@@ -740,10 +740,10 @@
       "person_id": "Q3544312",
       "organization_id": "Q52634102",
       "area_id": "Q79861",
-      "role_superclass_code": "Q5589681",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Michoacán",
-        "lang:en": "Governor of Michoacán"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589681",
       "role": {
@@ -757,10 +757,10 @@
       "on_behalf_of_id": "Q3366487",
       "organization_id": "Q52634102",
       "area_id": "Q79861",
-      "role_superclass_code": "Q5589681",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Michoacán",
-        "lang:en": "Governor of Michoacán"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589681",
       "role": {
@@ -774,10 +774,10 @@
       "on_behalf_of_id": "Q682969",
       "organization_id": "Q52634102",
       "area_id": "Q79861",
-      "role_superclass_code": "Q5589681",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Michoacán",
-        "lang:en": "Governor of Michoacán"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589681",
       "role": {
@@ -791,10 +791,10 @@
       "on_behalf_of_id": "Q682969",
       "organization_id": "Q52634102",
       "area_id": "Q79861",
-      "role_superclass_code": "Q5589681",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Michoacán",
-        "lang:en": "Governor of Michoacán"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589681",
       "role": {
@@ -808,10 +808,10 @@
       "on_behalf_of_id": "Q682969",
       "organization_id": "Q52634102",
       "area_id": "Q79861",
-      "role_superclass_code": "Q5589681",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Michoacán",
-        "lang:en": "Governor of Michoacán"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589681",
       "role": {
@@ -824,10 +824,10 @@
       "person_id": "Q515129",
       "organization_id": "Q52634102",
       "area_id": "Q79861",
-      "role_superclass_code": "Q5589681",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Michoacán",
-        "lang:en": "Governor of Michoacán"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589681",
       "role": {
@@ -840,10 +840,10 @@
       "person_id": "Q5441951",
       "organization_id": "Q52634102",
       "area_id": "Q79861",
-      "role_superclass_code": "Q5589681",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Michoacán",
-        "lang:en": "Governor of Michoacán"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589681",
       "role": {
@@ -857,10 +857,10 @@
       "on_behalf_of_id": "Q682969",
       "organization_id": "Q52634102",
       "area_id": "Q79861",
-      "role_superclass_code": "Q5589681",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Michoacán",
-        "lang:en": "Governor of Michoacán"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589681",
       "role": {
@@ -873,10 +873,10 @@
       "person_id": "Q5663676",
       "organization_id": "Q52634102",
       "area_id": "Q79861",
-      "role_superclass_code": "Q5589681",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Michoacán",
-        "lang:en": "Governor of Michoacán"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589681",
       "role": {
@@ -889,10 +889,10 @@
       "person_id": "Q5704179",
       "organization_id": "Q52634102",
       "area_id": "Q79861",
-      "role_superclass_code": "Q5589681",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Michoacán",
-        "lang:en": "Governor of Michoacán"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589681",
       "role": {
@@ -906,10 +906,10 @@
       "on_behalf_of_id": "Q682969",
       "organization_id": "Q52634102",
       "area_id": "Q79861",
-      "role_superclass_code": "Q5589681",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Michoacán",
-        "lang:en": "Governor of Michoacán"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589681",
       "role": {
@@ -923,10 +923,10 @@
       "on_behalf_of_id": "Q682969",
       "organization_id": "Q52634102",
       "area_id": "Q79861",
-      "role_superclass_code": "Q5589681",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Michoacán",
-        "lang:en": "Governor of Michoacán"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589681",
       "role": {
@@ -939,10 +939,10 @@
       "person_id": "Q5771457",
       "organization_id": "Q52634102",
       "area_id": "Q79861",
-      "role_superclass_code": "Q5589681",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Michoacán",
-        "lang:en": "Governor of Michoacán"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589681",
       "role": {
@@ -956,10 +956,10 @@
       "on_behalf_of_id": "Q1723907",
       "organization_id": "Q52634102",
       "area_id": "Q79861",
-      "role_superclass_code": "Q5589681",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Michoacán",
-        "lang:en": "Governor of Michoacán"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589681",
       "role": {
@@ -973,10 +973,10 @@
       "on_behalf_of_id": "Q682969",
       "organization_id": "Q52634102",
       "area_id": "Q79861",
-      "role_superclass_code": "Q5589681",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Michoacán",
-        "lang:en": "Governor of Michoacán"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589681",
       "role": {
@@ -989,10 +989,10 @@
       "person_id": "Q5878954",
       "organization_id": "Q52634102",
       "area_id": "Q79861",
-      "role_superclass_code": "Q5589681",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Michoacán",
-        "lang:en": "Governor of Michoacán"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589681",
       "role": {
@@ -1006,10 +1006,10 @@
       "on_behalf_of_id": "Q682969",
       "organization_id": "Q52634102",
       "area_id": "Q79861",
-      "role_superclass_code": "Q5589681",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Michoacán",
-        "lang:en": "Governor of Michoacán"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589681",
       "role": {
@@ -1023,10 +1023,10 @@
       "on_behalf_of_id": "Q682969",
       "organization_id": "Q52634102",
       "area_id": "Q79861",
-      "role_superclass_code": "Q5589681",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Michoacán",
-        "lang:en": "Governor of Michoacán"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589681",
       "role": {
@@ -1039,10 +1039,10 @@
       "person_id": "Q5945064",
       "organization_id": "Q52634102",
       "area_id": "Q79861",
-      "role_superclass_code": "Q5589681",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Michoacán",
-        "lang:en": "Governor of Michoacán"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589681",
       "role": {
@@ -1055,10 +1055,10 @@
       "person_id": "Q5945340",
       "organization_id": "Q52634102",
       "area_id": "Q79861",
-      "role_superclass_code": "Q5589681",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Michoacán",
-        "lang:en": "Governor of Michoacán"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589681",
       "role": {
@@ -1071,10 +1071,10 @@
       "person_id": "Q6042519",
       "organization_id": "Q52634102",
       "area_id": "Q79861",
-      "role_superclass_code": "Q5589681",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Michoacán",
-        "lang:en": "Governor of Michoacán"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589681",
       "role": {
@@ -1088,10 +1088,10 @@
       "on_behalf_of_id": "Q682969",
       "organization_id": "Q52634102",
       "area_id": "Q79861",
-      "role_superclass_code": "Q5589681",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Michoacán",
-        "lang:en": "Governor of Michoacán"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589681",
       "role": {
@@ -1104,10 +1104,10 @@
       "person_id": "Q6457797",
       "organization_id": "Q52634102",
       "area_id": "Q79861",
-      "role_superclass_code": "Q5589681",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Michoacán",
-        "lang:en": "Governor of Michoacán"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589681",
       "role": {
@@ -1121,10 +1121,10 @@
       "on_behalf_of_id": "Q767010",
       "organization_id": "Q52634102",
       "area_id": "Q79861",
-      "role_superclass_code": "Q5589681",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Michoacán",
-        "lang:en": "Governor of Michoacán"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589681",
       "role": {
