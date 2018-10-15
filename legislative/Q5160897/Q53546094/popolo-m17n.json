@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "Congreso de Tamaulipas",
+        "lang:en": "Congress of Tamaulipas"
+      },
+      "id": "Q5160897",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5160897"
+        }
+      ],
+      "area_id": "Q80007",
+      "seat_counts": {
+        "Q53544421": "35"
+      }
+    }
   ],
   "areas": [
     {

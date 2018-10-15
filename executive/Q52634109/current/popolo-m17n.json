@@ -137,11 +137,6 @@
       "person_id": "Q21411082",
       "organization_id": "Q52634109",
       "area_id": "Q79754",
-      "role_superclass_code": "Q5589703",
-      "role_superclass": {
-        "lang:es": "Gobernantes de Querétaro",
-        "lang:en": "Governor of Querétaro"
-      },
       "role_code": "Q5589703",
       "role": {
         "lang:es": "Gobernantes de Querétaro",
@@ -153,11 +148,6 @@
       "person_id": "Q21664902",
       "organization_id": "Q52634109",
       "area_id": "Q79754",
-      "role_superclass_code": "Q5589703",
-      "role_superclass": {
-        "lang:es": "Gobernantes de Querétaro",
-        "lang:en": "Governor of Querétaro"
-      },
       "role_code": "Q5589703",
       "role": {
         "lang:es": "Gobernantes de Querétaro",
@@ -170,11 +160,6 @@
       "on_behalf_of_id": "Q851087",
       "organization_id": "Q52634109",
       "area_id": "Q79754",
-      "role_superclass_code": "Q5589703",
-      "role_superclass": {
-        "lang:es": "Gobernantes de Querétaro",
-        "lang:en": "Governor of Querétaro"
-      },
       "role_code": "Q5589703",
       "role": {
         "lang:es": "Gobernantes de Querétaro",

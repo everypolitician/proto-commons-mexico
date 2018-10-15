@@ -16,10 +16,6 @@
         {
           "note": "facebook",
           "url": "https://www.facebook.com/gracoramirez"
-        },
-        {
-          "note": "facebook",
-          "url": "https://www.facebook.com/gracoramirez"
         }
       ]
     }
@@ -127,11 +123,6 @@
       "on_behalf_of_id": "Q682969",
       "organization_id": "Q52634103",
       "area_id": "Q66117",
-      "role_superclass_code": "Q5589684",
-      "role_superclass": {
-        "lang:es": "Gobernantes de Morelos",
-        "lang:en": "Governor of Morelos"
-      },
       "role_code": "Q5589684",
       "role": {
         "lang:es": "Gobernantes de Morelos",
@@ -144,11 +135,6 @@
       "on_behalf_of_id": "Q767010",
       "organization_id": "Q52634103",
       "area_id": "Q66117",
-      "role_superclass_code": "Q5589684",
-      "role_superclass": {
-        "lang:es": "Gobernantes de Morelos",
-        "lang:en": "Governor of Morelos"
-      },
       "role_code": "Q5589684",
       "role": {
         "lang:es": "Gobernantes de Morelos",

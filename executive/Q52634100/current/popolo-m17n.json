@@ -106,11 +106,6 @@
       "on_behalf_of_id": "Q682969",
       "organization_id": "Q52634100",
       "area_id": "Q80903",
-      "role_superclass_code": "Q5589662",
-      "role_superclass": {
-        "lang:es": "Gobernadores de Hidalgo",
-        "lang:en": "Governor of Hidalgo"
-      },
       "role_code": "Q5589662",
       "role": {
         "lang:es": "Gobernadores de Hidalgo",

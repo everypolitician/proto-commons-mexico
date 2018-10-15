@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "Congreso de Nayarit",
+        "lang:en": "Congress of Nayarit"
+      },
+      "id": "Q53542914",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53542914"
+        }
+      ],
+      "area_id": "Q79920",
+      "seat_counts": {
+        "Q53544378": "30"
+      }
+    }
   ],
   "areas": [
     {

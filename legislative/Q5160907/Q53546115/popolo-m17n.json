@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "Congreso de Yucatán",
+        "lang:en": "Congress of Yucatán"
+      },
+      "id": "Q5160907",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5160907"
+        }
+      ],
+      "area_id": "Q60176",
+      "seat_counts": {
+        "Q53544432": "25"
+      }
+    }
   ],
   "areas": [
     {

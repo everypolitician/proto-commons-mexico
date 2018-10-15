@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "Congreso de San Luis Potosí",
+        "lang:en": "Congress of San Luis Potosí"
+      },
+      "id": "Q53542918",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53542918"
+        }
+      ],
+      "area_id": "Q78980",
+      "seat_counts": {
+        "Q53544404": "27"
+      }
+    }
   ],
   "areas": [
     {

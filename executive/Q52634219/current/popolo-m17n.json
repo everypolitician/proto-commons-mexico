@@ -115,10 +115,10 @@
       "person_id": "Q56479917",
       "organization_id": "Q52634219",
       "area_id": "Q2143868",
-      "role_superclass_code": "Q52634197",
+      "role_superclass_code": "Q6936349",
       "role_superclass": {
-        "lang:es": "Presidente Municipal de Zapopan",
-        "lang:en": "Municipal President of Zapopan"
+        "lang:es": "presidente municipal",
+        "lang:en": "municipal president"
       },
       "role_code": "Q52634197",
       "role": {

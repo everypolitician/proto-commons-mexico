@@ -151,11 +151,6 @@
       "on_behalf_of_id": "Q682969",
       "organization_id": "Q52634090",
       "area_id": "Q53079",
-      "role_superclass_code": "Q11812211",
-      "role_superclass": {
-        "lang:es": "Gobernantes de Coahuila",
-        "lang:en": "Governor of Coahuila"
-      },
       "role_code": "Q11812211",
       "role": {
         "lang:es": "Gobernantes de Coahuila",
@@ -168,11 +163,6 @@
       "on_behalf_of_id": "Q2604894",
       "organization_id": "Q52634090",
       "area_id": "Q53079",
-      "role_superclass_code": "Q11812211",
-      "role_superclass": {
-        "lang:es": "Gobernantes de Coahuila",
-        "lang:en": "Governor of Coahuila"
-      },
       "role_code": "Q11812211",
       "role": {
         "lang:es": "Gobernantes de Coahuila",
@@ -185,11 +175,6 @@
       "on_behalf_of_id": "Q682969",
       "organization_id": "Q52634090",
       "area_id": "Q53079",
-      "role_superclass_code": "Q11812211",
-      "role_superclass": {
-        "lang:es": "Gobernantes de Coahuila",
-        "lang:en": "Governor of Coahuila"
-      },
       "role_code": "Q11812211",
       "role": {
         "lang:es": "Gobernantes de Coahuila",

@@ -128,11 +128,6 @@
       "on_behalf_of_id": "Q682969",
       "organization_id": "Q52634097",
       "area_id": "Q82112",
-      "role_superclass_code": "Q5589754",
-      "role_superclass": {
-        "lang:es": "Gobernantes del Estado de México",
-        "lang:en": "Governor of the State of Mexico"
-      },
       "role_code": "Q5589754",
       "role": {
         "lang:es": "Gobernantes del Estado de México",
@@ -145,11 +140,6 @@
       "on_behalf_of_id": "Q682969",
       "organization_id": "Q52634097",
       "area_id": "Q82112",
-      "role_superclass_code": "Q5589754",
-      "role_superclass": {
-        "lang:es": "Gobernantes del Estado de México",
-        "lang:en": "Governor of the State of Mexico"
-      },
       "role_code": "Q5589754",
       "role": {
         "lang:es": "Gobernantes del Estado de México",

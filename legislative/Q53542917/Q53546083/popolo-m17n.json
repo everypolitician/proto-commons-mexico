@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "Congreso de Querétaro",
+        "lang:en": "Congress of Queretaro"
+      },
+      "id": "Q53542917",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53542917"
+        }
+      ],
+      "area_id": "Q79754",
+      "seat_counts": {
+        "Q53544400": "25"
+      }
+    }
   ],
   "areas": [
     {

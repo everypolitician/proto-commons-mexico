@@ -136,11 +136,6 @@
       "on_behalf_of_id": "Q767010",
       "organization_id": "Q52634099",
       "area_id": "Q60158",
-      "role_superclass_code": "Q5589659",
-      "role_superclass": {
-        "lang:es": "Gobernantes de Guerrero",
-        "lang:en": "Governor of Guerrero"
-      },
       "role_code": "Q5589659",
       "role": {
         "lang:es": "Gobernantes de Guerrero",
@@ -153,11 +148,6 @@
       "on_behalf_of_id": "Q682969",
       "organization_id": "Q52634099",
       "area_id": "Q60158",
-      "role_superclass_code": "Q5589659",
-      "role_superclass": {
-        "lang:es": "Gobernantes de Guerrero",
-        "lang:en": "Governor of Guerrero"
-      },
       "role_code": "Q5589659",
       "role": {
         "lang:es": "Gobernantes de Guerrero",

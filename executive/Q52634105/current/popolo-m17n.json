@@ -168,11 +168,6 @@
       "on_behalf_of_id": "Q851087",
       "organization_id": "Q52634105",
       "area_id": "Q15282",
-      "role_superclass_code": "Q5589693",
-      "role_superclass": {
-        "lang:es": "Gobernantes de Nuevo León",
-        "lang:en": "Governor of Nuevo León"
-      },
       "role_code": "Q5589693",
       "role": {
         "lang:es": "Gobernantes de Nuevo León",
@@ -185,11 +180,6 @@
       "on_behalf_of_id": "Q682969",
       "organization_id": "Q52634105",
       "area_id": "Q15282",
-      "role_superclass_code": "Q5589693",
-      "role_superclass": {
-        "lang:es": "Gobernantes de Nuevo León",
-        "lang:en": "Governor of Nuevo León"
-      },
       "role_code": "Q5589693",
       "role": {
         "lang:es": "Gobernantes de Nuevo León",
@@ -202,11 +192,6 @@
       "on_behalf_of_id": "Q682969",
       "organization_id": "Q52634105",
       "area_id": "Q15282",
-      "role_superclass_code": "Q5589693",
-      "role_superclass": {
-        "lang:es": "Gobernantes de Nuevo León",
-        "lang:en": "Governor of Nuevo León"
-      },
       "role_code": "Q5589693",
       "role": {
         "lang:es": "Gobernantes de Nuevo León",
@@ -218,11 +203,6 @@
       "person_id": "Q727321",
       "organization_id": "Q52634105",
       "area_id": "Q15282",
-      "role_superclass_code": "Q5589693",
-      "role_superclass": {
-        "lang:es": "Gobernantes de Nuevo León",
-        "lang:en": "Governor of Nuevo León"
-      },
       "role_code": "Q5589693",
       "role": {
         "lang:es": "Gobernantes de Nuevo León",

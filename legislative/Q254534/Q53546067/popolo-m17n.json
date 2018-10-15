@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "Congreso de Nuevo León",
+        "lang:en": "Congress of Nuevo Leon"
+      },
+      "id": "Q254534",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q254534"
+        }
+      ],
+      "area_id": "Q15282",
+      "seat_counts": {
+        "Q53544387": "42"
+      }
+    }
   ],
   "areas": [
     {

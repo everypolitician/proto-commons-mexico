@@ -136,11 +136,6 @@
       "on_behalf_of_id": "Q682969",
       "organization_id": "Q52634108",
       "area_id": "Q79923",
-      "role_superclass_code": "Q5589701",
-      "role_superclass": {
-        "lang:es": "Gobernantes de Puebla",
-        "lang:en": "Governor of Puebla"
-      },
       "role_code": "Q5589701",
       "role": {
         "lang:es": "Gobernantes de Puebla",
@@ -153,11 +148,6 @@
       "on_behalf_of_id": "Q851087",
       "organization_id": "Q52634108",
       "area_id": "Q79923",
-      "role_superclass_code": "Q5589701",
-      "role_superclass": {
-        "lang:es": "Gobernantes de Puebla",
-        "lang:en": "Governor of Puebla"
-      },
       "role_code": "Q5589701",
       "role": {
         "lang:es": "Gobernantes de Puebla",

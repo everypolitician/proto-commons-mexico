@@ -32,10 +32,6 @@
         {
           "note": "facebook",
           "url": "https://www.facebook.com/RicardoMonrealA"
-        },
-        {
-          "note": "facebook",
-          "url": "https://www.facebook.com/RicardoMonrealA"
         }
       ]
     }
@@ -143,11 +139,6 @@
       "on_behalf_of_id": "Q682969",
       "organization_id": "Q52634120",
       "area_id": "Q80269",
-      "role_superclass_code": "Q5589737",
-      "role_superclass": {
-        "lang:es": "Gobernantes de Zacatecas",
-        "lang:en": "Governor of Zacatecas"
-      },
       "role_code": "Q5589737",
       "role": {
         "lang:es": "Gobernantes de Zacatecas",
@@ -160,11 +151,6 @@
       "on_behalf_of_id": "Q682969",
       "organization_id": "Q52634120",
       "area_id": "Q80269",
-      "role_superclass_code": "Q5589737",
-      "role_superclass": {
-        "lang:es": "Gobernantes de Zacatecas",
-        "lang:en": "Governor of Zacatecas"
-      },
       "role_code": "Q5589737",
       "role": {
         "lang:es": "Gobernantes de Zacatecas",
@@ -177,11 +163,6 @@
       "on_behalf_of_id": "Q767010",
       "organization_id": "Q52634120",
       "area_id": "Q80269",
-      "role_superclass_code": "Q5589737",
-      "role_superclass": {
-        "lang:es": "Gobernantes de Zacatecas",
-        "lang:en": "Governor of Zacatecas"
-      },
       "role_code": "Q5589737",
       "role": {
         "lang:es": "Gobernantes de Zacatecas",

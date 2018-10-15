@@ -152,11 +152,6 @@
       "on_behalf_of_id": "Q682969",
       "organization_id": "Q52634093",
       "area_id": "Q655",
-      "role_superclass_code": "Q9282520",
-      "role_superclass": {
-        "lang:es": "Gobernantes de Chihuahua",
-        "lang:en": "Governor of Chihuahua"
-      },
       "role_code": "Q9282520",
       "role": {
         "lang:es": "Gobernantes de Chihuahua",
@@ -169,11 +164,6 @@
       "on_behalf_of_id": "Q851087",
       "organization_id": "Q52634093",
       "area_id": "Q655",
-      "role_superclass_code": "Q9282520",
-      "role_superclass": {
-        "lang:es": "Gobernantes de Chihuahua",
-        "lang:en": "Governor of Chihuahua"
-      },
       "role_code": "Q9282520",
       "role": {
         "lang:es": "Gobernantes de Chihuahua",
@@ -186,11 +176,6 @@
       "on_behalf_of_id": "Q851087",
       "organization_id": "Q52634093",
       "area_id": "Q655",
-      "role_superclass_code": "Q9282520",
-      "role_superclass": {
-        "lang:es": "Gobernantes de Chihuahua",
-        "lang:en": "Governor of Chihuahua"
-      },
       "role_code": "Q9282520",
       "role": {
         "lang:es": "Gobernantes de Chihuahua",

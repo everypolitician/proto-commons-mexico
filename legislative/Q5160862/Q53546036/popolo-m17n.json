@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "Congreso de Colima",
+        "lang:en": "Congress of Colima"
+      },
+      "id": "Q5160862",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5160862"
+        }
+      ],
+      "area_id": "Q61309",
+      "seat_counts": {
+        "Q53544335": "25"
+      }
+    }
   ],
   "areas": [
     {

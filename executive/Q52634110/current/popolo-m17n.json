@@ -109,11 +109,6 @@
       "on_behalf_of_id": "Q682969",
       "organization_id": "Q52634110",
       "area_id": "Q80245",
-      "role_superclass_code": "Q5589705",
-      "role_superclass": {
-        "lang:es": "Gobernantes de Quintana Roo",
-        "lang:en": "Governor of Quintana Roo"
-      },
       "role_code": "Q5589705",
       "role": {
         "lang:es": "Gobernantes de Quintana Roo",

@@ -106,11 +106,6 @@
       "on_behalf_of_id": "Q682969",
       "organization_id": "Q52634111",
       "area_id": "Q78980",
-      "role_superclass_code": "Q5589709",
-      "role_superclass": {
-        "lang:es": "Gobernantes de San Luis Potosí",
-        "lang:en": "Governor of San Luis Potosí"
-      },
       "role_code": "Q5589709",
       "role": {
         "lang:es": "Gobernantes de San Luis Potosí",
