@@ -31,6 +31,22 @@
       "links": [
 
       ]
+    },
+    {
+      "name": {
+        "lang:es": "Javier Corral Jurado",
+        "lang:en": "Javier Corral Jurado"
+      },
+      "id": "Q5927621",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5927621"
+        }
+      ],
+      "links": [
+
+      ]
     }
   ],
   "organizations": [
@@ -150,6 +166,23 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3081815-8C33DF2B-5A85-4448-90E1-E0BE8A4AF6EC",
       "person_id": "Q3081815",
+      "on_behalf_of_id": "Q851087",
+      "organization_id": "Q52634093",
+      "area_id": "Q655",
+      "role_superclass_code": "Q9282520",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Chihuahua",
+        "lang:en": "Governor of Chihuahua"
+      },
+      "role_code": "Q9282520",
+      "role": {
+        "lang:es": "Gobernantes de Chihuahua",
+        "lang:en": "Governor of Chihuahua"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5927621-FA3CDBE5-323A-43DC-BED0-6289E9373C20",
+      "person_id": "Q5927621",
       "on_behalf_of_id": "Q851087",
       "organization_id": "Q52634093",
       "area_id": "Q655",

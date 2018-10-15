@@ -2,6 +2,22 @@
   "persons": [
     {
       "name": {
+        "lang:es": "Alejandro Tello Cristerna",
+        "lang:en": "Alejandro Tello Cristerna"
+      },
+      "id": "Q5665543",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5665543"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:es": "Ricardo Monreal Ávila",
         "lang:en": "Ricardo Monreal"
       },
@@ -121,6 +137,23 @@
     }
   ],
   "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5665543-BF6898BE-89F1-49A0-A6FE-717ECF7F24DD",
+      "person_id": "Q5665543",
+      "on_behalf_of_id": "Q682969",
+      "organization_id": "Q52634120",
+      "area_id": "Q80269",
+      "role_superclass_code": "Q5589737",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Zacatecas",
+        "lang:en": "Governor of Zacatecas"
+      },
+      "role_code": "Q5589737",
+      "role": {
+        "lang:es": "Gobernantes de Zacatecas",
+        "lang:en": "Governor of Zacatecas"
+      }
+    },
     {
       "id": "http://www.wikidata.org/entity/statement/Q7322738-8F48D337-F852-4384-8E94-FB851BA82E92",
       "person_id": "Q7322738",

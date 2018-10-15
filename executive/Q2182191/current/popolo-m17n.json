@@ -101,6 +101,25 @@
     },
     {
       "name": {
+        "lang:es": "Andrés Manuel López Obrador",
+        "lang:en": "Andrés Manuel López Obrador"
+      },
+      "id": "Q318508",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q318508"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/lopezobrador.org.mx"
+        }
+      ]
+    },
+    {
+      "name": {
         "lang:es": "Anastasio Bustamante",
         "lang:en": "Anastasio Bustamante"
       },
@@ -294,6 +313,20 @@
     },
     {
       "name": {
+        "lang:es": "Movimiento Regeneración Nacional",
+        "lang:en": "National Regeneration Movement"
+      },
+      "id": "Q15717618",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15717618"
+        }
+      ]
+    },
+    {
+      "name": {
         "lang:es": "Partido Conservador (México)",
         "lang:en": "Conservative Party"
       },
@@ -466,6 +499,24 @@
       "person_id": "Q315621",
       "organization_id": "Q2182191",
       "area_id": "Q96",
+      "role_superclass_code": "Q628004",
+      "role_superclass": {
+        "lang:es": "Presidente de México",
+        "lang:en": "President of Mexico"
+      },
+      "role_code": "Q628004",
+      "role": {
+        "lang:es": "Presidente de México",
+        "lang:en": "President of Mexico"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q318508-511dc370-49df-415f-858c-a5c7915c3332",
+      "person_id": "Q318508",
+      "on_behalf_of_id": "Q15717618",
+      "organization_id": "Q2182191",
+      "area_id": "Q96",
+      "start_date": "2018-12-01",
       "role_superclass_code": "Q628004",
       "role_superclass": {
         "lang:es": "Presidente de México",

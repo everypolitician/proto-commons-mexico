@@ -1,0 +1,494 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+
+  ],
+  "areas": [
+    {
+      "id": "Q53002022",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:hid/led:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002022"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544369"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Hidalgo"
+      },
+      "name": {
+        "lang:en": "I Local Electoral District of Hidalgo",
+        "lang:es": "I Distrito Electoral Local de Hidalgo"
+      },
+      "parent_id": "Q80903"
+    },
+    {
+      "id": "Q53002025",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:hid/led:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002025"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544369"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Hidalgo"
+      },
+      "name": {
+        "lang:en": "II Local Electoral District of Hidalgo",
+        "lang:es": "II Distrito Electoral Local de Hidalgo"
+      },
+      "parent_id": "Q80903"
+    },
+    {
+      "id": "Q53002029",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:hid/led:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002029"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544369"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Hidalgo"
+      },
+      "name": {
+        "lang:en": "III Local Electoral District of Hidalgo",
+        "lang:es": "III Distrito Electoral Local de Hidalgo"
+      },
+      "parent_id": "Q80903"
+    },
+    {
+      "id": "Q53002031",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:hid/led:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002031"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544369"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Hidalgo"
+      },
+      "name": {
+        "lang:en": "IV Local Electoral District of Hidalgo",
+        "lang:es": "IV Distrito Electoral Local de Hidalgo"
+      },
+      "parent_id": "Q80903"
+    },
+    {
+      "id": "Q53002032",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:hid/led:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002032"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544369"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Hidalgo"
+      },
+      "name": {
+        "lang:en": "V Local Electoral District of Hidalgo",
+        "lang:es": "V Distrito Electoral Local de Hidalgo"
+      },
+      "parent_id": "Q80903"
+    },
+    {
+      "id": "Q53002046",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:hid/led:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002046"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544369"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Hidalgo"
+      },
+      "name": {
+        "lang:en": "VI Local Electoral District of Hidalgo",
+        "lang:es": "VI Distrito Electoral Local de Hidalgo"
+      },
+      "parent_id": "Q80903"
+    },
+    {
+      "id": "Q53002057",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:hid/led:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002057"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544369"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Hidalgo"
+      },
+      "name": {
+        "lang:en": "VII Local Electoral District of Hidalgo",
+        "lang:es": "VII Distrito Electoral Local de Hidalgo"
+      },
+      "parent_id": "Q80903"
+    },
+    {
+      "id": "Q53002059",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:hid/led:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002059"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544369"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Hidalgo"
+      },
+      "name": {
+        "lang:en": "VIII Local Electoral District of Hidalgo",
+        "lang:es": "VIII Distrito Electoral Local de Hidalgo"
+      },
+      "parent_id": "Q80903"
+    },
+    {
+      "id": "Q53002061",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:hid/led:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002061"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544369"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Hidalgo"
+      },
+      "name": {
+        "lang:en": "IX Local Electoral District of Hidalgo",
+        "lang:es": "IX Distrito Electoral Local de Hidalgo"
+      },
+      "parent_id": "Q80903"
+    },
+    {
+      "id": "Q53002063",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:hid/led:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002063"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544369"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Hidalgo"
+      },
+      "name": {
+        "lang:en": "X Local Electoral District of Hidalgo",
+        "lang:es": "X Distrito Electoral Local de Hidalgo"
+      },
+      "parent_id": "Q80903"
+    },
+    {
+      "id": "Q53002066",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:hid/led:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002066"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544369"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Hidalgo"
+      },
+      "name": {
+        "lang:en": "XI Local Electoral District of Hidalgo",
+        "lang:es": "XI Distrito Electoral Local de Hidalgo"
+      },
+      "parent_id": "Q80903"
+    },
+    {
+      "id": "Q53002068",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:hid/led:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002068"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544369"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Hidalgo"
+      },
+      "name": {
+        "lang:en": "XII Local Electoral District of Hidalgo",
+        "lang:es": "XII Distrito Electoral Local de Hidalgo"
+      },
+      "parent_id": "Q80903"
+    },
+    {
+      "id": "Q53002071",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:hid/led:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002071"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544369"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Hidalgo"
+      },
+      "name": {
+        "lang:en": "XIII Local Electoral District of Hidalgo",
+        "lang:es": "XIII Distrito Electoral Local de Hidalgo"
+      },
+      "parent_id": "Q80903"
+    },
+    {
+      "id": "Q53002072",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:hid/led:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002072"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544369"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Hidalgo"
+      },
+      "name": {
+        "lang:en": "XIV Local Electoral District of Hidalgo",
+        "lang:es": "XIV Distrito Electoral Local de Hidalgo"
+      },
+      "parent_id": "Q80903"
+    },
+    {
+      "id": "Q53002083",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:hid/led:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002083"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544369"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Hidalgo"
+      },
+      "name": {
+        "lang:en": "XV Local Electoral District of Hidalgo",
+        "lang:es": "XV Distrito Electoral Local de Hidalgo"
+      },
+      "parent_id": "Q80903"
+    },
+    {
+      "id": "Q53002092",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:hid/led:16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002092"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544369"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Hidalgo"
+      },
+      "name": {
+        "lang:en": "XVI Local Electoral District of Hidalgo",
+        "lang:es": "XVI Distrito Electoral Local de Hidalgo"
+      },
+      "parent_id": "Q80903"
+    },
+    {
+      "id": "Q53002095",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:hid/led:17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002095"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544369"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Hidalgo"
+      },
+      "name": {
+        "lang:en": "XVII Local Electoral District of Hidalgo",
+        "lang:es": "XVII Distrito Electoral Local de Hidalgo"
+      },
+      "parent_id": "Q80903"
+    },
+    {
+      "id": "Q53002097",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:hid/led:18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53002097"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53544369"
+      ],
+      "type": {
+        "lang:en": "local electoral district of Hidalgo"
+      },
+      "name": {
+        "lang:en": "XVIII Local Electoral District of Hidalgo",
+        "lang:es": "XVIII Distrito Electoral Local de Hidalgo"
+      },
+      "parent_id": "Q80903"
+    },
+    {
+      "id": "Q80903",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx/state:hid"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q80903"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q5589662"
+      ],
+      "type": {
+        "lang:es": "estado de México",
+        "lang:en": "state of Mexico"
+      },
+      "name": {
+        "lang:es": "Hidalgo"
+      },
+      "parent_id": "Q96"
+    },
+    {
+      "id": "Q96",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:mx"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q96"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q628004"
+      ],
+      "type": {
+        "lang:es": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "United Mexican States",
+        "lang:es": "Estados Unidos Mexicanos"
+      },
+      "parent_id": null
+    }
+  ],
+  "memberships": [
+
+  ]
+}

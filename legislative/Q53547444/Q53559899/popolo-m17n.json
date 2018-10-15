@@ -1,9 +1,40 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:es": "Alvaro Flores Palomo"
+      },
+      "id": "Q56479936",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56479936"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "Ayuntamiento de Monterrey",
+        "lang:en": "Town Hall of Monterrey"
+      },
+      "id": "Q53547444",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53547444"
+        }
+      ],
+      "area_id": "Q6905368",
+      "seat_counts": {
+        "Q53547735": "29"
+      }
+    }
   ],
   "areas": [
     {
@@ -82,6 +113,37 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56479936-653FAEDF-D9A8-4510-A9C4-7037A619E4C0",
+      "person_id": "Q56479936",
+      "organization_id": "Q53547444",
+      "area_id": "Q6905368",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:es": "concejal",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53547735",
+      "role": {
+        "lang:es": "regidor de la Honorable Ayuntamiento de Monterrey",
+        "lang:en": "alderman of the Honorable City Council of Monterrey"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56479936-F8D17A34-8E5A-4F69-829A-20DC17179A1C",
+      "person_id": "Q56479936",
+      "organization_id": "Q53547444",
+      "area_id": "Q6905368",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:es": "concejal",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53547735",
+      "role": {
+        "lang:es": "regidor de la Honorable Ayuntamiento de Monterrey",
+        "lang:en": "alderman of the Honorable City Council of Monterrey"
+      }
+    }
   ]
 }
