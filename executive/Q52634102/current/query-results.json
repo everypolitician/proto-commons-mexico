@@ -4,47 +4,9 @@
   },
   "results" : {
     "bindings" : [ {
-      "district" : {
+      "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q79861"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Michoacán"
-      },
-      "district_name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Michoacán"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5589681"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5589681"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Governor of Michoacán"
-      },
-      "role_superclass_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Gobernantes de Michoacán"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Governor of Michoacán"
-      },
-      "role_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Gobernantes de Michoacán"
+        "value" : "http://www.wikidata.org/entity/statement/Q17274633-70FF5953-A5C3-4AB5-8A47-131B8A636509"
       },
       "item" : {
         "type" : "uri",
@@ -55,45 +17,22 @@
         "type" : "literal",
         "value" : "Salvador Jara Guerrero"
       },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q52634102"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "governor and cabinet of Michoacán"
-      },
-      "org_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "gobernador y gabinete de Michoacán"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q17274633-70FF5953-A5C3-4AB5-8A47-131B8A636509"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q79861"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Salvador Jara Guerrero García"
-      }
-    }, {
+      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q79861"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
+      "district_name_es" : {
+        "xml:lang" : "es",
         "type" : "literal",
         "value" : "Michoacán"
       },
-      "district_name_es" : {
-        "xml:lang" : "es",
+      "district_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Michoacán"
       },
@@ -101,16 +40,7 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5589681"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5589681"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Governor of Michoacán"
-      },
-      "role_superclass_es" : {
+      "role_es" : {
         "xml:lang" : "es",
         "type" : "literal",
         "value" : "Gobernantes de Michoacán"
@@ -120,10 +50,28 @@
         "type" : "literal",
         "value" : "Governor of Michoacán"
       },
-      "role_es" : {
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634102"
+      },
+      "org_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Gobernantes de Michoacán"
+        "value" : "gobernador y gabinete de Michoacán"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "governor and cabinet of Michoacán"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q79861"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1938773-1E1ADA3E-7C7D-4861-A34A-ACAF42B477DD"
       },
       "item" : {
         "type" : "uri",
@@ -134,59 +82,22 @@
         "type" : "literal",
         "value" : "Lázaro Cárdenas Batel"
       },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q52634102"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "governor and cabinet of Michoacán"
-      },
-      "org_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "gobernador y gabinete de Michoacán"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q1938773-1E1ADA3E-7C7D-4861-A34A-ACAF42B477DD"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q79861"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Lázaro Cárdenas Batel"
       },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q767010"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Party of the Democratic Revolution"
-      },
-      "party_name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Partido de la Revolución Democrática"
-      }
-    }, {
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q79861"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
+      "district_name_es" : {
+        "xml:lang" : "es",
         "type" : "literal",
         "value" : "Michoacán"
       },
-      "district_name_es" : {
-        "xml:lang" : "es",
+      "district_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Michoacán"
       },
@@ -194,16 +105,7 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5589681"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5589681"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Governor of Michoacán"
-      },
-      "role_superclass_es" : {
+      "role_es" : {
         "xml:lang" : "es",
         "type" : "literal",
         "value" : "Gobernantes de Michoacán"
@@ -213,10 +115,42 @@
         "type" : "literal",
         "value" : "Governor of Michoacán"
       },
-      "role_es" : {
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634102"
+      },
+      "org_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Gobernantes de Michoacán"
+        "value" : "gobernador y gabinete de Michoacán"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "governor and cabinet of Michoacán"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q79861"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q767010"
+      },
+      "party_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Partido de la Revolución Democrática"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Party of the Democratic Revolution"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q2436982-f37ddc1b-72be-4610-93c3-63adc0c2bc9f"
       },
       "item" : {
         "type" : "uri",
@@ -227,45 +161,22 @@
         "type" : "literal",
         "value" : "Dámaso Cárdenas del Río"
       },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q52634102"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "governor and cabinet of Michoacán"
-      },
-      "org_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "gobernador y gabinete de Michoacán"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q2436982-f37ddc1b-72be-4610-93c3-63adc0c2bc9f"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q79861"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Dámaso Cárdenas del Río"
-      }
-    }, {
+      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q79861"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
+      "district_name_es" : {
+        "xml:lang" : "es",
         "type" : "literal",
         "value" : "Michoacán"
       },
-      "district_name_es" : {
-        "xml:lang" : "es",
+      "district_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Michoacán"
       },
@@ -273,16 +184,7 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5589681"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5589681"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Governor of Michoacán"
-      },
-      "role_superclass_es" : {
+      "role_es" : {
         "xml:lang" : "es",
         "type" : "literal",
         "value" : "Gobernantes de Michoacán"
@@ -292,10 +194,28 @@
         "type" : "literal",
         "value" : "Governor of Michoacán"
       },
-      "role_es" : {
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634102"
+      },
+      "org_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Gobernantes de Michoacán"
+        "value" : "gobernador y gabinete de Michoacán"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "governor and cabinet of Michoacán"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q79861"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q2642570-81C5B53A-1733-4D52-9883-33B20CBE144C"
       },
       "item" : {
         "type" : "uri",
@@ -306,45 +226,22 @@
         "type" : "literal",
         "value" : "Melchor Ocampo"
       },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q52634102"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "governor and cabinet of Michoacán"
-      },
-      "org_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "gobernador y gabinete de Michoacán"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q2642570-81C5B53A-1733-4D52-9883-33B20CBE144C"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q79861"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Melchor Ocampo"
-      }
-    }, {
+      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q79861"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
+      "district_name_es" : {
+        "xml:lang" : "es",
         "type" : "literal",
         "value" : "Michoacán"
       },
-      "district_name_es" : {
-        "xml:lang" : "es",
+      "district_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Michoacán"
       },
@@ -352,16 +249,7 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5589681"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5589681"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Governor of Michoacán"
-      },
-      "role_superclass_es" : {
+      "role_es" : {
         "xml:lang" : "es",
         "type" : "literal",
         "value" : "Gobernantes de Michoacán"
@@ -371,10 +259,28 @@
         "type" : "literal",
         "value" : "Governor of Michoacán"
       },
-      "role_es" : {
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634102"
+      },
+      "org_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Gobernantes de Michoacán"
+        "value" : "gobernador y gabinete de Michoacán"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "governor and cabinet of Michoacán"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q79861"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q2702248-95472EB9-86FB-424A-B2E0-199A8B0F634B"
       },
       "item" : {
         "type" : "uri",
@@ -385,59 +291,22 @@
         "type" : "literal",
         "value" : "Leonel Godoy Rangel"
       },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q52634102"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "governor and cabinet of Michoacán"
-      },
-      "org_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "gobernador y gabinete de Michoacán"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q2702248-95472EB9-86FB-424A-B2E0-199A8B0F634B"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q79861"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Leonel Godoy Rangel"
       },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q767010"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Party of the Democratic Revolution"
-      },
-      "party_name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Partido de la Revolución Democrática"
-      }
-    }, {
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q79861"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
+      "district_name_es" : {
+        "xml:lang" : "es",
         "type" : "literal",
         "value" : "Michoacán"
       },
-      "district_name_es" : {
-        "xml:lang" : "es",
+      "district_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Michoacán"
       },
@@ -445,16 +314,7 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5589681"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5589681"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Governor of Michoacán"
-      },
-      "role_superclass_es" : {
+      "role_es" : {
         "xml:lang" : "es",
         "type" : "literal",
         "value" : "Gobernantes de Michoacán"
@@ -464,10 +324,42 @@
         "type" : "literal",
         "value" : "Governor of Michoacán"
       },
-      "role_es" : {
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634102"
+      },
+      "org_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Gobernantes de Michoacán"
+        "value" : "gobernador y gabinete de Michoacán"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "governor and cabinet of Michoacán"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q79861"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q767010"
+      },
+      "party_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Partido de la Revolución Democrática"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Party of the Democratic Revolution"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q2844131-a3fef3d3-ad92-4449-bbae-52fe4dcf6d24"
       },
       "item" : {
         "type" : "uri",
@@ -478,45 +370,22 @@
         "type" : "literal",
         "value" : "Alfredo Elizondo"
       },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q52634102"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "governor and cabinet of Michoacán"
-      },
-      "org_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "gobernador y gabinete de Michoacán"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q2844131-a3fef3d3-ad92-4449-bbae-52fe4dcf6d24"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q79861"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Alfredo Elizondo"
-      }
-    }, {
+      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q79861"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
+      "district_name_es" : {
+        "xml:lang" : "es",
         "type" : "literal",
         "value" : "Michoacán"
       },
-      "district_name_es" : {
-        "xml:lang" : "es",
+      "district_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Michoacán"
       },
@@ -524,16 +393,7 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5589681"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5589681"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Governor of Michoacán"
-      },
-      "role_superclass_es" : {
+      "role_es" : {
         "xml:lang" : "es",
         "type" : "literal",
         "value" : "Gobernantes de Michoacán"
@@ -543,10 +403,28 @@
         "type" : "literal",
         "value" : "Governor of Michoacán"
       },
-      "role_es" : {
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634102"
+      },
+      "org_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Gobernantes de Michoacán"
+        "value" : "gobernador y gabinete de Michoacán"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "governor and cabinet of Michoacán"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q79861"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q3070936-B23BDECB-1182-4D94-A03B-32F4B081F8D0"
       },
       "item" : {
         "type" : "uri",
@@ -557,59 +435,22 @@
         "type" : "literal",
         "value" : "Fausto Vallejo Figueroa"
       },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q52634102"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "governor and cabinet of Michoacán"
-      },
-      "org_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "gobernador y gabinete de Michoacán"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q3070936-B23BDECB-1182-4D94-A03B-32F4B081F8D0"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q79861"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Fausto Vallejo"
       },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q682969"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Institutional Revolutionary Party"
-      },
-      "party_name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Partido Revolucionario Institucional"
-      }
-    }, {
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q79861"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
+      "district_name_es" : {
+        "xml:lang" : "es",
         "type" : "literal",
         "value" : "Michoacán"
       },
-      "district_name_es" : {
-        "xml:lang" : "es",
+      "district_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Michoacán"
       },
@@ -617,16 +458,7 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5589681"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5589681"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Governor of Michoacán"
-      },
-      "role_superclass_es" : {
+      "role_es" : {
         "xml:lang" : "es",
         "type" : "literal",
         "value" : "Gobernantes de Michoacán"
@@ -636,10 +468,42 @@
         "type" : "literal",
         "value" : "Governor of Michoacán"
       },
-      "role_es" : {
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634102"
+      },
+      "org_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Gobernantes de Michoacán"
+        "value" : "gobernador y gabinete de Michoacán"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "governor and cabinet of Michoacán"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q79861"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q682969"
+      },
+      "party_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Partido Revolucionario Institucional"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Institutional Revolutionary Party"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q3544312-BF6853B9-333B-42E0-BC8D-E62E2067D558"
       },
       "item" : {
         "type" : "uri",
@@ -650,45 +514,22 @@
         "type" : "literal",
         "value" : "José Santos Degollado"
       },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q52634102"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "governor and cabinet of Michoacán"
-      },
-      "org_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "gobernador y gabinete de Michoacán"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q3544312-BF6853B9-333B-42E0-BC8D-E62E2067D558"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q79861"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Santos Degollado"
-      }
-    }, {
+      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q79861"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
+      "district_name_es" : {
+        "xml:lang" : "es",
         "type" : "literal",
         "value" : "Michoacán"
       },
-      "district_name_es" : {
-        "xml:lang" : "es",
+      "district_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Michoacán"
       },
@@ -696,16 +537,7 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5589681"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5589681"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Governor of Michoacán"
-      },
-      "role_superclass_es" : {
+      "role_es" : {
         "xml:lang" : "es",
         "type" : "literal",
         "value" : "Gobernantes de Michoacán"
@@ -715,10 +547,28 @@
         "type" : "literal",
         "value" : "Governor of Michoacán"
       },
-      "role_es" : {
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634102"
+      },
+      "org_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Gobernantes de Michoacán"
+        "value" : "gobernador y gabinete de Michoacán"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "governor and cabinet of Michoacán"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q79861"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q380975-7EADEEFE-855B-4836-8F9C-DC1E8B4530B4"
       },
       "item" : {
         "type" : "uri",
@@ -729,59 +579,22 @@
         "type" : "literal",
         "value" : "Manuel del Refugio González Flores"
       },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q52634102"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "governor and cabinet of Michoacán"
-      },
-      "org_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "gobernador y gabinete de Michoacán"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q380975-7EADEEFE-855B-4836-8F9C-DC1E8B4530B4"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q79861"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Manuel González Flores"
       },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3366487"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Liberal Party"
-      },
-      "party_name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Partido Liberal"
-      }
-    }, {
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q79861"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
+      "district_name_es" : {
+        "xml:lang" : "es",
         "type" : "literal",
         "value" : "Michoacán"
       },
-      "district_name_es" : {
-        "xml:lang" : "es",
+      "district_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Michoacán"
       },
@@ -789,16 +602,7 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5589681"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5589681"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Governor of Michoacán"
-      },
-      "role_superclass_es" : {
+      "role_es" : {
         "xml:lang" : "es",
         "type" : "literal",
         "value" : "Gobernantes de Michoacán"
@@ -808,10 +612,42 @@
         "type" : "literal",
         "value" : "Governor of Michoacán"
       },
-      "role_es" : {
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634102"
+      },
+      "org_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Gobernantes de Michoacán"
+        "value" : "gobernador y gabinete de Michoacán"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "governor and cabinet of Michoacán"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q79861"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3366487"
+      },
+      "party_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Partido Liberal"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Liberal Party"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q455683-91BA2604-A107-48A8-A339-CDDA55985669"
       },
       "item" : {
         "type" : "uri",
@@ -822,59 +658,22 @@
         "type" : "literal",
         "value" : "Pascual Ortiz Rubio"
       },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q52634102"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "governor and cabinet of Michoacán"
-      },
-      "org_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "gobernador y gabinete de Michoacán"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q455683-91BA2604-A107-48A8-A339-CDDA55985669"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q79861"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Pascual Ortiz Rubio"
       },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q682969"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Institutional Revolutionary Party"
-      },
-      "party_name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Partido Revolucionario Institucional"
-      }
-    }, {
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q79861"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
+      "district_name_es" : {
+        "xml:lang" : "es",
         "type" : "literal",
         "value" : "Michoacán"
       },
-      "district_name_es" : {
-        "xml:lang" : "es",
+      "district_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Michoacán"
       },
@@ -882,16 +681,7 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5589681"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5589681"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Governor of Michoacán"
-      },
-      "role_superclass_es" : {
+      "role_es" : {
         "xml:lang" : "es",
         "type" : "literal",
         "value" : "Gobernantes de Michoacán"
@@ -901,10 +691,42 @@
         "type" : "literal",
         "value" : "Governor of Michoacán"
       },
-      "role_es" : {
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634102"
+      },
+      "org_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Gobernantes de Michoacán"
+        "value" : "gobernador y gabinete de Michoacán"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "governor and cabinet of Michoacán"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q79861"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q682969"
+      },
+      "party_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Partido Revolucionario Institucional"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Institutional Revolutionary Party"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q4694652-A3159092-3FAF-4743-828D-27250166CB83"
       },
       "item" : {
         "type" : "uri",
@@ -915,59 +737,22 @@
         "type" : "literal",
         "value" : "Agustín Arriaga Rivera"
       },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q52634102"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "governor and cabinet of Michoacán"
-      },
-      "org_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "gobernador y gabinete de Michoacán"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q4694652-A3159092-3FAF-4743-828D-27250166CB83"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q79861"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Agustín Arriaga Rivera"
       },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q682969"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Institutional Revolutionary Party"
-      },
-      "party_name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Partido Revolucionario Institucional"
-      }
-    }, {
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q79861"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
+      "district_name_es" : {
+        "xml:lang" : "es",
         "type" : "literal",
         "value" : "Michoacán"
       },
-      "district_name_es" : {
-        "xml:lang" : "es",
+      "district_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Michoacán"
       },
@@ -975,16 +760,7 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5589681"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5589681"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Governor of Michoacán"
-      },
-      "role_superclass_es" : {
+      "role_es" : {
         "xml:lang" : "es",
         "type" : "literal",
         "value" : "Gobernantes de Michoacán"
@@ -994,10 +770,42 @@
         "type" : "literal",
         "value" : "Governor of Michoacán"
       },
-      "role_es" : {
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634102"
+      },
+      "org_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Gobernantes de Michoacán"
+        "value" : "gobernador y gabinete de Michoacán"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "governor and cabinet of Michoacán"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q79861"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q682969"
+      },
+      "party_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Partido Revolucionario Institucional"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Institutional Revolutionary Party"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q5042154-E68A9B45-4015-4170-B787-F3F0A4855010"
       },
       "item" : {
         "type" : "uri",
@@ -1008,59 +816,22 @@
         "type" : "literal",
         "value" : "Carlos Gálvez Betancourt"
       },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q52634102"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "governor and cabinet of Michoacán"
-      },
-      "org_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "gobernador y gabinete de Michoacán"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q5042154-E68A9B45-4015-4170-B787-F3F0A4855010"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q79861"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Carlos Gálvez Betancourt"
       },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q682969"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Institutional Revolutionary Party"
-      },
-      "party_name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Partido Revolucionario Institucional"
-      }
-    }, {
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q79861"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
+      "district_name_es" : {
+        "xml:lang" : "es",
         "type" : "literal",
         "value" : "Michoacán"
       },
-      "district_name_es" : {
-        "xml:lang" : "es",
+      "district_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Michoacán"
       },
@@ -1068,16 +839,7 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5589681"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5589681"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Governor of Michoacán"
-      },
-      "role_superclass_es" : {
+      "role_es" : {
         "xml:lang" : "es",
         "type" : "literal",
         "value" : "Gobernantes de Michoacán"
@@ -1087,10 +849,42 @@
         "type" : "literal",
         "value" : "Governor of Michoacán"
       },
-      "role_es" : {
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634102"
+      },
+      "org_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Gobernantes de Michoacán"
+        "value" : "gobernador y gabinete de Michoacán"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "governor and cabinet of Michoacán"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q79861"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q682969"
+      },
+      "party_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Partido Revolucionario Institucional"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Institutional Revolutionary Party"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q515129-BA3B7B29-E214-4468-B6CC-79473342AFDE"
       },
       "item" : {
         "type" : "uri",
@@ -1101,45 +895,22 @@
         "type" : "literal",
         "value" : "Gildardo Magaña Cerda"
       },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q52634102"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "governor and cabinet of Michoacán"
-      },
-      "org_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "gobernador y gabinete de Michoacán"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q515129-BA3B7B29-E214-4468-B6CC-79473342AFDE"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q79861"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Gildardo Magaña"
-      }
-    }, {
+      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q79861"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
+      "district_name_es" : {
+        "xml:lang" : "es",
         "type" : "literal",
         "value" : "Michoacán"
       },
-      "district_name_es" : {
-        "xml:lang" : "es",
+      "district_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Michoacán"
       },
@@ -1147,16 +918,7 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5589681"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5589681"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Governor of Michoacán"
-      },
-      "role_superclass_es" : {
+      "role_es" : {
         "xml:lang" : "es",
         "type" : "literal",
         "value" : "Gobernantes de Michoacán"
@@ -1166,10 +928,28 @@
         "type" : "literal",
         "value" : "Governor of Michoacán"
       },
-      "role_es" : {
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634102"
+      },
+      "org_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Gobernantes de Michoacán"
+        "value" : "gobernador y gabinete de Michoacán"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "governor and cabinet of Michoacán"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q79861"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q5441951-0017CF40-7A62-45B6-8397-7D28F12DE769"
       },
       "item" : {
         "type" : "uri",
@@ -1180,45 +960,22 @@
         "type" : "literal",
         "value" : "Felipe Berriozábal"
       },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q52634102"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "governor and cabinet of Michoacán"
-      },
-      "org_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "gobernador y gabinete de Michoacán"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q5441951-0017CF40-7A62-45B6-8397-7D28F12DE769"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q79861"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Felipe Berriozábal"
-      }
-    }, {
+      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q79861"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
+      "district_name_es" : {
+        "xml:lang" : "es",
         "type" : "literal",
         "value" : "Michoacán"
       },
-      "district_name_es" : {
-        "xml:lang" : "es",
+      "district_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Michoacán"
       },
@@ -1226,16 +983,7 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5589681"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5589681"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Governor of Michoacán"
-      },
-      "role_superclass_es" : {
+      "role_es" : {
         "xml:lang" : "es",
         "type" : "literal",
         "value" : "Gobernantes de Michoacán"
@@ -1245,10 +993,28 @@
         "type" : "literal",
         "value" : "Governor of Michoacán"
       },
-      "role_es" : {
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634102"
+      },
+      "org_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Gobernantes de Michoacán"
+        "value" : "gobernador y gabinete de Michoacán"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "governor and cabinet of Michoacán"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q79861"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q5561713-1bbc7e79-1dfb-4dcf-aa9e-b7b01c5d4f52"
       },
       "item" : {
         "type" : "uri",
@@ -1259,59 +1025,22 @@
         "type" : "literal",
         "value" : "Eduardo Villaseñor Peña"
       },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q52634102"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "governor and cabinet of Michoacán"
-      },
-      "org_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "gobernador y gabinete de Michoacán"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q5561713-1bbc7e79-1dfb-4dcf-aa9e-b7b01c5d4f52"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q79861"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Eduardo Villaseñor Peña"
       },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q682969"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Institutional Revolutionary Party"
-      },
-      "party_name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Partido Revolucionario Institucional"
-      }
-    }, {
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q79861"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
+      "district_name_es" : {
+        "xml:lang" : "es",
         "type" : "literal",
         "value" : "Michoacán"
       },
-      "district_name_es" : {
-        "xml:lang" : "es",
+      "district_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Michoacán"
       },
@@ -1319,16 +1048,7 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5589681"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5589681"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Governor of Michoacán"
-      },
-      "role_superclass_es" : {
+      "role_es" : {
         "xml:lang" : "es",
         "type" : "literal",
         "value" : "Gobernantes de Michoacán"
@@ -1338,10 +1058,42 @@
         "type" : "literal",
         "value" : "Governor of Michoacán"
       },
-      "role_es" : {
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634102"
+      },
+      "org_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Gobernantes de Michoacán"
+        "value" : "gobernador y gabinete de Michoacán"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "governor and cabinet of Michoacán"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q79861"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q682969"
+      },
+      "party_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Partido Revolucionario Institucional"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Institutional Revolutionary Party"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q5663676-f893b6ff-3a3a-4e1c-855a-35072ed5f3bd"
       },
       "item" : {
         "type" : "uri",
@@ -1352,45 +1104,22 @@
         "type" : "literal",
         "value" : "Alberto Yarza"
       },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q52634102"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "governor and cabinet of Michoacán"
-      },
-      "org_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "gobernador y gabinete de Michoacán"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q5663676-f893b6ff-3a3a-4e1c-855a-35072ed5f3bd"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q79861"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Alberto Yarza"
-      }
-    }, {
+      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q79861"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
+      "district_name_es" : {
+        "xml:lang" : "es",
         "type" : "literal",
         "value" : "Michoacán"
       },
-      "district_name_es" : {
-        "xml:lang" : "es",
+      "district_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Michoacán"
       },
@@ -1398,16 +1127,7 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5589681"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5589681"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Governor of Michoacán"
-      },
-      "role_superclass_es" : {
+      "role_es" : {
         "xml:lang" : "es",
         "type" : "literal",
         "value" : "Gobernantes de Michoacán"
@@ -1417,10 +1137,28 @@
         "type" : "literal",
         "value" : "Governor of Michoacán"
       },
-      "role_es" : {
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634102"
+      },
+      "org_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Gobernantes de Michoacán"
+        "value" : "gobernador y gabinete de Michoacán"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "governor and cabinet of Michoacán"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q79861"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q5704179-c9b256a7-1f14-4216-9759-6b3f6c19f690"
       },
       "item" : {
         "type" : "uri",
@@ -1431,45 +1169,22 @@
         "type" : "literal",
         "value" : "Aristeo Mercado"
       },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q52634102"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "governor and cabinet of Michoacán"
-      },
-      "org_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "gobernador y gabinete de Michoacán"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q5704179-c9b256a7-1f14-4216-9759-6b3f6c19f690"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q79861"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Aristeo Mercado"
-      }
-    }, {
+      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q79861"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
+      "district_name_es" : {
+        "xml:lang" : "es",
         "type" : "literal",
         "value" : "Michoacán"
       },
-      "district_name_es" : {
-        "xml:lang" : "es",
+      "district_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Michoacán"
       },
@@ -1477,16 +1192,7 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5589681"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5589681"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Governor of Michoacán"
-      },
-      "role_superclass_es" : {
+      "role_es" : {
         "xml:lang" : "es",
         "type" : "literal",
         "value" : "Gobernantes de Michoacán"
@@ -1496,10 +1202,28 @@
         "type" : "literal",
         "value" : "Governor of Michoacán"
       },
-      "role_es" : {
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634102"
+      },
+      "org_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Gobernantes de Michoacán"
+        "value" : "gobernador y gabinete de Michoacán"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "governor and cabinet of Michoacán"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q79861"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q5725744-12e30497-aabd-4dbb-922b-f5d391912912"
       },
       "item" : {
         "type" : "uri",
@@ -1510,59 +1234,22 @@
         "type" : "literal",
         "value" : "Benigno Serrato"
       },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q52634102"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "governor and cabinet of Michoacán"
-      },
-      "org_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "gobernador y gabinete de Michoacán"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q5725744-12e30497-aabd-4dbb-922b-f5d391912912"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q79861"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Benigno Serrato"
       },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q682969"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Institutional Revolutionary Party"
-      },
-      "party_name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Partido Revolucionario Institucional"
-      }
-    }, {
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q79861"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
+      "district_name_es" : {
+        "xml:lang" : "es",
         "type" : "literal",
         "value" : "Michoacán"
       },
-      "district_name_es" : {
-        "xml:lang" : "es",
+      "district_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Michoacán"
       },
@@ -1570,16 +1257,7 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5589681"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5589681"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Governor of Michoacán"
-      },
-      "role_superclass_es" : {
+      "role_es" : {
         "xml:lang" : "es",
         "type" : "literal",
         "value" : "Gobernantes de Michoacán"
@@ -1589,10 +1267,42 @@
         "type" : "literal",
         "value" : "Governor of Michoacán"
       },
-      "role_es" : {
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634102"
+      },
+      "org_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Gobernantes de Michoacán"
+        "value" : "gobernador y gabinete de Michoacán"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "governor and cabinet of Michoacán"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q79861"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q682969"
+      },
+      "party_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Partido Revolucionario Institucional"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Institutional Revolutionary Party"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q5751950-ba5aff74-c613-444a-aa40-ec2ec693269e"
       },
       "item" : {
         "type" : "uri",
@@ -1603,59 +1313,22 @@
         "type" : "literal",
         "value" : "Carlos Torres Manzo"
       },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q52634102"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "governor and cabinet of Michoacán"
-      },
-      "org_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "gobernador y gabinete de Michoacán"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q5751950-ba5aff74-c613-444a-aa40-ec2ec693269e"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q79861"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Carlos Torres Manzo"
       },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q682969"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Institutional Revolutionary Party"
-      },
-      "party_name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Partido Revolucionario Institucional"
-      }
-    }, {
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q79861"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
+      "district_name_es" : {
+        "xml:lang" : "es",
         "type" : "literal",
         "value" : "Michoacán"
       },
-      "district_name_es" : {
-        "xml:lang" : "es",
+      "district_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Michoacán"
       },
@@ -1663,16 +1336,7 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5589681"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5589681"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Governor of Michoacán"
-      },
-      "role_superclass_es" : {
+      "role_es" : {
         "xml:lang" : "es",
         "type" : "literal",
         "value" : "Gobernantes de Michoacán"
@@ -1682,54 +1346,63 @@
         "type" : "literal",
         "value" : "Governor of Michoacán"
       },
-      "role_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Gobernantes de Michoacán"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5771457"
-      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q52634102"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "governor and cabinet of Michoacán"
       },
       "org_es" : {
         "xml:lang" : "es",
         "type" : "literal",
         "value" : "gobernador y gabinete de Michoacán"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q5771457-d12943af-cee5-45a0-aa6f-6ecf67b0afd1"
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "governor and cabinet of Michoacán"
       },
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q79861"
       },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q682969"
+      },
+      "party_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Partido Revolucionario Institucional"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Institutional Revolutionary Party"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q5771457-d12943af-cee5-45a0-aa6f-6ecf67b0afd1"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5771457"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Rafael Sánchez Tapia"
-      }
-    }, {
+      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q79861"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
+      "district_name_es" : {
+        "xml:lang" : "es",
         "type" : "literal",
         "value" : "Michoacán"
       },
-      "district_name_es" : {
-        "xml:lang" : "es",
+      "district_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Michoacán"
       },
@@ -1737,16 +1410,7 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5589681"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5589681"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Governor of Michoacán"
-      },
-      "role_superclass_es" : {
+      "role_es" : {
         "xml:lang" : "es",
         "type" : "literal",
         "value" : "Gobernantes de Michoacán"
@@ -1756,10 +1420,28 @@
         "type" : "literal",
         "value" : "Governor of Michoacán"
       },
-      "role_es" : {
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634102"
+      },
+      "org_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Gobernantes de Michoacán"
+        "value" : "gobernador y gabinete de Michoacán"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "governor and cabinet of Michoacán"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q79861"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q5858497-97b90338-2d36-46b1-8a99-7b1603875e29"
       },
       "item" : {
         "type" : "uri",
@@ -1770,59 +1452,22 @@
         "type" : "literal",
         "value" : "Felipe de Jesús Tena"
       },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q52634102"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "governor and cabinet of Michoacán"
-      },
-      "org_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "gobernador y gabinete de Michoacán"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q5858497-97b90338-2d36-46b1-8a99-7b1603875e29"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q79861"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Felipe de Jesús Tena"
       },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1723907"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Liberal"
-      },
-      "party_name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Liberal"
-      }
-    }, {
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q79861"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
+      "district_name_es" : {
+        "xml:lang" : "es",
         "type" : "literal",
         "value" : "Michoacán"
       },
-      "district_name_es" : {
-        "xml:lang" : "es",
+      "district_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Michoacán"
       },
@@ -1830,16 +1475,7 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5589681"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5589681"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Governor of Michoacán"
-      },
-      "role_superclass_es" : {
+      "role_es" : {
         "xml:lang" : "es",
         "type" : "literal",
         "value" : "Gobernantes de Michoacán"
@@ -1849,10 +1485,42 @@
         "type" : "literal",
         "value" : "Governor of Michoacán"
       },
-      "role_es" : {
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634102"
+      },
+      "org_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Gobernantes de Michoacán"
+        "value" : "gobernador y gabinete de Michoacán"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "governor and cabinet of Michoacán"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q79861"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1723907"
+      },
+      "party_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Liberal"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Liberal"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q5877200-a3be2083-4d7f-4d84-9fa2-0e97cc08809d"
       },
       "item" : {
         "type" : "uri",
@@ -1863,59 +1531,22 @@
         "type" : "literal",
         "value" : "Genovevo Figueroa Zamudio"
       },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q52634102"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "governor and cabinet of Michoacán"
-      },
-      "org_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "gobernador y gabinete de Michoacán"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q5877200-a3be2083-4d7f-4d84-9fa2-0e97cc08809d"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q79861"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Genovevo Figueroa Zamudio"
       },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q682969"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Institutional Revolutionary Party"
-      },
-      "party_name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Partido Revolucionario Institucional"
-      }
-    }, {
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q79861"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
+      "district_name_es" : {
+        "xml:lang" : "es",
         "type" : "literal",
         "value" : "Michoacán"
       },
-      "district_name_es" : {
-        "xml:lang" : "es",
+      "district_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Michoacán"
       },
@@ -1923,16 +1554,7 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5589681"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5589681"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Governor of Michoacán"
-      },
-      "role_superclass_es" : {
+      "role_es" : {
         "xml:lang" : "es",
         "type" : "literal",
         "value" : "Gobernantes de Michoacán"
@@ -1942,10 +1564,42 @@
         "type" : "literal",
         "value" : "Governor of Michoacán"
       },
-      "role_es" : {
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634102"
+      },
+      "org_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Gobernantes de Michoacán"
+        "value" : "gobernador y gabinete de Michoacán"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "governor and cabinet of Michoacán"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q79861"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q682969"
+      },
+      "party_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Partido Revolucionario Institucional"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Institutional Revolutionary Party"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q5878954-844c5c3a-3204-44e3-9878-15040d40f169"
       },
       "item" : {
         "type" : "uri",
@@ -1956,45 +1610,22 @@
         "type" : "literal",
         "value" : "Gertrudis G. Sánchez"
       },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q52634102"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "governor and cabinet of Michoacán"
-      },
-      "org_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "gobernador y gabinete de Michoacán"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q5878954-844c5c3a-3204-44e3-9878-15040d40f169"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q79861"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Gertrudis G. Sánchez"
-      }
-    }, {
+      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q79861"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
+      "district_name_es" : {
+        "xml:lang" : "es",
         "type" : "literal",
         "value" : "Michoacán"
       },
-      "district_name_es" : {
-        "xml:lang" : "es",
+      "district_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Michoacán"
       },
@@ -2002,16 +1633,7 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5589681"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5589681"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Governor of Michoacán"
-      },
-      "role_superclass_es" : {
+      "role_es" : {
         "xml:lang" : "es",
         "type" : "literal",
         "value" : "Gobernantes de Michoacán"
@@ -2021,10 +1643,28 @@
         "type" : "literal",
         "value" : "Governor of Michoacán"
       },
-      "role_es" : {
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634102"
+      },
+      "org_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Gobernantes de Michoacán"
+        "value" : "gobernador y gabinete de Michoacán"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "governor and cabinet of Michoacán"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q79861"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q5930586-E1A2AB16-1D52-4EF3-B54F-EFE6D1FCE283"
       },
       "item" : {
         "type" : "uri",
@@ -2035,59 +1675,22 @@
         "type" : "literal",
         "value" : "Jesús Reyna García"
       },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q52634102"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "governor and cabinet of Michoacán"
-      },
-      "org_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "gobernador y gabinete de Michoacán"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q5930586-E1A2AB16-1D52-4EF3-B54F-EFE6D1FCE283"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q79861"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Jesús Reyna García"
       },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q682969"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Institutional Revolutionary Party"
-      },
-      "party_name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Partido Revolucionario Institucional"
-      }
-    }, {
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q79861"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
+      "district_name_es" : {
+        "xml:lang" : "es",
         "type" : "literal",
         "value" : "Michoacán"
       },
-      "district_name_es" : {
-        "xml:lang" : "es",
+      "district_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Michoacán"
       },
@@ -2095,16 +1698,7 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5589681"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5589681"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Governor of Michoacán"
-      },
-      "role_superclass_es" : {
+      "role_es" : {
         "xml:lang" : "es",
         "type" : "literal",
         "value" : "Gobernantes de Michoacán"
@@ -2114,10 +1708,42 @@
         "type" : "literal",
         "value" : "Governor of Michoacán"
       },
-      "role_es" : {
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634102"
+      },
+      "org_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Gobernantes de Michoacán"
+        "value" : "gobernador y gabinete de Michoacán"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "governor and cabinet of Michoacán"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q79861"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q682969"
+      },
+      "party_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Partido Revolucionario Institucional"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Institutional Revolutionary Party"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q5941171-CEB06850-31D4-4483-B1AB-FFAACD64E33A"
       },
       "item" : {
         "type" : "uri",
@@ -2128,59 +1754,22 @@
         "type" : "literal",
         "value" : "Luis Martínez Villicaña"
       },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q52634102"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "governor and cabinet of Michoacán"
-      },
-      "org_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "gobernador y gabinete de Michoacán"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q5941171-CEB06850-31D4-4483-B1AB-FFAACD64E33A"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q79861"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Luis Martínez Villicaña"
       },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q682969"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Institutional Revolutionary Party"
-      },
-      "party_name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Partido Revolucionario Institucional"
-      }
-    }, {
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q79861"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
+      "district_name_es" : {
+        "xml:lang" : "es",
         "type" : "literal",
         "value" : "Michoacán"
       },
-      "district_name_es" : {
-        "xml:lang" : "es",
+      "district_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Michoacán"
       },
@@ -2188,16 +1777,7 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5589681"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5589681"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Governor of Michoacán"
-      },
-      "role_superclass_es" : {
+      "role_es" : {
         "xml:lang" : "es",
         "type" : "literal",
         "value" : "Gobernantes de Michoacán"
@@ -2207,10 +1787,42 @@
         "type" : "literal",
         "value" : "Governor of Michoacán"
       },
-      "role_es" : {
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634102"
+      },
+      "org_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Gobernantes de Michoacán"
+        "value" : "gobernador y gabinete de Michoacán"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "governor and cabinet of Michoacán"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q79861"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q682969"
+      },
+      "party_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Partido Revolucionario Institucional"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Institutional Revolutionary Party"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q5945064-0314a384-7eaf-4f2e-a90b-cdec4a1f0da2"
       },
       "item" : {
         "type" : "uri",
@@ -2221,45 +1833,22 @@
         "type" : "literal",
         "value" : "José Rentería Luviano"
       },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q52634102"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "governor and cabinet of Michoacán"
-      },
-      "org_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "gobernador y gabinete de Michoacán"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q5945064-0314a384-7eaf-4f2e-a90b-cdec4a1f0da2"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q79861"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "José Rentería Luviano"
-      }
-    }, {
+      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q79861"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
+      "district_name_es" : {
+        "xml:lang" : "es",
         "type" : "literal",
         "value" : "Michoacán"
       },
-      "district_name_es" : {
-        "xml:lang" : "es",
+      "district_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Michoacán"
       },
@@ -2267,16 +1856,7 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5589681"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5589681"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Governor of Michoacán"
-      },
-      "role_superclass_es" : {
+      "role_es" : {
         "xml:lang" : "es",
         "type" : "literal",
         "value" : "Gobernantes de Michoacán"
@@ -2286,10 +1866,28 @@
         "type" : "literal",
         "value" : "Governor of Michoacán"
       },
-      "role_es" : {
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634102"
+      },
+      "org_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Gobernantes de Michoacán"
+        "value" : "gobernador y gabinete de Michoacán"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "governor and cabinet of Michoacán"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q79861"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q5945340-23349850-9ac4-413e-b75d-a6ad80692c4e"
       },
       "item" : {
         "type" : "uri",
@@ -2300,40 +1898,17 @@
         "type" : "literal",
         "value" : "José Salgado"
       },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q52634102"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "governor and cabinet of Michoacán"
-      },
-      "org_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "gobernador y gabinete de Michoacán"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q5945340-23349850-9ac4-413e-b75d-a6ad80692c4e"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q79861"
-      }
-    }, {
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q79861"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
+      "district_name_es" : {
+        "xml:lang" : "es",
         "type" : "literal",
         "value" : "Michoacán"
       },
-      "district_name_es" : {
-        "xml:lang" : "es",
+      "district_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Michoacán"
       },
@@ -2341,16 +1916,7 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5589681"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5589681"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Governor of Michoacán"
-      },
-      "role_superclass_es" : {
+      "role_es" : {
         "xml:lang" : "es",
         "type" : "literal",
         "value" : "Gobernantes de Michoacán"
@@ -2360,10 +1926,28 @@
         "type" : "literal",
         "value" : "Governor of Michoacán"
       },
-      "role_es" : {
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634102"
+      },
+      "org_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Gobernantes de Michoacán"
+        "value" : "gobernador y gabinete de Michoacán"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "governor and cabinet of Michoacán"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q79861"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q6042519-fdc40d40-79b3-4941-bd65-f9ea84a9e694"
       },
       "item" : {
         "type" : "uri",
@@ -2374,45 +1958,22 @@
         "type" : "literal",
         "value" : "Nicolás Régules"
       },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q52634102"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "governor and cabinet of Michoacán"
-      },
-      "org_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "gobernador y gabinete de Michoacán"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6042519-fdc40d40-79b3-4941-bd65-f9ea84a9e694"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q79861"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Nicolás Régules"
-      }
-    }, {
+      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q79861"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
+      "district_name_es" : {
+        "xml:lang" : "es",
         "type" : "literal",
         "value" : "Michoacán"
       },
-      "district_name_es" : {
-        "xml:lang" : "es",
+      "district_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Michoacán"
       },
@@ -2420,16 +1981,7 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5589681"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5589681"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Governor of Michoacán"
-      },
-      "role_superclass_es" : {
+      "role_es" : {
         "xml:lang" : "es",
         "type" : "literal",
         "value" : "Gobernantes de Michoacán"
@@ -2439,10 +1991,28 @@
         "type" : "literal",
         "value" : "Governor of Michoacán"
       },
-      "role_es" : {
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634102"
+      },
+      "org_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Gobernantes de Michoacán"
+        "value" : "gobernador y gabinete de Michoacán"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "governor and cabinet of Michoacán"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q79861"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q6125991-3BAA66D8-9DC3-452B-A9ED-5661FA859DBD"
       },
       "item" : {
         "type" : "uri",
@@ -2453,59 +2023,22 @@
         "type" : "literal",
         "value" : "Servando Chávez Hernández"
       },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q52634102"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "governor and cabinet of Michoacán"
-      },
-      "org_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "gobernador y gabinete de Michoacán"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6125991-3BAA66D8-9DC3-452B-A9ED-5661FA859DBD"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q79861"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Servando Chávez Hernández"
       },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q682969"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Institutional Revolutionary Party"
-      },
-      "party_name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Partido Revolucionario Institucional"
-      }
-    }, {
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q79861"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
+      "district_name_es" : {
+        "xml:lang" : "es",
         "type" : "literal",
         "value" : "Michoacán"
       },
-      "district_name_es" : {
-        "xml:lang" : "es",
+      "district_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Michoacán"
       },
@@ -2513,16 +2046,7 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5589681"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5589681"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Governor of Michoacán"
-      },
-      "role_superclass_es" : {
+      "role_es" : {
         "xml:lang" : "es",
         "type" : "literal",
         "value" : "Gobernantes de Michoacán"
@@ -2532,10 +2056,42 @@
         "type" : "literal",
         "value" : "Governor of Michoacán"
       },
-      "role_es" : {
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634102"
+      },
+      "org_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Gobernantes de Michoacán"
+        "value" : "gobernador y gabinete de Michoacán"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "governor and cabinet of Michoacán"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q79861"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q682969"
+      },
+      "party_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Partido Revolucionario Institucional"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Institutional Revolutionary Party"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q6457797-c0e0fe2a-db84-4a13-afa9-8d454163c492"
       },
       "item" : {
         "type" : "uri",
@@ -2546,45 +2102,22 @@
         "type" : "literal",
         "value" : "Justo Mendoza"
       },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q52634102"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "governor and cabinet of Michoacán"
-      },
-      "org_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "gobernador y gabinete de Michoacán"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6457797-c0e0fe2a-db84-4a13-afa9-8d454163c492"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q79861"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Justo Mendoza"
-      }
-    }, {
+      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q79861"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
+      "district_name_es" : {
+        "xml:lang" : "es",
         "type" : "literal",
         "value" : "Michoacán"
       },
-      "district_name_es" : {
-        "xml:lang" : "es",
+      "district_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Michoacán"
       },
@@ -2592,16 +2125,7 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5589681"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5589681"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Governor of Michoacán"
-      },
-      "role_superclass_es" : {
+      "role_es" : {
         "xml:lang" : "es",
         "type" : "literal",
         "value" : "Gobernantes de Michoacán"
@@ -2611,10 +2135,28 @@
         "type" : "literal",
         "value" : "Governor of Michoacán"
       },
-      "role_es" : {
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634102"
+      },
+      "org_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Gobernantes de Michoacán"
+        "value" : "gobernador y gabinete de Michoacán"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "governor and cabinet of Michoacán"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q79861"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q7515707-02F14343-3717-4AD7-ADE5-3142B9B765FA"
       },
       "item" : {
         "type" : "uri",
@@ -2625,46 +2167,70 @@
         "type" : "literal",
         "value" : "Silvano Aureoles Conejo"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Silvano Aureoles Conejo"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q79861"
+      },
+      "district_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Michoacán"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Michoacán"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5589681"
+      },
+      "role_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gobernantes de Michoacán"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor of Michoacán"
+      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q52634102"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "governor and cabinet of Michoacán"
       },
       "org_es" : {
         "xml:lang" : "es",
         "type" : "literal",
         "value" : "gobernador y gabinete de Michoacán"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7515707-02F14343-3717-4AD7-ADE5-3142B9B765FA"
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "governor and cabinet of Michoacán"
       },
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q79861"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Silvano Aureoles Conejo"
-      },
       "party" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q767010"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Party of the Democratic Revolution"
       },
       "party_name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
         "value" : "Partido de la Revolución Democrática"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Party of the Democratic Revolution"
       }
     } ]
   }
