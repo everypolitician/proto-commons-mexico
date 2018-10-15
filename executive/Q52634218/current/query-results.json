@@ -4,34 +4,43 @@
   },
   "results" : {
     "bindings" : [ {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q25349690-5500E6D5-FA52-4E0B-8C78-C4E2EFED5BD0"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q25349690"
+      },
+      "name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Héctor Armando Cabada Alvídrez"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Héctor Armando Cabada Alvídrez"
+      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2557122"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Juárez Municipality"
       },
       "district_name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
         "value" : "Municipio de Juárez"
       },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Juárez Municipality"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6936355"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6936355"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Municipal president of Juárez"
-      },
-      "role_superclass_es" : {
+      "role_es" : {
         "xml:lang" : "es",
         "type" : "literal",
         "value" : "Presidentes Municipales de Ciudad Juárez"
@@ -41,42 +50,33 @@
         "type" : "literal",
         "value" : "Municipal president of Juárez"
       },
-      "role_es" : {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6936349"
+      },
+      "role_superclass_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Presidentes Municipales de Ciudad Juárez"
+        "value" : "presidente municipal"
       },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q25349690"
-      },
-      "name_en" : {
+      "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Héctor Armando Cabada Alvídrez"
-      },
-      "name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Héctor Armando Cabada Alvídrez"
+        "value" : "municipal president"
       },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q52634218"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Cabinet of Juarez"
       },
       "org_es" : {
         "xml:lang" : "es",
         "type" : "literal",
         "value" : "Gabinete de la Heroica Ciudad Juárez"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q25349690-5500E6D5-FA52-4E0B-8C78-C4E2EFED5BD0"
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cabinet of Juarez"
       },
       "org_jurisdiction" : {
         "type" : "uri",

@@ -4,149 +4,57 @@
   },
   "results" : {
     "bindings" : [ {
-      "party" : {
+      "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q682969"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Institutional Revolutionary Party"
-      },
-      "party_name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Partido Revolucionario Institucional"
+        "value" : "http://www.wikidata.org/entity/statement/q296741-A66EF158-5BCE-4F50-91D5-A7B77717745B"
       },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q296741"
       },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q82112"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "México"
-      },
-      "district_name_es" : {
+      "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Estado de México"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5589754"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5589754"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Governor of the State of Mexico"
-      },
-      "role_superclass_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Gobernantes del Estado de México"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Governor of the State of Mexico"
-      },
-      "role_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Gobernantes del Estado de México"
+        "value" : "Enrique Peña Nieto"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Enrique Peña Nieto"
       },
-      "name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Enrique Peña Nieto"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q52634097"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "governor and cabinet of Estado de México"
-      },
-      "org_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "gobernador y gabinete de Estado de México"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/q296741-A66EF158-5BCE-4F50-91D5-A7B77717745B"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q82112"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "EnriquePN"
-      }
-    }, {
       "party" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q682969"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Institutional Revolutionary Party"
       },
       "party_name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
         "value" : "Partido Revolucionario Institucional"
       },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5668133"
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Institutional Revolutionary Party"
       },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q82112"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "México"
       },
       "district_name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
         "value" : "Estado de México"
       },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "México"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5589754"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5589754"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Governor of the State of Mexico"
-      },
-      "role_superclass_es" : {
+      "role_es" : {
         "xml:lang" : "es",
         "type" : "literal",
         "value" : "Gobernantes del Estado de México"
@@ -156,46 +64,138 @@
         "type" : "literal",
         "value" : "Governor of the State of Mexico"
       },
-      "role_es" : {
+      "facebook" : {
+        "type" : "literal",
+        "value" : "EnriquePN"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17810142"
+      },
+      "role_superclass_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Gobernantes del Estado de México"
+        "value" : "gobernador (México)"
       },
-      "name_en" : {
+      "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Alfredo del Mazo Maza"
-      },
-      "name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Alfredo del Mazo Maza"
+        "value" : "Governor (Mexico)"
       },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q52634097"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "governor and cabinet of Estado de México"
       },
       "org_es" : {
         "xml:lang" : "es",
         "type" : "literal",
         "value" : "gobernador y gabinete de Estado de México"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q5668133-8D180AC9-2D4B-4534-9ECD-870DA05FBCA1"
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "governor and cabinet of Estado de México"
       },
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q82112"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q5668133-8D180AC9-2D4B-4534-9ECD-870DA05FBCA1"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5668133"
+      },
+      "name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Alfredo del Mazo Maza"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Alfredo del Mazo Maza"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q682969"
+      },
+      "party_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Partido Revolucionario Institucional"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Institutional Revolutionary Party"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q82112"
+      },
+      "district_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Estado de México"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "México"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5589754"
+      },
+      "role_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gobernantes del Estado de México"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor of the State of Mexico"
       },
       "facebook" : {
         "type" : "literal",
         "value" : "AlfredoDelMazoMx"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17810142"
+      },
+      "role_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "gobernador (México)"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor (Mexico)"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634097"
+      },
+      "org_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "gobernador y gabinete de Estado de México"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "governor and cabinet of Estado de México"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q82112"
       }
     } ]
   }

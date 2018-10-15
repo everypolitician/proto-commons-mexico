@@ -4,35 +4,49 @@
   },
   "results" : {
     "bindings" : [ {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1374595-5FB86657-FAC7-49AC-8DF6-4A760AA4A5E8"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1374595"
+      },
+      "name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Ulises Ruiz Ortiz"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ulises Ruiz Ortiz"
+      },
       "party" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q682969"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Institutional Revolutionary Party"
       },
       "party_name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
         "value" : "Partido Revolucionario Institucional"
       },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1374595"
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Institutional Revolutionary Party"
       },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q34110"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
+      "district_name_es" : {
+        "xml:lang" : "es",
         "type" : "literal",
         "value" : "Oaxaca"
       },
-      "district_name_es" : {
-        "xml:lang" : "es",
+      "district_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Oaxaca"
       },
@@ -40,16 +54,7 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5589697"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5589697"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Governor of Oaxaca"
-      },
-      "role_superclass_es" : {
+      "role_es" : {
         "xml:lang" : "es",
         "type" : "literal",
         "value" : "Gobernantes de Oaxaca"
@@ -59,73 +64,82 @@
         "type" : "literal",
         "value" : "Governor of Oaxaca"
       },
-      "role_es" : {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17810142"
+      },
+      "role_superclass_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Gobernantes de Oaxaca"
+        "value" : "gobernador (México)"
       },
-      "name_en" : {
+      "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Ulises Ruiz Ortiz"
-      },
-      "name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Ulises Ruiz Ortiz"
+        "value" : "Governor (Mexico)"
       },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q52634107"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "governor and cabinet of Oaxaca"
       },
       "org_es" : {
         "xml:lang" : "es",
         "type" : "literal",
         "value" : "gobernador y gabinete de Oaxaca"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q1374595-5FB86657-FAC7-49AC-8DF6-4A760AA4A5E8"
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "governor and cabinet of Oaxaca"
       },
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q34110"
       }
     }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q18217780-DD1EECC9-D829-45DB-906F-F88460837230"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18217780"
+      },
+      "name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Alejandro Murat Hinojosa"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Alejandro Murat Hinojosa"
+      },
       "party" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q682969"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Institutional Revolutionary Party"
       },
       "party_name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
         "value" : "Partido Revolucionario Institucional"
       },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q18217780"
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Institutional Revolutionary Party"
       },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q34110"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
+      "district_name_es" : {
+        "xml:lang" : "es",
         "type" : "literal",
         "value" : "Oaxaca"
       },
-      "district_name_es" : {
-        "xml:lang" : "es",
+      "district_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Oaxaca"
       },
@@ -133,16 +147,7 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5589697"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5589697"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Governor of Oaxaca"
-      },
-      "role_superclass_es" : {
+      "role_es" : {
         "xml:lang" : "es",
         "type" : "literal",
         "value" : "Gobernantes de Oaxaca"
@@ -152,38 +157,33 @@
         "type" : "literal",
         "value" : "Governor of Oaxaca"
       },
-      "role_es" : {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17810142"
+      },
+      "role_superclass_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Gobernantes de Oaxaca"
+        "value" : "gobernador (México)"
       },
-      "name_en" : {
+      "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Alejandro Murat Hinojosa"
-      },
-      "name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Alejandro Murat Hinojosa"
+        "value" : "Governor (Mexico)"
       },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q52634107"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "governor and cabinet of Oaxaca"
       },
       "org_es" : {
         "xml:lang" : "es",
         "type" : "literal",
         "value" : "gobernador y gabinete de Oaxaca"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q18217780-DD1EECC9-D829-45DB-906F-F88460837230"
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "governor and cabinet of Oaxaca"
       },
       "org_jurisdiction" : {
         "type" : "uri",

@@ -1,0 +1,5401 @@
+{
+  "head" : {
+    "vars" : [ "position", "position_name_es", "position_name_en", "positionType", "adminAreaTypes", "adminArea", "admin_area_es", "admin_area_en", "positionSuperclass", "position_superclass_es", "position_superclass_en", "body", "body_es", "body_en" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11812211"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gobernantes de Coahuila"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor of Coahuila"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53079"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Coahuila de Zaragoza"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Coahuila"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17810142"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "gobernador (México)"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor (Mexico)"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634090"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "gobernador y gabinete de Coahuila"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "governor and cabinet of Coahuila"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16242755"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Municipal President of Tijuana"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q15284 Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2360428"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Tijuana"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tijuana Municipality"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6936349"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "presidente municipal"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipal president"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634214"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gabinete de Tijuana"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cabinet of Tijuana"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18534310"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "diputado de México"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Chamber of Deputies of Mexico"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q6256"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q96"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "México"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mexico"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "diputado"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3014316"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Cámara de Diputados de México"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chamber of Deputies"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q19971999"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "senador de México"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the Senate of Mexico"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q6256"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q96"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "México"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mexico"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15686806"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "senador"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "senator"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q264113"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Senado de México"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Senate of the Republic"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2962015"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Jefe de Gobierno de la Ciudad de México"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Head of Mexico City government"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048 Q515"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1489"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Ciudad de México"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mexico City"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17810142"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "gobernador (México)"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor (Mexico)"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634094"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "gobernador y gabinete de Ciudad de México"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "governor and cabinet of Ciudad de México"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3112712"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gobernantes de Durango"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor of Durango"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q79918"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Durango"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Durango"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17810142"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "gobernador (México)"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor (Mexico)"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634096"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "gobernador y gabinete de Durango"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "governor and cabinet of Durango"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3249960"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gobernantes de Sonora"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor of Sonora"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q46422"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Sonora"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sonora"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17810142"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "gobernador (México)"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor (Mexico)"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634113"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "gobernador y gabinete de Sonora"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "governor and cabinet of Sonora"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634194"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Presidente municipal de Ecatepec de Morelos"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Municipal President of Ecatepec de Morelos"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q15284 Q515 Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15121208"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Ecatepec de Morelos"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ecatepec de Morelos"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6936349"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "presidente municipal"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipal president"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634213"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gabinete de Ecatepec de Morelos"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cabinet of Ecatepec de Morelos"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634195"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Presidente Municipal de Guadalajara"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Municipal President of Guadalajara"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12348369"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Guadalajara Municipality"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6936349"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "presidente municipal"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipal president"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634216"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gabinete de Guadalajara"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cabinet of Guadalajara"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634196"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Presidente Municipal de León de los Aldama"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Municipal President of León de los Aldama"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q15284 Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9022143"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "León"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "León Municipality"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6936349"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "presidente municipal"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipal president"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634217"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gabinete de León de los Aldama"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cabinet of Leon de los Aldama"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634197"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Presidente Municipal de Zapopan"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Municipal President of Zapopan"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2143868"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Municipio de Zapopan"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Zapopan Municipality"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6936349"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "presidente municipal"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipal president"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634219"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gabinete de Zapopan"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cabinet of Zapopan"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634198"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Presidente Municipal de Nezahualcóyotl"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Municipal President of Nezahualcóyotl"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q15284 Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3313478"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Nezahualcóyotl"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nezahualcóyotl Municipality"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6936349"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "presidente municipal"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipal president"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634220"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gabinete de Nezahualcóyotl"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cabinet of Nezahualcóyotl"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53544327"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "diputado de la Honorable Congreso del Estado de Aguascalientes"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy of the Honorable Congress of the State of Aguascalientes"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q79952"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Aguascalientes"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Aguascalientes"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "diputado"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53542909"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Congreso de Aguascalientes"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Congress of Aguascalientes"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53544328"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "diputado de la Poder Legislativo del Estado de Baja California"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy of the Legislative Power of the State of Baja California"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58731"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Baja California"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Baja California"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "diputado"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5160856"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Congreso de Baja California"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Congress of Baja California"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53544332"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "diputado de la Honorable Congreso del Estado de Baja California Sur"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy of the Honorable Congress of the State of Baja California Sur"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q46508"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Baja California Sur"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Baja California Sur"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "diputado"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53542913"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Congreso de Baja California Sur"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Congress of Baja California Sur"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53544333"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "diputado de la Poder Legislativo del Estado de Campeche"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy of the Legislative Power of the State of Campeche"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q80908"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Campeche"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Campeche"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "diputado"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5160860"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Congreso de Campeche"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Congress of Campeche"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53544334"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "diputado de la Congreso del Estado de Coahuila de Zaragoza"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy of the Congress of the State of Coahuila de Zaragoza"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53079"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Coahuila de Zaragoza"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Coahuila"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "diputado"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5160861"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Congreso de Coahuila"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Congress of Coahuila"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53544335"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "diputado de la Honorable Congreso del Estado de Colima"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy of the Honorable Congress of the State of Colima"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q61309"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Colima"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Colima"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "diputado"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5160862"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Congreso de Colima"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Congress of Colima"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53544336"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "diputado de la Honorable Congreso del Estado de Chiapas"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy of the Honorable Congress of the State of Chiapas"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q60123"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Chiapas"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chiapas"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "diputado"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5160858"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Congreso de Chiapas"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Congress of Chiapas"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53544338"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "diputado de la Honorable Congreso del Estado de Chihuahua"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy of the Honorable Congress of the State of Chihuahua"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q655"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Chihuahua"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chihuahua"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "diputado"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5783176"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Congreso de Chihuahua"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Congress of Chihuahua"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53544340"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "diputado de la Asamblea Legislativa del Distrito Federal"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy of the Legislative Assembly of the Federal District"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048 Q515"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1489"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Ciudad de México"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mexico City"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "diputado"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2867085"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Congreso de la Ciudad de México"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Congress of Mexico City"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53544355"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "diputado de la Honorable Congreso de Durango"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy of the Honorable Congress of Durango"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q79918"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Durango"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Durango"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "diputado"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20014631"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Congreso de Durango"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Congress of Durango"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53544365"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "diputado de la Poder Legislativo del Estado de México"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy of the Legislative Power of the State of Mexico"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q82112"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Estado de México"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "México"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "diputado"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5160913"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Congreso del Estado de México"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Congress of the Estado de México"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53544367"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "diputado de la Congreso del Estado de Guanajuato"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy of the Congress of the State of Guanajuato"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q46475"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Guanajuato"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Guanajuato"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "diputado"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5160871"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Congreso de Guanajuato"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Congress of Guanajuato"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53544368"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "diputado de la Congreso del Estado Libre y Soberano de Guerrero"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy of the Congress of the Free and Sovereign State of Guerrero"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q60158"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Estado de Guerrero"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Guerrero"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "diputado"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q610045"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Congreso de Guerrero"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Congress of Guerrero"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53544369"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "diputado de la Congreso del Estado Libre y Soberano de Hidalgo"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy of the Congress of the Free and Sovereign State of Hidalgo"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q80903"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Estado de Hidalgo"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hidalgo"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "diputado"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q28924553"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Congreso de Hidalgo"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Congress of Hidalgo"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53544371"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "diputado de la Congreso del Estado de Jalisco"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy of the Congress of the State of Jalisco"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q13160"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Jalisco"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jalisco"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "diputado"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5160874"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Congreso de Jalisco"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Congress of Jalisco"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53544375"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "diputado de la Congreso del Estado de Michoacán de Ocampo"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy of the Congress of the State of Michoacán de Ocampo"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q79861"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Michoacán"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Michoacán"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "diputado"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5160879"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Congreso de Michoacán"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Congress of Michoacan"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53544376"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "diputado de la Honorable Congreso del Estado de Morelos"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy of the Honorable Congress of the State of Morelos"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q66117"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Morelos"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Morelos"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "diputado"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5783178"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Congreso de Morelos"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Congress of Morelos"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53544378"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "diputado de la Congreso del Estado de Nayarit"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy of the Congress of the State of Nayarit"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q79920"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Nayarit"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nayarit"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "diputado"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53542914"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Congreso de Nayarit"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Congress of Nayarit"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53544387"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "diputado de la Honorable Congreso del Estado de Nuevo León"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy of the Honorable Congress of the State of Nuevo León"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15282"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Nuevo León"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nuevo León"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "diputado"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q254534"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Congreso de Nuevo León"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Congress of Nuevo Leon"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53544396"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "diputado de la Honorable Congreso del Estado Libre y Soberano de Oaxaca"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy of the Honorable Congress of the Free and Sovereign State of Oaxaca"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q34110"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Oaxaca"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Oaxaca"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "diputado"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5160884"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Congreso de Oaxaca"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Congress of Oaxaca"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53544398"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "diputado de la Honorable Congreso del Estado Libre y Soberano de Puebla"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy of the Honorable Congress of the Free and Sovereign State of Puebla"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q79923"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Puebla"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Puebla"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "diputado"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5160887"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Congreso de Puebla"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Congress of Puebla"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53544400"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "diputado de la Poder Legislativo del Estado de Querétaro"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy of the Legislative Power of the State of Querétaro"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q79754"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Querétaro"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Querétaro"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "diputado"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53542917"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Congreso de Querétaro"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Congress of Queretaro"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53544402"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "diputado de la Poder Legislativo del Estado Libre y Soberano de Quintana Roo"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy of the Legislative Power of the Free and Sovereign State of Quintana Roo"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q80245"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Quintana Roo"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Quintana Roo"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "diputado"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5160888"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Congreso de Quintana Roo"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Congress of Quintana Roo"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53544404"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "diputado de la Honorable Congreso del Estado de San Luis Potosí"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy of the Honorable Congress of the State of San Luis Potosi"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q78980"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "San Luis Potosí"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "San Luis Potosí"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "diputado"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53542918"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Congreso de San Luis Potosí"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Congress of San Luis Potosí"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53544405"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "diputado de la Honorable Congreso del Estado de Sinaloa"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy of the Honorable Congress of the State of Sinaloa"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q80252"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Sinaloa"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sinaloa"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "diputado"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5783180"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Congreso de Sinaloa"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Congress of Sinaloa"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53544408"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "diputado de la Honorable Congreso del Estado de Sonora"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy of the Honorable Congress of the State of Sonora"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q46422"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Sonora"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sonora"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "diputado"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5160894"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Congreso de Sonora"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Congress of Sonora"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53544410"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "diputado de la Honorable Congreso del Estado de Tabasco"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy of the Honorable Congress of the State of Tabasco"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q80914"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Tabasco"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tabasco"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "diputado"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5160896"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Congreso de Tabasco"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Congress of Tabasco"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53544421"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "diputado de la Honorable Congreso del Estado de Tamaulipas"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy of the Honorable Congress of the State of Tamaulipas"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q80007"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Tamaulipas"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tamaulipas"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "diputado"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5160897"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Congreso de Tamaulipas"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Congress of Tamaulipas"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53544429"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "diputado de la Congreso del Estado de Tlaxcala"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy of the Congress of the State of Tlaxcala"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q82681"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Tlaxcala"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tlaxcala"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "diputado"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53542920"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Congreso de Tlaxcala"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Congress of Tlaxcala"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53544431"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "diputado de la Honorable Congreso del Estado de Veracruz"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy of the Honorable Congress of the State of Veracruz"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q60130"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Veracruz"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Veracruz"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "diputado"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24337177"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Congreso de Veracruz"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Congress of Veracruz"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53544432"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "diputado de la Honorable Congreso del Estado de Yucatán"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy of the Honorable Congress of the State of Yucatán"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q60176"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Yucatán"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yucatán"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "diputado"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5160907"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Congreso de Yucatán"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Congress of Yucatán"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53544433"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "diputado de la Poder Legislativo del Estado de Zacatecas"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy of the Legislative Power of the State of Zacatecas"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q80269"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Zacatecas"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Zacatecas"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "diputado"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5160905"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Congreso de Zacatecas"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Congress of Zacatecas"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53547721"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "regidor de la Honorable Ayuntamiento de Ecatepec de Morelos"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "alderman of the Honorable Town Hall of Ecatepec de Morelos"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q15284 Q515 Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15121208"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Ecatepec de Morelos"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ecatepec de Morelos"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "concejal"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53547430"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Ayuntamiento de Ecatepec"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Town Hall of Ecatepec"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53547723"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "regidor de la Ayuntamiento de Tijuana Baja California"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "alderman of the city council of Tijuana Baja California"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q15284 Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2360428"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Tijuana"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tijuana Municipality"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "concejal"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53547431"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Ayuntamiento de Tijuana"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Town Hall of Tijuana"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53547725"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "regidor de la Honorable Ayuntamiento de Puebla"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "alderman of the Honorable City Council of Puebla"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q15284 Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7258412"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Puebla (municipio)"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Puebla"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "concejal"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53547432"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Ayuntamiento de Puebla"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Town Hall of Puebla"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53547726"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "regidor de la Honorable Ayuntamiento de Guadalajara"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "alderman of the Honorable City Council of Guadalajara"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12348369"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Guadalajara Municipality"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "concejal"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53547435"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Ayuntamiento de Guadalajara"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Town Hall of Guadalajara"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53547728"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "regidor de la Honorable Ayuntamiento de León"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "alderman of the Honorable City Council of Leon"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q15284 Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9022143"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "León"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "León Municipality"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "concejal"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53547437"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Ayuntamiento de León"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Town Hall of Leon"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53547729"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "regidor de la Honorable Ayuntamiento de Ciudad Juárez"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "alderman of the Honorable City Council of Ciudad Juarez"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q15284 Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2557122"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Municipio de Juárez"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Juárez Municipality"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "concejal"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53547439"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Ayuntamiento de Ciudad Juárez"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Town Hall of Ciudad Juarez"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53547731"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "regidor de la Honorable Ayuntamiento de Zapopan"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "alderman of the Honorable City Council of Zapopan"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2143868"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Municipio de Zapopan"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Zapopan Municipality"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "concejal"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53547442"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Ayuntamiento de Zapopan"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Town Hall of Zapopan"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53547733"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "regidor de la Honorable Ayuntamiento de Nezahualcóyotl"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "alderman of the Honorable City Council of Nezahualcoyotl"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q15284 Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3313478"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Nezahualcóyotl"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nezahualcóyotl Municipality"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "concejal"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53547443"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Ayuntamiento de Ciudad Nezahualcóyotl"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Town Hall of the City of Nezahualcóyotl"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53547735"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "regidor de la Honorable Ayuntamiento de Monterrey"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "alderman of the Honorable City Council of Monterrey"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q15284 Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6905368"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Monterrey Municipality"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "concejal"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53547444"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Ayuntamiento de Monterrey"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Town Hall of Monterrey"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5589628"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gobernantes de Aguascalientes"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor of Aguascalientes"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q79952"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Aguascalientes"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Aguascalientes"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17810142"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "gobernador (México)"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor (Mexico)"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634086"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "gobernador y gabinete de Aguascalientes"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "governor and cabinet of Aguascalientes"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5589632"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gobernantes de Baja California"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor of Baja California"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58731"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Baja California"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Baja California"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17810142"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "gobernador (México)"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor (Mexico)"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634087"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "gobernador y gabinete de Baja California"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "governor and cabinet of Baja California"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5589635"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gobernantes de Baja California Sur"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor of Baja California Sur"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q46508"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Baja California Sur"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Baja California Sur"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17810142"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "gobernador (México)"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor (Mexico)"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634088"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "gobernador y gabinete de Baja California Sur"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "governor and cabinet of Baja California Sur"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5589643"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gobernantes de Campeche"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor of Campeche"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q80908"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Campeche"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Campeche"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17810142"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "gobernador (México)"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor (Mexico)"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634089"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "gobernador y gabinete de Campeche"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "governor and cabinet of Campeche"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5589647"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gobernadores de Chiapas"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor of Chiapas"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q60123"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Chiapas"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chiapas"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17810142"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "gobernador (México)"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor (Mexico)"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634092"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "gobernador y gabinete de Chiapas"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "governor and cabinet of Chiapas"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5589648"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gobernantes de Colima"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor of Colima"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q61309"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Colima"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Colima"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17810142"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "gobernador (México)"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor (Mexico)"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634091"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "gobernador y gabinete de Colima"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "governor and cabinet of Colima"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5589657"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gobernantes de Guanajuato"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor of Guanajuato"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q46475"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Guanajuato"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Guanajuato"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17810142"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "gobernador (México)"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor (Mexico)"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634098"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "gobernador y gabinete de Guanajuato"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "governor and cabinet of Guanajuato"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5589659"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gobernantes de Guerrero"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor of Guerrero"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q60158"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Estado de Guerrero"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Guerrero"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17810142"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "gobernador (México)"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor (Mexico)"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634099"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "gobernador y gabinete de Guerrero"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "governor and cabinet of Guerrero"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5589662"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gobernadores de Hidalgo"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor of Hidalgo"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q80903"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Estado de Hidalgo"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hidalgo"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17810142"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "gobernador (México)"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor (Mexico)"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634100"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "gobernador y gabinete de Hidalgo"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "governor and cabinet of Hidalgo"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5589666"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gobernantes de Jalisco"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor of Jalisco"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q13160"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Jalisco"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jalisco"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17810142"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "gobernador (México)"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor (Mexico)"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634101"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "gobernador y gabinete de Jalisco"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "governor and cabinet of Jalisco"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5589681"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gobernantes de Michoacán"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor of Michoacán"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q79861"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Michoacán"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Michoacán"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17810142"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "gobernador (México)"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor (Mexico)"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634102"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "gobernador y gabinete de Michoacán"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "governor and cabinet of Michoacán"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5589684"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gobernantes de Morelos"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor of Morelos"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q66117"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Morelos"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Morelos"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17810142"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "gobernador (México)"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor (Mexico)"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634103"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "gobernador y gabinete de Morelos"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "governor and cabinet of Morelos"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5589686"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gobernantes de Nayarit"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor of Nayarit"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q79920"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Nayarit"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nayarit"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17810142"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "gobernador (México)"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor (Mexico)"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634104"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "gobernador y gabinete de Nayarit"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "governor and cabinet of Nayarit"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5589693"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gobernantes de Nuevo León"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor of Nuevo León"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15282"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Nuevo León"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nuevo León"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17810142"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "gobernador (México)"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor (Mexico)"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634105"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "gobernador y gabinete de Nuevo León"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "governor and cabinet of Nuevo León"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5589697"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gobernantes de Oaxaca"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor of Oaxaca"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q34110"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Oaxaca"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Oaxaca"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17810142"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "gobernador (México)"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor (Mexico)"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634107"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "gobernador y gabinete de Oaxaca"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "governor and cabinet of Oaxaca"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5589701"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gobernantes de Puebla"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor of Puebla"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q79923"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Puebla"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Puebla"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17810142"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "gobernador (México)"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor (Mexico)"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634108"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "gobernador y gabinete de Puebla"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "governor and cabinet of Puebla"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5589703"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gobernantes de Querétaro"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor of Querétaro"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q79754"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Querétaro"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Querétaro"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17810142"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "gobernador (México)"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor (Mexico)"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634109"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "gobernador y gabinete de Querétaro"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "governor and cabinet of Querétaro"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5589705"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gobernantes de Quintana Roo"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor of Quintana Roo"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q80245"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Quintana Roo"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Quintana Roo"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17810142"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "gobernador (México)"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor (Mexico)"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634110"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "gobernador y gabinete de Quintana Roo"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "governor and cabinet of Quintana Roo"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5589709"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gobernantes de San Luis Potosí"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor of San Luis Potosí"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q78980"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "San Luis Potosí"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "San Luis Potosí"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17810142"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "gobernador (México)"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor (Mexico)"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634111"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "gobernador y gabinete de San Luis Potosí"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "governor and cabinet of San Luis Potosí"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5589715"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gobernantes de Sinaloa"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor of Sinaloa"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q80252"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Sinaloa"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sinaloa"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17810142"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "gobernador (México)"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor (Mexico)"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634112"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "gobernador y gabinete de Sinaloa"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "governor and cabinet of Sinaloa"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5589723"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gobernantes de Tabasco"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor of Tabasco"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q80914"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Tabasco"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tabasco"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17810142"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "gobernador (México)"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor (Mexico)"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634114"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "gobernador y gabinete de Tabasco"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "governor and cabinet of Tabasco"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5589726"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gobernantes de Tamaulipas"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor of Tamaulipas"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q80007"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Tamaulipas"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tamaulipas"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17810142"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "gobernador (México)"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor (Mexico)"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634116"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "gobernador y gabinete de Tamaulipas"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "governor and cabinet of Tamaulipas"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5589729"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gobernantes de Tlaxcala"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor of Tlaxcala"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q82681"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Tlaxcala"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tlaxcala"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17810142"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "gobernador (México)"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor (Mexico)"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634117"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "gobernador y gabinete de Tlaxcala"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "governor and cabinet of Tlaxcala"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5589731"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gobernadores de Veracruz"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor of Veracruz"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q60130"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Veracruz"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Veracruz"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17810142"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "gobernador (México)"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor (Mexico)"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634118"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "gobernador y gabinete de Veracruz"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "governor and cabinet of Veracruz"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5589736"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gobernantes de Yucatán"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor of Yucatán"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q60176"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Yucatán"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yucatán"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17810142"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "gobernador (México)"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor (Mexico)"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634119"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "gobernador y gabinete de Yucatán"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "governor and cabinet of Yucatán"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5589737"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gobernantes de Zacatecas"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor of Zacatecas"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q80269"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Zacatecas"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Zacatecas"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17810142"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "gobernador (México)"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor (Mexico)"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634120"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "gobernador y gabinete de Zacatecas"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "governor and cabinet of Zacatecas"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5589754"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gobernantes del Estado de México"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor of the State of Mexico"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q82112"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Estado de México"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "México"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17810142"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "gobernador (México)"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor (Mexico)"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634097"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "gobernador y gabinete de Estado de México"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "governor and cabinet of Estado de México"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q628004"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Presidente de México"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "President of Mexico"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q6256"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q96"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "México"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mexico"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q248577"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "presidente republicano"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "President of the Republic"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2182191"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "gabinete de México"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "cabinet of Mexico"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q628004"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Presidente de México"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "President of Mexico"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q6256"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q96"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "México"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mexico"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2285706"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "jefe de Gobierno"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "head of government"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2182191"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "gabinete de México"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "cabinet of Mexico"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6936355"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Presidentes Municipales de Ciudad Juárez"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Municipal president of Juárez"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q15284 Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2557122"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Municipio de Juárez"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Juárez Municipality"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6936349"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "presidente municipal"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipal president"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634218"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gabinete de la Heroica Ciudad Juárez"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cabinet of Juarez"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6936360"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Presidentes Municipales de Puebla de Zaragoza"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Municipal president of Puebla"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q15284 Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7258412"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Puebla (municipio)"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Puebla"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6936349"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "presidente municipal"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipal president"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634215"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gabinete de la Heroica Puebla de Zaragoza"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cabinet of the Heroic Puebla de Zaragoza"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6936362"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Alcaldes de Monterrey"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Municipal president of Monterrey"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q15284 Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6905368"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Monterrey Municipality"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6936349"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "presidente municipal"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipal president"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634221"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gabinete de Monterrey"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cabinet of Monterrey"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9282520"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gobernantes de Chihuahua"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor of Chihuahua"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q655"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Chihuahua"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chihuahua"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17810142"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "gobernador (México)"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor (Mexico)"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634093"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "gobernador y gabinete de Chihuahua"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "governor and cabinet of Chihuahua"
+      }
+    } ]
+  }
+}

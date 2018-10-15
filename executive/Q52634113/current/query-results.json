@@ -4,17 +4,35 @@
   },
   "results" : {
     "bindings" : [ {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q16493239-43afe07c-48b4-03ce-3508-0ff1b4f78fde"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16493239"
+      },
+      "name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Francisco Antonio Crespo"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Francisco Antonio Crespo"
+      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q46422"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
+      "district_name_es" : {
+        "xml:lang" : "es",
         "type" : "literal",
         "value" : "Sonora"
       },
-      "district_name_es" : {
-        "xml:lang" : "es",
+      "district_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Sonora"
       },
@@ -22,16 +40,7 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3249960"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3249960"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Governor of Sonora"
-      },
-      "role_superclass_es" : {
+      "role_es" : {
         "xml:lang" : "es",
         "type" : "literal",
         "value" : "Gobernantes de Sonora"
@@ -41,59 +50,68 @@
         "type" : "literal",
         "value" : "Governor of Sonora"
       },
-      "role_es" : {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17810142"
+      },
+      "role_superclass_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Gobernantes de Sonora"
+        "value" : "gobernador (México)"
       },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16493239"
-      },
-      "name_en" : {
+      "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Francisco Antonio Crespo"
-      },
-      "name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Francisco Antonio Crespo"
+        "value" : "Governor (Mexico)"
       },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q52634113"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "governor and cabinet of Sonora"
       },
       "org_es" : {
         "xml:lang" : "es",
         "type" : "literal",
         "value" : "gobernador y gabinete de Sonora"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16493239-43afe07c-48b4-03ce-3508-0ff1b4f78fde"
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "governor and cabinet of Sonora"
       },
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q46422"
       }
     }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1969922-044ca785-428d-5495-adf9-0fce73483351"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1969922"
+      },
+      "name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Guillermo Padrés Elías"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Guillermo Padrés Elías"
+      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q46422"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
+      "district_name_es" : {
+        "xml:lang" : "es",
         "type" : "literal",
         "value" : "Sonora"
       },
-      "district_name_es" : {
-        "xml:lang" : "es",
+      "district_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Sonora"
       },
@@ -101,16 +119,7 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3249960"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3249960"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Governor of Sonora"
-      },
-      "role_superclass_es" : {
+      "role_es" : {
         "xml:lang" : "es",
         "type" : "literal",
         "value" : "Gobernantes de Sonora"
@@ -120,42 +129,33 @@
         "type" : "literal",
         "value" : "Governor of Sonora"
       },
-      "role_es" : {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17810142"
+      },
+      "role_superclass_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Gobernantes de Sonora"
+        "value" : "gobernador (México)"
       },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1969922"
-      },
-      "name_en" : {
+      "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Guillermo Padrés Elías"
-      },
-      "name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Guillermo Padrés Elías"
+        "value" : "Governor (Mexico)"
       },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q52634113"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "governor and cabinet of Sonora"
       },
       "org_es" : {
         "xml:lang" : "es",
         "type" : "literal",
         "value" : "gobernador y gabinete de Sonora"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q1969922-044ca785-428d-5495-adf9-0fce73483351"
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "governor and cabinet of Sonora"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -165,28 +165,46 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q851087"
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "National Action Party"
-      },
       "party_name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
         "value" : "Partido Acción Nacional"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Action Party"
       }
     }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q2362258-6E47BD15-F6FF-4132-9DCA-25D4229B0216"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2362258"
+      },
+      "name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Eduardo Bours"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Eduardo Bours"
+      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q46422"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
+      "district_name_es" : {
+        "xml:lang" : "es",
         "type" : "literal",
         "value" : "Sonora"
       },
-      "district_name_es" : {
-        "xml:lang" : "es",
+      "district_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Sonora"
       },
@@ -194,16 +212,7 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3249960"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3249960"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Governor of Sonora"
-      },
-      "role_superclass_es" : {
+      "role_es" : {
         "xml:lang" : "es",
         "type" : "literal",
         "value" : "Gobernantes de Sonora"
@@ -213,42 +222,33 @@
         "type" : "literal",
         "value" : "Governor of Sonora"
       },
-      "role_es" : {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17810142"
+      },
+      "role_superclass_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Gobernantes de Sonora"
+        "value" : "gobernador (México)"
       },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2362258"
-      },
-      "name_en" : {
+      "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Eduardo Bours"
-      },
-      "name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Eduardo Bours"
+        "value" : "Governor (Mexico)"
       },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q52634113"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "governor and cabinet of Sonora"
       },
       "org_es" : {
         "xml:lang" : "es",
         "type" : "literal",
         "value" : "gobernador y gabinete de Sonora"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q2362258-6E47BD15-F6FF-4132-9DCA-25D4229B0216"
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "governor and cabinet of Sonora"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -258,15 +258,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q682969"
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Institutional Revolutionary Party"
-      },
       "party_name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
         "value" : "Partido Revolucionario Institucional"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Institutional Revolutionary Party"
       }
     } ]
   }

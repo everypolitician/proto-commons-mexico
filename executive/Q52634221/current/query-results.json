@@ -4,23 +4,37 @@
   },
   "results" : {
     "bindings" : [ {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q348049-DAE59ABF-B9E6-4FE2-87D0-6980A8504D7D"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q348049"
+      },
+      "name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Adalberto Madero"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Adalberto Madero"
+      },
       "party" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q851087"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "National Action Party"
       },
       "party_name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
         "value" : "Partido Acción Nacional"
       },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q348049"
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Action Party"
       },
       "district" : {
         "type" : "uri",
@@ -35,16 +49,7 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6936362"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6936362"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Municipal president of Monterrey"
-      },
-      "role_superclass_es" : {
+      "role_es" : {
         "xml:lang" : "es",
         "type" : "literal",
         "value" : "Alcaldes de Monterrey"
@@ -54,38 +59,33 @@
         "type" : "literal",
         "value" : "Municipal president of Monterrey"
       },
-      "role_es" : {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6936349"
+      },
+      "role_superclass_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Alcaldes de Monterrey"
+        "value" : "presidente municipal"
       },
-      "name_en" : {
+      "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Adalberto Madero"
-      },
-      "name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Adalberto Madero"
+        "value" : "municipal president"
       },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q52634221"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Cabinet of Monterrey"
       },
       "org_es" : {
         "xml:lang" : "es",
         "type" : "literal",
         "value" : "Gabinete de Monterrey"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q348049-DAE59ABF-B9E6-4FE2-87D0-6980A8504D7D"
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cabinet of Monterrey"
       },
       "org_jurisdiction" : {
         "type" : "uri",

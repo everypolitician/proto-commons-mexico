@@ -4,47 +4,9 @@
   },
   "results" : {
     "bindings" : [ {
-      "district" : {
+      "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2143868"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Zapopan Municipality"
-      },
-      "district_name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Municipio de Zapopan"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q52634197"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q52634197"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Municipal President of Zapopan"
-      },
-      "role_superclass_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Presidente Municipal de Zapopan"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Municipal President of Zapopan"
-      },
-      "role_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Presidente Municipal de Zapopan"
+        "value" : "http://www.wikidata.org/entity/statement/Q56479917-5F4A1ED5-FC25-4E2F-AF9B-5A158D8136A8"
       },
       "item" : {
         "type" : "uri",
@@ -55,23 +17,61 @@
         "type" : "literal",
         "value" : "Jesús Pablo Lémus Navarro"
       },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2143868"
+      },
+      "district_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Municipio de Zapopan"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Zapopan Municipality"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52634197"
+      },
+      "role_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Presidente Municipal de Zapopan"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Municipal President of Zapopan"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6936349"
+      },
+      "role_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "presidente municipal"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipal president"
+      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q52634219"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Cabinet of Zapopan"
       },
       "org_es" : {
         "xml:lang" : "es",
         "type" : "literal",
         "value" : "Gabinete de Zapopan"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q56479917-5F4A1ED5-FC25-4E2F-AF9B-5A158D8136A8"
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cabinet of Zapopan"
       },
       "org_jurisdiction" : {
         "type" : "uri",

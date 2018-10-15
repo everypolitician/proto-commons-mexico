@@ -4,35 +4,49 @@
   },
   "results" : {
     "bindings" : [ {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q18688040-412ED907-5B2F-4142-A54E-68A2ACC29C0B"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18688040"
+      },
+      "name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Carlos Enrique Joaquín González"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Carlos Joaquín González"
+      },
       "party" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q682969"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Institutional Revolutionary Party"
       },
       "party_name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
         "value" : "Partido Revolucionario Institucional"
       },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q18688040"
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Institutional Revolutionary Party"
       },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q80245"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
+      "district_name_es" : {
+        "xml:lang" : "es",
         "type" : "literal",
         "value" : "Quintana Roo"
       },
-      "district_name_es" : {
-        "xml:lang" : "es",
+      "district_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Quintana Roo"
       },
@@ -40,16 +54,7 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5589705"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5589705"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Governor of Quintana Roo"
-      },
-      "role_superclass_es" : {
+      "role_es" : {
         "xml:lang" : "es",
         "type" : "literal",
         "value" : "Gobernantes de Quintana Roo"
@@ -59,46 +64,41 @@
         "type" : "literal",
         "value" : "Governor of Quintana Roo"
       },
-      "role_es" : {
+      "facebook" : {
+        "type" : "literal",
+        "value" : "Carlos-Joaquín-González-806295619440308"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17810142"
+      },
+      "role_superclass_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Gobernantes de Quintana Roo"
+        "value" : "gobernador (México)"
       },
-      "name_en" : {
+      "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Carlos Joaquín González"
-      },
-      "name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Carlos Enrique Joaquín González"
+        "value" : "Governor (Mexico)"
       },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q52634110"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "governor and cabinet of Quintana Roo"
       },
       "org_es" : {
         "xml:lang" : "es",
         "type" : "literal",
         "value" : "gobernador y gabinete de Quintana Roo"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q18688040-412ED907-5B2F-4142-A54E-68A2ACC29C0B"
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "governor and cabinet of Quintana Roo"
       },
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q80245"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "Carlos-Joaquín-González-806295619440308"
       }
     } ]
   }
