@@ -31,6 +31,21 @@
       "links": [
 
       ]
+    },
+    {
+      "name": {
+        "lang:es": "Francisco Vega de la Madrid"
+      },
+      "id": "Q56479845",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56479845"
+        }
+      ],
+      "links": [
+
+      ]
     }
   ],
   "organizations": [
@@ -122,11 +137,6 @@
       "on_behalf_of_id": "Q851087",
       "organization_id": "Q52634087",
       "area_id": "Q58731",
-      "role_superclass_code": "Q5589632",
-      "role_superclass": {
-        "lang:es": "Gobernantes de Baja California",
-        "lang:en": "Governor of Baja California"
-      },
       "role_code": "Q5589632",
       "role": {
         "lang:es": "Gobernantes de Baja California",
@@ -139,11 +149,17 @@
       "on_behalf_of_id": "Q851087",
       "organization_id": "Q52634087",
       "area_id": "Q58731",
-      "role_superclass_code": "Q5589632",
-      "role_superclass": {
+      "role_code": "Q5589632",
+      "role": {
         "lang:es": "Gobernantes de Baja California",
         "lang:en": "Governor of Baja California"
-      },
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56479845-22D65DDA-767B-405D-BD1E-01B1FEF2EFEC",
+      "person_id": "Q56479845",
+      "organization_id": "Q52634087",
+      "area_id": "Q58731",
       "role_code": "Q5589632",
       "role": {
         "lang:es": "Gobernantes de Baja California",

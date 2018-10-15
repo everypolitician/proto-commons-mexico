@@ -79,6 +79,22 @@
       "links": [
 
       ]
+    },
+    {
+      "name": {
+        "lang:es": "Miguel Ángel Yunes Linares",
+        "lang:en": "Miguel Ángel Yunes Linares"
+      },
+      "id": "Q6015898",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6015898"
+        }
+      ],
+      "links": [
+
+      ]
     }
   ],
   "organizations": [
@@ -184,11 +200,6 @@
       "on_behalf_of_id": "Q682969",
       "organization_id": "Q52634118",
       "area_id": "Q60130",
-      "role_superclass_code": "Q5589731",
-      "role_superclass": {
-        "lang:es": "Gobernadores de Veracruz",
-        "lang:en": "Governor of Veracruz"
-      },
       "role_code": "Q5589731",
       "role": {
         "lang:es": "Gobernadores de Veracruz",
@@ -201,11 +212,6 @@
       "on_behalf_of_id": "Q3366487",
       "organization_id": "Q52634118",
       "area_id": "Q60130",
-      "role_superclass_code": "Q5589731",
-      "role_superclass": {
-        "lang:es": "Gobernadores de Veracruz",
-        "lang:en": "Governor of Veracruz"
-      },
       "role_code": "Q5589731",
       "role": {
         "lang:es": "Gobernadores de Veracruz",
@@ -218,11 +224,6 @@
       "on_behalf_of_id": "Q682969",
       "organization_id": "Q52634118",
       "area_id": "Q60130",
-      "role_superclass_code": "Q5589731",
-      "role_superclass": {
-        "lang:es": "Gobernadores de Veracruz",
-        "lang:en": "Governor of Veracruz"
-      },
       "role_code": "Q5589731",
       "role": {
         "lang:es": "Gobernadores de Veracruz",
@@ -235,11 +236,6 @@
       "on_behalf_of_id": "Q682969",
       "organization_id": "Q52634118",
       "area_id": "Q60130",
-      "role_superclass_code": "Q5589731",
-      "role_superclass": {
-        "lang:es": "Gobernadores de Veracruz",
-        "lang:en": "Governor of Veracruz"
-      },
       "role_code": "Q5589731",
       "role": {
         "lang:es": "Gobernadores de Veracruz",
@@ -252,11 +248,18 @@
       "on_behalf_of_id": "Q682969",
       "organization_id": "Q52634118",
       "area_id": "Q60130",
-      "role_superclass_code": "Q5589731",
-      "role_superclass": {
+      "role_code": "Q5589731",
+      "role": {
         "lang:es": "Gobernadores de Veracruz",
         "lang:en": "Governor of Veracruz"
-      },
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6015898-9A403C7E-FDAC-45B8-A76B-711C2DF62748",
+      "person_id": "Q6015898",
+      "on_behalf_of_id": "Q682969",
+      "organization_id": "Q52634118",
+      "area_id": "Q60130",
       "role_code": "Q5589731",
       "role": {
         "lang:es": "Gobernadores de Veracruz",

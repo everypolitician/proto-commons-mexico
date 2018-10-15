@@ -2,33 +2,14 @@
   "persons": [
     {
       "name": {
-        "lang:es": "Andrés Aguirre Romero",
-        "lang:en": "Andrés Aguirre Romero"
+        "lang:es": "Ivonne Liliana Álvarez",
+        "lang:en": "Ivonne Liliana Álvarez"
       },
-      "id": "Q18638111",
+      "id": "Q16146929",
       "identifiers": [
         {
           "scheme": "wikidata",
-          "identifier": "Q18638111"
-        }
-      ],
-      "links": [
-        {
-          "note": "facebook",
-          "url": "https://www.facebook.com/AndresAguirreRo"
-        }
-      ]
-    },
-    {
-      "name": {
-        "lang:es": "María Guadalupe Alcántara Rojas",
-        "lang:en": "María Guadalupe Alcántara Rojas"
-      },
-      "id": "Q53563153",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q53563153"
+          "identifier": "Q16146929"
         }
       ],
       "links": [
@@ -37,59 +18,83 @@
     },
     {
       "name": {
-        "lang:es": "Matías Nazario Morales",
-        "lang:en": "Matías Nazario Morales"
+        "lang:es": "Claudia Anaya Mota",
+        "lang:en": "Claudia Anaya Mota"
       },
-      "id": "Q53563154",
+      "id": "Q18638126",
       "identifiers": [
         {
           "scheme": "wikidata",
-          "identifier": "Q53563154"
+          "identifier": "Q18638126"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Sandra Méndez Hernández",
+        "lang:en": "Sandra Méndez Hernández"
+      },
+      "id": "Q18649009",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18649009"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Rogerio Castro Vázquez",
+        "lang:en": "Rogerio Castro Vázquez"
+      },
+      "id": "Q33126453",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q33126453"
         }
       ],
       "links": [
         {
           "note": "facebook",
-          "url": "https://www.facebook.com/MatiasNazarioMor"
+          "url": "https://www.facebook.com/rogeriocastrovazquez"
         }
       ]
     },
     {
       "name": {
-        "lang:es": "Héctor Barrera Marmolejo",
-        "lang:en": "Héctor Barrera Marmolejo"
+        "lang:es": "Gonzalo Herrera Pérez"
       },
-      "id": "Q53563155",
+      "id": "Q56877395",
       "identifiers": [
         {
           "scheme": "wikidata",
-          "identifier": "Q53563155"
+          "identifier": "Q56877395"
         }
       ],
       "links": [
-        {
-          "note": "facebook",
-          "url": "https://www.facebook.com/hector.barreramarmolejo"
-        }
+
       ]
     },
     {
       "name": {
-        "lang:es": "María Élida Castelán Mondragón",
-        "lang:en": "María Élida Castelán Mondragón"
+        "lang:es": "Mario Alberto Ramos Tamez"
       },
-      "id": "Q53563157",
+      "id": "Q56877404",
       "identifiers": [
         {
           "scheme": "wikidata",
-          "identifier": "Q53563157"
+          "identifier": "Q56877404"
         }
       ],
       "links": [
-        {
-          "note": "facebook",
-          "url": "https://www.facebook.com/diputadaelidacaastelanmondragon"
-        }
+
       ]
     }
   ],
@@ -114,6 +119,20 @@
     },
     {
       "name": {
+        "lang:es": "Movimiento Regeneración Nacional",
+        "lang:en": "National Regeneration Movement"
+      },
+      "id": "Q15717618",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15717618"
+        }
+      ]
+    },
+    {
+      "name": {
         "lang:es": "Partido Revolucionario Institucional",
         "lang:en": "Institutional Revolutionary Party"
       },
@@ -123,34 +142,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q682969"
-        }
-      ]
-    },
-    {
-      "name": {
-        "lang:es": "Partido de la Revolución Democrática",
-        "lang:en": "Party of the Democratic Revolution"
-      },
-      "id": "Q767010",
-      "classification": "party",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q767010"
-        }
-      ]
-    },
-    {
-      "name": {
-        "lang:es": "Partido Acción Nacional",
-        "lang:en": "National Action Party"
-      },
-      "id": "Q851087",
-      "classification": "party",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q851087"
         }
       ]
     }
@@ -8572,11 +8563,28 @@
   ],
   "memberships": [
     {
-      "id": "http://www.wikidata.org/entity/statement/Q18638111-F6E0CC63-3353-4047-9C32-0FDD501838C8",
-      "person_id": "Q18638111",
+      "id": "http://www.wikidata.org/entity/statement/Q16146929-3555DB58-51CA-4D18-88E4-87BEEC883FD5",
+      "person_id": "Q16146929",
+      "organization_id": "Q3014316",
+      "start_date": "2018-08-01",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18534310",
+      "role": {
+        "lang:es": "diputado de México",
+        "lang:en": "Member of the Chamber of Deputies of Mexico"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q18638126-2b30c0e9-40a8-cdb8-8c8c-b9ff433ec2db",
+      "person_id": "Q18638126",
       "on_behalf_of_id": "Q682969",
       "organization_id": "Q3014316",
-      "area_id": "Q5396956",
+      "area_id": "Q5906884",
+      "start_date": "2018-07-02",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
         "lang:es": "diputado",
@@ -8589,11 +8597,10 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q53563153-0323705E-F87C-4F40-833C-9D7943500D55",
-      "person_id": "Q53563153",
-      "on_behalf_of_id": "Q682969",
+      "id": "http://www.wikidata.org/entity/statement/Q18649009-07CB62D0-FF7B-4F6F-8676-F449C62AF0F2",
+      "person_id": "Q18649009",
       "organization_id": "Q3014316",
-      "area_id": "Q53461696",
+      "start_date": "2015-01-01",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
         "lang:es": "diputado",
@@ -8606,11 +8613,12 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q53563154-30CA74DB-C7AC-4018-B582-89397F537E06",
-      "person_id": "Q53563154",
-      "on_behalf_of_id": "Q682969",
+      "id": "http://www.wikidata.org/entity/statement/Q33126453-b6da8f9d-440b-7d9f-6489-7fc72a74c4fa",
+      "person_id": "Q33126453",
+      "on_behalf_of_id": "Q15717618",
       "organization_id": "Q3014316",
-      "area_id": "Q53461634",
+      "area_id": "Q53461413",
+      "start_date": "2018-07-02",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
         "lang:es": "diputado",
@@ -8623,11 +8631,11 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q53563155-F6AB6071-28E4-4894-ACF4-74D2D235385C",
-      "person_id": "Q53563155",
-      "on_behalf_of_id": "Q851087",
+      "id": "http://www.wikidata.org/entity/statement/Q56877395-0904c179-4823-9702-d441-91e7876515b0",
+      "person_id": "Q56877395",
       "organization_id": "Q3014316",
-      "area_id": "Q5811292",
+      "area_id": "Q6158389",
+      "start_date": "2018-09-01",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
         "lang:es": "diputado",
@@ -8640,11 +8648,11 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q53563157-0C5B58C5-3BF2-405D-BCEB-18F5B59788B4",
-      "person_id": "Q53563157",
-      "on_behalf_of_id": "Q767010",
+      "id": "http://www.wikidata.org/entity/statement/Q56877404-26a549a6-42a4-331f-222f-e2b2db52cec2",
+      "person_id": "Q56877404",
       "organization_id": "Q3014316",
-      "area_id": "Q53461696",
+      "area_id": "Q6158521",
+      "start_date": "2018-09-01",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
         "lang:es": "diputado",

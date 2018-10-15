@@ -1,9 +1,55 @@
 {
   "persons": [
-
+    {
+      "name": {
+        "lang:es": "Carlos Enrique Joaquín González",
+        "lang:en": "Carlos Joaquín González"
+      },
+      "id": "Q18688040",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18688040"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/Carlos-Joaquín-González-806295619440308"
+        }
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "gobernador y gabinete de Quintana Roo",
+        "lang:en": "governor and cabinet of Quintana Roo"
+      },
+      "id": "Q52634110",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52634110"
+        }
+      ],
+      "area_id": "Q80245"
+    },
+    {
+      "name": {
+        "lang:es": "Partido Revolucionario Institucional",
+        "lang:en": "Institutional Revolutionary Party"
+      },
+      "id": "Q682969",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q682969"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -57,6 +103,17 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q18688040-412ED907-5B2F-4142-A54E-68A2ACC29C0B",
+      "person_id": "Q18688040",
+      "on_behalf_of_id": "Q682969",
+      "organization_id": "Q52634110",
+      "area_id": "Q80245",
+      "role_code": "Q5589705",
+      "role": {
+        "lang:es": "Gobernantes de Quintana Roo",
+        "lang:en": "Governor of Quintana Roo"
+      }
+    }
   ]
 }

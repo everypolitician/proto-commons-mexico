@@ -1,9 +1,66 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:es": "José Rosas Aispuro",
+        "lang:en": "José Rosas Aispuro"
+      },
+      "id": "Q5945231",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5945231"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "gobernador y gabinete de Durango",
+        "lang:en": "governor and cabinet of Durango"
+      },
+      "id": "Q52634096",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52634096"
+        }
+      ],
+      "area_id": "Q79918"
+    },
+    {
+      "name": {
+        "lang:es": "Partido Revolucionario Institucional",
+        "lang:en": "Institutional Revolutionary Party"
+      },
+      "id": "Q682969",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q682969"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Partido Acción Nacional",
+        "lang:en": "National Action Party"
+      },
+      "id": "Q851087",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q851087"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -57,6 +114,29 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5945231-02F4A107-59C2-4B33-8F1A-BB48C26336C0",
+      "person_id": "Q5945231",
+      "on_behalf_of_id": "Q682969",
+      "organization_id": "Q52634096",
+      "area_id": "Q79918",
+      "role_code": "Q3112712",
+      "role": {
+        "lang:es": "Gobernantes de Durango",
+        "lang:en": "Governor of Durango"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5945231-02F4A107-59C2-4B33-8F1A-BB48C26336C0",
+      "person_id": "Q5945231",
+      "on_behalf_of_id": "Q851087",
+      "organization_id": "Q52634096",
+      "area_id": "Q79918",
+      "role_code": "Q3112712",
+      "role": {
+        "lang:es": "Gobernantes de Durango",
+        "lang:en": "Governor of Durango"
+      }
+    }
   ]
 }

@@ -1,0 +1,1008 @@
+[
+  {
+    "role_id": "Q16242755",
+    "role_name": {
+      "lang:en": "Municipal President of Tijuana"
+    },
+    "generic_role_id": "Q6936349",
+    "generic_role_name": {
+      "lang:es": "presidente municipal",
+      "lang:en": "municipal president"
+    },
+    "role_level": "Q15284 Q24238356",
+    "role_type": null,
+    "organization_id": "Q52634214",
+    "organization_name": {
+      "lang:es": "Gabinete de Tijuana",
+      "lang:en": "Cabinet of Tijuana"
+    }
+  },
+  {
+    "role_id": "Q18534310",
+    "role_name": {
+      "lang:es": "diputado de México",
+      "lang:en": "Member of the Chamber of Deputies of Mexico"
+    },
+    "generic_role_id": "Q1055894",
+    "generic_role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy"
+    },
+    "role_level": "Q6256",
+    "role_type": "Q4175034",
+    "organization_id": "Q3014316",
+    "organization_name": {
+      "lang:es": "Cámara de Diputados de México",
+      "lang:en": "Chamber of Deputies"
+    }
+  },
+  {
+    "role_id": "Q19971999",
+    "role_name": {
+      "lang:es": "senador de México",
+      "lang:en": "member of the Senate of Mexico"
+    },
+    "generic_role_id": "Q15686806",
+    "generic_role_name": {
+      "lang:es": "senador",
+      "lang:en": "senator"
+    },
+    "role_level": "Q6256",
+    "role_type": "Q4175034",
+    "organization_id": "Q264113",
+    "organization_name": {
+      "lang:es": "Senado de México",
+      "lang:en": "Senate of the Republic"
+    }
+  },
+  {
+    "role_id": "Q52634194",
+    "role_name": {
+      "lang:es": "Presidente municipal de Ecatepec de Morelos",
+      "lang:en": "Municipal President of Ecatepec de Morelos"
+    },
+    "generic_role_id": "Q6936349",
+    "generic_role_name": {
+      "lang:es": "presidente municipal",
+      "lang:en": "municipal president"
+    },
+    "role_level": "Q15284 Q515 Q24238356",
+    "role_type": null,
+    "organization_id": "Q52634213",
+    "organization_name": {
+      "lang:es": "Gabinete de Ecatepec de Morelos",
+      "lang:en": "Cabinet of Ecatepec de Morelos"
+    }
+  },
+  {
+    "role_id": "Q52634195",
+    "role_name": {
+      "lang:es": "Presidente Municipal de Guadalajara",
+      "lang:en": "Municipal President of Guadalajara"
+    },
+    "generic_role_id": "Q6936349",
+    "generic_role_name": {
+      "lang:es": "presidente municipal",
+      "lang:en": "municipal president"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q52634216",
+    "organization_name": {
+      "lang:es": "Gabinete de Guadalajara",
+      "lang:en": "Cabinet of Guadalajara"
+    }
+  },
+  {
+    "role_id": "Q52634196",
+    "role_name": {
+      "lang:es": "Presidente Municipal de León de los Aldama",
+      "lang:en": "Municipal President of León de los Aldama"
+    },
+    "generic_role_id": "Q6936349",
+    "generic_role_name": {
+      "lang:es": "presidente municipal",
+      "lang:en": "municipal president"
+    },
+    "role_level": "Q15284 Q24238356",
+    "role_type": null,
+    "organization_id": "Q52634217",
+    "organization_name": {
+      "lang:es": "Gabinete de León de los Aldama",
+      "lang:en": "Cabinet of Leon de los Aldama"
+    }
+  },
+  {
+    "role_id": "Q52634197",
+    "role_name": {
+      "lang:es": "Presidente Municipal de Zapopan",
+      "lang:en": "Municipal President of Zapopan"
+    },
+    "generic_role_id": "Q6936349",
+    "generic_role_name": {
+      "lang:es": "presidente municipal",
+      "lang:en": "municipal president"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q52634219",
+    "organization_name": {
+      "lang:es": "Gabinete de Zapopan",
+      "lang:en": "Cabinet of Zapopan"
+    }
+  },
+  {
+    "role_id": "Q52634198",
+    "role_name": {
+      "lang:es": "Presidente Municipal de Nezahualcóyotl",
+      "lang:en": "Municipal President of Nezahualcóyotl"
+    },
+    "generic_role_id": "Q6936349",
+    "generic_role_name": {
+      "lang:es": "presidente municipal",
+      "lang:en": "municipal president"
+    },
+    "role_level": "Q15284 Q24238356",
+    "role_type": null,
+    "organization_id": "Q52634220",
+    "organization_name": {
+      "lang:es": "Gabinete de Nezahualcóyotl",
+      "lang:en": "Cabinet of Nezahualcóyotl"
+    }
+  },
+  {
+    "role_id": "Q53544327",
+    "role_name": {
+      "lang:es": "diputado de la Honorable Congreso del Estado de Aguascalientes",
+      "lang:en": "deputy of the Honorable Congress of the State of Aguascalientes"
+    },
+    "generic_role_id": "Q1055894",
+    "generic_role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q53542909",
+    "organization_name": {
+      "lang:es": "Congreso de Aguascalientes",
+      "lang:en": "Congress of Aguascalientes"
+    }
+  },
+  {
+    "role_id": "Q53544328",
+    "role_name": {
+      "lang:es": "diputado de la Poder Legislativo del Estado de Baja California",
+      "lang:en": "deputy of the Legislative Power of the State of Baja California"
+    },
+    "generic_role_id": "Q1055894",
+    "generic_role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q5160856",
+    "organization_name": {
+      "lang:es": "Congreso de Baja California",
+      "lang:en": "Congress of Baja California"
+    }
+  },
+  {
+    "role_id": "Q53544332",
+    "role_name": {
+      "lang:es": "diputado de la Honorable Congreso del Estado de Baja California Sur",
+      "lang:en": "deputy of the Honorable Congress of the State of Baja California Sur"
+    },
+    "generic_role_id": "Q1055894",
+    "generic_role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q53542913",
+    "organization_name": {
+      "lang:es": "Congreso de Baja California Sur",
+      "lang:en": "Congress of Baja California Sur"
+    }
+  },
+  {
+    "role_id": "Q53544333",
+    "role_name": {
+      "lang:es": "diputado de la Poder Legislativo del Estado de Campeche",
+      "lang:en": "deputy of the Legislative Power of the State of Campeche"
+    },
+    "generic_role_id": "Q1055894",
+    "generic_role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q5160860",
+    "organization_name": {
+      "lang:es": "Congreso de Campeche",
+      "lang:en": "Congress of Campeche"
+    }
+  },
+  {
+    "role_id": "Q53544334",
+    "role_name": {
+      "lang:es": "diputado de la Congreso del Estado de Coahuila de Zaragoza",
+      "lang:en": "deputy of the Congress of the State of Coahuila de Zaragoza"
+    },
+    "generic_role_id": "Q1055894",
+    "generic_role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q5160861",
+    "organization_name": {
+      "lang:es": "Congreso de Coahuila",
+      "lang:en": "Congress of Coahuila"
+    }
+  },
+  {
+    "role_id": "Q53544335",
+    "role_name": {
+      "lang:es": "diputado de la Honorable Congreso del Estado de Colima",
+      "lang:en": "deputy of the Honorable Congress of the State of Colima"
+    },
+    "generic_role_id": "Q1055894",
+    "generic_role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q5160862",
+    "organization_name": {
+      "lang:es": "Congreso de Colima",
+      "lang:en": "Congress of Colima"
+    }
+  },
+  {
+    "role_id": "Q53544336",
+    "role_name": {
+      "lang:es": "diputado de la Honorable Congreso del Estado de Chiapas",
+      "lang:en": "deputy of the Honorable Congress of the State of Chiapas"
+    },
+    "generic_role_id": "Q1055894",
+    "generic_role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q5160858",
+    "organization_name": {
+      "lang:es": "Congreso de Chiapas",
+      "lang:en": "Congress of Chiapas"
+    }
+  },
+  {
+    "role_id": "Q53544338",
+    "role_name": {
+      "lang:es": "diputado de la Honorable Congreso del Estado de Chihuahua",
+      "lang:en": "deputy of the Honorable Congress of the State of Chihuahua"
+    },
+    "generic_role_id": "Q1055894",
+    "generic_role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q5783176",
+    "organization_name": {
+      "lang:es": "Congreso de Chihuahua",
+      "lang:en": "Congress of Chihuahua"
+    }
+  },
+  {
+    "role_id": "Q53544340",
+    "role_name": {
+      "lang:es": "diputado de la Asamblea Legislativa del Distrito Federal",
+      "lang:en": "deputy of the Legislative Assembly of the Federal District"
+    },
+    "generic_role_id": "Q1055894",
+    "generic_role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy"
+    },
+    "role_level": "Q10864048 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q2867085",
+    "organization_name": {
+      "lang:es": "Congreso de la Ciudad de México",
+      "lang:en": "Congress of Mexico City"
+    }
+  },
+  {
+    "role_id": "Q53544355",
+    "role_name": {
+      "lang:es": "diputado de la Honorable Congreso de Durango",
+      "lang:en": "deputy of the Honorable Congress of Durango"
+    },
+    "generic_role_id": "Q1055894",
+    "generic_role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q20014631",
+    "organization_name": {
+      "lang:es": "Congreso de Durango",
+      "lang:en": "Congress of Durango"
+    }
+  },
+  {
+    "role_id": "Q53544365",
+    "role_name": {
+      "lang:es": "diputado de la Poder Legislativo del Estado de México",
+      "lang:en": "deputy of the Legislative Power of the State of Mexico"
+    },
+    "generic_role_id": "Q1055894",
+    "generic_role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q5160913",
+    "organization_name": {
+      "lang:es": "Congreso del Estado de México",
+      "lang:en": "Congress of the Estado de México"
+    }
+  },
+  {
+    "role_id": "Q53544367",
+    "role_name": {
+      "lang:es": "diputado de la Congreso del Estado de Guanajuato",
+      "lang:en": "deputy of the Congress of the State of Guanajuato"
+    },
+    "generic_role_id": "Q1055894",
+    "generic_role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q5160871",
+    "organization_name": {
+      "lang:es": "Congreso de Guanajuato",
+      "lang:en": "Congress of Guanajuato"
+    }
+  },
+  {
+    "role_id": "Q53544368",
+    "role_name": {
+      "lang:es": "diputado de la Congreso del Estado Libre y Soberano de Guerrero",
+      "lang:en": "deputy of the Congress of the Free and Sovereign State of Guerrero"
+    },
+    "generic_role_id": "Q1055894",
+    "generic_role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q610045",
+    "organization_name": {
+      "lang:es": "Congreso de Guerrero",
+      "lang:en": "Congress of Guerrero"
+    }
+  },
+  {
+    "role_id": "Q53544369",
+    "role_name": {
+      "lang:es": "diputado de la Congreso del Estado Libre y Soberano de Hidalgo",
+      "lang:en": "deputy of the Congress of the Free and Sovereign State of Hidalgo"
+    },
+    "generic_role_id": "Q1055894",
+    "generic_role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q28924553",
+    "organization_name": {
+      "lang:es": "Congreso de Hidalgo",
+      "lang:en": "Congress of Hidalgo"
+    }
+  },
+  {
+    "role_id": "Q53544371",
+    "role_name": {
+      "lang:es": "diputado de la Congreso del Estado de Jalisco",
+      "lang:en": "deputy of the Congress of the State of Jalisco"
+    },
+    "generic_role_id": "Q1055894",
+    "generic_role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q5160874",
+    "organization_name": {
+      "lang:es": "Congreso de Jalisco",
+      "lang:en": "Congress of Jalisco"
+    }
+  },
+  {
+    "role_id": "Q53544375",
+    "role_name": {
+      "lang:es": "diputado de la Congreso del Estado de Michoacán de Ocampo",
+      "lang:en": "deputy of the Congress of the State of Michoacán de Ocampo"
+    },
+    "generic_role_id": "Q1055894",
+    "generic_role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q5160879",
+    "organization_name": {
+      "lang:es": "Congreso de Michoacán",
+      "lang:en": "Congress of Michoacan"
+    }
+  },
+  {
+    "role_id": "Q53544376",
+    "role_name": {
+      "lang:es": "diputado de la Honorable Congreso del Estado de Morelos",
+      "lang:en": "deputy of the Honorable Congress of the State of Morelos"
+    },
+    "generic_role_id": "Q1055894",
+    "generic_role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q5783178",
+    "organization_name": {
+      "lang:es": "Congreso de Morelos",
+      "lang:en": "Congress of Morelos"
+    }
+  },
+  {
+    "role_id": "Q53544378",
+    "role_name": {
+      "lang:es": "diputado de la Congreso del Estado de Nayarit",
+      "lang:en": "deputy of the Congress of the State of Nayarit"
+    },
+    "generic_role_id": "Q1055894",
+    "generic_role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q53542914",
+    "organization_name": {
+      "lang:es": "Congreso de Nayarit",
+      "lang:en": "Congress of Nayarit"
+    }
+  },
+  {
+    "role_id": "Q53544387",
+    "role_name": {
+      "lang:es": "diputado de la Honorable Congreso del Estado de Nuevo León",
+      "lang:en": "deputy of the Honorable Congress of the State of Nuevo León"
+    },
+    "generic_role_id": "Q1055894",
+    "generic_role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q254534",
+    "organization_name": {
+      "lang:es": "Congreso de Nuevo León",
+      "lang:en": "Congress of Nuevo Leon"
+    }
+  },
+  {
+    "role_id": "Q53544396",
+    "role_name": {
+      "lang:es": "diputado de la Honorable Congreso del Estado Libre y Soberano de Oaxaca",
+      "lang:en": "deputy of the Honorable Congress of the Free and Sovereign State of Oaxaca"
+    },
+    "generic_role_id": "Q1055894",
+    "generic_role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q5160884",
+    "organization_name": {
+      "lang:es": "Congreso de Oaxaca",
+      "lang:en": "Congress of Oaxaca"
+    }
+  },
+  {
+    "role_id": "Q53544398",
+    "role_name": {
+      "lang:es": "diputado de la Honorable Congreso del Estado Libre y Soberano de Puebla",
+      "lang:en": "deputy of the Honorable Congress of the Free and Sovereign State of Puebla"
+    },
+    "generic_role_id": "Q1055894",
+    "generic_role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q5160887",
+    "organization_name": {
+      "lang:es": "Congreso de Puebla",
+      "lang:en": "Congress of Puebla"
+    }
+  },
+  {
+    "role_id": "Q53544400",
+    "role_name": {
+      "lang:es": "diputado de la Poder Legislativo del Estado de Querétaro",
+      "lang:en": "deputy of the Legislative Power of the State of Querétaro"
+    },
+    "generic_role_id": "Q1055894",
+    "generic_role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q53542917",
+    "organization_name": {
+      "lang:es": "Congreso de Querétaro",
+      "lang:en": "Congress of Queretaro"
+    }
+  },
+  {
+    "role_id": "Q53544402",
+    "role_name": {
+      "lang:es": "diputado de la Poder Legislativo del Estado Libre y Soberano de Quintana Roo",
+      "lang:en": "deputy of the Legislative Power of the Free and Sovereign State of Quintana Roo"
+    },
+    "generic_role_id": "Q1055894",
+    "generic_role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q5160888",
+    "organization_name": {
+      "lang:es": "Congreso de Quintana Roo",
+      "lang:en": "Congress of Quintana Roo"
+    }
+  },
+  {
+    "role_id": "Q53544404",
+    "role_name": {
+      "lang:es": "diputado de la Honorable Congreso del Estado de San Luis Potosí",
+      "lang:en": "deputy of the Honorable Congress of the State of San Luis Potosi"
+    },
+    "generic_role_id": "Q1055894",
+    "generic_role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q53542918",
+    "organization_name": {
+      "lang:es": "Congreso de San Luis Potosí",
+      "lang:en": "Congress of San Luis Potosí"
+    }
+  },
+  {
+    "role_id": "Q53544405",
+    "role_name": {
+      "lang:es": "diputado de la Honorable Congreso del Estado de Sinaloa",
+      "lang:en": "deputy of the Honorable Congress of the State of Sinaloa"
+    },
+    "generic_role_id": "Q1055894",
+    "generic_role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q5783180",
+    "organization_name": {
+      "lang:es": "Congreso de Sinaloa",
+      "lang:en": "Congress of Sinaloa"
+    }
+  },
+  {
+    "role_id": "Q53544408",
+    "role_name": {
+      "lang:es": "diputado de la Honorable Congreso del Estado de Sonora",
+      "lang:en": "deputy of the Honorable Congress of the State of Sonora"
+    },
+    "generic_role_id": "Q1055894",
+    "generic_role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q5160894",
+    "organization_name": {
+      "lang:es": "Congreso de Sonora",
+      "lang:en": "Congress of Sonora"
+    }
+  },
+  {
+    "role_id": "Q53544410",
+    "role_name": {
+      "lang:es": "diputado de la Honorable Congreso del Estado de Tabasco",
+      "lang:en": "deputy of the Honorable Congress of the State of Tabasco"
+    },
+    "generic_role_id": "Q1055894",
+    "generic_role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q5160896",
+    "organization_name": {
+      "lang:es": "Congreso de Tabasco",
+      "lang:en": "Congress of Tabasco"
+    }
+  },
+  {
+    "role_id": "Q53544421",
+    "role_name": {
+      "lang:es": "diputado de la Honorable Congreso del Estado de Tamaulipas",
+      "lang:en": "deputy of the Honorable Congress of the State of Tamaulipas"
+    },
+    "generic_role_id": "Q1055894",
+    "generic_role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q5160897",
+    "organization_name": {
+      "lang:es": "Congreso de Tamaulipas",
+      "lang:en": "Congress of Tamaulipas"
+    }
+  },
+  {
+    "role_id": "Q53544429",
+    "role_name": {
+      "lang:es": "diputado de la Congreso del Estado de Tlaxcala",
+      "lang:en": "deputy of the Congress of the State of Tlaxcala"
+    },
+    "generic_role_id": "Q1055894",
+    "generic_role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q53542920",
+    "organization_name": {
+      "lang:es": "Congreso de Tlaxcala",
+      "lang:en": "Congress of Tlaxcala"
+    }
+  },
+  {
+    "role_id": "Q53544431",
+    "role_name": {
+      "lang:es": "diputado de la Honorable Congreso del Estado de Veracruz",
+      "lang:en": "deputy of the Honorable Congress of the State of Veracruz"
+    },
+    "generic_role_id": "Q1055894",
+    "generic_role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q24337177",
+    "organization_name": {
+      "lang:es": "Congreso de Veracruz",
+      "lang:en": "Congress of Veracruz"
+    }
+  },
+  {
+    "role_id": "Q53544432",
+    "role_name": {
+      "lang:es": "diputado de la Honorable Congreso del Estado de Yucatán",
+      "lang:en": "deputy of the Honorable Congress of the State of Yucatán"
+    },
+    "generic_role_id": "Q1055894",
+    "generic_role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q5160907",
+    "organization_name": {
+      "lang:es": "Congreso de Yucatán",
+      "lang:en": "Congress of Yucatán"
+    }
+  },
+  {
+    "role_id": "Q53544433",
+    "role_name": {
+      "lang:es": "diputado de la Poder Legislativo del Estado de Zacatecas",
+      "lang:en": "deputy of the Legislative Power of the State of Zacatecas"
+    },
+    "generic_role_id": "Q1055894",
+    "generic_role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q5160905",
+    "organization_name": {
+      "lang:es": "Congreso de Zacatecas",
+      "lang:en": "Congress of Zacatecas"
+    }
+  },
+  {
+    "role_id": "Q53547721",
+    "role_name": {
+      "lang:es": "regidor de la Honorable Ayuntamiento de Ecatepec de Morelos",
+      "lang:en": "alderman of the Honorable Town Hall of Ecatepec de Morelos"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:es": "concejal",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284 Q515 Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q53547430",
+    "organization_name": {
+      "lang:es": "Ayuntamiento de Ecatepec",
+      "lang:en": "Town Hall of Ecatepec"
+    }
+  },
+  {
+    "role_id": "Q53547723",
+    "role_name": {
+      "lang:es": "regidor de la Ayuntamiento de Tijuana Baja California",
+      "lang:en": "alderman of the city council of Tijuana Baja California"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:es": "concejal",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284 Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q53547431",
+    "organization_name": {
+      "lang:es": "Ayuntamiento de Tijuana",
+      "lang:en": "Town Hall of Tijuana"
+    }
+  },
+  {
+    "role_id": "Q53547725",
+    "role_name": {
+      "lang:es": "regidor de la Honorable Ayuntamiento de Puebla",
+      "lang:en": "alderman of the Honorable City Council of Puebla"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:es": "concejal",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284 Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q53547432",
+    "organization_name": {
+      "lang:es": "Ayuntamiento de Puebla",
+      "lang:en": "Town Hall of Puebla"
+    }
+  },
+  {
+    "role_id": "Q53547726",
+    "role_name": {
+      "lang:es": "regidor de la Honorable Ayuntamiento de Guadalajara",
+      "lang:en": "alderman of the Honorable City Council of Guadalajara"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:es": "concejal",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q53547435",
+    "organization_name": {
+      "lang:es": "Ayuntamiento de Guadalajara",
+      "lang:en": "Town Hall of Guadalajara"
+    }
+  },
+  {
+    "role_id": "Q53547728",
+    "role_name": {
+      "lang:es": "regidor de la Honorable Ayuntamiento de León",
+      "lang:en": "alderman of the Honorable City Council of Leon"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:es": "concejal",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284 Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q53547437",
+    "organization_name": {
+      "lang:es": "Ayuntamiento de León",
+      "lang:en": "Town Hall of Leon"
+    }
+  },
+  {
+    "role_id": "Q53547729",
+    "role_name": {
+      "lang:es": "regidor de la Honorable Ayuntamiento de Ciudad Juárez",
+      "lang:en": "alderman of the Honorable City Council of Ciudad Juarez"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:es": "concejal",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284 Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q53547439",
+    "organization_name": {
+      "lang:es": "Ayuntamiento de Ciudad Juárez",
+      "lang:en": "Town Hall of Ciudad Juarez"
+    }
+  },
+  {
+    "role_id": "Q53547731",
+    "role_name": {
+      "lang:es": "regidor de la Honorable Ayuntamiento de Zapopan",
+      "lang:en": "alderman of the Honorable City Council of Zapopan"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:es": "concejal",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q53547442",
+    "organization_name": {
+      "lang:es": "Ayuntamiento de Zapopan",
+      "lang:en": "Town Hall of Zapopan"
+    }
+  },
+  {
+    "role_id": "Q53547733",
+    "role_name": {
+      "lang:es": "regidor de la Honorable Ayuntamiento de Nezahualcóyotl",
+      "lang:en": "alderman of the Honorable City Council of Nezahualcoyotl"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:es": "concejal",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284 Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q53547443",
+    "organization_name": {
+      "lang:es": "Ayuntamiento de Ciudad Nezahualcóyotl",
+      "lang:en": "Town Hall of the City of Nezahualcóyotl"
+    }
+  },
+  {
+    "role_id": "Q53547735",
+    "role_name": {
+      "lang:es": "regidor de la Honorable Ayuntamiento de Monterrey",
+      "lang:en": "alderman of the Honorable City Council of Monterrey"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:es": "concejal",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284 Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q53547444",
+    "organization_name": {
+      "lang:es": "Ayuntamiento de Monterrey",
+      "lang:en": "Town Hall of Monterrey"
+    }
+  },
+  {
+    "role_id": "Q628004",
+    "role_name": {
+      "lang:es": "Presidente de México",
+      "lang:en": "President of Mexico"
+    },
+    "generic_role_id": "Q2285706",
+    "generic_role_name": {
+      "lang:es": "jefe de Gobierno",
+      "lang:en": "head of government"
+    },
+    "role_level": "Q6256",
+    "role_type": null,
+    "organization_id": "Q2182191",
+    "organization_name": {
+      "lang:es": "gabinete de México",
+      "lang:en": "cabinet of Mexico"
+    }
+  },
+  {
+    "role_id": "Q6936355",
+    "role_name": {
+      "lang:es": "Presidentes Municipales de Ciudad Juárez",
+      "lang:en": "Municipal president of Juárez"
+    },
+    "generic_role_id": "Q6936349",
+    "generic_role_name": {
+      "lang:es": "presidente municipal",
+      "lang:en": "municipal president"
+    },
+    "role_level": "Q15284 Q24238356",
+    "role_type": null,
+    "organization_id": "Q52634218",
+    "organization_name": {
+      "lang:es": "Gabinete de la Heroica Ciudad Juárez",
+      "lang:en": "Cabinet of Juarez"
+    }
+  },
+  {
+    "role_id": "Q6936360",
+    "role_name": {
+      "lang:es": "Presidentes Municipales de Puebla de Zaragoza",
+      "lang:en": "Municipal president of Puebla"
+    },
+    "generic_role_id": "Q6936349",
+    "generic_role_name": {
+      "lang:es": "presidente municipal",
+      "lang:en": "municipal president"
+    },
+    "role_level": "Q15284 Q24238356",
+    "role_type": null,
+    "organization_id": "Q52634215",
+    "organization_name": {
+      "lang:es": "Gabinete de la Heroica Puebla de Zaragoza",
+      "lang:en": "Cabinet of the Heroic Puebla de Zaragoza"
+    }
+  },
+  {
+    "role_id": "Q6936362",
+    "role_name": {
+      "lang:es": "Alcaldes de Monterrey",
+      "lang:en": "Municipal president of Monterrey"
+    },
+    "generic_role_id": "Q6936349",
+    "generic_role_name": {
+      "lang:es": "presidente municipal",
+      "lang:en": "municipal president"
+    },
+    "role_level": "Q15284 Q24238356",
+    "role_type": null,
+    "organization_id": "Q52634221",
+    "organization_name": {
+      "lang:es": "Gabinete de Monterrey",
+      "lang:en": "Cabinet of Monterrey"
+    }
+  }
+]

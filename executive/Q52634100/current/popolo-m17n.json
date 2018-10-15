@@ -1,9 +1,52 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:es": "Omar Fayad",
+        "lang:en": "Omar Fayad"
+      },
+      "id": "Q7089690",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7089690"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "gobernador y gabinete de Hidalgo",
+        "lang:en": "governor and cabinet of Hidalgo"
+      },
+      "id": "Q52634100",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52634100"
+        }
+      ],
+      "area_id": "Q80903"
+    },
+    {
+      "name": {
+        "lang:es": "Partido Revolucionario Institucional",
+        "lang:en": "Institutional Revolutionary Party"
+      },
+      "id": "Q682969",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q682969"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -57,6 +100,17 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7089690-CDEBF053-949B-4819-942C-52BC294E1A00",
+      "person_id": "Q7089690",
+      "on_behalf_of_id": "Q682969",
+      "organization_id": "Q52634100",
+      "area_id": "Q80903",
+      "role_code": "Q5589662",
+      "role": {
+        "lang:es": "Gobernadores de Hidalgo",
+        "lang:en": "Governor of Hidalgo"
+      }
+    }
   ]
 }

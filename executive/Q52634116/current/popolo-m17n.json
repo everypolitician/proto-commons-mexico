@@ -2,6 +2,22 @@
   "persons": [
     {
       "name": {
+        "lang:es": "Francisco García Cabeza de Vaca",
+        "lang:en": "Francisco García Cabeza de Vaca"
+      },
+      "id": "Q16300539",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16300539"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:es": "Eugenio Hernández Flores",
         "lang:en": "Eugenio Javier Hernández Flores"
       },
@@ -62,6 +78,20 @@
           "identifier": "Q682969"
         }
       ]
+    },
+    {
+      "name": {
+        "lang:es": "Partido Acción Nacional",
+        "lang:en": "National Action Party"
+      },
+      "id": "Q851087",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q851087"
+        }
+      ]
     }
   ],
   "areas": [
@@ -117,16 +147,23 @@
   ],
   "memberships": [
     {
+      "id": "http://www.wikidata.org/entity/statement/Q16300539-C76810B6-1D7F-433C-9BDF-B7E074A80BD8",
+      "person_id": "Q16300539",
+      "on_behalf_of_id": "Q851087",
+      "organization_id": "Q52634116",
+      "area_id": "Q80007",
+      "role_code": "Q5589726",
+      "role": {
+        "lang:es": "Gobernantes de Tamaulipas",
+        "lang:en": "Governor of Tamaulipas"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q3917572-4F88A38D-FFE7-4010-87C5-423387626A09",
       "person_id": "Q3917572",
       "on_behalf_of_id": "Q682969",
       "organization_id": "Q52634116",
       "area_id": "Q80007",
-      "role_superclass_code": "Q5589726",
-      "role_superclass": {
-        "lang:es": "Gobernantes de Tamaulipas",
-        "lang:en": "Governor of Tamaulipas"
-      },
       "role_code": "Q5589726",
       "role": {
         "lang:es": "Gobernantes de Tamaulipas",
@@ -138,11 +175,6 @@
       "person_id": "Q7820531",
       "organization_id": "Q52634116",
       "area_id": "Q80007",
-      "role_superclass_code": "Q5589726",
-      "role_superclass": {
-        "lang:es": "Gobernantes de Tamaulipas",
-        "lang:en": "Governor of Tamaulipas"
-      },
       "role_code": "Q5589726",
       "role": {
         "lang:es": "Gobernantes de Tamaulipas",

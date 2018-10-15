@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "Congreso de Campeche",
+        "lang:en": "Congress of Campeche"
+      },
+      "id": "Q5160860",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5160860"
+        }
+      ],
+      "area_id": "Q80908",
+      "seat_counts": {
+        "Q53544333": "35"
+      }
+    }
   ],
   "areas": [
     {

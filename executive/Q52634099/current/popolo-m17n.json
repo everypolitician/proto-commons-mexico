@@ -15,6 +15,22 @@
       "links": [
 
       ]
+    },
+    {
+      "name": {
+        "lang:es": "Héctor Astudillo",
+        "lang:en": "Héctor Astudillo"
+      },
+      "id": "Q5906010",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5906010"
+        }
+      ],
+      "links": [
+
+      ]
     }
   ],
   "organizations": [
@@ -32,6 +48,34 @@
         }
       ],
       "area_id": "Q60158"
+    },
+    {
+      "name": {
+        "lang:es": "Partido Revolucionario Institucional",
+        "lang:en": "Institutional Revolutionary Party"
+      },
+      "id": "Q682969",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q682969"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Partido de la Revolución Democrática",
+        "lang:en": "Party of the Democratic Revolution"
+      },
+      "id": "Q767010",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q767010"
+        }
+      ]
     }
   ],
   "areas": [
@@ -89,13 +133,21 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q2136118-64653211-554B-422F-92E7-82668037F0E0",
       "person_id": "Q2136118",
+      "on_behalf_of_id": "Q767010",
       "organization_id": "Q52634099",
       "area_id": "Q60158",
-      "role_superclass_code": "Q5589659",
-      "role_superclass": {
+      "role_code": "Q5589659",
+      "role": {
         "lang:es": "Gobernantes de Guerrero",
         "lang:en": "Governor of Guerrero"
-      },
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5906010-CAD63EC0-FC33-4755-9EB7-B3961E7DA35F",
+      "person_id": "Q5906010",
+      "on_behalf_of_id": "Q682969",
+      "organization_id": "Q52634099",
+      "area_id": "Q60158",
       "role_code": "Q5589659",
       "role": {
         "lang:es": "Gobernantes de Guerrero",

@@ -15,6 +15,22 @@
       "links": [
 
       ]
+    },
+    {
+      "name": {
+        "lang:es": "José Antonio Gali Fayad",
+        "lang:en": "José Antonio Gali Fayad"
+      },
+      "id": "Q5937822",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5937822"
+        }
+      ],
+      "links": [
+
+      ]
     }
   ],
   "organizations": [
@@ -44,6 +60,20 @@
         {
           "scheme": "wikidata",
           "identifier": "Q682969"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Partido Acción Nacional",
+        "lang:en": "National Action Party"
+      },
+      "id": "Q851087",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q851087"
         }
       ]
     }
@@ -106,11 +136,18 @@
       "on_behalf_of_id": "Q682969",
       "organization_id": "Q52634108",
       "area_id": "Q79923",
-      "role_superclass_code": "Q5589701",
-      "role_superclass": {
+      "role_code": "Q5589701",
+      "role": {
         "lang:es": "Gobernantes de Puebla",
         "lang:en": "Governor of Puebla"
-      },
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5937822-E2442A4A-D747-4D63-B8B1-7077C8E2883B",
+      "person_id": "Q5937822",
+      "on_behalf_of_id": "Q851087",
+      "organization_id": "Q52634108",
+      "area_id": "Q79923",
       "role_code": "Q5589701",
       "role": {
         "lang:es": "Gobernantes de Puebla",

@@ -15,6 +15,21 @@
       "links": [
 
       ]
+    },
+    {
+      "name": {
+        "lang:es": "Federico Zermeño Padilla"
+      },
+      "id": "Q56479965",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56479965"
+        }
+      ],
+      "links": [
+
+      ]
     }
   ],
   "organizations": [
@@ -133,6 +148,22 @@
       "person_id": "Q53567012",
       "on_behalf_of_id": "Q851087",
       "organization_id": "Q53547437",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:es": "concejal",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53547728",
+      "role": {
+        "lang:es": "regidor de la Honorable Ayuntamiento de León",
+        "lang:en": "alderman of the Honorable City Council of Leon"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56479965-9C6561C8-2396-4413-A2BF-BCCE48619CAB",
+      "person_id": "Q56479965",
+      "organization_id": "Q53547437",
+      "area_id": "Q9022143",
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:es": "concejal",

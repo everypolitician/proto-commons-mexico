@@ -119,10 +119,26 @@
       "person_id": "Q53585530",
       "organization_id": "Q52634213",
       "area_id": "Q15121208",
-      "role_superclass_code": "Q52634194",
+      "role_superclass_code": "Q6936349",
       "role_superclass": {
+        "lang:es": "presidente municipal",
+        "lang:en": "municipal president"
+      },
+      "role_code": "Q52634194",
+      "role": {
         "lang:es": "Presidente municipal de Ecatepec de Morelos",
         "lang:en": "Municipal President of Ecatepec de Morelos"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q53585530-F97FA123-E284-4435-AFDB-D239E1369727",
+      "person_id": "Q53585530",
+      "organization_id": "Q52634213",
+      "area_id": "Q15121208",
+      "role_superclass_code": "Q6936349",
+      "role_superclass": {
+        "lang:es": "presidente municipal",
+        "lang:en": "municipal president"
       },
       "role_code": "Q52634194",
       "role": {

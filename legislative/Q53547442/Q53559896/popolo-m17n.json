@@ -1,9 +1,40 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:es": "Pablo Lemus"
+      },
+      "id": "Q56760439",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56760439"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "Ayuntamiento de Zapopan",
+        "lang:en": "Town Hall of Zapopan"
+      },
+      "id": "Q53547442",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53547442"
+        }
+      ],
+      "area_id": "Q2143868",
+      "seat_counts": {
+        "Q53547731": "21"
+      }
+    }
   ],
   "areas": [
     {
@@ -82,6 +113,21 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56760439-FEA7D66E-AA5E-4EB0-B7DB-B7E2F9B09780",
+      "person_id": "Q56760439",
+      "organization_id": "Q53547442",
+      "area_id": "Q2143868",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:es": "concejal",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q53547731",
+      "role": {
+        "lang:es": "regidor de la Honorable Ayuntamiento de Zapopan",
+        "lang:en": "alderman of the Honorable City Council of Zapopan"
+      }
+    }
   ]
 }

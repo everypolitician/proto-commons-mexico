@@ -34,6 +34,22 @@
     },
     {
       "name": {
+        "lang:es": "Arturo Núñez Jiménez",
+        "lang:en": "Arturo Núñez Jiménez"
+      },
+      "id": "Q5707383",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5707383"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:es": "José Víctor Jiménez",
         "lang:en": "José Víctor Jiménez Falcón"
       },
@@ -170,11 +186,6 @@
       "on_behalf_of_id": "Q682969",
       "organization_id": "Q52634114",
       "area_id": "Q80914",
-      "role_superclass_code": "Q5589723",
-      "role_superclass": {
-        "lang:es": "Gobernantes de Tabasco",
-        "lang:en": "Governor of Tabasco"
-      },
       "role_code": "Q5589723",
       "role": {
         "lang:es": "Gobernantes de Tabasco",
@@ -186,11 +197,18 @@
       "person_id": "Q21129803",
       "organization_id": "Q52634114",
       "area_id": "Q80914",
-      "role_superclass_code": "Q5589723",
-      "role_superclass": {
+      "role_code": "Q5589723",
+      "role": {
         "lang:es": "Gobernantes de Tabasco",
         "lang:en": "Governor of Tabasco"
-      },
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5707383-7991819F-8912-4F7D-BD7E-92CFC6820E81",
+      "person_id": "Q5707383",
+      "on_behalf_of_id": "Q682969",
+      "organization_id": "Q52634114",
+      "area_id": "Q80914",
       "role_code": "Q5589723",
       "role": {
         "lang:es": "Gobernantes de Tabasco",
@@ -202,11 +220,6 @@
       "person_id": "Q5946108",
       "organization_id": "Q52634114",
       "area_id": "Q80914",
-      "role_superclass_code": "Q5589723",
-      "role_superclass": {
-        "lang:es": "Gobernantes de Tabasco",
-        "lang:en": "Governor of Tabasco"
-      },
       "role_code": "Q5589723",
       "role": {
         "lang:es": "Gobernantes de Tabasco",
@@ -219,11 +232,6 @@
       "on_behalf_of_id": "Q682969",
       "organization_id": "Q52634114",
       "area_id": "Q80914",
-      "role_superclass_code": "Q5589723",
-      "role_superclass": {
-        "lang:es": "Gobernantes de Tabasco",
-        "lang:en": "Governor of Tabasco"
-      },
       "role_code": "Q5589723",
       "role": {
         "lang:es": "Gobernantes de Tabasco",
@@ -235,11 +243,6 @@
       "person_id": "Q727321",
       "organization_id": "Q52634114",
       "area_id": "Q80914",
-      "role_superclass_code": "Q5589723",
-      "role_superclass": {
-        "lang:es": "Gobernantes de Tabasco",
-        "lang:en": "Governor of Tabasco"
-      },
       "role_code": "Q5589723",
       "role": {
         "lang:es": "Gobernantes de Tabasco",

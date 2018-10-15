@@ -32,6 +32,20 @@
         }
       ],
       "area_id": "Q7258412"
+    },
+    {
+      "name": {
+        "lang:es": "Partido Acción Nacional",
+        "lang:en": "National Action Party"
+      },
+      "id": "Q851087",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q851087"
+        }
+      ]
     }
   ],
   "areas": [
@@ -112,14 +126,32 @@
   ],
   "memberships": [
     {
-      "id": "http://www.wikidata.org/entity/statement/Q22940140-B1923E3F-2BB6-4236-B59E-116E2E9F0C34",
+      "id": "http://www.wikidata.org/entity/statement/Q22940140-38C18D82-EACE-48D2-98E9-FC89E26290D1",
       "person_id": "Q22940140",
+      "on_behalf_of_id": "Q851087",
       "organization_id": "Q52634215",
       "area_id": "Q7258412",
-      "role_superclass_code": "Q6936360",
+      "role_superclass_code": "Q6936349",
       "role_superclass": {
+        "lang:es": "presidente municipal",
+        "lang:en": "municipal president"
+      },
+      "role_code": "Q6936360",
+      "role": {
         "lang:es": "Presidentes Municipales de Puebla de Zaragoza",
         "lang:en": "Municipal president of Puebla"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q22940140-B1923E3F-2BB6-4236-B59E-116E2E9F0C34",
+      "person_id": "Q22940140",
+      "on_behalf_of_id": "Q851087",
+      "organization_id": "Q52634215",
+      "area_id": "Q7258412",
+      "role_superclass_code": "Q6936349",
+      "role_superclass": {
+        "lang:es": "presidente municipal",
+        "lang:en": "municipal president"
       },
       "role_code": "Q6936360",
       "role": {

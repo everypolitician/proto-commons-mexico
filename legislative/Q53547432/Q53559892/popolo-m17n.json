@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "Ayuntamiento de Puebla",
+        "lang:en": "Town Hall of Puebla"
+      },
+      "id": "Q53547432",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53547432"
+        }
+      ],
+      "area_id": "Q7258412",
+      "seat_counts": {
+        "Q53547725": "23"
+      }
+    }
   ],
   "areas": [
     {

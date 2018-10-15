@@ -106,11 +106,6 @@
       "on_behalf_of_id": "Q851087",
       "organization_id": "Q52634101",
       "area_id": "Q13160",
-      "role_superclass_code": "Q5589666",
-      "role_superclass": {
-        "lang:es": "Gobernantes de Jalisco",
-        "lang:en": "Governor of Jalisco"
-      },
       "role_code": "Q5589666",
       "role": {
         "lang:es": "Gobernantes de Jalisco",

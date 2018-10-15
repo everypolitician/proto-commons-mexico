@@ -34,6 +34,22 @@
     },
     {
       "name": {
+        "lang:es": "Jaime Heliódoro Rodríguez Calderón",
+        "lang:en": "Jaime Rodríguez Calderón"
+      },
+      "id": "Q5480056",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5480056"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:es": "Pedro Ampudia",
         "lang:en": "Pedro de Ampudia"
       },
@@ -152,11 +168,6 @@
       "on_behalf_of_id": "Q851087",
       "organization_id": "Q52634105",
       "area_id": "Q15282",
-      "role_superclass_code": "Q5589693",
-      "role_superclass": {
-        "lang:es": "Gobernantes de Nuevo León",
-        "lang:en": "Governor of Nuevo León"
-      },
       "role_code": "Q5589693",
       "role": {
         "lang:es": "Gobernantes de Nuevo León",
@@ -169,11 +180,18 @@
       "on_behalf_of_id": "Q682969",
       "organization_id": "Q52634105",
       "area_id": "Q15282",
-      "role_superclass_code": "Q5589693",
-      "role_superclass": {
+      "role_code": "Q5589693",
+      "role": {
         "lang:es": "Gobernantes de Nuevo León",
         "lang:en": "Governor of Nuevo León"
-      },
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5480056-3C0B4B0E-5A23-417D-862B-67BC94CD7051",
+      "person_id": "Q5480056",
+      "on_behalf_of_id": "Q682969",
+      "organization_id": "Q52634105",
+      "area_id": "Q15282",
       "role_code": "Q5589693",
       "role": {
         "lang:es": "Gobernantes de Nuevo León",
@@ -185,11 +203,6 @@
       "person_id": "Q727321",
       "organization_id": "Q52634105",
       "area_id": "Q15282",
-      "role_superclass_code": "Q5589693",
-      "role_superclass": {
-        "lang:es": "Gobernantes de Nuevo León",
-        "lang:en": "Governor of Nuevo León"
-      },
       "role_code": "Q5589693",
       "role": {
         "lang:es": "Gobernantes de Nuevo León",
