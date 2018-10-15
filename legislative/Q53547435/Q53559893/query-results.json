@@ -54,10 +54,79 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q53567011"
       },
+      "name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Jeanette Velázquez Sedano"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53547435"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Town Hall of Guadalajara"
+      },
+      "org_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Ayuntamiento de Guadalajara"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12348369"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "20"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Jeanette Velázquez Sedano"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "JeanetteVelazquezS"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q56479909-1B68B768-CAA0-495C-9A48-73BB39EE662B"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "role_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "concejal"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53547726"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "alderman of the Honorable City Council of Guadalajara"
+      },
+      "role_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "regidor de la Honorable Ayuntamiento de Guadalajara"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56479909"
       },
       "name_es" : {
         "xml:lang" : "es",
@@ -87,9 +156,14 @@
         "type" : "literal",
         "value" : "20"
       },
-      "facebook" : {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12348369"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
-        "value" : "JeanetteVelazquezS"
+        "value" : "Guadalajara Municipality"
       }
     } ]
   }
