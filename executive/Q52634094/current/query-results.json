@@ -6,17 +6,17 @@
     "bindings" : [ {
       "party" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16985955"
+        "value" : "http://www.wikidata.org/entity/Q767010"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Independiente"
+        "value" : "Party of the Democratic Revolution"
       },
       "party_name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Independiente"
+        "value" : "Partido de la Revolución Democrática"
       },
       "item" : {
         "type" : "uri",
@@ -29,7 +29,7 @@
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Mexico City"
+        "value" : "Esu"
       },
       "district_name_es" : {
         "xml:lang" : "es",
@@ -99,17 +99,17 @@
     }, {
       "party" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16985955"
+        "value" : "http://www.wikidata.org/entity/Q767010"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Independiente"
+        "value" : "Party of the Democratic Revolution"
       },
       "party_name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Independiente"
+        "value" : "Partido de la Revolución Democrática"
       },
       "item" : {
         "type" : "uri",
@@ -122,7 +122,7 @@
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Mexico City"
+        "value" : "Esu"
       },
       "district_name_es" : {
         "xml:lang" : "es",

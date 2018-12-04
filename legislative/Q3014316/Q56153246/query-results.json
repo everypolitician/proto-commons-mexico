@@ -4,83 +4,79 @@
   },
   "results" : {
     "bindings" : [ {
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2143868"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Zapopan Municipality"
-      },
-      "district_name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Municipio de Zapopan"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q56760439-FEA7D66E-AA5E-4EB0-B7DB-B7E2F9B09780"
-      },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
+        "value" : "http://www.wikidata.org/entity/Q1055894"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "councillor"
+        "value" : "deputy"
       },
       "role_superclass_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "concejal"
+        "value" : "diputado"
       },
       "role" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q53547731"
+        "value" : "http://www.wikidata.org/entity/Q18534310"
       },
       "role_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "alderman of the Honorable City Council of Zapopan"
+        "value" : "Member of the Chamber of Deputies of Mexico"
       },
       "role_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "regidor de la Honorable Ayuntamiento de Zapopan"
+        "value" : "diputado de México"
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56760439"
+        "value" : "http://www.wikidata.org/entity/Q16146929"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ivonne Liliana Álvarez"
       },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Pablo Lemus"
+        "value" : "Ivonne Liliana Álvarez"
       },
       "org" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q53547442"
+        "value" : "http://www.wikidata.org/entity/Q3014316"
       },
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Town Hall of Zapopan"
+        "value" : "Chamber of Deputies"
       },
       "org_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Ayuntamiento de Zapopan"
+        "value" : "Cámara de Diputados de México"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q16146929-3555DB58-51CA-4D18-88E4-87BEEC883FD5"
       },
       "org_jurisdiction" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2143868"
+        "value" : "http://www.wikidata.org/entity/Q96"
       },
       "org_seat_count" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
-        "value" : "21"
+        "value" : "500"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-08-01T00:00:00Z"
       }
     } ]
   }
