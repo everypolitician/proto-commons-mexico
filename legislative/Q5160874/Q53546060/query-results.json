@@ -1,110 +1,137 @@
 {
-  "head" : {
-    "vars" : [ "statement", "item", "name_es", "name_en", "party", "party_name_es", "party_name_en", "district", "district_name_es", "district_name_en", "role", "role_es", "role_en", "role_superclass", "role_superclass_es", "role_superclass_en", "start", "end", "facebook", "org", "org_es", "org_en", "org_jurisdiction", "org_seat_count" ]
+  "head": {
+    "vars": [
+      "statement",
+      "item",
+      "name_es",
+      "name_en",
+      "party",
+      "party_name_es",
+      "party_name_en",
+      "district",
+      "district_name_es",
+      "district_name_en",
+      "role",
+      "role_es",
+      "role_en",
+      "role_superclass",
+      "role_superclass_es",
+      "role_superclass_en",
+      "start",
+      "end",
+      "facebook",
+      "org",
+      "org_es",
+      "org_en",
+      "org_jurisdiction",
+      "org_seat_count"
+    ]
   },
-  "results" : {
-    "bindings" : [ {
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q682969"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Institutional Revolutionary Party"
-      },
-      "party_name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Partido Revolucionario Institucional"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q53563160-B376860D-6143-4734-ACCE-E72C6E5E1132"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q53002175"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "XX Local Electoral District of Jalisco"
-      },
-      "district_name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "XX Distrito Electoral Local de Jalisco"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1055894"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "deputy"
-      },
-      "role_superclass_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "diputado"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q53544371"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "deputy of the Congress of the State of Jalisco"
-      },
-      "role_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "diputado de la Congreso del Estado de Jalisco"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q53563160"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edgar Oswaldo Bañales Orozco"
-      },
-      "name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Edgar Oswaldo Bañales Orozco"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5160874"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Congress of Jalisco"
-      },
-      "org_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Congreso de Jalisco"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q13160"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "39"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "EdgarOswaldoBanalesOrozco"
+  "results": {
+    "bindings": [
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q53563160-B376860D-6143-4734-ACCE-E72C6E5E1132"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q53563160"
+        },
+        "name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Edgar Oswaldo Bañales Orozco"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edgar Oswaldo Bañales Orozco"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q682969"
+        },
+        "party_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Partido Revolucionario Institucional"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Institutional Revolutionary Party"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q53002175"
+        },
+        "district_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "XX Distrito Electoral Local de Jalisco"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "XX Local Electoral District of Jalisco"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q53544371"
+        },
+        "role_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "diputado de la Congreso del Estado de Jalisco"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "deputy of the Congress of the State of Jalisco"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1055894"
+        },
+        "role_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "diputado"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "deputy"
+        },
+        "facebook": {
+          "type": "literal",
+          "value": "EdgarOswaldoBanalesOrozco"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5160874"
+        },
+        "org_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Congreso de Jalisco"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Congress of Jalisco"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q13160"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "39"
+        }
       }
-    } ]
+    ]
   }
 }

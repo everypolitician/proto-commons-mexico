@@ -1,338 +1,368 @@
 {
-  "head" : {
-    "vars" : [ "statement", "item", "name_es", "name_en", "party", "party_name_es", "party_name_en", "district", "district_name_es", "district_name_en", "role", "role_es", "role_en", "role_superclass", "role_superclass_es", "role_superclass_en", "start", "end", "facebook", "org", "org_es", "org_en", "org_jurisdiction", "org_seat_count" ]
+  "head": {
+    "vars": [
+      "statement",
+      "item",
+      "name_es",
+      "name_en",
+      "party",
+      "party_name_es",
+      "party_name_en",
+      "district",
+      "district_name_es",
+      "district_name_en",
+      "role",
+      "role_es",
+      "role_en",
+      "role_superclass",
+      "role_superclass_es",
+      "role_superclass_en",
+      "start",
+      "end",
+      "facebook",
+      "org",
+      "org_es",
+      "org_en",
+      "org_jurisdiction",
+      "org_seat_count"
+    ]
   },
-  "results" : {
-    "bindings" : [ {
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q851087"
+  "results": {
+    "bindings": [
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q53567009-E49BD21F-6D5E-4999-AD52-0FF71E68DAD2"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q53567009"
+        },
+        "name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Arnulfo Guerrero León"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Arnulfo Guerrero León"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q851087"
+        },
+        "party_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Partido Acción Nacional"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "National Action Party"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q53547723"
+        },
+        "role_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "regidor de la Ayuntamiento de Tijuana Baja California"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "alderman of the city council of Tijuana Baja California"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "role_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "concejal"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "facebook": {
+          "type": "literal",
+          "value": "FufoGuerreroOficial"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q53547431"
+        },
+        "org_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Ayuntamiento de Tijuana"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Town Hall of Tijuana"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2360428"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "16"
+        }
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "National Action Party"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q53567014-53FD341C-C186-4C56-BABA-24F5E5B87C0F"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q53567014"
+        },
+        "name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Ivette Casillas Rivera"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Ivette Casillas Rivera"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q767010"
+        },
+        "party_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Partido de la Revolución Democrática"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Party of the Democratic Revolution"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q53547723"
+        },
+        "role_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "regidor de la Ayuntamiento de Tijuana Baja California"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "alderman of the city council of Tijuana Baja California"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "role_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "concejal"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q53547431"
+        },
+        "org_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Ayuntamiento de Tijuana"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Town Hall of Tijuana"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2360428"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "16"
+        }
       },
-      "party_name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Partido Acción Nacional"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q56479943-22C88E92-3C5B-4AB7-A0D9-1EF77DB282B1"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56479943"
+        },
+        "name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Ivette Casillas Rivera"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2360428"
+        },
+        "district_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Tijuana"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Tijuana Municipality"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q53547723"
+        },
+        "role_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "regidor de la Ayuntamiento de Tijuana Baja California"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "alderman of the city council of Tijuana Baja California"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "role_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "concejal"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q53547431"
+        },
+        "org_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Ayuntamiento de Tijuana"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Town Hall of Tijuana"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2360428"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "16"
+        }
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q53567009-E49BD21F-6D5E-4999-AD52-0FF71E68DAD2"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor"
-      },
-      "role_superclass_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "concejal"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q53547723"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "alderman of the city council of Tijuana Baja California"
-      },
-      "role_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "regidor de la Ayuntamiento de Tijuana Baja California"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q53567009"
-      },
-      "name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Arnulfo Guerrero León"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q53547431"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Town Hall of Tijuana"
-      },
-      "org_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Ayuntamiento de Tijuana"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2360428"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "16"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Arnulfo Guerrero León"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "FufoGuerreroOficial"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q56479947-98E4663E-600E-4BF7-907B-81B506F1F980"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56479947"
+        },
+        "name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Arnulfo Guerrero León"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2360428"
+        },
+        "district_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Tijuana"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Tijuana Municipality"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q53547723"
+        },
+        "role_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "regidor de la Ayuntamiento de Tijuana Baja California"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "alderman of the city council of Tijuana Baja California"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "role_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "concejal"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q53547431"
+        },
+        "org_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Ayuntamiento de Tijuana"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Town Hall of Tijuana"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2360428"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "16"
+        }
       }
-    }, {
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q767010"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Party of the Democratic Revolution"
-      },
-      "party_name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Partido de la Revolución Democrática"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q53567014-53FD341C-C186-4C56-BABA-24F5E5B87C0F"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor"
-      },
-      "role_superclass_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "concejal"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q53547723"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "alderman of the city council of Tijuana Baja California"
-      },
-      "role_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "regidor de la Ayuntamiento de Tijuana Baja California"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q53567014"
-      },
-      "name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Ivette Casillas Rivera"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q53547431"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Town Hall of Tijuana"
-      },
-      "org_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Ayuntamiento de Tijuana"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2360428"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "16"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Ivette Casillas Rivera"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q56479943-22C88E92-3C5B-4AB7-A0D9-1EF77DB282B1"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor"
-      },
-      "role_superclass_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "concejal"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q53547723"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "alderman of the city council of Tijuana Baja California"
-      },
-      "role_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "regidor de la Ayuntamiento de Tijuana Baja California"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56479943"
-      },
-      "name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Ivette Casillas Rivera"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q53547431"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Town Hall of Tijuana"
-      },
-      "org_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Ayuntamiento de Tijuana"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2360428"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "16"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2360428"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Tijuana Municipality"
-      },
-      "district_name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Tijuana"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q56479947-98E4663E-600E-4BF7-907B-81B506F1F980"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor"
-      },
-      "role_superclass_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "concejal"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q53547723"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "alderman of the city council of Tijuana Baja California"
-      },
-      "role_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "regidor de la Ayuntamiento de Tijuana Baja California"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56479947"
-      },
-      "name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Arnulfo Guerrero León"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q53547431"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Town Hall of Tijuana"
-      },
-      "org_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Ayuntamiento de Tijuana"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2360428"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "16"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2360428"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Tijuana Municipality"
-      },
-      "district_name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Tijuana"
-      }
-    } ]
+    ]
   }
 }

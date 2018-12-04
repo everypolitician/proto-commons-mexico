@@ -1,194 +1,221 @@
 {
-  "head" : {
-    "vars" : [ "statement", "item", "name_es", "name_en", "party", "party_name_es", "party_name_en", "district", "district_name_es", "district_name_en", "role", "role_es", "role_en", "start", "end", "facebook", "role_superclass", "role_superclass_es", "role_superclass_en", "org", "org_es", "org_en", "org_jurisdiction" ]
+  "head": {
+    "vars": [
+      "statement",
+      "item",
+      "name_es",
+      "name_en",
+      "party",
+      "party_name_es",
+      "party_name_en",
+      "district",
+      "district_name_es",
+      "district_name_en",
+      "role",
+      "role_es",
+      "role_en",
+      "start",
+      "end",
+      "facebook",
+      "role_superclass",
+      "role_superclass_es",
+      "role_superclass_en",
+      "org",
+      "org_es",
+      "org_en",
+      "org_jurisdiction"
+    ]
   },
-  "results" : {
-    "bindings" : [ {
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q682969"
+  "results": {
+    "bindings": [
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q2265973-E3406FDC-868E-41FF-981E-8BB054727233"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2265973"
+        },
+        "name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Jorge Carlos Hurtado Valdez"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Jorge Carlos Hurtado Valdez"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q682969"
+        },
+        "party_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Partido Revolucionario Institucional"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Institutional Revolutionary Party"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q80908"
+        },
+        "district_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Campeche"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Campeche"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5589643"
+        },
+        "role_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Gobernantes de Campeche"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Governor of Campeche"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17810142"
+        },
+        "role_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "gobernador (México)"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Governor (Mexico)"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q52634089"
+        },
+        "org_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "gobernador y gabinete de Campeche"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "governor and cabinet of Campeche"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q80908"
+        }
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Institutional Revolutionary Party"
-      },
-      "party_name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Partido Revolucionario Institucional"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2265973"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q80908"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Campeche"
-      },
-      "district_name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Campeche"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5589643"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5589643"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Governor of Campeche"
-      },
-      "role_superclass_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Gobernantes de Campeche"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Governor of Campeche"
-      },
-      "role_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Gobernantes de Campeche"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Jorge Carlos Hurtado Valdez"
-      },
-      "name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Jorge Carlos Hurtado Valdez"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q52634089"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "governor and cabinet of Campeche"
-      },
-      "org_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "gobernador y gabinete de Campeche"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q2265973-E3406FDC-868E-41FF-981E-8BB054727233"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q80908"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q5665275-FF9A4BA7-C4FD-4960-85F0-4CE42814C54E"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5665275"
+        },
+        "name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Alejandro Moreno Cárdenas"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Alejandro Moreno Cárdenas"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q682969"
+        },
+        "party_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Partido Revolucionario Institucional"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Institutional Revolutionary Party"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q80908"
+        },
+        "district_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Campeche"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Campeche"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5589643"
+        },
+        "role_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Gobernantes de Campeche"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Governor of Campeche"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17810142"
+        },
+        "role_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "gobernador (México)"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Governor (Mexico)"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q52634089"
+        },
+        "org_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "gobernador y gabinete de Campeche"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "governor and cabinet of Campeche"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q80908"
+        }
       }
-    }, {
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q682969"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Institutional Revolutionary Party"
-      },
-      "party_name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Partido Revolucionario Institucional"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5665275"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q80908"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Campeche"
-      },
-      "district_name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Campeche"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5589643"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5589643"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Governor of Campeche"
-      },
-      "role_superclass_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Gobernantes de Campeche"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Governor of Campeche"
-      },
-      "role_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Gobernantes de Campeche"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Alejandro Moreno Cárdenas"
-      },
-      "name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Alejandro Moreno Cárdenas"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q52634089"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "governor and cabinet of Campeche"
-      },
-      "org_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "gobernador y gabinete de Campeche"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q5665275-FF9A4BA7-C4FD-4960-85F0-4CE42814C54E"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q80908"
-      }
-    } ]
+    ]
   }
 }

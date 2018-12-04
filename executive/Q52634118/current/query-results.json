@@ -1,566 +1,597 @@
 {
-  "head" : {
-    "vars" : [ "statement", "item", "name_es", "name_en", "party", "party_name_es", "party_name_en", "district", "district_name_es", "district_name_en", "role", "role_es", "role_en", "start", "end", "facebook", "role_superclass", "role_superclass_es", "role_superclass_en", "org", "org_es", "org_en", "org_jurisdiction" ]
+  "head": {
+    "vars": [
+      "statement",
+      "item",
+      "name_es",
+      "name_en",
+      "party",
+      "party_name_es",
+      "party_name_en",
+      "district",
+      "district_name_es",
+      "district_name_en",
+      "role",
+      "role_es",
+      "role_en",
+      "start",
+      "end",
+      "facebook",
+      "role_superclass",
+      "role_superclass_es",
+      "role_superclass_en",
+      "org",
+      "org_es",
+      "org_en",
+      "org_jurisdiction"
+    ]
   },
-  "results" : {
-    "bindings" : [ {
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q682969"
+  "results": {
+    "bindings": [
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q117384-79386F7F-449F-49DD-BE63-D655573504A2"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q117384"
+        },
+        "name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Fernando Gutiérrez Barrios"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Fernando Gutiérrez Barrios"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q682969"
+        },
+        "party_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Partido Revolucionario Institucional"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Institutional Revolutionary Party"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q60130"
+        },
+        "district_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Veracruz"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Veracruz"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5589731"
+        },
+        "role_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Gobernadores de Veracruz"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Governor of Veracruz"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17810142"
+        },
+        "role_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "gobernador (México)"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Governor (Mexico)"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q52634118"
+        },
+        "org_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "gobernador y gabinete de Veracruz"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "governor and cabinet of Veracruz"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q60130"
+        }
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Institutional Revolutionary Party"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q1208732-4FC91395-4FF0-4231-87CC-EE7B7B529187"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1208732"
+        },
+        "name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Miguel Barragán"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Miguel Barragán"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3366487"
+        },
+        "party_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Partido Liberal"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Liberal Party"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q60130"
+        },
+        "district_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Veracruz"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Veracruz"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5589731"
+        },
+        "role_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Gobernadores de Veracruz"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Governor of Veracruz"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17810142"
+        },
+        "role_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "gobernador (México)"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Governor (Mexico)"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q52634118"
+        },
+        "org_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "gobernador y gabinete de Veracruz"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "governor and cabinet of Veracruz"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q60130"
+        }
       },
-      "party_name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Partido Revolucionario Institucional"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q1964682-A78E403F-69BB-4F7B-9F67-AA130C7D9CD9"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1964682"
+        },
+        "name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Heriberto Jara"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Heriberto Jara Corona"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q682969"
+        },
+        "party_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Partido Revolucionario Institucional"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Institutional Revolutionary Party"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q60130"
+        },
+        "district_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Veracruz"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Veracruz"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5589731"
+        },
+        "role_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Gobernadores de Veracruz"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Governor of Veracruz"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17810142"
+        },
+        "role_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "gobernador (México)"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Governor (Mexico)"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q52634118"
+        },
+        "org_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "gobernador y gabinete de Veracruz"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "governor and cabinet of Veracruz"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q60130"
+        }
       },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q117384"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q2231856-66B7A585-B81D-45AD-AE03-11DE98C92A83"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2231856"
+        },
+        "name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Fidel Herrera Beltrán"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Fidel Herrera Beltrán"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q682969"
+        },
+        "party_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Partido Revolucionario Institucional"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Institutional Revolutionary Party"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q60130"
+        },
+        "district_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Veracruz"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Veracruz"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5589731"
+        },
+        "role_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Gobernadores de Veracruz"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Governor of Veracruz"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17810142"
+        },
+        "role_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "gobernador (México)"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Governor (Mexico)"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q52634118"
+        },
+        "org_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "gobernador y gabinete de Veracruz"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "governor and cabinet of Veracruz"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q60130"
+        }
       },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q60130"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q4473550-ABC8D338-4445-48FC-A9CB-0826CABAF9A5"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4473550"
+        },
+        "name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Miguel Alemán Velasco"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Miguel Alemán Velasco"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q682969"
+        },
+        "party_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Partido Revolucionario Institucional"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Institutional Revolutionary Party"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q60130"
+        },
+        "district_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Veracruz"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Veracruz"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5589731"
+        },
+        "role_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Gobernadores de Veracruz"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Governor of Veracruz"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17810142"
+        },
+        "role_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "gobernador (México)"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Governor (Mexico)"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q52634118"
+        },
+        "org_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "gobernador y gabinete de Veracruz"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "governor and cabinet of Veracruz"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q60130"
+        }
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Veracruz"
-      },
-      "district_name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Veracruz"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5589731"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5589731"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Governor of Veracruz"
-      },
-      "role_superclass_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Gobernadores de Veracruz"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Governor of Veracruz"
-      },
-      "role_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Gobernadores de Veracruz"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Fernando Gutiérrez Barrios"
-      },
-      "name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Fernando Gutiérrez Barrios"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q52634118"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "governor and cabinet of Veracruz"
-      },
-      "org_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "gobernador y gabinete de Veracruz"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q117384-79386F7F-449F-49DD-BE63-D655573504A2"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q60130"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q6015898-9A403C7E-FDAC-45B8-A76B-711C2DF62748"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6015898"
+        },
+        "name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Miguel Ángel Yunes Linares"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Miguel Ángel Yunes Linares"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q682969"
+        },
+        "party_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Partido Revolucionario Institucional"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Institutional Revolutionary Party"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q60130"
+        },
+        "district_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Veracruz"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Veracruz"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5589731"
+        },
+        "role_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Gobernadores de Veracruz"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Governor of Veracruz"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17810142"
+        },
+        "role_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "gobernador (México)"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Governor (Mexico)"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q52634118"
+        },
+        "org_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "gobernador y gabinete de Veracruz"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "governor and cabinet of Veracruz"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q60130"
+        }
       }
-    }, {
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3366487"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Liberal Party"
-      },
-      "party_name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Partido Liberal"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1208732"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q60130"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Veracruz"
-      },
-      "district_name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Veracruz"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5589731"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5589731"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Governor of Veracruz"
-      },
-      "role_superclass_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Gobernadores de Veracruz"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Governor of Veracruz"
-      },
-      "role_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Gobernadores de Veracruz"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Miguel Barragán"
-      },
-      "name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Miguel Barragán"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q52634118"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "governor and cabinet of Veracruz"
-      },
-      "org_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "gobernador y gabinete de Veracruz"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q1208732-4FC91395-4FF0-4231-87CC-EE7B7B529187"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q60130"
-      }
-    }, {
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q682969"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Institutional Revolutionary Party"
-      },
-      "party_name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Partido Revolucionario Institucional"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1964682"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q60130"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Veracruz"
-      },
-      "district_name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Veracruz"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5589731"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5589731"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Governor of Veracruz"
-      },
-      "role_superclass_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Gobernadores de Veracruz"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Governor of Veracruz"
-      },
-      "role_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Gobernadores de Veracruz"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Heriberto Jara Corona"
-      },
-      "name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Heriberto Jara"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q52634118"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "governor and cabinet of Veracruz"
-      },
-      "org_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "gobernador y gabinete de Veracruz"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q1964682-A78E403F-69BB-4F7B-9F67-AA130C7D9CD9"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q60130"
-      }
-    }, {
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q682969"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Institutional Revolutionary Party"
-      },
-      "party_name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Partido Revolucionario Institucional"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2231856"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q60130"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Veracruz"
-      },
-      "district_name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Veracruz"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5589731"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5589731"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Governor of Veracruz"
-      },
-      "role_superclass_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Gobernadores de Veracruz"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Governor of Veracruz"
-      },
-      "role_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Gobernadores de Veracruz"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Fidel Herrera Beltrán"
-      },
-      "name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Fidel Herrera Beltrán"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q52634118"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "governor and cabinet of Veracruz"
-      },
-      "org_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "gobernador y gabinete de Veracruz"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q2231856-66B7A585-B81D-45AD-AE03-11DE98C92A83"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q60130"
-      }
-    }, {
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q682969"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Institutional Revolutionary Party"
-      },
-      "party_name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Partido Revolucionario Institucional"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4473550"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q60130"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Veracruz"
-      },
-      "district_name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Veracruz"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5589731"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5589731"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Governor of Veracruz"
-      },
-      "role_superclass_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Gobernadores de Veracruz"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Governor of Veracruz"
-      },
-      "role_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Gobernadores de Veracruz"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Miguel Alemán Velasco"
-      },
-      "name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Miguel Alemán Velasco"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q52634118"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "governor and cabinet of Veracruz"
-      },
-      "org_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "gobernador y gabinete de Veracruz"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q4473550-ABC8D338-4445-48FC-A9CB-0826CABAF9A5"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q60130"
-      }
-    }, {
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q682969"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Institutional Revolutionary Party"
-      },
-      "party_name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Partido Revolucionario Institucional"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6015898"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q60130"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Veracruz"
-      },
-      "district_name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Veracruz"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5589731"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5589731"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Governor of Veracruz"
-      },
-      "role_superclass_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Gobernadores de Veracruz"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Governor of Veracruz"
-      },
-      "role_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Gobernadores de Veracruz"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Miguel Ángel Yunes Linares"
-      },
-      "name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Miguel Ángel Yunes Linares"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q52634118"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "governor and cabinet of Veracruz"
-      },
-      "org_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "gobernador y gabinete de Veracruz"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6015898-9A403C7E-FDAC-45B8-A76B-711C2DF62748"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q60130"
-      }
-    } ]
+    ]
   }
 }

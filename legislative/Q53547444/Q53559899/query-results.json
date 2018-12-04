@@ -1,156 +1,184 @@
 {
-  "head" : {
-    "vars" : [ "statement", "item", "name_es", "name_en", "party", "party_name_es", "party_name_en", "district", "district_name_es", "district_name_en", "role", "role_es", "role_en", "role_superclass", "role_superclass_es", "role_superclass_en", "start", "end", "facebook", "org", "org_es", "org_en", "org_jurisdiction", "org_seat_count" ]
+  "head": {
+    "vars": [
+      "statement",
+      "item",
+      "name_es",
+      "name_en",
+      "party",
+      "party_name_es",
+      "party_name_en",
+      "district",
+      "district_name_es",
+      "district_name_en",
+      "role",
+      "role_es",
+      "role_en",
+      "role_superclass",
+      "role_superclass_es",
+      "role_superclass_en",
+      "start",
+      "end",
+      "facebook",
+      "org",
+      "org_es",
+      "org_en",
+      "org_jurisdiction",
+      "org_seat_count"
+    ]
   },
-  "results" : {
-    "bindings" : [ {
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6905368"
+  "results": {
+    "bindings": [
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q56479936-653FAEDF-D9A8-4510-A9C4-7037A619E4C0"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56479936"
+        },
+        "name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Alvaro Flores Palomo"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6905368"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Monterrey Municipality"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q53547735"
+        },
+        "role_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "regidor de la Honorable Ayuntamiento de Monterrey"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "alderman of the Honorable City Council of Monterrey"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "role_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "concejal"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q53547444"
+        },
+        "org_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Ayuntamiento de Monterrey"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Town Hall of Monterrey"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6905368"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "29"
+        }
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Monterrey Municipality"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q56479936-653FAEDF-D9A8-4510-A9C4-7037A619E4C0"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor"
-      },
-      "role_superclass_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "concejal"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q53547735"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "alderman of the Honorable City Council of Monterrey"
-      },
-      "role_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "regidor de la Honorable Ayuntamiento de Monterrey"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56479936"
-      },
-      "name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Alvaro Flores Palomo"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q53547444"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Town Hall of Monterrey"
-      },
-      "org_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Ayuntamiento de Monterrey"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6905368"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "29"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q56479936-F8D17A34-8E5A-4F69-829A-20DC17179A1C"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56479936"
+        },
+        "name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Alvaro Flores Palomo"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6905368"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Monterrey Municipality"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q53547735"
+        },
+        "role_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "regidor de la Honorable Ayuntamiento de Monterrey"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "alderman of the Honorable City Council of Monterrey"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "role_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "concejal"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q53547444"
+        },
+        "org_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Ayuntamiento de Monterrey"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Town Hall of Monterrey"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6905368"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "29"
+        }
       }
-    }, {
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6905368"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Monterrey Municipality"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q56479936-F8D17A34-8E5A-4F69-829A-20DC17179A1C"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor"
-      },
-      "role_superclass_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "concejal"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q53547735"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "alderman of the Honorable City Council of Monterrey"
-      },
-      "role_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "regidor de la Honorable Ayuntamiento de Monterrey"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56479936"
-      },
-      "name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Alvaro Flores Palomo"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q53547444"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Town Hall of Monterrey"
-      },
-      "org_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Ayuntamiento de Monterrey"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6905368"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "29"
-      }
-    } ]
+    ]
   }
 }
