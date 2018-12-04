@@ -2,6 +2,38 @@
   "persons": [
     {
       "name": {
+        "lang:es": "José Ignacio Peralta",
+        "lang:en": "José Ignacio Peralta"
+      },
+      "id": "Q20063031",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20063031"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Ramón Pérez Díaz",
+        "lang:en": "Ramón Pérez Díaz"
+      },
+      "id": "Q21285853",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21285853"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:es": "Mario Anguiano Moreno",
         "lang:en": "Mario Anguiano Moreno"
       },
@@ -50,6 +82,22 @@
     },
     {
       "name": {
+        "lang:es": "Miguel Álvarez García",
+        "lang:en": "Miguel Álvarez García"
+      },
+      "id": "Q2892376",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2892376"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:es": "Carlos de la Madrid Virgen",
         "lang:en": "Carlos de la Madrid Virgen"
       },
@@ -66,6 +114,38 @@
     },
     {
       "name": {
+        "lang:es": "Manuel Álvarez Zamora",
+        "lang:en": "Manuel Álvarez Zamora"
+      },
+      "id": "Q328454",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q328454"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Pedro A. Galván",
+        "lang:en": "Pedro Galván"
+      },
+      "id": "Q3374051",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3374051"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:es": "Griselda Álvarez",
         "lang:en": "Griselda Álvarez"
       },
@@ -74,6 +154,22 @@
         {
           "scheme": "wikidata",
           "identifier": "Q446133"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Esteban Baca Calderón",
+        "lang:en": "Esteban Baca Calderón"
+      },
+      "id": "Q4569224",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4569224"
         }
       ],
       "links": [
@@ -114,6 +210,359 @@
     },
     {
       "name": {
+        "lang:es": "Alberto Betancourt",
+        "lang:en": "Alberto Betancourt"
+      },
+      "id": "Q5662821",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5662821"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Leonardo B. Gutiérrez",
+        "lang:en": "Leonardo B. Gutiérrez"
+      },
+      "id": "Q5686179",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5686179"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Antonio Delgadillo",
+        "lang:en": "Antonio Delgadillo"
+      },
+      "id": "Q5698146",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5698146"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Arturo Noriega Pizano",
+        "lang:en": "Arturo Noriega Pizano"
+      },
+      "id": "Q5707380",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5707380"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Carlos Meillón",
+        "lang:en": "Carlos Meillón"
+      },
+      "id": "Q5750967",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5750967"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Daniel Castillo"
+      },
+      "id": "Q5798200",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5798200"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Doroteo López",
+        "lang:en": "Doroteo López"
+      },
+      "id": "Q5813600",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5813600"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Elías Zamora Verduzco"
+      },
+      "id": "Q5830258",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5830258"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Enrique O. de la Madrid",
+        "lang:en": "Enrique O. de la Madrid"
+      },
+      "id": "Q5833648",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5833648"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Esteban García",
+        "lang:en": "Esteban García"
+      },
+      "id": "Q5849069",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5849069"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Felipe N. Chacón",
+        "lang:en": "Felipe N. Chacón"
+      },
+      "id": "Q5858328",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5858328"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Felipe Valle",
+        "lang:en": "Felipe Valle"
+      },
+      "id": "Q5858471",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5858471"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Fernando Moreno Peña",
+        "lang:en": "Fernando Moreno Peña"
+      },
+      "id": "Q5859953",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5859953"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/fmpcolima"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Filomeno Bravo",
+        "lang:en": "Filomeno Bravo"
+      },
+      "id": "Q5862010",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5862010"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Francisco Javier Cueva",
+        "lang:en": "Francisco Javier Cueva"
+      },
+      "id": "Q5866133",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5866133"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Francisco Ramírez Villarreal",
+        "lang:en": "Francisco Ramírez Villarreal"
+      },
+      "id": "Q5867226",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5867226"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Francisco Santa Cruz",
+        "lang:en": "Francisco Santa Cruz"
+      },
+      "id": "Q5867414",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5867414"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Francisco Solórzano Béjar",
+        "lang:en": "Francisco Solórzano Béjar"
+      },
+      "id": "Q5867525",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5867525"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Gerardo Hurtado Sánchez",
+        "lang:en": "Gerardo Hurtado Sánchez"
+      },
+      "id": "Q5878300",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5878300"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Gildardo Gómez Campero",
+        "lang:en": "Gildardo Gómez Campero"
+      },
+      "id": "Q5879710",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5879710"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Isidoro Barreto",
+        "lang:en": "Isidoro Barreto"
+      },
+      "id": "Q5921177",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5921177"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Jerónimo Calatayud",
+        "lang:en": "Jerónimo Calatayud"
+      },
+      "id": "Q5929470",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5929470"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:es": "Jesús González Lugo",
         "lang:en": "Jesús González Lugo"
       },
@@ -122,6 +571,421 @@
         {
           "scheme": "wikidata",
           "identifier": "Q5930171"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "José Campero",
+        "lang:en": "José Campero"
+      },
+      "id": "Q5938709",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5938709"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "José María Salazar Ureña",
+        "lang:en": "José María Salazar Ureña"
+      },
+      "id": "Q5943508",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5943508"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "José Silverio Núñez",
+        "lang:en": "José Silverio Núñez"
+      },
+      "id": "Q5945595",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5945595"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "José Trinidad Alamillo",
+        "lang:en": "José Trinidad Alamillo"
+      },
+      "id": "Q5945877",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5945877"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Juan G. Cabral",
+        "lang:en": "Juan G. Cabral"
+      },
+      "id": "Q5949654",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5949654"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Juan Jacobo Valadés",
+        "lang:en": "Juan Jacobo Valadés"
+      },
+      "id": "Q5950098",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5950098"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Juan José Ríos",
+        "lang:en": "Juan José Ríos"
+      },
+      "id": "Q5950489",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5950489"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Julio García (militar)",
+        "lang:en": "Julio García"
+      },
+      "id": "Q5955304",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5955304"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Laureano Cervantes",
+        "lang:en": "Laureano Cervantes"
+      },
+      "id": "Q5971751",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5971751"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Leonel Ramírez García"
+      },
+      "id": "Q5973304",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5973304"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Manuel Gudiño",
+        "lang:en": "Manuel Gudiño"
+      },
+      "id": "Q5993189",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5993189"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Miguel Contreras Medellín",
+        "lang:en": "Miguel Contreras Medellín"
+      },
+      "id": "Q6014158",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6014158"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Miguel G. Santa Ana",
+        "lang:en": "Miguel G. Santa Ana"
+      },
+      "id": "Q6014311",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6014311"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Miguel García Topete",
+        "lang:en": "Miguel García Topete"
+      },
+      "id": "Q6014362",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6014362"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Miguel de la Madrid Guerrero",
+        "lang:en": "Miguel de la Madrid Guerrero"
+      },
+      "id": "Q6015451",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6015451"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Pablo Silva García",
+        "lang:en": "Pablo Silva García"
+      },
+      "id": "Q6056468",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6056468"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Pedro Torres Ortiz",
+        "lang:en": "Pedro Torres Ortiz"
+      },
+      "id": "Q6070266",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6070266"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Ramón R. de la Vega",
+        "lang:en": "Ramón R. de la Vega"
+      },
+      "id": "Q6099971",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6099971"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Ricardo Palacio",
+        "lang:en": "Ricardo Palacio"
+      },
+      "id": "Q6108394",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6108394"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Roberto F. Barney",
+        "lang:en": "Roberto F. Barney"
+      },
+      "id": "Q6109728",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6109728"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Rodolfo Chávez Carrillo",
+        "lang:en": "Rodolfo Chávez Carrillo"
+      },
+      "id": "Q6110478",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6110478"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Salvador Saucedo",
+        "lang:en": "Salvador Saucedo"
+      },
+      "id": "Q6117781",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6117781"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Simón García",
+        "lang:en": "Simón García"
+      },
+      "id": "Q6128890",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6128890"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Urbano Gómez",
+        "lang:en": "Urbano Gómez"
+      },
+      "id": "Q6157358",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6157358"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Winstano Luis Orozco",
+        "lang:en": "Winstano Luis Orozco"
+      },
+      "id": "Q6167987",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6167987"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Francisco Velasco Curiel",
+        "lang:en": "Francisco Velasco Curiel"
+      },
+      "id": "Q6436833",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6436833"
         }
       ],
       "links": [
@@ -213,6 +1077,40 @@
   ],
   "memberships": [
     {
+      "id": "http://www.wikidata.org/entity/statement/Q20063031-aba7d1a4-d1c3-4a5d-9b6f-7e4382078b57",
+      "person_id": "Q20063031",
+      "on_behalf_of_id": "Q682969",
+      "organization_id": "Q52634091",
+      "area_id": "Q61309",
+      "role_superclass_code": "Q5589648",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      },
+      "role_code": "Q5589648",
+      "role": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21285853-928a23df-3da1-47c6-9931-7eaafd4ab123",
+      "person_id": "Q21285853",
+      "on_behalf_of_id": "Q682969",
+      "organization_id": "Q52634091",
+      "area_id": "Q61309",
+      "role_superclass_code": "Q5589648",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      },
+      "role_code": "Q5589648",
+      "role": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q2294202-2F76F03F-8E92-4346-9364-E7CBC16230FA",
       "person_id": "Q2294202",
       "on_behalf_of_id": "Q682969",
@@ -264,6 +1162,22 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q2892376-f91ba018-6827-4df0-97fc-a33048c15245",
+      "person_id": "Q2892376",
+      "organization_id": "Q52634091",
+      "area_id": "Q61309",
+      "role_superclass_code": "Q5589648",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      },
+      "role_code": "Q5589648",
+      "role": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q2916750-7189A707-FE51-4C0A-A70D-622CC2FA3198",
       "person_id": "Q2916750",
       "on_behalf_of_id": "Q682969",
@@ -281,9 +1195,57 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q328454-22eb4579-7822-4610-aa2f-abd7cda4cf6b",
+      "person_id": "Q328454",
+      "organization_id": "Q52634091",
+      "area_id": "Q61309",
+      "role_superclass_code": "Q5589648",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      },
+      "role_code": "Q5589648",
+      "role": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3374051-6f1f38e2-5b73-427c-a377-6cd039a5477d",
+      "person_id": "Q3374051",
+      "organization_id": "Q52634091",
+      "area_id": "Q61309",
+      "role_superclass_code": "Q5589648",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      },
+      "role_code": "Q5589648",
+      "role": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q446133-3F5C3509-C08D-4744-97C6-FF37C8B27F43",
       "person_id": "Q446133",
       "on_behalf_of_id": "Q682969",
+      "organization_id": "Q52634091",
+      "area_id": "Q61309",
+      "role_superclass_code": "Q5589648",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      },
+      "role_code": "Q5589648",
+      "role": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4569224-9154b93d-605d-4c19-b024-acbd8d8f95ec",
+      "person_id": "Q4569224",
       "organization_id": "Q52634091",
       "area_id": "Q61309",
       "role_superclass_code": "Q5589648",
@@ -332,8 +1294,787 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q5662821-5c7fc428-94e0-4a2b-9625-700f96b7fdb1",
+      "person_id": "Q5662821",
+      "organization_id": "Q52634091",
+      "area_id": "Q61309",
+      "role_superclass_code": "Q5589648",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      },
+      "role_code": "Q5589648",
+      "role": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5686179-6443debe-9548-4798-9b2e-009c0f2c092e",
+      "person_id": "Q5686179",
+      "organization_id": "Q52634091",
+      "area_id": "Q61309",
+      "role_superclass_code": "Q5589648",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      },
+      "role_code": "Q5589648",
+      "role": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5698146-a2036c0b-7a7f-4884-a316-4dddffdac0b0",
+      "person_id": "Q5698146",
+      "organization_id": "Q52634091",
+      "area_id": "Q61309",
+      "role_superclass_code": "Q5589648",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      },
+      "role_code": "Q5589648",
+      "role": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5707380-45cf3db3-dfcc-4ec0-abe5-e66f1550e59d",
+      "person_id": "Q5707380",
+      "organization_id": "Q52634091",
+      "area_id": "Q61309",
+      "role_superclass_code": "Q5589648",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      },
+      "role_code": "Q5589648",
+      "role": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5750967-14264683-79cf-4093-8eb8-3076ee2de7e2",
+      "person_id": "Q5750967",
+      "organization_id": "Q52634091",
+      "area_id": "Q61309",
+      "role_superclass_code": "Q5589648",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      },
+      "role_code": "Q5589648",
+      "role": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5798200-fa036672-0d40-4bad-bba3-b6068d813195",
+      "person_id": "Q5798200",
+      "organization_id": "Q52634091",
+      "area_id": "Q61309",
+      "role_superclass_code": "Q5589648",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      },
+      "role_code": "Q5589648",
+      "role": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5813600-c38c227b-2ba4-4d00-aea5-c19339d3bc31",
+      "person_id": "Q5813600",
+      "organization_id": "Q52634091",
+      "area_id": "Q61309",
+      "role_superclass_code": "Q5589648",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      },
+      "role_code": "Q5589648",
+      "role": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5830258-3bc00d1b-8c16-4e48-853a-065e03a71f7a",
+      "person_id": "Q5830258",
+      "on_behalf_of_id": "Q682969",
+      "organization_id": "Q52634091",
+      "area_id": "Q61309",
+      "role_superclass_code": "Q5589648",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      },
+      "role_code": "Q5589648",
+      "role": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5833648-20818c26-60b0-428c-9847-5a5fc236fc0e",
+      "person_id": "Q5833648",
+      "organization_id": "Q52634091",
+      "area_id": "Q61309",
+      "role_superclass_code": "Q5589648",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      },
+      "role_code": "Q5589648",
+      "role": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5849069-d9bf5b57-7b88-487d-a095-575562e6f168",
+      "person_id": "Q5849069",
+      "organization_id": "Q52634091",
+      "area_id": "Q61309",
+      "role_superclass_code": "Q5589648",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      },
+      "role_code": "Q5589648",
+      "role": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5858328-547be09b-1fc0-465a-9251-87b7981574e0",
+      "person_id": "Q5858328",
+      "organization_id": "Q52634091",
+      "area_id": "Q61309",
+      "role_superclass_code": "Q5589648",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      },
+      "role_code": "Q5589648",
+      "role": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5858471-d90fe4ef-0676-4d42-9527-6ec4b4a765be",
+      "person_id": "Q5858471",
+      "organization_id": "Q52634091",
+      "area_id": "Q61309",
+      "role_superclass_code": "Q5589648",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      },
+      "role_code": "Q5589648",
+      "role": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5859953-cef714b7-6a16-4500-b916-30f34a719147",
+      "person_id": "Q5859953",
+      "on_behalf_of_id": "Q682969",
+      "organization_id": "Q52634091",
+      "area_id": "Q61309",
+      "role_superclass_code": "Q5589648",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      },
+      "role_code": "Q5589648",
+      "role": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5862010-7b4e3581-c15a-42f9-af14-c9a7dc726c8c",
+      "person_id": "Q5862010",
+      "organization_id": "Q52634091",
+      "area_id": "Q61309",
+      "role_superclass_code": "Q5589648",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      },
+      "role_code": "Q5589648",
+      "role": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5866133-b2957bbc-8347-4679-bd7e-dc233d18903a",
+      "person_id": "Q5866133",
+      "organization_id": "Q52634091",
+      "area_id": "Q61309",
+      "role_superclass_code": "Q5589648",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      },
+      "role_code": "Q5589648",
+      "role": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5867226-b6259f50-90f7-42fc-8632-3de9377f413d",
+      "person_id": "Q5867226",
+      "organization_id": "Q52634091",
+      "area_id": "Q61309",
+      "role_superclass_code": "Q5589648",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      },
+      "role_code": "Q5589648",
+      "role": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5867414-979a5405-9937-46cc-9117-fbc682475d75",
+      "person_id": "Q5867414",
+      "organization_id": "Q52634091",
+      "area_id": "Q61309",
+      "role_superclass_code": "Q5589648",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      },
+      "role_code": "Q5589648",
+      "role": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5867525-bfca2f93-6fa9-4b8c-8c35-abb53fef5a65",
+      "person_id": "Q5867525",
+      "on_behalf_of_id": "Q682969",
+      "organization_id": "Q52634091",
+      "area_id": "Q61309",
+      "role_superclass_code": "Q5589648",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      },
+      "role_code": "Q5589648",
+      "role": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5878300-98ebc981-6123-4f79-8523-13b38d893bf0",
+      "person_id": "Q5878300",
+      "organization_id": "Q52634091",
+      "area_id": "Q61309",
+      "role_superclass_code": "Q5589648",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      },
+      "role_code": "Q5589648",
+      "role": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5879710-7e27fe79-1f66-483f-88af-e7c748ed3bea",
+      "person_id": "Q5879710",
+      "organization_id": "Q52634091",
+      "area_id": "Q61309",
+      "role_superclass_code": "Q5589648",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      },
+      "role_code": "Q5589648",
+      "role": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5921177-4335db3b-7610-4c4f-b864-e16f091314b8",
+      "person_id": "Q5921177",
+      "organization_id": "Q52634091",
+      "area_id": "Q61309",
+      "role_superclass_code": "Q5589648",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      },
+      "role_code": "Q5589648",
+      "role": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5929470-e328aeaf-f167-47b3-934b-5cc5ee01fed1",
+      "person_id": "Q5929470",
+      "organization_id": "Q52634091",
+      "area_id": "Q61309",
+      "role_superclass_code": "Q5589648",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      },
+      "role_code": "Q5589648",
+      "role": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q5930171-CF9D0806-2A98-488B-9A72-1F2175FF3EE4",
       "person_id": "Q5930171",
+      "on_behalf_of_id": "Q682969",
+      "organization_id": "Q52634091",
+      "area_id": "Q61309",
+      "role_superclass_code": "Q5589648",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      },
+      "role_code": "Q5589648",
+      "role": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5938709-c9e75ad0-4b46-4328-a716-453ba66007dd",
+      "person_id": "Q5938709",
+      "on_behalf_of_id": "Q682969",
+      "organization_id": "Q52634091",
+      "area_id": "Q61309",
+      "role_superclass_code": "Q5589648",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      },
+      "role_code": "Q5589648",
+      "role": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5943508-02993b9b-8fb7-46be-ab9f-7641fa7368aa",
+      "person_id": "Q5943508",
+      "organization_id": "Q52634091",
+      "area_id": "Q61309",
+      "role_superclass_code": "Q5589648",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      },
+      "role_code": "Q5589648",
+      "role": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5945595-e8f343e4-ed60-4fd8-ab6b-196c1dd4a5c3",
+      "person_id": "Q5945595",
+      "organization_id": "Q52634091",
+      "area_id": "Q61309",
+      "role_superclass_code": "Q5589648",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      },
+      "role_code": "Q5589648",
+      "role": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5945877-6da133dd-2a6e-4eb3-9618-396b97a52de4",
+      "person_id": "Q5945877",
+      "organization_id": "Q52634091",
+      "area_id": "Q61309",
+      "role_superclass_code": "Q5589648",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      },
+      "role_code": "Q5589648",
+      "role": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5949654-abb8e7b5-de8f-46d7-8c71-6ea1c44b18ee",
+      "person_id": "Q5949654",
+      "organization_id": "Q52634091",
+      "area_id": "Q61309",
+      "role_superclass_code": "Q5589648",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      },
+      "role_code": "Q5589648",
+      "role": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5950098-444e1175-f280-493c-b545-3f02c5b3d2ac",
+      "person_id": "Q5950098",
+      "organization_id": "Q52634091",
+      "area_id": "Q61309",
+      "role_superclass_code": "Q5589648",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      },
+      "role_code": "Q5589648",
+      "role": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5950489-cab91518-946d-491b-975c-c41fe5407c81",
+      "person_id": "Q5950489",
+      "organization_id": "Q52634091",
+      "area_id": "Q61309",
+      "role_superclass_code": "Q5589648",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      },
+      "role_code": "Q5589648",
+      "role": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5955304-94547109-d4e1-4b3f-8b9b-96734341c2d6",
+      "person_id": "Q5955304",
+      "organization_id": "Q52634091",
+      "area_id": "Q61309",
+      "role_superclass_code": "Q5589648",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      },
+      "role_code": "Q5589648",
+      "role": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5971751-83366f09-b7be-4575-8a15-c88383c1d257",
+      "person_id": "Q5971751",
+      "on_behalf_of_id": "Q682969",
+      "organization_id": "Q52634091",
+      "area_id": "Q61309",
+      "role_superclass_code": "Q5589648",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      },
+      "role_code": "Q5589648",
+      "role": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5973304-987a804b-bdb6-4fdf-aeec-67ca35e5713b",
+      "person_id": "Q5973304",
+      "organization_id": "Q52634091",
+      "area_id": "Q61309",
+      "role_superclass_code": "Q5589648",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      },
+      "role_code": "Q5589648",
+      "role": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5993189-de675d61-30db-456a-b45d-1cd513c14686",
+      "person_id": "Q5993189",
+      "on_behalf_of_id": "Q682969",
+      "organization_id": "Q52634091",
+      "area_id": "Q61309",
+      "role_superclass_code": "Q5589648",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      },
+      "role_code": "Q5589648",
+      "role": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6014158-1015b0b1-e158-4a3c-8e47-bed16a20f784",
+      "person_id": "Q6014158",
+      "organization_id": "Q52634091",
+      "area_id": "Q61309",
+      "role_superclass_code": "Q5589648",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      },
+      "role_code": "Q5589648",
+      "role": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6014311-bb789912-8f52-483b-9fb3-b0e8f8761b65",
+      "person_id": "Q6014311",
+      "on_behalf_of_id": "Q682969",
+      "organization_id": "Q52634091",
+      "area_id": "Q61309",
+      "role_superclass_code": "Q5589648",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      },
+      "role_code": "Q5589648",
+      "role": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6014362-80b36640-bf9e-467f-963d-f49e191e466c",
+      "person_id": "Q6014362",
+      "organization_id": "Q52634091",
+      "area_id": "Q61309",
+      "role_superclass_code": "Q5589648",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      },
+      "role_code": "Q5589648",
+      "role": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6015451-210f7437-101c-408b-879d-3a4ca76db656",
+      "person_id": "Q6015451",
+      "organization_id": "Q52634091",
+      "area_id": "Q61309",
+      "role_superclass_code": "Q5589648",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      },
+      "role_code": "Q5589648",
+      "role": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6056468-81ea05e2-d6f0-4839-b6fb-2032ce37119c",
+      "person_id": "Q6056468",
+      "on_behalf_of_id": "Q682969",
+      "organization_id": "Q52634091",
+      "area_id": "Q61309",
+      "role_superclass_code": "Q5589648",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      },
+      "role_code": "Q5589648",
+      "role": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6070266-3624c72d-d50e-4a55-b7fa-7c382bcfbbcf",
+      "person_id": "Q6070266",
+      "on_behalf_of_id": "Q682969",
+      "organization_id": "Q52634091",
+      "area_id": "Q61309",
+      "role_superclass_code": "Q5589648",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      },
+      "role_code": "Q5589648",
+      "role": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6099971-1a2f7937-c7dc-4d82-8b08-822961d43ce2",
+      "person_id": "Q6099971",
+      "organization_id": "Q52634091",
+      "area_id": "Q61309",
+      "role_superclass_code": "Q5589648",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      },
+      "role_code": "Q5589648",
+      "role": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6108394-5190e605-d424-4ff1-8ea3-80ab5b2c8c7f",
+      "person_id": "Q6108394",
+      "organization_id": "Q52634091",
+      "area_id": "Q61309",
+      "role_superclass_code": "Q5589648",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      },
+      "role_code": "Q5589648",
+      "role": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6109728-30125a7b-20c5-4724-b3bc-3ebc9e7ffb70",
+      "person_id": "Q6109728",
+      "organization_id": "Q52634091",
+      "area_id": "Q61309",
+      "role_superclass_code": "Q5589648",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      },
+      "role_code": "Q5589648",
+      "role": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6110478-5de3e76b-b383-4e23-b0cf-cdd49d7aae22",
+      "person_id": "Q6110478",
+      "organization_id": "Q52634091",
+      "area_id": "Q61309",
+      "role_superclass_code": "Q5589648",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      },
+      "role_code": "Q5589648",
+      "role": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6117781-d8967c1f-f5c1-4229-83ce-2bc6b49ba3be",
+      "person_id": "Q6117781",
+      "on_behalf_of_id": "Q682969",
+      "organization_id": "Q52634091",
+      "area_id": "Q61309",
+      "role_superclass_code": "Q5589648",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      },
+      "role_code": "Q5589648",
+      "role": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6128890-aa9abb60-a0bd-4a64-a6ce-6ab9bbb8cc83",
+      "person_id": "Q6128890",
+      "organization_id": "Q52634091",
+      "area_id": "Q61309",
+      "role_superclass_code": "Q5589648",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      },
+      "role_code": "Q5589648",
+      "role": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6157358-2d65b58c-03c3-4064-a7fb-8d0133ae7457",
+      "person_id": "Q6157358",
+      "organization_id": "Q52634091",
+      "area_id": "Q61309",
+      "role_superclass_code": "Q5589648",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      },
+      "role_code": "Q5589648",
+      "role": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6167987-bfec378a-6af9-4ae1-abe1-ba78760c0977",
+      "person_id": "Q6167987",
+      "organization_id": "Q52634091",
+      "area_id": "Q61309",
+      "role_superclass_code": "Q5589648",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      },
+      "role_code": "Q5589648",
+      "role": {
+        "lang:es": "Gobernantes de Colima",
+        "lang:en": "Governor of Colima"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6436833-53ae0f9f-f89c-4dd4-9b7f-389249a0dcfc",
+      "person_id": "Q6436833",
       "on_behalf_of_id": "Q682969",
       "organization_id": "Q52634091",
       "area_id": "Q61309",

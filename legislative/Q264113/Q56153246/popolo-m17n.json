@@ -2,91 +2,18 @@
   "persons": [
     {
       "name": {
-        "lang:es": "Daniel Amador Gaxiola",
-        "lang:en": "Daniel Amador Gaxiola"
+        "lang:es": "Minerva Hernández Ramos",
+        "lang:en": "Minerva Hernández Ramos"
       },
-      "id": "Q16147101",
+      "id": "Q6864501",
       "identifiers": [
         {
           "scheme": "wikidata",
-          "identifier": "Q16147101"
-        }
-      ],
-      "links": [
-        {
-          "note": "facebook",
-          "url": "https://www.facebook.com/danielamadorgaxiola1"
-        }
-      ]
-    },
-    {
-      "name": {
-        "lang:es": "Agélica del Rosario Araujo Lara",
-        "lang:en": "Agélica del Rosario Araujo Lara"
-      },
-      "id": "Q4764311",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q4764311"
+          "identifier": "Q6864501"
         }
       ],
       "links": [
 
-      ]
-    },
-    {
-      "name": {
-        "lang:es": "Jorge Aréchiga Ávila",
-        "lang:en": "Jorge Aréchiga Ávila"
-      },
-      "id": "Q53563151",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q53563151"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:es": "Daniel Gabriel Ávila Ruiz",
-        "lang:en": "Daniel Gabriel Ávila Ruiz"
-      },
-      "id": "Q5798794",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q5798794"
-        }
-      ],
-      "links": [
-        {
-          "note": "facebook",
-          "url": "https://www.facebook.com/danielavilaruizmx"
-        }
-      ]
-    },
-    {
-      "name": {
-        "lang:es": "Ricardo Barroso Agramont",
-        "lang:en": "Ricardo Barroso Agramont"
-      },
-      "id": "Q9068953",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q9068953"
-        }
-      ],
-      "links": [
-        {
-          "note": "facebook",
-          "url": "https://www.facebook.com/RicardoBarrosoAgramont"
-        }
       ]
     }
   ],
@@ -108,48 +35,6 @@
       "seat_counts": {
         "Q19971999": "128"
       }
-    },
-    {
-      "name": {
-        "lang:es": "Partido Verde Ecologista de México",
-        "lang:en": "Ecologist Green Party of Mexico"
-      },
-      "id": "Q383718",
-      "classification": "party",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q383718"
-        }
-      ]
-    },
-    {
-      "name": {
-        "lang:es": "Partido Revolucionario Institucional",
-        "lang:en": "Institutional Revolutionary Party"
-      },
-      "id": "Q682969",
-      "classification": "party",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q682969"
-        }
-      ]
-    },
-    {
-      "name": {
-        "lang:es": "Partido Acción Nacional",
-        "lang:en": "National Action Party"
-      },
-      "id": "Q851087",
-      "classification": "party",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q851087"
-        }
-      ]
     }
   ],
   "areas": [
@@ -917,79 +802,9 @@
   ],
   "memberships": [
     {
-      "id": "http://www.wikidata.org/entity/statement/Q16147101-1C665956-AC45-4300-99A7-4155B8712037",
-      "person_id": "Q16147101",
-      "on_behalf_of_id": "Q682969",
+      "id": "http://www.wikidata.org/entity/statement/Q6864501-D92572CF-22E9-4C7D-8882-33E785E23917",
+      "person_id": "Q6864501",
       "organization_id": "Q264113",
-      "area_id": "Q53539342",
-      "role_superclass_code": "Q15686806",
-      "role_superclass": {
-        "lang:es": "senador",
-        "lang:en": "senator"
-      },
-      "role_code": "Q19971999",
-      "role": {
-        "lang:es": "senador de México",
-        "lang:en": "member of the Senate of Mexico"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q4764311-92B07E6B-00F2-4009-A91E-199C2C367CAD",
-      "person_id": "Q4764311",
-      "on_behalf_of_id": "Q682969",
-      "organization_id": "Q264113",
-      "area_id": "Q53539380",
-      "role_superclass_code": "Q15686806",
-      "role_superclass": {
-        "lang:es": "senador",
-        "lang:en": "senator"
-      },
-      "role_code": "Q19971999",
-      "role": {
-        "lang:es": "senador de México",
-        "lang:en": "member of the Senate of Mexico"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q53563151-E8A0B034-93F9-4CD3-8B6F-4A37BE7CBA96",
-      "person_id": "Q53563151",
-      "on_behalf_of_id": "Q383718",
-      "organization_id": "Q264113",
-      "area_id": "Q53539330",
-      "role_superclass_code": "Q15686806",
-      "role_superclass": {
-        "lang:es": "senador",
-        "lang:en": "senator"
-      },
-      "role_code": "Q19971999",
-      "role": {
-        "lang:es": "senador de México",
-        "lang:en": "member of the Senate of Mexico"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q5798794-6BB97767-5A3E-45AB-AB4C-BD6D5C42DEFD",
-      "person_id": "Q5798794",
-      "on_behalf_of_id": "Q851087",
-      "organization_id": "Q264113",
-      "area_id": "Q53539380",
-      "role_superclass_code": "Q15686806",
-      "role_superclass": {
-        "lang:es": "senador",
-        "lang:en": "senator"
-      },
-      "role_code": "Q19971999",
-      "role": {
-        "lang:es": "senador de México",
-        "lang:en": "member of the Senate of Mexico"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q9068953-AF3DF123-F9FF-4783-BF5E-02EA61A0FA5B",
-      "person_id": "Q9068953",
-      "on_behalf_of_id": "Q682969",
-      "organization_id": "Q264113",
-      "area_id": "Q53538975",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
         "lang:es": "senador",

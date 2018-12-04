@@ -1,9 +1,52 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:es": "Manuel Velasco Bosta",
+        "lang:en": "Manuel Velasco Coello"
+      },
+      "id": "Q5994523",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5994523"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "gobernador y gabinete de Chiapas",
+        "lang:en": "governor and cabinet of Chiapas"
+      },
+      "id": "Q52634092",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52634092"
+        }
+      ],
+      "area_id": "Q60123"
+    },
+    {
+      "name": {
+        "lang:es": "Partido Verde Ecologista de México",
+        "lang:en": "Ecologist Green Party of Mexico"
+      },
+      "id": "Q383718",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q383718"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -57,6 +100,39 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5994523-A2784057-C8D7-4A81-A5F5-4266B0555948",
+      "person_id": "Q5994523",
+      "on_behalf_of_id": "Q383718",
+      "organization_id": "Q52634092",
+      "area_id": "Q60123",
+      "role_superclass_code": "Q5589647",
+      "role_superclass": {
+        "lang:es": "Gobernadores de Chiapas",
+        "lang:en": "Governor of Chiapas"
+      },
+      "role_code": "Q5589647",
+      "role": {
+        "lang:es": "Gobernadores de Chiapas",
+        "lang:en": "Governor of Chiapas"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5994523-DFE3210E-EECD-4D00-8C62-912EA9DD495A",
+      "person_id": "Q5994523",
+      "on_behalf_of_id": "Q383718",
+      "organization_id": "Q52634092",
+      "area_id": "Q60123",
+      "role_superclass_code": "Q5589647",
+      "role_superclass": {
+        "lang:es": "Gobernadores de Chiapas",
+        "lang:en": "Governor of Chiapas"
+      },
+      "role_code": "Q5589647",
+      "role": {
+        "lang:es": "Gobernadores de Chiapas",
+        "lang:en": "Governor of Chiapas"
+      }
+    }
   ]
 }

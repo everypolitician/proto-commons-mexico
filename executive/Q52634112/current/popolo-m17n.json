@@ -1,9 +1,52 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:es": "Quirino Ordaz Coppel",
+        "lang:en": "Quirino Ordaz Coppel"
+      },
+      "id": "Q22255233",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q22255233"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "gobernador y gabinete de Sinaloa",
+        "lang:en": "governor and cabinet of Sinaloa"
+      },
+      "id": "Q52634112",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52634112"
+        }
+      ],
+      "area_id": "Q80252"
+    },
+    {
+      "name": {
+        "lang:es": "Partido Revolucionario Institucional",
+        "lang:en": "Institutional Revolutionary Party"
+      },
+      "id": "Q682969",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q682969"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -57,6 +100,22 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q22255233-03F0BCF5-62C8-4D78-BB54-CFC93D3796FD",
+      "person_id": "Q22255233",
+      "on_behalf_of_id": "Q682969",
+      "organization_id": "Q52634112",
+      "area_id": "Q80252",
+      "role_superclass_code": "Q5589715",
+      "role_superclass": {
+        "lang:es": "Gobernantes de Sinaloa",
+        "lang:en": "Governor of Sinaloa"
+      },
+      "role_code": "Q5589715",
+      "role": {
+        "lang:es": "Gobernantes de Sinaloa",
+        "lang:en": "Governor of Sinaloa"
+      }
+    }
   ]
 }

@@ -152,6 +152,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q23907068-6E1365EA-0B3C-42FB-AD00-0EBE332EC73F",
       "person_id": "Q23907068",
+      "on_behalf_of_id": "Q682969",
       "organization_id": "Q52634117",
       "area_id": "Q82681",
       "role_superclass_code": "Q5589729",

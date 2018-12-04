@@ -79,6 +79,22 @@
       "links": [
 
       ]
+    },
+    {
+      "name": {
+        "lang:es": "Miguel Ángel Yunes Linares",
+        "lang:en": "Miguel Ángel Yunes Linares"
+      },
+      "id": "Q6015898",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6015898"
+        }
+      ],
+      "links": [
+
+      ]
     }
   ],
   "organizations": [
@@ -249,6 +265,23 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q4473550-ABC8D338-4445-48FC-A9CB-0826CABAF9A5",
       "person_id": "Q4473550",
+      "on_behalf_of_id": "Q682969",
+      "organization_id": "Q52634118",
+      "area_id": "Q60130",
+      "role_superclass_code": "Q5589731",
+      "role_superclass": {
+        "lang:es": "Gobernadores de Veracruz",
+        "lang:en": "Governor of Veracruz"
+      },
+      "role_code": "Q5589731",
+      "role": {
+        "lang:es": "Gobernadores de Veracruz",
+        "lang:en": "Governor of Veracruz"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6015898-9A403C7E-FDAC-45B8-A76B-711C2DF62748",
+      "person_id": "Q6015898",
       "on_behalf_of_id": "Q682969",
       "organization_id": "Q52634118",
       "area_id": "Q60130",

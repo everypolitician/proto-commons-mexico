@@ -1,9 +1,52 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:es": "Héctor Armando Cabada Alvídrez",
+        "lang:en": "Héctor Armando Cabada Alvídrez"
+      },
+      "id": "Q25349690",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25349690"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "Gabinete de la Heroica Ciudad Juárez",
+        "lang:en": "Cabinet of Juarez"
+      },
+      "id": "Q52634218",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52634218"
+        }
+      ],
+      "area_id": "Q2557122"
+    },
+    {
+      "name": {
+        "lang:es": "candidato independiente",
+        "lang:en": "independent politician"
+      },
+      "id": "Q327591",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q327591"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -82,6 +125,22 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q25349690-5500E6D5-FA52-4E0B-8C78-C4E2EFED5BD0",
+      "person_id": "Q25349690",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q52634218",
+      "area_id": "Q2557122",
+      "role_superclass_code": "Q6936355",
+      "role_superclass": {
+        "lang:es": "Presidentes Municipales de Ciudad Juárez",
+        "lang:en": "Municipal president of Juárez"
+      },
+      "role_code": "Q6936355",
+      "role": {
+        "lang:es": "Presidentes Municipales de Ciudad Juárez",
+        "lang:en": "Municipal president of Juárez"
+      }
+    }
   ]
 }

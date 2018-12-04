@@ -2,94 +2,18 @@
   "persons": [
     {
       "name": {
-        "lang:es": "Andrés Aguirre Romero",
-        "lang:en": "Andrés Aguirre Romero"
+        "lang:es": "Ivonne Liliana Álvarez",
+        "lang:en": "Ivonne Liliana Álvarez"
       },
-      "id": "Q18638111",
+      "id": "Q16146929",
       "identifiers": [
         {
           "scheme": "wikidata",
-          "identifier": "Q18638111"
-        }
-      ],
-      "links": [
-        {
-          "note": "facebook",
-          "url": "https://www.facebook.com/AndresAguirreRo"
-        }
-      ]
-    },
-    {
-      "name": {
-        "lang:es": "María Guadalupe Alcántara Rojas",
-        "lang:en": "María Guadalupe Alcántara Rojas"
-      },
-      "id": "Q53563153",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q53563153"
+          "identifier": "Q16146929"
         }
       ],
       "links": [
 
-      ]
-    },
-    {
-      "name": {
-        "lang:es": "Matías Nazario Morales",
-        "lang:en": "Matías Nazario Morales"
-      },
-      "id": "Q53563154",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q53563154"
-        }
-      ],
-      "links": [
-        {
-          "note": "facebook",
-          "url": "https://www.facebook.com/MatiasNazarioMor"
-        }
-      ]
-    },
-    {
-      "name": {
-        "lang:es": "Héctor Barrera Marmolejo",
-        "lang:en": "Héctor Barrera Marmolejo"
-      },
-      "id": "Q53563155",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q53563155"
-        }
-      ],
-      "links": [
-        {
-          "note": "facebook",
-          "url": "https://www.facebook.com/hector.barreramarmolejo"
-        }
-      ]
-    },
-    {
-      "name": {
-        "lang:es": "María Élida Castelán Mondragón",
-        "lang:en": "María Élida Castelán Mondragón"
-      },
-      "id": "Q53563157",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q53563157"
-        }
-      ],
-      "links": [
-        {
-          "note": "facebook",
-          "url": "https://www.facebook.com/diputadaelidacaastelanmondragon"
-        }
       ]
     }
   ],
@@ -111,48 +35,6 @@
       "seat_counts": {
         "Q18534310": "500"
       }
-    },
-    {
-      "name": {
-        "lang:es": "Partido Revolucionario Institucional",
-        "lang:en": "Institutional Revolutionary Party"
-      },
-      "id": "Q682969",
-      "classification": "party",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q682969"
-        }
-      ]
-    },
-    {
-      "name": {
-        "lang:es": "Partido de la Revolución Democrática",
-        "lang:en": "Party of the Democratic Revolution"
-      },
-      "id": "Q767010",
-      "classification": "party",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q767010"
-        }
-      ]
-    },
-    {
-      "name": {
-        "lang:es": "Partido Acción Nacional",
-        "lang:en": "National Action Party"
-      },
-      "id": "Q851087",
-      "classification": "party",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q851087"
-        }
-      ]
     }
   ],
   "areas": [
@@ -8572,79 +8454,10 @@
   ],
   "memberships": [
     {
-      "id": "http://www.wikidata.org/entity/statement/Q18638111-F6E0CC63-3353-4047-9C32-0FDD501838C8",
-      "person_id": "Q18638111",
-      "on_behalf_of_id": "Q682969",
+      "id": "http://www.wikidata.org/entity/statement/Q16146929-3555DB58-51CA-4D18-88E4-87BEEC883FD5",
+      "person_id": "Q16146929",
       "organization_id": "Q3014316",
-      "area_id": "Q5396956",
-      "role_superclass_code": "Q1055894",
-      "role_superclass": {
-        "lang:es": "diputado",
-        "lang:en": "deputy"
-      },
-      "role_code": "Q18534310",
-      "role": {
-        "lang:es": "diputado de México",
-        "lang:en": "Member of the Chamber of Deputies of Mexico"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q53563153-0323705E-F87C-4F40-833C-9D7943500D55",
-      "person_id": "Q53563153",
-      "on_behalf_of_id": "Q682969",
-      "organization_id": "Q3014316",
-      "area_id": "Q53461696",
-      "role_superclass_code": "Q1055894",
-      "role_superclass": {
-        "lang:es": "diputado",
-        "lang:en": "deputy"
-      },
-      "role_code": "Q18534310",
-      "role": {
-        "lang:es": "diputado de México",
-        "lang:en": "Member of the Chamber of Deputies of Mexico"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q53563154-30CA74DB-C7AC-4018-B582-89397F537E06",
-      "person_id": "Q53563154",
-      "on_behalf_of_id": "Q682969",
-      "organization_id": "Q3014316",
-      "area_id": "Q53461634",
-      "role_superclass_code": "Q1055894",
-      "role_superclass": {
-        "lang:es": "diputado",
-        "lang:en": "deputy"
-      },
-      "role_code": "Q18534310",
-      "role": {
-        "lang:es": "diputado de México",
-        "lang:en": "Member of the Chamber of Deputies of Mexico"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q53563155-F6AB6071-28E4-4894-ACF4-74D2D235385C",
-      "person_id": "Q53563155",
-      "on_behalf_of_id": "Q851087",
-      "organization_id": "Q3014316",
-      "area_id": "Q5811292",
-      "role_superclass_code": "Q1055894",
-      "role_superclass": {
-        "lang:es": "diputado",
-        "lang:en": "deputy"
-      },
-      "role_code": "Q18534310",
-      "role": {
-        "lang:es": "diputado de México",
-        "lang:en": "Member of the Chamber of Deputies of Mexico"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q53563157-0C5B58C5-3BF2-405D-BCEB-18F5B59788B4",
-      "person_id": "Q53563157",
-      "on_behalf_of_id": "Q767010",
-      "organization_id": "Q3014316",
-      "area_id": "Q53461696",
+      "start_date": "2018-08-01",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
         "lang:es": "diputado",
