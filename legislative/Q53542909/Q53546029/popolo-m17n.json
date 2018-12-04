@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "Congreso de Aguascalientes",
+        "lang:en": "Congress of Aguascalientes"
+      },
+      "id": "Q53542909",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53542909"
+        }
+      ],
+      "area_id": "Q79952",
+      "seat_counts": {
+        "Q53544327": "27"
+      }
+    }
   ],
   "areas": [
     {

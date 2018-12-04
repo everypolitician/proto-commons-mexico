@@ -595,10 +595,10 @@
       "on_behalf_of_id": "Q3366487",
       "organization_id": "Q52634119",
       "area_id": "Q60176",
-      "role_superclass_code": "Q5589736",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Yucatán",
-        "lang:en": "Governor of Yucatán"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589736",
       "role": {
@@ -612,10 +612,10 @@
       "on_behalf_of_id": "Q682969",
       "organization_id": "Q52634119",
       "area_id": "Q60176",
-      "role_superclass_code": "Q5589736",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Yucatán",
-        "lang:en": "Governor of Yucatán"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589736",
       "role": {
@@ -629,10 +629,10 @@
       "on_behalf_of_id": "Q3366487",
       "organization_id": "Q52634119",
       "area_id": "Q60176",
-      "role_superclass_code": "Q5589736",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Yucatán",
-        "lang:en": "Governor of Yucatán"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589736",
       "role": {
@@ -645,10 +645,10 @@
       "person_id": "Q2150484",
       "organization_id": "Q52634119",
       "area_id": "Q60176",
-      "role_superclass_code": "Q5589736",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Yucatán",
-        "lang:en": "Governor of Yucatán"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589736",
       "role": {
@@ -662,10 +662,10 @@
       "on_behalf_of_id": "Q682969",
       "organization_id": "Q52634119",
       "area_id": "Q60176",
-      "role_superclass_code": "Q5589736",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Yucatán",
-        "lang:en": "Governor of Yucatán"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589736",
       "role": {
@@ -678,10 +678,10 @@
       "person_id": "Q2362335",
       "organization_id": "Q52634119",
       "area_id": "Q60176",
-      "role_superclass_code": "Q5589736",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Yucatán",
-        "lang:en": "Governor of Yucatán"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589736",
       "role": {
@@ -695,10 +695,10 @@
       "on_behalf_of_id": "Q851087",
       "organization_id": "Q52634119",
       "area_id": "Q60176",
-      "role_superclass_code": "Q5589736",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Yucatán",
-        "lang:en": "Governor of Yucatán"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589736",
       "role": {
@@ -711,10 +711,10 @@
       "person_id": "Q2682937",
       "organization_id": "Q52634119",
       "area_id": "Q60176",
-      "role_superclass_code": "Q5589736",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Yucatán",
-        "lang:en": "Governor of Yucatán"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589736",
       "role": {
@@ -728,10 +728,10 @@
       "on_behalf_of_id": "Q682969",
       "organization_id": "Q52634119",
       "area_id": "Q60176",
-      "role_superclass_code": "Q5589736",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Yucatán",
-        "lang:en": "Governor of Yucatán"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589736",
       "role": {
@@ -744,10 +744,10 @@
       "person_id": "Q3638233",
       "organization_id": "Q52634119",
       "area_id": "Q60176",
-      "role_superclass_code": "Q5589736",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Yucatán",
-        "lang:en": "Governor of Yucatán"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589736",
       "role": {
@@ -761,10 +761,10 @@
       "on_behalf_of_id": "Q682969",
       "organization_id": "Q52634119",
       "area_id": "Q60176",
-      "role_superclass_code": "Q5589736",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Yucatán",
-        "lang:en": "Governor of Yucatán"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589736",
       "role": {
@@ -777,10 +777,10 @@
       "person_id": "Q387619",
       "organization_id": "Q52634119",
       "area_id": "Q60176",
-      "role_superclass_code": "Q5589736",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Yucatán",
-        "lang:en": "Governor of Yucatán"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589736",
       "role": {
@@ -793,10 +793,10 @@
       "person_id": "Q4641553",
       "organization_id": "Q52634119",
       "area_id": "Q60176",
-      "role_superclass_code": "Q5589736",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Yucatán",
-        "lang:en": "Governor of Yucatán"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589736",
       "role": {
@@ -809,10 +809,10 @@
       "person_id": "Q4734472",
       "organization_id": "Q52634119",
       "area_id": "Q60176",
-      "role_superclass_code": "Q5589736",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Yucatán",
-        "lang:en": "Governor of Yucatán"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589736",
       "role": {
@@ -825,10 +825,10 @@
       "person_id": "Q4777053",
       "organization_id": "Q52634119",
       "area_id": "Q60176",
-      "role_superclass_code": "Q5589736",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Yucatán",
-        "lang:en": "Governor of Yucatán"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589736",
       "role": {
@@ -841,10 +841,10 @@
       "person_id": "Q5360817",
       "organization_id": "Q52634119",
       "area_id": "Q60176",
-      "role_superclass_code": "Q5589736",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Yucatán",
-        "lang:en": "Governor of Yucatán"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589736",
       "role": {
@@ -857,10 +857,10 @@
       "person_id": "Q5379683",
       "organization_id": "Q52634119",
       "area_id": "Q60176",
-      "role_superclass_code": "Q5589736",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Yucatán",
-        "lang:en": "Governor of Yucatán"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589736",
       "role": {
@@ -873,10 +873,10 @@
       "person_id": "Q5484144",
       "organization_id": "Q52634119",
       "area_id": "Q60176",
-      "role_superclass_code": "Q5589736",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Yucatán",
-        "lang:en": "Governor of Yucatán"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589736",
       "role": {
@@ -889,10 +889,10 @@
       "person_id": "Q5812711",
       "organization_id": "Q52634119",
       "area_id": "Q60176",
-      "role_superclass_code": "Q5589736",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Yucatán",
-        "lang:en": "Governor of Yucatán"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589736",
       "role": {
@@ -905,10 +905,10 @@
       "person_id": "Q5934304",
       "organization_id": "Q52634119",
       "area_id": "Q60176",
-      "role_superclass_code": "Q5589736",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Yucatán",
-        "lang:en": "Governor of Yucatán"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589736",
       "role": {
@@ -921,10 +921,10 @@
       "person_id": "Q5945769",
       "organization_id": "Q52634119",
       "area_id": "Q60176",
-      "role_superclass_code": "Q5589736",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Yucatán",
-        "lang:en": "Governor of Yucatán"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589736",
       "role": {
@@ -937,10 +937,10 @@
       "person_id": "Q5952125",
       "organization_id": "Q52634119",
       "area_id": "Q60176",
-      "role_superclass_code": "Q5589736",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Yucatán",
-        "lang:en": "Governor of Yucatán"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589736",
       "role": {
@@ -954,10 +954,10 @@
       "on_behalf_of_id": "Q682969",
       "organization_id": "Q52634119",
       "area_id": "Q60176",
-      "role_superclass_code": "Q5589736",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Yucatán",
-        "lang:en": "Governor of Yucatán"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589736",
       "role": {
@@ -970,10 +970,10 @@
       "person_id": "Q6812056",
       "organization_id": "Q52634119",
       "area_id": "Q60176",
-      "role_superclass_code": "Q5589736",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Yucatán",
-        "lang:en": "Governor of Yucatán"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589736",
       "role": {
@@ -986,10 +986,10 @@
       "person_id": "Q7030341",
       "organization_id": "Q52634119",
       "area_id": "Q60176",
-      "role_superclass_code": "Q5589736",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Yucatán",
-        "lang:en": "Governor of Yucatán"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589736",
       "role": {
@@ -1003,10 +1003,10 @@
       "on_behalf_of_id": "Q6064401",
       "organization_id": "Q52634119",
       "area_id": "Q60176",
-      "role_superclass_code": "Q5589736",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Yucatán",
-        "lang:en": "Governor of Yucatán"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589736",
       "role": {
@@ -1019,10 +1019,10 @@
       "person_id": "Q727321",
       "organization_id": "Q52634119",
       "area_id": "Q60176",
-      "role_superclass_code": "Q5589736",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Yucatán",
-        "lang:en": "Governor of Yucatán"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589736",
       "role": {
@@ -1035,10 +1035,10 @@
       "person_id": "Q8962520",
       "organization_id": "Q52634119",
       "area_id": "Q60176",
-      "role_superclass_code": "Q5589736",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Yucatán",
-        "lang:en": "Governor of Yucatán"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589736",
       "role": {
@@ -1051,10 +1051,10 @@
       "person_id": "Q963307",
       "organization_id": "Q52634119",
       "area_id": "Q60176",
-      "role_superclass_code": "Q5589736",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Yucatán",
-        "lang:en": "Governor of Yucatán"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589736",
       "role": {

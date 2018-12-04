@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "Congreso de Durango",
+        "lang:en": "Congress of Durango"
+      },
+      "id": "Q20014631",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20014631"
+        }
+      ],
+      "area_id": "Q79918",
+      "seat_counts": {
+        "Q53544355": "25"
+      }
+    }
   ],
   "areas": [
     {

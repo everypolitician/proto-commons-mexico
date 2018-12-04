@@ -186,10 +186,10 @@
       "on_behalf_of_id": "Q682969",
       "organization_id": "Q52634114",
       "area_id": "Q80914",
-      "role_superclass_code": "Q5589723",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Tabasco",
-        "lang:en": "Governor of Tabasco"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589723",
       "role": {
@@ -202,10 +202,10 @@
       "person_id": "Q21129803",
       "organization_id": "Q52634114",
       "area_id": "Q80914",
-      "role_superclass_code": "Q5589723",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Tabasco",
-        "lang:en": "Governor of Tabasco"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589723",
       "role": {
@@ -219,10 +219,10 @@
       "on_behalf_of_id": "Q682969",
       "organization_id": "Q52634114",
       "area_id": "Q80914",
-      "role_superclass_code": "Q5589723",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Tabasco",
-        "lang:en": "Governor of Tabasco"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589723",
       "role": {
@@ -235,10 +235,10 @@
       "person_id": "Q5946108",
       "organization_id": "Q52634114",
       "area_id": "Q80914",
-      "role_superclass_code": "Q5589723",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Tabasco",
-        "lang:en": "Governor of Tabasco"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589723",
       "role": {
@@ -252,10 +252,10 @@
       "on_behalf_of_id": "Q682969",
       "organization_id": "Q52634114",
       "area_id": "Q80914",
-      "role_superclass_code": "Q5589723",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Tabasco",
-        "lang:en": "Governor of Tabasco"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589723",
       "role": {
@@ -268,10 +268,10 @@
       "person_id": "Q727321",
       "organization_id": "Q52634114",
       "area_id": "Q80914",
-      "role_superclass_code": "Q5589723",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Tabasco",
-        "lang:en": "Governor of Tabasco"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589723",
       "role": {

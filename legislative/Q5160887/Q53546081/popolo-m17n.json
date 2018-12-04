@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "Congreso de Puebla",
+        "lang:en": "Congress of Puebla"
+      },
+      "id": "Q5160887",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5160887"
+        }
+      ],
+      "area_id": "Q79923",
+      "seat_counts": {
+        "Q53544398": "41"
+      }
+    }
   ],
   "areas": [
     {

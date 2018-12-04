@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "Congreso de Coahuila",
+        "lang:en": "Congress of Coahuila"
+      },
+      "id": "Q5160861",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5160861"
+        }
+      ],
+      "area_id": "Q53079",
+      "seat_counts": {
+        "Q53544334": "25"
+      }
+    }
   ],
   "areas": [
     {

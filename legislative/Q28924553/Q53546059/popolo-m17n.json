@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "Congreso de Hidalgo",
+        "lang:en": "Congress of Hidalgo"
+      },
+      "id": "Q28924553",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28924553"
+        }
+      ],
+      "area_id": "Q80903",
+      "seat_counts": {
+        "Q53544369": "30"
+      }
+    }
   ],
   "areas": [
     {

@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "Congreso de Chihuahua",
+        "lang:en": "Congress of Chihuahua"
+      },
+      "id": "Q5783176",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5783176"
+        }
+      ],
+      "area_id": "Q655",
+      "seat_counts": {
+        "Q53544338": "33"
+      }
+    }
   ],
   "areas": [
     {

@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "Congreso de Quintana Roo",
+        "lang:en": "Congress of Quintana Roo"
+      },
+      "id": "Q5160888",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5160888"
+        }
+      ],
+      "area_id": "Q80245",
+      "seat_counts": {
+        "Q53544402": "25"
+      }
+    }
   ],
   "areas": [
     {

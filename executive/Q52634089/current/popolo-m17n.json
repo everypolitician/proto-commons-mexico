@@ -122,10 +122,10 @@
       "on_behalf_of_id": "Q682969",
       "organization_id": "Q52634089",
       "area_id": "Q80908",
-      "role_superclass_code": "Q5589643",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Campeche",
-        "lang:en": "Governor of Campeche"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589643",
       "role": {
@@ -139,10 +139,10 @@
       "on_behalf_of_id": "Q682969",
       "organization_id": "Q52634089",
       "area_id": "Q80908",
-      "role_superclass_code": "Q5589643",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Campeche",
-        "lang:en": "Governor of Campeche"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589643",
       "role": {

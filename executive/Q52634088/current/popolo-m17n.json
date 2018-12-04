@@ -136,10 +136,10 @@
       "on_behalf_of_id": "Q767010",
       "organization_id": "Q52634088",
       "area_id": "Q46508",
-      "role_superclass_code": "Q5589635",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Baja California Sur",
-        "lang:en": "Governor of Baja California Sur"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589635",
       "role": {
@@ -153,10 +153,10 @@
       "on_behalf_of_id": "Q851087",
       "organization_id": "Q52634088",
       "area_id": "Q46508",
-      "role_superclass_code": "Q5589635",
+      "role_superclass_code": "Q17810142",
       "role_superclass": {
-        "lang:es": "Gobernantes de Baja California Sur",
-        "lang:en": "Governor of Baja California Sur"
+        "lang:es": "gobernador (México)",
+        "lang:en": "Governor (Mexico)"
       },
       "role_code": "Q5589635",
       "role": {

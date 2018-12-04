@@ -131,10 +131,10 @@
       "on_behalf_of_id": "Q327591",
       "organization_id": "Q52634218",
       "area_id": "Q2557122",
-      "role_superclass_code": "Q6936355",
+      "role_superclass_code": "Q6936349",
       "role_superclass": {
-        "lang:es": "Presidentes Municipales de Ciudad Juárez",
-        "lang:en": "Municipal president of Juárez"
+        "lang:es": "presidente municipal",
+        "lang:en": "municipal president"
       },
       "role_code": "Q6936355",
       "role": {
