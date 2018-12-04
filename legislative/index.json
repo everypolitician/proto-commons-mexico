@@ -1,62 +1,66 @@
 [
   {
-    "comment": "Senate of the Republic",
-    "house_item_id": "Q264113",
-    "position_item_id": "Q19971999",
-    "terms": [
-      {
-        "comment": "LXIV Legislature of the Mexican Congress",
-        "term_item_id": "Q56153246"
-      }
-    ]
-  },
-  {
-    "comment": "Chamber of Deputies",
-    "house_item_id": "Q3014316",
-    "position_item_id": "Q18534310",
-    "terms": [
-      {
-        "comment": "LXIV Legislature of the Mexican Congress",
-        "term_item_id": "Q56153246"
-      }
-    ]
-  },
-  {
     "comment": "Congress of Durango",
     "house_item_id": "Q20014631",
+    "seat_count": "25",
+    "area_id": "Q79918",
     "position_item_id": "Q53544355",
     "terms": [
       {
         "comment": "LXVII Legislature Durango",
-        "term_item_id": "Q53546041"
+        "term_item_id": "Q53546041",
+        "start_date": "2016-08-31"
       }
     ]
   },
   {
     "comment": "Congress of Veracruz",
     "house_item_id": "Q24337177",
+    "seat_count": "50",
+    "area_id": "Q60130",
     "position_item_id": "Q53544431",
     "terms": [
       {
         "comment": "LXIV Legislature of the Honorable Congress of the State of Veracruz",
-        "term_item_id": "Q53546113"
+        "term_item_id": "Q53546113",
+        "start_date": "2016-11-05"
       }
     ]
   },
   {
     "comment": "Congress of Nuevo Leon",
     "house_item_id": "Q254534",
+    "seat_count": "42",
+    "area_id": "Q15282",
     "position_item_id": "Q53544387",
     "terms": [
       {
         "comment": "LXXIV Legislature of the Honorable Congress of the State of Nuevo León",
-        "term_item_id": "Q53546067"
+        "term_item_id": "Q53546067",
+        "start_date": "2015-08-31"
+      }
+    ]
+  },
+  {
+    "comment": "Senate of the Republic",
+    "house_item_id": "Q264113",
+    "seat_count": "128",
+    "area_id": "Q96",
+    "position_item_id": "Q19971999",
+    "terms": [
+      {
+        "comment": "LXIV Legislature of the Mexican Congress",
+        "term_item_id": "Q56153246",
+        "start_date": "2018-09-01",
+        "end_date": "2021-08-31"
       }
     ]
   },
   {
     "comment": "Congress of Mexico City",
     "house_item_id": "Q2867085",
+    "seat_count": "66",
+    "area_id": "Q1489",
     "position_item_id": "Q53544340",
     "terms": [
       {
@@ -68,6 +72,8 @@
   {
     "comment": "Congress of Hidalgo",
     "house_item_id": "Q28924553",
+    "seat_count": "30",
+    "area_id": "Q80903",
     "position_item_id": "Q53544369",
     "terms": [
       {
@@ -76,403 +82,527 @@
       },
       {
         "comment": "LXIII Legislature Congress of the Free and Sovereign State of Hidalgo",
-        "term_item_id": "Q53546059"
+        "term_item_id": "Q53546059",
+        "start_date": "2016-09-05"
+      }
+    ]
+  },
+  {
+    "comment": "Chamber of Deputies",
+    "house_item_id": "Q3014316",
+    "seat_count": "500",
+    "area_id": "Q96",
+    "position_item_id": "Q18534310",
+    "terms": [
+      {
+        "comment": "LXIV Legislature of the Mexican Congress",
+        "term_item_id": "Q56153246",
+        "start_date": "2018-09-01",
+        "end_date": "2021-08-31"
       }
     ]
   },
   {
     "comment": "Congress of Baja California",
     "house_item_id": "Q5160856",
+    "seat_count": "25",
+    "area_id": "Q58731",
     "position_item_id": "Q53544328",
     "terms": [
       {
         "comment": "XXII Legislature of Baja California",
-        "term_item_id": "Q53546030"
+        "term_item_id": "Q53546030",
+        "start_date": "2016-09-30"
       }
     ]
   },
   {
     "comment": "Congress of Chiapas",
     "house_item_id": "Q5160858",
+    "seat_count": "41",
+    "area_id": "Q60123",
     "position_item_id": "Q53544336",
     "terms": [
       {
         "comment": "LXVI Legislature of the Honorable Congress of the State of Chiapas",
-        "term_item_id": "Q53546037"
+        "term_item_id": "Q53546037",
+        "start_date": "2015-10-01"
       }
     ]
   },
   {
     "comment": "Congress of Campeche",
     "house_item_id": "Q5160860",
+    "seat_count": "35",
+    "area_id": "Q80908",
     "position_item_id": "Q53544333",
     "terms": [
       {
         "comment": "LXII Legislature of the Honorable Congress of the State of Campeche",
-        "term_item_id": "Q53546032"
+        "term_item_id": "Q53546032",
+        "start_date": "2015-09-30"
       }
     ]
   },
   {
     "comment": "Congress of Coahuila",
     "house_item_id": "Q5160861",
+    "seat_count": "25",
+    "area_id": "Q53079",
     "position_item_id": "Q53544334",
     "terms": [
       {
         "comment": "LXI Legislature of the Honorable Congress of Coahuila de Zaragoza",
-        "term_item_id": "Q53546035"
+        "term_item_id": "Q53546035",
+        "start_date": "2018-01-01"
       }
     ]
   },
   {
     "comment": "Congress of Colima",
     "house_item_id": "Q5160862",
+    "seat_count": "25",
+    "area_id": "Q61309",
     "position_item_id": "Q53544335",
     "terms": [
       {
         "comment": "LVIII Legislature of the Honorable Congress of the State of Colima",
-        "term_item_id": "Q53546036"
+        "term_item_id": "Q53546036",
+        "start_date": "2015-10-01"
       }
     ]
   },
   {
     "comment": "Congress of Guanajuato",
     "house_item_id": "Q5160871",
+    "seat_count": "36",
+    "area_id": "Q46475",
     "position_item_id": "Q53544367",
     "terms": [
       {
         "comment": "LXIII Legislature Congress of the State of Guanajuato",
-        "term_item_id": "Q53546057"
+        "term_item_id": "Q53546057",
+        "start_date": "2015-09-25"
       }
     ]
   },
   {
     "comment": "Congress of Jalisco",
     "house_item_id": "Q5160874",
+    "seat_count": "39",
+    "area_id": "Q13160",
     "position_item_id": "Q53544371",
     "terms": [
       {
         "comment": "LXI Legislature Congress of the State of Jalisco",
-        "term_item_id": "Q53546060"
+        "term_item_id": "Q53546060",
+        "start_date": "2015-10-01"
       }
     ]
   },
   {
     "comment": "Congress of Michoacan",
     "house_item_id": "Q5160879",
+    "seat_count": "40",
+    "area_id": "Q79861",
     "position_item_id": "Q53544375",
     "terms": [
       {
         "comment": "LXXIII Legislature Michoacán",
-        "term_item_id": "Q53546062"
+        "term_item_id": "Q53546062",
+        "start_date": "2015-09-15"
       }
     ]
   },
   {
     "comment": "Congress of Oaxaca",
     "house_item_id": "Q5160884",
+    "seat_count": "42",
+    "area_id": "Q34110",
     "position_item_id": "Q53544396",
     "terms": [
       {
         "comment": "LXIII Legislature of the Honorable Congress of the Free and Sovereign State of Oaxaca",
-        "term_item_id": "Q53546076"
+        "term_item_id": "Q53546076",
+        "start_date": "2016-11-13"
       }
     ]
   },
   {
     "comment": "Congress of Puebla",
     "house_item_id": "Q5160887",
+    "seat_count": "41",
+    "area_id": "Q79923",
     "position_item_id": "Q53544398",
     "terms": [
       {
         "comment": "Honorable Congress of the Free and Sovereign State of Puebla LIX Legislature",
-        "term_item_id": "Q53546081"
+        "term_item_id": "Q53546081",
+        "start_date": "2014-01-15"
       }
     ]
   },
   {
     "comment": "Congress of Quintana Roo",
     "house_item_id": "Q5160888",
+    "seat_count": "25",
+    "area_id": "Q80245",
     "position_item_id": "Q53544402",
     "terms": [
       {
         "comment": "Legislative Power of the State of Quintana Roo XV Legislature",
-        "term_item_id": "Q53546085"
+        "term_item_id": "Q53546085",
+        "start_date": "2016-09-04"
       }
     ]
   },
   {
     "comment": "Congress of Sonora",
     "house_item_id": "Q5160894",
+    "seat_count": "33",
+    "area_id": "Q46422",
     "position_item_id": "Q53544408",
     "terms": [
       {
         "comment": "LXI Legislature of the Honorable Congress of the State of Sonora",
-        "term_item_id": "Q53546090"
+        "term_item_id": "Q53546090",
+        "start_date": "2015-09-16"
       }
     ]
   },
   {
     "comment": "Congress of Tabasco",
     "house_item_id": "Q5160896",
+    "seat_count": "35",
+    "area_id": "Q80914",
     "position_item_id": "Q53544410",
     "terms": [
       {
         "comment": "LXII Legislature of the Honorable Congress of the State of Tabasco",
-        "term_item_id": "Q53546093"
+        "term_item_id": "Q53546093",
+        "start_date": "2016-01-01"
       }
     ]
   },
   {
     "comment": "Congress of Tamaulipas",
     "house_item_id": "Q5160897",
+    "seat_count": "35",
+    "area_id": "Q80007",
     "position_item_id": "Q53544421",
     "terms": [
       {
         "comment": "Honorable Congress of the State of Tamaulipas LXIII Legislature",
-        "term_item_id": "Q53546094"
+        "term_item_id": "Q53546094",
+        "start_date": "2016-09-30"
       }
     ]
   },
   {
     "comment": "Congress of Zacatecas",
     "house_item_id": "Q5160905",
+    "seat_count": "30",
+    "area_id": "Q80269",
     "position_item_id": "Q53544433",
     "terms": [
       {
         "comment": "LXII Legislature State of Zacatecas",
-        "term_item_id": "Q53546116"
+        "term_item_id": "Q53546116",
+        "start_date": "2016-09-07"
       }
     ]
   },
   {
     "comment": "Congress of Yucatán",
     "house_item_id": "Q5160907",
+    "seat_count": "25",
+    "area_id": "Q60176",
     "position_item_id": "Q53544432",
     "terms": [
       {
         "comment": "Honorable Congress of the State of Yucatán LXI Legislature",
-        "term_item_id": "Q53546115"
+        "term_item_id": "Q53546115",
+        "start_date": "2015-08-31"
       }
     ]
   },
   {
     "comment": "Congress of the Estado de México",
     "house_item_id": "Q5160913",
+    "seat_count": "75",
+    "area_id": "Q82112",
     "position_item_id": "Q53544365",
     "terms": [
       {
         "comment": "LIX Legislature of the Legislative Power of the State of Mexico",
-        "term_item_id": "Q53546050"
+        "term_item_id": "Q53546050",
+        "start_date": "2015-09-05"
       }
     ]
   },
   {
     "comment": "Congress of Aguascalientes",
     "house_item_id": "Q53542909",
+    "seat_count": "27",
+    "area_id": "Q79952",
     "position_item_id": "Q53544327",
     "terms": [
       {
         "comment": "Honorable Congress of the State of Aguascalientes LXIII Legislature",
-        "term_item_id": "Q53546029"
+        "term_item_id": "Q53546029",
+        "start_date": "2016-05-06"
       }
     ]
   },
   {
     "comment": "Congress of Baja California Sur",
     "house_item_id": "Q53542913",
+    "seat_count": "21",
+    "area_id": "Q46508",
     "position_item_id": "Q53544332",
     "terms": [
       {
         "comment": "XIV Legislature of the Honorable Congress of the State of Baja California Sur",
-        "term_item_id": "Q53546031"
+        "term_item_id": "Q53546031",
+        "start_date": "2015-08-31"
       }
     ]
   },
   {
     "comment": "Congress of Nayarit",
     "house_item_id": "Q53542914",
+    "seat_count": "30",
+    "area_id": "Q79920",
     "position_item_id": "Q53544378",
     "terms": [
       {
         "comment": "Legislative Branch Nayarit XXXII Legislature",
-        "term_item_id": "Q53546065"
+        "term_item_id": "Q53546065",
+        "start_date": "2017-08-18"
       }
     ]
   },
   {
     "comment": "Congress of Queretaro",
     "house_item_id": "Q53542917",
+    "seat_count": "25",
+    "area_id": "Q79754",
     "position_item_id": "Q53544400",
     "terms": [
       {
         "comment": "LVIII Legislature Queretaro",
-        "term_item_id": "Q53546083"
+        "term_item_id": "Q53546083",
+        "start_date": "2015-09-26"
       }
     ]
   },
   {
     "comment": "Congress of San Luis Potosí",
     "house_item_id": "Q53542918",
+    "seat_count": "27",
+    "area_id": "Q78980",
     "position_item_id": "Q53544404",
     "terms": [
       {
         "comment": "LXI Legislature of the Honorable Congress of the State of San Luis Potosí",
-        "term_item_id": "Q53546087"
+        "term_item_id": "Q53546087",
+        "start_date": "2015-09-14"
       }
     ]
   },
   {
     "comment": "Congress of Tlaxcala",
     "house_item_id": "Q53542920",
+    "seat_count": "25",
+    "area_id": "Q82681",
     "position_item_id": "Q53544429",
     "terms": [
       {
         "comment": "Congress of the State of Tlaxcala LXII Legislature",
-        "term_item_id": "Q53546106"
-      }
-    ]
-  },
-  {
-    "comment": "Congress of Chihuahua",
-    "house_item_id": "Q5783176",
-    "position_item_id": "Q53544338",
-    "terms": [
-      {
-        "comment": "LXV Legislature of the Honorable Congress of the State of Chihuahua",
-        "term_item_id": "Q53546038"
-      }
-    ]
-  },
-  {
-    "comment": "Congress of Morelos",
-    "house_item_id": "Q5783178",
-    "position_item_id": "Q53544376",
-    "terms": [
-      {
-        "comment": "LXIII Legislature of the Honorable Congress of the State of Morelos",
-        "term_item_id": "Q53546064"
-      }
-    ]
-  },
-  {
-    "comment": "Congress of Sinaloa",
-    "house_item_id": "Q5783180",
-    "position_item_id": "Q53544405",
-    "terms": [
-      {
-        "comment": "LXII Legislature of the Honorable Congress of the State of Sinaloa",
-        "term_item_id": "Q53546089"
-      }
-    ]
-  },
-  {
-    "comment": "Congress of Guerrero",
-    "house_item_id": "Q610045",
-    "position_item_id": "Q53544368",
-    "terms": [
-      {
-        "comment": "LXI Legislature Congress of the Free and Sovereign State of Guerrero",
-        "term_item_id": "Q53546058"
+        "term_item_id": "Q53546106",
+        "start_date": "2016-12-30"
       }
     ]
   },
   {
     "comment": "Town Hall of Ecatepec",
     "house_item_id": "Q53547430",
+    "seat_count": "19",
+    "area_id": "Q15121208",
     "position_item_id": "Q53547721",
     "terms": [
       {
         "comment": "2015- Town Hall of Ecatepec",
-        "term_item_id": "Q53559890"
+        "term_item_id": "Q53559890",
+        "start_date": "2015-12-05"
       }
     ]
   },
   {
     "comment": "Town Hall of Tijuana",
     "house_item_id": "Q53547431",
+    "seat_count": "16",
+    "area_id": "Q2360428",
     "position_item_id": "Q53547723",
     "terms": [
       {
         "comment": "2016- Town Hall of Tijuana",
-        "term_item_id": "Q53559891"
+        "term_item_id": "Q53559891",
+        "start_date": "2016-12-01"
       }
     ]
   },
   {
     "comment": "Town Hall of Puebla",
     "house_item_id": "Q53547432",
+    "seat_count": "23",
+    "area_id": "Q7258412",
     "position_item_id": "Q53547725",
     "terms": [
       {
         "comment": "2015- Town Hall of Puebla",
-        "term_item_id": "Q53559892"
-      }
-    ]
-  },
-  {
-    "comment": "Town Hall of Leon",
-    "house_item_id": "Q53547437",
-    "position_item_id": "Q53547728",
-    "terms": [
-      {
-        "comment": "2015- Town Hall of Leon",
-        "term_item_id": "Q53559894"
-      }
-    ]
-  },
-  {
-    "comment": "Town Hall of Ciudad Juarez",
-    "house_item_id": "Q53547439",
-    "position_item_id": "Q53547729",
-    "terms": [
-      {
-        "comment": "2016- Town Hall of Ciudad Juarez",
-        "term_item_id": "Q53559895"
-      }
-    ]
-  },
-  {
-    "comment": "Town Hall of the City of Nezahualcóyotl",
-    "house_item_id": "Q53547443",
-    "position_item_id": "Q53547733",
-    "terms": [
-      {
-        "comment": "2015- Town Hall of the City of Nezahualcóyotl",
-        "term_item_id": "Q53559898"
-      }
-    ]
-  },
-  {
-    "comment": "Town Hall of Monterrey",
-    "house_item_id": "Q53547444",
-    "position_item_id": "Q53547735",
-    "terms": [
-      {
-        "comment": "2015- Town Hall of Monterrey",
-        "term_item_id": "Q53559899"
+        "term_item_id": "Q53559892",
+        "start_date": "2015-12-05"
       }
     ]
   },
   {
     "comment": "Town Hall of Guadalajara",
     "house_item_id": "Q53547435",
+    "seat_count": "20",
+    "area_id": "Q12348369",
     "position_item_id": "Q53547726",
     "terms": [
       {
         "comment": "2015- Town Hall of Guadalajara",
-        "term_item_id": "Q53559893"
+        "term_item_id": "Q53559893",
+        "start_date": "2015-12-05"
+      }
+    ]
+  },
+  {
+    "comment": "Town Hall of Leon",
+    "house_item_id": "Q53547437",
+    "seat_count": "14",
+    "area_id": "Q9022143",
+    "position_item_id": "Q53547728",
+    "terms": [
+      {
+        "comment": "2015- Town Hall of Leon",
+        "term_item_id": "Q53559894",
+        "start_date": "2015-12-05"
+      }
+    ]
+  },
+  {
+    "comment": "Town Hall of Ciudad Juarez",
+    "house_item_id": "Q53547439",
+    "seat_count": "18",
+    "area_id": "Q2557122",
+    "position_item_id": "Q53547729",
+    "terms": [
+      {
+        "comment": "2016- Town Hall of Ciudad Juarez",
+        "term_item_id": "Q53559895",
+        "start_date": "2016-12-01"
       }
     ]
   },
   {
     "comment": "Town Hall of Zapopan",
     "house_item_id": "Q53547442",
+    "seat_count": "21",
+    "area_id": "Q2143868",
     "position_item_id": "Q53547731",
     "terms": [
       {
         "comment": "2015- Town Hall of Zapopan",
-        "term_item_id": "Q53559896"
+        "term_item_id": "Q53559896",
+        "start_date": "2015-12-05"
+      }
+    ]
+  },
+  {
+    "comment": "Town Hall of the City of Nezahualcóyotl",
+    "house_item_id": "Q53547443",
+    "seat_count": "20",
+    "area_id": "Q3313478",
+    "position_item_id": "Q53547733",
+    "terms": [
+      {
+        "comment": "2015- Town Hall of the City of Nezahualcóyotl",
+        "term_item_id": "Q53559898",
+        "start_date": "2015-12-05"
+      }
+    ]
+  },
+  {
+    "comment": "Town Hall of Monterrey",
+    "house_item_id": "Q53547444",
+    "seat_count": "29",
+    "area_id": "Q6905368",
+    "position_item_id": "Q53547735",
+    "terms": [
+      {
+        "comment": "2015- Town Hall of Monterrey",
+        "term_item_id": "Q53559899",
+        "start_date": "2015-12-05"
+      }
+    ]
+  },
+  {
+    "comment": "Congress of Chihuahua",
+    "house_item_id": "Q5783176",
+    "seat_count": "33",
+    "area_id": "Q655",
+    "position_item_id": "Q53544338",
+    "terms": [
+      {
+        "comment": "LXV Legislature of the Honorable Congress of the State of Chihuahua",
+        "term_item_id": "Q53546038",
+        "start_date": "2016-10-01"
+      }
+    ]
+  },
+  {
+    "comment": "Congress of Morelos",
+    "house_item_id": "Q5783178",
+    "seat_count": "30",
+    "area_id": "Q66117",
+    "position_item_id": "Q53544376",
+    "terms": [
+      {
+        "comment": "LXIII Legislature of the Honorable Congress of the State of Morelos",
+        "term_item_id": "Q53546064",
+        "start_date": "2015-08-29"
+      }
+    ]
+  },
+  {
+    "comment": "Congress of Sinaloa",
+    "house_item_id": "Q5783180",
+    "seat_count": "40",
+    "area_id": "Q80252",
+    "position_item_id": "Q53544405",
+    "terms": [
+      {
+        "comment": "LXII Legislature of the Honorable Congress of the State of Sinaloa",
+        "term_item_id": "Q53546089",
+        "start_date": "2016-10-01"
+      }
+    ]
+  },
+  {
+    "comment": "Congress of Guerrero",
+    "house_item_id": "Q610045",
+    "seat_count": "46",
+    "area_id": "Q60158",
+    "position_item_id": "Q53544368",
+    "terms": [
+      {
+        "comment": "LXI Legislature Congress of the Free and Sovereign State of Guerrero",
+        "term_item_id": "Q53546058",
+        "start_date": "2015-09-13"
       }
     ]
   }
